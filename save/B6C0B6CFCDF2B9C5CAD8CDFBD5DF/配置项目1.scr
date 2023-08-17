@@ -1,6 +1,6 @@
 [tobot]
 tobot_script_name='守望者日常'
-tobot_script_index=14
+tobot_script_index=15
 tobot_script_0_0='中午领取温泉蛋(男)'
 tobot_script_1_0=5
 tobot_script_2_0=-2
@@ -85,8 +85,8 @@ tobot_script_2_13=-2
 tobot_script_3_13=-2
 tobot_script_collectId_13=0
 tobot_script_setting_13=0
-tobot_script_0_14='夜晚领取温泉蛋(男)'
-tobot_script_1_14=5
+tobot_script_0_14='自动完成竞技场获胜任务'
+tobot_script_1_14=1
 tobot_script_2_14=-2
 tobot_script_3_14=-2
 tobot_script_collectId_14=0
