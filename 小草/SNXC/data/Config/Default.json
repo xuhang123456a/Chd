@@ -52,6 +52,7 @@
 	"item_pick_2":	false,
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
+	"item_pick_filter_10":	false,
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
@@ -59,6 +60,7 @@
 	"item_pick_filter_6":	false,
 	"item_pick_filter_7":	false,
 	"item_pick_filter_8":	false,
+	"item_pick_filter_9":	false,
 	"item_pick_sw":	false,
 	"item_throw_1":	false,
 	"item_throw_1_sw":	false,
@@ -68,8 +70,6 @@
 	"item_throw_3_sw":	false,
 	"item_throw_4_sw":	false,
 	"item_throw_lock_1":	false,
-	"item_throw_lock_2":	false,
-	"item_throw_lock_3":	false,
 	"item_throw_pass_1":	false,
 	"item_throw_pass_2":	false,
 	"item_throw_pass_3":	false,
@@ -154,10 +154,10 @@
 	"script_changemap":	false,
 	"script_jump":	true,
 	"script_monster":	false,
-	"script_move_fix_sw":	true,
 	"script_sw":	true,
 	"skill_buff_no_monster":	false,
 	"skill_buff_online_sw":	false,
+	"skill_buff_pet_fb":	false,
 	"skill_buff_pet_monster_sw":	true,
 	"skill_buff_pet_sw":	false,
 	"skill_buff_server":	false,
@@ -247,8 +247,7 @@
 	"main_mob_trap_x":	64,
 	"msg_speak_time":	10,
 	"script_monster_x":	350,
-	"script_move_fix":	8,
-	"script_x":	80,
+	"script_x":	40,
 	"script_y":	25,
 	"team_follow_removing":	150,
 	"team_follow_x":	3000,
@@ -2450,6 +2449,76 @@
 			"diyawaken":	""
 		}, {
 			"id":	2003018,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001167,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001174,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001182,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001186,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001189,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001192,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001196,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001199,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001202,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001207,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
