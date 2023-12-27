@@ -4,9 +4,9 @@
 	"auto_card_open_sw":	true,
 	"auto_end_item":	false,
 	"auto_end_lua":	false,
-	"auto_end_plan":	true,
-	"auto_end_team":	false,
-	"auto_load_change":	false,
+	"auto_end_plan":	false,
+	"auto_end_team":	true,
+	"auto_load_change":	true,
 	"auto_load_kcb":	true,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
@@ -14,14 +14,14 @@
 	"auto_log_file_sw":	true,
 	"auto_login_end":	false,
 	"auto_set_boss_deliver":	false,
-	"auto_set_boss_hp":	false,
+	"auto_set_boss_hp":	true,
 	"auto_set_boss_hp_team":	false,
 	"auto_set_boss_team":	true,
-	"auto_set_deliver_time":	false,
+	"auto_set_deliver_time":	true,
 	"auto_set_fly":	false,
-	"auto_set_revive":	false,
-	"auto_set_reviveall":	false,
-	"auto_set_taskout":	false,
+	"auto_set_revive":	true,
+	"auto_set_reviveall":	true,
+	"auto_set_taskout":	true,
 	"auto_task_book_refresh":	false,
 	"auto_task_sw1":	false,
 	"auto_task_sw2":	false,
@@ -36,51 +36,51 @@
 	"automatic_master_1":	false,
 	"automatic_master_2":	false,
 	"automatic_ml":	true,
-	"automatic_monter_book":	false,
+	"automatic_monter_book":	true,
 	"automatic_phb":	false,
 	"automatic_schedule":	true,
-	"automatic_skill_update_entrepot":	true,
-	"automatic_skill_update_sw":	true,
+	"automatic_skill_update_entrepot":	false,
+	"automatic_skill_update_sw":	false,
 	"automatic_subjoin_cwzx":	true,
 	"guild_diplomacy_only":	false,
-	"guild_tribute_sw":	false,
+	"guild_tribute_sw":	true,
 	"item_buff_check":	true,
 	"item_buff_indun":	false,
 	"item_buff_sw":	true,
-	"item_disassemble_item_sw":	false,
-	"item_pick_1":	false,
-	"item_pick_2":	false,
-	"item_pick_3":	false,
+	"item_disassemble_item_sw":	true,
+	"item_pick_1":	true,
+	"item_pick_2":	true,
+	"item_pick_3":	true,
 	"item_pick_filter_1":	false,
+	"item_pick_filter_10":	false,
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
 	"item_pick_filter_5":	true,
 	"item_pick_filter_6":	true,
 	"item_pick_filter_7":	true,
-	"item_pick_filter_8":	false,
+	"item_pick_filter_8":	true,
+	"item_pick_filter_9":	false,
 	"item_pick_sw":	true,
-	"item_throw_1":	false,
-	"item_throw_1_sw":	false,
-	"item_throw_2":	false,
-	"item_throw_2_sw":	false,
-	"item_throw_3":	false,
-	"item_throw_3_sw":	false,
-	"item_throw_4_sw":	false,
-	"item_throw_lock_1":	false,
-	"item_throw_lock_2":	false,
-	"item_throw_lock_3":	false,
+	"item_throw_1":	true,
+	"item_throw_1_sw":	true,
+	"item_throw_2":	true,
+	"item_throw_2_sw":	true,
+	"item_throw_3":	true,
+	"item_throw_3_sw":	true,
+	"item_throw_4_sw":	true,
+	"item_throw_lock_1":	true,
 	"item_throw_pass_1":	false,
 	"item_throw_pass_2":	false,
 	"item_throw_pass_3":	false,
 	"item_throw_pass_4":	false,
 	"item_throw_pass_5":	false,
 	"item_throw_sell":	false,
-	"item_throw_sw1":	false,
-	"item_throw_sw2":	false,
+	"item_throw_sw1":	true,
+	"item_throw_sw2":	true,
 	"item_use_sort":	true,
 	"item_use_sw":	true,
-	"login_rest":	true,
+	"login_rest":	false,
 	"login_sw":	true,
 	"main_mob_attack_sw":	false,
 	"main_mob_back":	false,
@@ -97,19 +97,19 @@
 	"main_mob_noattck_hide":	true,
 	"main_mob_noattck_show":	false,
 	"main_mob_other_sw":	false,
-	"main_mob_trap_sw":	false,
+	"main_mob_trap_sw":	true,
 	"memory_debris_time":	true,
-	"mouse_rest":	true,
-	"mouse_time":	false,
-	"mouse_track":	false,
+	"mouse_rest":	false,
+	"mouse_time":	true,
+	"mouse_track":	true,
 	"msg_log_file":	false,
 	"msg_log_filter":	true,
 	"msg_log_sw1":	true,
-	"msg_log_sw2":	false,
-	"msg_log_sw3":	false,
+	"msg_log_sw2":	true,
+	"msg_log_sw3":	true,
 	"msg_log_sw4":	true,
 	"msg_log_sw5":	true,
-	"msg_log_sw6":	false,
+	"msg_log_sw6":	true,
 	"msg_speak_sw":	false,
 	"other_debug":	false,
 	"other_passprint":	false,
@@ -119,12 +119,12 @@
 	"path_hide_background_sw":	false,
 	"path_hide_effect_sw":	false,
 	"path_line_boss_sw":	false,
-	"path_line_deliver_sw":	false,
+	"path_line_deliver_sw":	true,
 	"path_line_exchange_back_sw":	false,
 	"path_line_exchange_sw":	false,
 	"path_line_itemtime_sw":	false,
 	"path_line_name_sw":	false,
-	"path_line_settings_sw":	false,
+	"path_line_settings_sw":	true,
 	"path_line_team_sw":	true,
 	"path_script_picture_sw1":	false,
 	"path_script_picture_sw2":	false,
@@ -133,100 +133,100 @@
 	"path_subjoin_htyh":	false,
 	"path_subjoin_ksqp":	false,
 	"path_subjoin_msxj":	true,
-	"path_subjoin_msxj_msg":	false,
+	"path_subjoin_msxj_msg":	true,
 	"path_subjoin_pbds":	false,
-	"path_subjoin_shjn":	false,
+	"path_subjoin_shjn":	true,
 	"path_subjoin_shtx":	false,
-	"path_subjoin_tyjn":	false,
+	"path_subjoin_tyjn":	true,
 	"path_subjoin_xsyc":	false,
 	"path_subjoin_ycwj":	false,
 	"path_subjoin_zxyc":	false,
 	"protect_skill_syncope_1":	true,
 	"protect_skill_syncope_2":	false,
 	"protect_sw":	true,
-	"revive_print":	true,
+	"revive_print":	false,
 	"revive_situ_buff":	true,
 	"revive_sw1":	true,
 	"revive_sw2":	true,
 	"revive_talisman":	false,
 	"run_log_file":	false,
-	"run_log_sw":	true,
-	"script_changemap":	false,
+	"run_log_sw":	false,
+	"script_changemap":	true,
 	"script_jump":	true,
 	"script_monster":	true,
-	"script_move_fix_sw":	true,
 	"script_sw":	true,
 	"skill_buff_no_monster":	true,
 	"skill_buff_online_sw":	false,
+	"skill_buff_pet_fb":	false,
 	"skill_buff_pet_monster_sw":	true,
 	"skill_buff_pet_sw":	true,
 	"skill_buff_server":	false,
 	"skill_option_boss_judge":	false,
 	"skill_option_boss_number":	true,
 	"skill_option_combo_off":	false,
-	"skill_option_jump_off1":	true,
+	"skill_option_jump_off1":	false,
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	true,
-	"skill_option_lr_boss":	true,
+	"skill_option_lr_boss":	false,
 	"skill_option_next_skill":	false,
 	"skill_option_platform_skill":	false,
-	"skill_option_repeat_skill":	true,
+	"skill_option_repeat_skill":	false,
 	"skill_option_slide_off":	false,
 	"skill_option_sombra":	false,
 	"skill_option_stop_skill":	false,
 	"skill_shake_sw":	false,
 	"skill_silent_sw":	true,
-	"summon_automatic_priority_sw":	false,
-	"summon_automatic_up_sw":	false,
+	"summon_automatic_priority_sw":	true,
+	"summon_automatic_up_sw":	true,
 	"summon_automatic_zhs":	true,
-	"team_accept_cmd_sw":	false,
-	"team_accept_sw":	false,
+	"team_accept_cmd_sw":	true,
+	"team_accept_sw":	true,
 	"team_follow_sw":	false,
 	"team_monitor_sw":	false,
 	"team_monitor_throw_sw":	false,
-	"trigger_timer_only":	true,
-	"trigger_timer_warn":	true,
+	"trigger_timer_only":	false,
+	"trigger_timer_warn":	false,
 	"auto_end_item_val":	"",
-	"auto_end_lua_val":	"执行自动切换角色.lua",
+	"auto_end_lua_val":	"",
 	"auto_load_team_val":	"",
 	"auto_team_dream_room_name":	"",
 	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"",
 	"auto_team_room_namelist":	"",
-	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;",
-	"hotkey_end":	"F8",
+	"guild_tribute_items":	"大师活力水滴;智之石;初级活力水滴;中级冒险家情报卷轴;高级冒险家情报卷轴;智之石碎片;闪闪发光的宝箱;达人冒险家情报卷轴;初级冒险家情报卷轴;",
+	"hotkey_end":	"F5",
 	"hotkey_end_mouse":	"",
-	"hotkey_end_playmouse":	"Del",
+	"hotkey_end_playmouse":	"",
 	"hotkey_hide_game":	"",
 	"hotkey_hide_ui":	"F12",
-	"hotkey_start":	"F9",
+	"hotkey_start":	"F4",
 	"hotkey_start_mouse":	"",
-	"hotkey_start_playmouse":	"Ins",
+	"hotkey_start_playmouse":	"",
 	"main_mob_attack_name":	"",
 	"main_mob_friend_name":	"",
 	"main_mob_other_name":	"",
 	"main_mob_trap_name":	"",
 	"path_down_hotkey":	"Down",
 	"script_directory":	"|默认目录|",
-	"team_accept_cmd":	"",
+	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	5,
+	"auto_load_wait_val":	3,
 	"auto_set_boss_deliver_val":	3,
-	"auto_set_boss_hp_sleep":	2,
-	"auto_set_boss_hp_val":	99,
-	"auto_set_boss_team_val":	2,
-	"auto_set_deliver_time_val":	15,
+	"auto_set_boss_hp_sleep":	3,
+	"auto_set_boss_hp_val":	50,
+	"auto_set_boss_team_val":	7,
+	"auto_set_deliver_time_val":	7,
 	"auto_set_fly_val":	5,
 	"auto_set_revive_val":	10,
-	"auto_set_reviveall_val":	50,
+	"auto_set_reviveall_val":	10,
 	"auto_task_book_num":	3,
 	"auto_task_book_time1":	0,
 	"auto_task_book_time2":	30,
 	"auto_team_room_playercount":	4,
-	"guild_diplomacy_min":	300,
-	"item_disassemble_item_time":	0,
-	"item_pick_time":	0,
+	"guild_diplomacy_min":	100,
+	"item_disassemble_item_time":	1,
+	"item_pick_time":	1,
 	"item_throw_1_begin":	1,
 	"item_throw_1_end":	168,
 	"item_throw_2_begin":	1,
@@ -235,42 +235,41 @@
 	"item_throw_3_end":	168,
 	"item_throw_4_begin":	1,
 	"item_throw_4_end":	168,
-	"item_throw_time":	0,
-	"item_use_time":	150,
-	"main_mob_bottom":	200,
+	"item_throw_time":	2,
+	"item_use_time":	0,
+	"main_mob_bottom":	60,
 	"main_mob_distance_max":	30,
 	"main_mob_distance_min":	30,
 	"main_mob_location_l":	32,
 	"main_mob_location_r":	99999,
-	"main_mob_lr":	1600,
-	"main_mob_top":	180,
+	"main_mob_lr":	1200,
+	"main_mob_top":	90,
 	"main_mob_trap_x":	64,
 	"msg_speak_time":	10,
 	"script_monster_x":	350,
-	"script_move_fix":	30,
-	"script_x":	60,
+	"script_x":	80,
 	"script_y":	25,
 	"team_follow_removing":	150,
 	"team_follow_x":	3000,
 	"team_follow_y":	300,
-	"trigger_timer_sleep":	20,
-	"auto_end_plan_val":	1,
+	"trigger_timer_sleep":	720,
+	"auto_end_plan_val":	-1,
 	"auto_login_end_val":	0,
-	"auto_set_boss_hp_show":	0,
-	"auto_set_boss_hp_type":	0,
+	"auto_set_boss_hp_show":	1,
+	"auto_set_boss_hp_type":	1,
 	"automatic_zhs_time1":	3,
 	"automatic_zhs_time2":	3,
 	"automatic_zhs_time3":	3,
 	"automatic_zhs_time4":	3,
 	"automatic_zhs_time5":	3,
 	"automatic_zhs_time6":	3,
-	"config_system_type":	0,
-	"login_server1":	0,
+	"config_system_type":	1,
+	"login_server1":	1,
 	"login_server2":	7,
 	"main_mob_trap_type":	0,
 	"path_hide_effect_type":	0,
-	"path_script_picture_val2":	3,
-	"path_subjoin_shtx_type":	20,
+	"path_script_picture_val2":	0,
+	"path_subjoin_shtx_type":	0,
 	"revive_type":	2,
 	"skill_option_lr_val":	0,
 	"skill_option_platform_skill_v":	0,
@@ -291,69 +290,24 @@
 	"team_accept_allot":	2,
 	"btn_color_1":	16384000,
 	"btn_color_10":	16384000,
-	"btn_color_12":	0,
+	"btn_color_12":	16384000,
 	"btn_color_2":	16384000,
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
 	"btn_color_8":	16384000,
-	"item_filter_1":	[170442041, 705012003, 170441790],
-	"item_filter_2":	[180134540, 190081001, 190081002, 165100501, 611110370, 611110380, 120143001, 60143001, 100143001, 430101712, 430101713, 300190028, 18126662, 18126661, 180134587, 180134585, 180134586, 180134968, 180134498, 180134336, 180134337, 190144078, 190144081, 190144079, 190144080, 190145711, 190145710, 190145709, 611111318, 743810105, 190144963, 190144965, 42081001, 180134325, 611121104, 611121106, 611110391, 190144590, 190144591, 190144592, 190144593, 190144594],
+	"item_filter_1":	[],
+	"item_filter_2":	[190147424, 190147423, 190147422, 190147421, 190147332, 190147333, 190147331, 190147329, 40114401, 60114401, 100114401, 110114401, 120114401, 160203601],
 	"item_filter_3":	[],
-	"item_filter_4":	[20200440, 20200447, 20200425, 160291180, 160291130],
+	"item_filter_4":	[],
 	"item_use_data":	[{
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"35"
+				"HP<=%":	"75"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"★ 大型葡萄药丸"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"45"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"极品紫色大药罐"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"50"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"索拉城 复合 药水"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"55"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"索拉城 体力 药水"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"60"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"彩虹岛可乐"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"65"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"勇者小型复合药水"
+			"item":	"蚯梨膏pro"
 		}, {
 			"sw":	true,
 			"Judge1":	{
@@ -366,550 +320,206 @@
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"75"
+				"HP<=%":	"60"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"蚯梨膏"
+			"item":	"勇者小型复合药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"50"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"索拉城 体力 药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"35"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"彩虹岛可乐"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"20"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 大型葡萄药丸"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"10"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"索拉城 复合 药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"5"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 小型樱桃药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"RP值<=":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级人品能量剂"
 		}],
 	"protec_data":	[{
+			"sw":	true,
+			"type":	"使用技能",
+			"id":	5001604,
+			"name":	"紧急脱险",
+			"judge":	[{
+					"被晕厥":	""
+				}],
+			"reverse":	false
+		}, {
 			"sw":	true,
 			"type":	"执行操作",
 			"id":	0,
 			"name":	"上跳跃",
 			"judge":	[{
 					"被沉默":	""
-				}, {
-					"不在地图":	"挑战！保护天使*"
+				}],
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"type":	"使用技能",
+			"id":	1759103,
+			"name":	"移根换叶",
+			"judge":	[{
+					"被僵直":	""
+				}],
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"type":	"使用技能",
+			"id":	3120060,
+			"name":	"向后传送",
+			"judge":	[{
+					"被僵直":	""
 				}],
 			"reverse":	false
 		}],
 	"protec_recover_data":	{
 	},
 	"item_buff_data":	[{
-			"sw":	false,
-			"type":	"物品",
-			"name":	"希望的减伤药水",
-			"maps":	[],
-			"induns":	["精灵树桩", "生命之恩泰莱凯", "奈落·冰封雪域", "奈落·破坏之城", "奈落·冰淇淋庭院", "奈落·珊瑚之歌", "奈落·蛇龙之巢", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "未知森林", "卡伊洛斯的时间", "克洛诺斯的时间", "炼狱阿兹雷尔", "巴尼塔斯", "哈姆克公爵府", "圣字教堂", "阿科洛之棺", "心脏的记忆", "回声泉", "冰狱", "龙猫妹妹庭院", "盟约圣地", "希列", "傀儡牢狱", "武林大会", "玫瑰庭院", "幻之摇篮", "八卦阵赛场", "忘却湖畔", "虚无之星", "山海归墟", "卡夫卡剧场", "梦境奥涅伊鲁", "魔力防空洞", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙", "欧若拉庭院", "魔法修炼馆", "神笔画卷", "神树拉菲尔", "龙之峡谷", "星之伊甸", "水下培养皿", "燥热键盘", "奈落之屋", "超能者纪念馆", "阿玛伦宝库", "冰封雪域", "混沌峡谷", "幻影毒雾沼泽", "浮游岛", "宝石丛林"]
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"翅膀技[神·圣灵之拥]",
-			"maps":	["无"],
-			"induns":	["克洛诺斯的时间"]
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"翅膀技[魔·冥界之翼]",
-			"maps":	["无"],
-			"induns":	["克洛诺斯的时间"]
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:龙猫理查",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林"]
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:尤里亚"
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:缇尔沃特"
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:贝尔特利切"
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:伊雷泽"
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:卡勒迪安"
-		}, {
-			"sw":	false,
-			"type":	"外交",
-			"name":	"艾利娅斯-小四",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间"]
-		}, {
-			"sw":	false,
-			"type":	"物品",
-			"name":	"经验值的秘药 500%(不可交易)",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙", "欧若拉庭院"]
-		}, {
-			"sw":	false,
-			"type":	"物品",
-			"name":	"回忆の沙漏",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间"]
-		}, {
-			"sw":	false,
-			"type":	"物品",
-			"name":	"经验值糖浆",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间"]
-		}, {
-			"sw":	false,
+			"sw":	true,
 			"type":	"物品",
 			"name":	"小四的祝福(不可交易)",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间"]
+			"induns":	["克洛诺斯的时间", "心脏的记忆"]
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"type":	"物品",
-			"name":	"百分考卷",
-			"maps":	[],
+			"name":	"经验值的秘药 500%(不可交易)",
+			"induns":	["克洛诺斯的时间", "心脏的记忆"]
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"回忆の沙漏",
 			"induns":	["克洛诺斯的时间"]
 		}, {
-			"sw":	false,
+			"sw":	true,
+			"type":	"物品",
+			"name":	"高级温泉蛋",
+			"induns":	["克洛诺斯的时间"]
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"温泉蛋",
+			"induns":	["克洛诺斯的时间"]
+		}, {
+			"sw":	true,
 			"type":	"操作",
 			"name":	"课程:使用七彩玲珑",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙"]
+			"induns":	["克洛诺斯的时间"]
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"希望的减伤药水",
+			"induns":	["精灵树桩", "生命之恩泰莱凯", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "未知森林", "卡伊洛斯的时间", "炼狱阿兹雷尔", "巴尼塔斯", "哈姆克公爵府", "圣字教堂", "阿科洛之棺"]
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"小型伤害吸收红剂",
+			"induns":	["精灵树桩", "生命之恩泰莱凯", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "未知森林", "卡伊洛斯的时间", "炼狱阿兹雷尔", "巴尼塔斯", "哈姆克公爵府", "圣字教堂", "阿科洛之棺", "回声泉", "冰狱", "克洛诺斯的时间", "心脏的记忆", "玫瑰庭院", "幻之摇篮"]
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"血脉战魂:召唤",
+			"induns":	["精灵树桩", "生命之恩泰莱凯", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "未知森林", "卡伊洛斯的时间", "炼狱阿兹雷尔", "巴尼塔斯", "哈姆克公爵府", "圣字教堂", "阿科洛之棺", "回声泉", "冰狱", "克洛诺斯的时间", "心脏的记忆", "玫瑰庭院", "幻之摇篮"]
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:卡勒迪安",
+			"induns":	["精灵树桩", "生命之恩泰莱凯", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "未知森林", "卡伊洛斯的时间", "炼狱阿兹雷尔", "巴尼塔斯", "哈姆克公爵府", "圣字教堂", "阿科洛之棺", "回声泉", "冰狱", "克洛诺斯的时间", "心脏的记忆", "玫瑰庭院", "幻之摇篮"]
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:伊雷泽",
+			"induns":	["精灵树桩", "生命之恩泰莱凯", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "未知森林", "卡伊洛斯的时间", "炼狱阿兹雷尔", "巴尼塔斯", "哈姆克公爵府", "圣字教堂", "阿科洛之棺", "回声泉", "冰狱", "克洛诺斯的时间", "心脏的记忆", "玫瑰庭院", "幻之摇篮"]
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:缇尔沃特",
+			"induns":	["精灵树桩", "生命之恩泰莱凯", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "未知森林", "卡伊洛斯的时间", "炼狱阿兹雷尔", "巴尼塔斯", "哈姆克公爵府", "圣字教堂", "阿科洛之棺", "回声泉", "冰狱", "克洛诺斯的时间", "心脏的记忆", "玫瑰庭院", "幻之摇篮"]
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:贝尔特利切",
+			"induns":	["精灵树桩", "生命之恩泰莱凯", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "未知森林", "卡伊洛斯的时间", "炼狱阿兹雷尔", "巴尼塔斯", "哈姆克公爵府", "圣字教堂", "阿科洛之棺", "回声泉", "冰狱", "克洛诺斯的时间", "心脏的记忆", "玫瑰庭院", "幻之摇篮"]
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:龙猫理查",
+			"induns":	["克洛诺斯的时间", "心脏的记忆"]
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:尤里亚",
+			"induns":	["精灵树桩", "生命之恩泰莱凯", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "未知森林", "卡伊洛斯的时间", "炼狱阿兹雷尔", "巴尼塔斯", "哈姆克公爵府", "圣字教堂", "阿科洛之棺", "回声泉", "冰狱", "克洛诺斯的时间", "心脏的记忆", "玫瑰庭院", "幻之摇篮"]
+		}, {
+			"sw":	true,
+			"type":	"外交",
+			"name":	"艾利娅斯-小四",
+			"induns":	["克洛诺斯的时间"]
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"翅膀技[神·圣灵之拥]",
+			"induns":	["克洛诺斯的时间"]
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"翅膀技[魔·冥界之翼]",
+			"induns":	["克洛诺斯的时间"]
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"课程:强力戒指(3小时)",
+			"induns":	["克洛诺斯的时间"]
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	3820001,
-			"name":	"魔法球板",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	false,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"愤怒姿势_90000910"
-				}],
-			"num":	5,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	1760102,
-			"name":	"斧钺之诛",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"愤怒姿势_90000910"
-				}],
-			"num":	0,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	1759106,
-			"name":	"气冲牛斗",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"愤怒姿势_90000910"
-				}],
-			"num":	0,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	1759107,
-			"name":	"日月入怀",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"愤怒姿势_90000910"
-				}],
-			"num":	0,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	1759105,
-			"name":	"四分五裂",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"愤怒姿势_90000910"
-				}],
-			"num":	0,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	3816004,
-			"name":	"【觉醒II】",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	false,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"愤怒姿势_90000910"
-				}],
-			"num":	3,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	3806004,
-			"name":	"【觉醒】",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	false,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"愤怒姿势_90000910"
-				}],
-			"num":	3,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	1802421,
-			"name":	"[无限]叨天之幸",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	false,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"愤怒姿势_90000910"
-				}],
-			"num":	0,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	1759109,
-			"name":	"信仰之心",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	false,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"愤怒姿势_90000910"
-				}],
-			"num":	0,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
 			"id":	3806007,
 			"name":	"【传奇】",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"愤怒姿势_90000910"
-				}],
-			"num":	5,
-			"grade":	"[无]"
-		}, {
-			"sw":	false,
-			"id":	3816007,
-			"name":	"【传奇II】",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"愤怒姿势_90000910"
-				}],
-			"num":	5,
-			"grade":	"[无]"
-		}, {
-			"sw":	false,
-			"id":	3606002,
-			"name":	"有毒圣杯",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"愤怒姿势_90000910"
-				}],
-			"num":	0,
-			"grade":	"首领"
-		}, {
-			"sw":	true,
-			"id":	3820001,
-			"name":	"魔法球板",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"神圣姿势_90000911"
-				}],
-			"num":	5,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	1759106,
-			"name":	"气冲牛斗",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"神圣姿势_90000911"
-				}],
-			"num":	0,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	1759108,
-			"name":	"雾集云合",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"神圣姿势_90000911"
-				}],
-			"num":	0,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	1759107,
-			"name":	"日月入怀",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"神圣姿势_90000911"
-				}],
-			"num":	0,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	1759109,
-			"name":	"信仰之心",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	false,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"神圣姿势_90000911"
-				}],
-			"num":	0,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	1760101,
-			"name":	"分崩离析",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	false,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"神圣姿势_90000911"
-				}],
-			"num":	0,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	1759105,
-			"name":	"四分五裂",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"神圣姿势_90000911"
-				}],
-			"num":	0,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	1802421,
-			"name":	"[无限]叨天之幸",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"神圣姿势_90000911"
-				}],
-			"num":	0,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	3806004,
-			"name":	"【觉醒】",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"神圣姿势_90000911"
-				}],
-			"num":	3,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	3816004,
-			"name":	"【觉醒II】",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"神圣姿势_90000911"
-				}],
-			"num":	3,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	1760102,
-			"name":	"斧钺之诛",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"神圣姿势_90000911"
-				}],
-			"num":	0,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	1759103,
-			"name":	"移根换叶",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	false,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"神圣姿势_90000911"
-				}],
-			"num":	0,
-			"grade":	"[无]"
-		}, {
-			"sw":	true,
-			"id":	3806007,
-			"name":	"【传奇】",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"神圣姿势_90000911"
-				}],
-			"num":	5,
-			"grade":	"[无]"
-		}, {
-			"sw":	false,
-			"id":	3816007,
-			"name":	"【传奇II】",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"神圣姿势_90000911"
-				}],
-			"num":	5,
-			"grade":	"[无]"
-		}, {
-			"sw":	false,
-			"id":	3606002,
-			"name":	"有毒圣杯",
-			"dmin":	0,
-			"dmax":	360,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"拥有BUFF":	"神圣姿势_90000911"
-				}],
-			"num":	0,
-			"grade":	"首领"
-		}, {
-			"sw":	true,
-			"id":	2,
-			"name":	"强攻击",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -917,25 +527,202 @@
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
-			"judge":	[{
-					"在地图":	"珊瑚森林 2_30401;"
-				}],
-			"num":	0,
-			"grade":	"[无]"
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3820001,
+			"name":	"魔法球板",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1760102,
+			"name":	"斧钺之诛",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1759106,
+			"name":	"气冲牛斗",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1759107,
+			"name":	"日月入怀",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1759105,
+			"name":	"四分五裂",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1759103,
+			"name":	"移根换叶",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3806004,
+			"name":	"【觉醒】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3816004,
+			"name":	"【觉醒II】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1759108,
+			"name":	"雾集云合",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1760101,
+			"name":	"分崩离析",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1802421,
+			"name":	"[无限]叨天之幸",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1759109,
+			"name":	"信仰之心",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3606002,
+			"name":	"有毒圣杯",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
 		}],
-	"skill_buff_data":	[],
+	"skill_buff_data":	[{
+			"sw":	true,
+			"id":	3816006,
+			"name":	"【生存本能】",
+			"judge":	[],
+			"sleep":	0,
+			"auto":	true
+		}, {
+			"sw":	true,
+			"id":	5000941,
+			"name":	"[特殊]神之使者",
+			"judge":	[],
+			"sleep":	0,
+			"auto":	true
+		}],
 	"speak_data":	[],
 	"skill_hotkey_data":	[],
 	"team_list_data":	[],
 	"script_point_data":	[],
 	"script_trigger_data":	[],
-	"summon_data":	[201901181, 201901182, 201901183, 201901184, 201901185, 201901186],
+	"summon_data":	[190145624, 190145625, 201901181, 201901182, 201901183, 201901186, 201901189],
 	"line_monster_data":	[],
 	"item_filter_pick_data_1":	[],
-	"item_filter_pick_data_2":	[{
-			"type":	"其他",
-			"name":	"萨尔加德"
-		}],
+	"item_filter_pick_data_2":	[],
 	"item_filter_throw_data_1":	[],
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
@@ -1379,7 +1166,7 @@
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	true
+			"item3":	false
 		}, {
 			"id":	338,
 			"num1":	0,
@@ -1761,14 +1548,14 @@
 			"diyawaken":	""
 		}, {
 			"id":	100038,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100039,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
@@ -2272,77 +2059,77 @@
 			"diyawaken":	""
 		}, {
 			"id":	2001001,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001002,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001003,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001004,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001005,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001006,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001009,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001010,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001011,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001012,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001013,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
@@ -2363,336 +2150,336 @@
 			"diyawaken":	""
 		}, {
 			"id":	2001019,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001020,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001021,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001022,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001023,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001024,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001029,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001030,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001031,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001033,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001034,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001035,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001036,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001037,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001038,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001040,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001041,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001042,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001043,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001044,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001045,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001046,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001047,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001048,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001049,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001050,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001054,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001055,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001056,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001057,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001058,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001059,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001060,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001061,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001062,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001063,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001064,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001065,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001066,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001067,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001069,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001070,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001072,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001073,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001080,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001081,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001082,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001083,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
@@ -2706,329 +2493,329 @@
 			"diyawaken":	""
 		}, {
 			"id":	2001085,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001086,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001087,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001088,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001089,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001092,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001094,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001095,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001096,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001097,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001098,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001099,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001104,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001105,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001106,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001107,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001108,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001110,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001111,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001112,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001113,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001114,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001115,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001116,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001117,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001118,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001120,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001121,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001122,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001123,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001124,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001125,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001126,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001127,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001128,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001129,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001130,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001131,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001132,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001133,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001137,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001138,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001139,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001140,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001141,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001142,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	2001143,
-			"sw":	true,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
@@ -3075,121 +2862,363 @@
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
+		}, {
+			"id":	2001167,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001169,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001172,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001174,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001182,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001186,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001189,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001192,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001196,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001199,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001202,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001207,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
 		}],
 	"auto_file":	[],
 	"trigger":	[{
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
-				"收到密语":	"* 666"
+				"收到密语":	"* 123"
 			},
 			"judge":	[],
 			"execute":	{
 				"邀请组队":	"[%1]"
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
-				"到达地图":	"上京城市"
+				"收到密语":	"* 组队"
 			},
 			"judge":	[],
 			"execute":	{
-				"宏指令":	"/一键换装 攻击套装"
+				"邀请组队":	"[%1]"
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
-				"指定时间":	"00:07"
+				"指定时间":	"23:59"
+			},
+			"judge":	[],
+			"execute":	{
+				"挂机控制":	"0"
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"指定时间":	"23:59"
+			},
+			"judge":	[],
+			"execute":	{
+				"使用物品":	"艾丽娅斯传送石"
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"指定时间":	"00:01"
+			},
+			"judge":	[],
+			"execute":	{
+				"退出到频道":	""
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"指定时间":	"00:02"
+			},
+			"judge":	[],
+			"execute":	{
+				"更改自动脚本":	"每日"
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"指定时间":	"00:02"
 			},
 			"judge":	[],
 			"execute":	{
 				"挂机控制":	"1"
 			}
-		}, {
-			"sw":	false,
-			"tigger":	{
-				"收到密语":	"* 关闭游戏"
-			},
-			"judge":	[],
-			"execute":	{
-				"关闭游戏":	"[无]"
-			}
-		}, {
-			"sw":	false,
-			"tigger":	{
-				"指定时间":	"00:06"
-			},
-			"judge":	[],
-			"execute":	{
-				"退出到角色":	""
-			}
 		}],
 	"diytrigger":	[{
-			"only_run":	true,
+			"only_run":	false,
 			"run_sleep":	1,
-			"sw":	false,
-			"name":	"超越点",
+			"sw":	true,
+			"name":	"装备切换",
 			"judges":	[],
 			"executes":	[{
 					"sw":	true,
-					"sleep":	"0",
+					"sleep":	"1",
 					"execute":	{
-						"超越搭配":	"小怪"
+						"宏指令":	"/一键换装 攻击套装"
 					},
 					"judges":	[{
-							"搜索内无首领":	""
-						}, {
-							"搜索内有怪":	""
-						}, {
-							"未中异常状态":	""
+							"在副本":	"傀儡牢狱;武林大会;幻之摇篮;八卦阵赛场;山海归墟;梦境奥涅伊鲁;魔力防空洞;忘却湖畔;希列;盟约圣地;虚无之星;魔法学院主楼;神笔画卷;普洛菲司台;霍普占卜室;炼狱阿兹雷尔;巴尼塔斯;哈姆克公爵府;圣字教堂;阿科洛之棺;回声泉;冰狱;卡夫卡剧场;"
 						}]
 				}, {
 					"sw":	true,
-					"sleep":	"0",
+					"sleep":	"1",
 					"execute":	{
-						"超越搭配":	"BOSS"
+						"宏指令":	"/一键换装 经验套装"
 					},
 					"judges":	[{
-							"搜索内有首领":	""
-						}, {
-							"未中异常状态":	""
+							"在副本":	"克洛诺斯的时间;"
 						}]
 				}, {
 					"sw":	true,
-					"sleep":	"0",
+					"sleep":	"1",
 					"execute":	{
-						"超越搭配":	"全肉"
+						"宏指令":	"/一键换装 掉落套装"
 					},
 					"judges":	[{
-							"中异常状态":	""
+							"在副本":	"入侵太空农场;保护春植园;金字塔的秘密;被感染的哎呦城;猫头鹰的神秘组织;不动心黑月城;克杜卡的咆哮;索拉城斗兽场;白色平原;世界之树;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"宏指令":	"/一键换装 攻击格挡"
+					},
+					"judges":	[{
+							"在副本":	"精灵树桩;生命之恩泰莱凯;流水回廊;艾乌加蒙剧场;深渊之镜;"
 						}]
 				}]
 		}, {
 			"only_run":	false,
-			"run_sleep":	0,
-			"sw":	false,
-			"name":	"小四100",
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"称号切换",
 			"judges":	[],
 			"executes":	[{
 					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
-						"使用物品":	"百分考卷"
+						"更换称号":	"装模作样绿茶姐"
 					},
 					"judges":	[{
-							"拥有BUFF":	"活动_6000157"
+							"在副本":	"克洛诺斯的时间;"
 						}]
 				}, {
 					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
-						"使用物品":	"小四的祝福(不可交易)"
+						"更换称号":	"守护领域掌握者"
 					},
 					"judges":	[{
-							"拥有BUFF":	"活动_6000157"
+							"在副本":	"精灵树桩;生命之恩泰莱凯;流水回廊;艾乌加蒙剧场;深渊之镜;普洛菲司台;霍普占卜室;未知森林;炼狱阿兹雷尔;巴尼塔斯;哈姆克公爵府;圣字教堂;阿科洛之棺;回声泉;冰狱;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"更换称号":	"为了卡兹诺的幸福"
+					},
+					"judges":	[{
+							"在副本":	"入侵太空农场;保护春植园;金字塔的秘密;被感染的哎呦城;猫头鹰的神秘组织;不动心黑月城;克杜卡的咆哮;索拉城斗兽场;白色平原;世界之树;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"更换称号":	"玫瑰之心"
+					},
+					"judges":	[{
+							"在副本":	"梦境奥涅伊鲁;魔力防空洞;盟约圣地;希列;傀儡牢狱;武林大会;玫瑰庭院;幻之摇篮;八卦阵赛场;忘却湖畔;虚无之星;山海归墟;卡夫卡剧场;神笔画卷;神树拉菲尔;龙之峡谷;奈落之屋;超能者纪念馆;冰封雪域;混沌峡谷;水下培养皿;燥热键盘;阿玛伦宝库;幻影毒雾沼泽;浮游岛;"
+						}]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"超越点切换",
+			"judges":	[],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"宏指令":	"/超越加点 小怪输出加点"
+					},
+					"judges":	[{
+							"地图内无首领":	""
+						}, {
+							"在副本":	"心脏的记忆;龙猫妹妹庭院;魔法学院主楼;怪物树山山谷;回声泉;冰狱;盟约圣地;玫瑰庭院;山海归墟;梦境奥涅伊鲁;魔力防空洞;神笔画卷;神树拉菲尔;龙之峡谷;奈落之屋;超能者纪念馆;傀儡牢狱;武林大会;八卦阵赛场;卡夫卡剧场;希列;幻之摇篮;虚无之星;忘却湖畔;圣字教堂;哈姆克公爵府;阿科洛之棺;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"宏指令":	"/超越加点 BOSS输出加点"
+					},
+					"judges":	[{
+							"地图内有首领":	""
+						}, {
+							"在副本":	"心脏的记忆;龙猫妹妹庭院;魔法学院主楼;怪物树山山谷;回声泉;冰狱;盟约圣地;玫瑰庭院;山海归墟;梦境奥涅伊鲁;魔力防空洞;神笔画卷;神树拉菲尔;龙之峡谷;奈落之屋;超能者纪念馆;傀儡牢狱;武林大会;八卦阵赛场;卡夫卡剧场;希列;幻之摇篮;虚无之星;忘却湖畔;圣字教堂;阿科洛之棺;哈姆克公爵府;克洛诺斯的时间;巴尼塔斯;炼狱阿兹雷尔;卡伊洛斯的时间;未知森林;霍普占卜室;普洛菲司台;深渊之镜;艾乌加蒙剧场;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"宏指令":	"/超越加点 小怪半肉加点"
+					},
+					"judges":	[{
+							"地图内无首领":	""
+						}, {
+							"在副本":	"精灵树桩;生命之恩泰莱凯;流水回廊;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"宏指令":	"/超越加点 BOSS半肉加点"
+					},
+					"judges":	[{
+							"地图内有首领":	""
+						}, {
+							"在副本":	"精灵树桩;生命之恩泰莱凯;流水回廊;"
 						}]
 				}]
 		}],
-	"pet_build":	[],
+	"pet_build":	[{
+			"sw":	true,
+			"id":	43501030,
+			"name":	"皮皮打气"
+		}, {
+			"sw":	true,
+			"id":	43501031,
+			"name":	"皮山压顶"
+		}, {
+			"sw":	true,
+			"id":	43501032,
+			"name":	"皮皮亲亲"
+		}, {
+			"sw":	true,
+			"id":	1050104,
+			"name":	"坚毅"
+		}, {
+			"sw":	true,
+			"id":	1050105,
+			"name":	"洞察"
+		}, {
+			"sw":	true,
+			"id":	1050106,
+			"name":	"伺机"
+		}, {
+			"sw":	true,
+			"id":	70020001,
+			"name":	"招财进宝"
+		}, {
+			"sw":	true,
+			"id":	70020002,
+			"name":	"坚韧打击"
+		}, {
+			"sw":	true,
+			"id":	70020003,
+			"name":	"破财消灾"
+		}, {
+			"sw":	true,
+			"id":	1040101,
+			"name":	"稳固"
+		}, {
+			"sw":	true,
+			"id":	1040102,
+			"name":	"鹰视"
+		}, {
+			"sw":	true,
+			"id":	43501028,
+			"name":	"自然萌"
+		}, {
+			"sw":	true,
+			"id":	1040103,
+			"name":	"扑击"
+		}, {
+			"sw":	true,
+			"id":	43501029,
+			"name":	"给力娇"
+		}, {
+			"sw":	true,
+			"id":	43501017,
+			"name":	"佛"
+		}, {
+			"sw":	true,
+			"id":	43501018,
+			"name":	"圣"
+		}, {
+			"sw":	true,
+			"id":	43501019,
+			"name":	"魔"
+		}],
 	"dress_text":	[],
 	"diy_skill":	{
 		"[英雄(刀)]连招":	false,
@@ -3216,22 +3245,10 @@
 		"[通用]位移技能左右释放":	false
 	},
 	"revive_diy":	[],
-	"item_filter_disassemble":	[{
-			"sw":	true,
-			"vague":	true,
-			"name":	"索拉",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}],
+	"item_filter_disassemble":	[],
 	"login":	"",
 	"chaosbranch":	[4001, 3001, 2001, 1001, 4003, 3003, 2003, 1003, 4002, 3002, 2002, 1002, 4016, 4012, 3012, 2012, 1012, 4011, 3011, 2011, 1011, 4015, 4004, 3004, 2004, 1004, 4005, 3005, 2005, 1005, 4022, 3022, 2022, 1022, 4021, 3021, 2021, 1021, 4017, 3017, 2017, 1017, 4018, 3018, 2018, 1018, 4019, 3019, 2019, 1019, 4020, 3020, 2020, 1020, 4006, 3006, 2006, 1006, 4007, 3007, 2007, 1007, 4008, 3008, 2008, 1008, 4009, 3009, 2009, 1009, 4014, 3014, 2014, 1014, 12026, 13026, 22026, 23026, 32026, 33026, 42026, 43026, 52026, 53026, 4010, 3010, 2010, 1010, 13025, 23025, 33025, 43025, 53025, 11025, 21025, 31025, 41025, 51025, 4023, 3023, 2023, 1023, 4024, 3024, 2024, 1024, 4013, 3013, 2013, 1013],
-	"autosystemscript":	[1],
+	"autosystemscript":	[],
 	"shak_skill":	[],
 	"opacity":	100
 }

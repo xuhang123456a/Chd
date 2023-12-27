@@ -2,13 +2,13 @@
 	"only_run":	false,
 	"run_sleep":	1,
 	"sw":	true,
-	"name":	"超越切换2",
+	"name":	"超越切换",
 	"judges":	[],
 	"executes":	[{
 			"sw":	true,
 			"sleep":	"1",
 			"execute":	{
-				"超越搭配":	"小怪属性"
+				"超越搭配":	"攻击属性"
 			},
 			"judges":	[{
 					"地图内无首领":	""
@@ -30,7 +30,7 @@
 			"sw":	true,
 			"sleep":	"1",
 			"execute":	{
-				"超越搭配":	"异常状态防御"
+				"超越搭配":	"减伤属性"
 			},
 			"judges":	[{
 					"中异常状态":	""

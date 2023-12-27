@@ -52,6 +52,7 @@
 	"item_pick_2":	true,
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
+	"item_pick_filter_10":	false,
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
@@ -59,6 +60,7 @@
 	"item_pick_filter_6":	true,
 	"item_pick_filter_7":	true,
 	"item_pick_filter_8":	false,
+	"item_pick_filter_9":	false,
 	"item_pick_sw":	true,
 	"item_throw_1":	false,
 	"item_throw_1_sw":	false,
@@ -68,8 +70,6 @@
 	"item_throw_3_sw":	false,
 	"item_throw_4_sw":	false,
 	"item_throw_lock_1":	false,
-	"item_throw_lock_2":	false,
-	"item_throw_lock_3":	false,
 	"item_throw_pass_1":	false,
 	"item_throw_pass_2":	false,
 	"item_throw_pass_3":	false,
@@ -80,8 +80,8 @@
 	"item_throw_sw2":	false,
 	"item_use_sort":	true,
 	"item_use_sw":	true,
-	"login_rest":	true,
-	"login_sw":	false,
+	"login_rest":	false,
+	"login_sw":	true,
 	"main_mob_attack_sw":	false,
 	"main_mob_back":	true,
 	"main_mob_distance_change":	false,
@@ -113,8 +113,8 @@
 	"msg_speak_sw":	false,
 	"other_debug":	false,
 	"other_passprint":	false,
-	"path_auto_script_door_sw":	false,
-	"path_auto_script_showval_sw":	false,
+	"path_auto_script_door_sw":	true,
+	"path_auto_script_showval_sw":	true,
 	"path_down_hotkey_sw":	false,
 	"path_hide_background_sw":	false,
 	"path_hide_effect_sw":	false,
@@ -122,7 +122,7 @@
 	"path_line_deliver_sw":	true,
 	"path_line_exchange_back_sw":	false,
 	"path_line_exchange_sw":	false,
-	"path_line_itemtime_sw":	false,
+	"path_line_itemtime_sw":	true,
 	"path_line_name_sw":	false,
 	"path_line_settings_sw":	false,
 	"path_line_team_sw":	true,
@@ -154,10 +154,10 @@
 	"script_changemap":	false,
 	"script_jump":	true,
 	"script_monster":	false,
-	"script_move_fix_sw":	true,
 	"script_sw":	true,
 	"skill_buff_no_monster":	true,
 	"skill_buff_online_sw":	false,
+	"skill_buff_pet_fb":	false,
 	"skill_buff_pet_monster_sw":	true,
 	"skill_buff_pet_sw":	false,
 	"skill_buff_server":	false,
@@ -189,8 +189,8 @@
 	"auto_end_item_val":	"",
 	"auto_end_lua_val":	"停止挂机操作.lua",
 	"auto_load_team_val":	"",
-	"auto_team_dream_room_name":	"",
-	"auto_team_dream_room_namelist":	"",
+	"auto_team_dream_room_name":	"你到底吻不吻我o",
+	"auto_team_dream_room_namelist":	"苏黎旧梦り\r你到底吻不吻我o\r",
 	"auto_team_room_name":	"",
 	"auto_team_room_namelist":	"",
 	"guild_tribute_items":	"初级活力水滴;",
@@ -247,7 +247,6 @@
 	"main_mob_trap_x":	64,
 	"msg_speak_time":	10,
 	"script_monster_x":	350,
-	"script_move_fix":	8,
 	"script_x":	80,
 	"script_y":	25,
 	"team_follow_removing":	150,
@@ -265,8 +264,8 @@
 	"automatic_zhs_time5":	3,
 	"automatic_zhs_time6":	3,
 	"config_system_type":	1,
-	"login_server1":	0,
-	"login_server2":	11,
+	"login_server1":	1,
+	"login_server2":	7,
 	"main_mob_trap_type":	0,
 	"path_hide_effect_type":	0,
 	"path_script_picture_val2":	0,
@@ -667,8 +666,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	8,
-			"grade":	"[无]"
+			"num":	8
 		}, {
 			"sw":	true,
 			"id":	3804107,
@@ -681,8 +679,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	8,
-			"grade":	"[无]"
+			"num":	8
 		}, {
 			"sw":	true,
 			"id":	3814107,
@@ -695,8 +692,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	12,
-			"grade":	"[无]"
+			"num":	12
 		}, {
 			"sw":	true,
 			"id":	3201028,
@@ -709,8 +705,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	10,
-			"grade":	"[无]"
+			"num":	10
 		}, {
 			"sw":	true,
 			"id":	3201028,
@@ -725,8 +720,7 @@
 			"judge":	[{
 					"搜索内有怪":	"卡伊洛斯符文;教授泰奥丽雅;克洛诺斯;罪人瓦伊思;泰伊姆斯暗影;贝洛希;塔米埃尔;猛压的古拉卡布;喜悦的吉里温;希望的奈兮莫特;新教大主教;神秘刺客;圣人;恶魔贝利尔;强力小偷;打伞修女;帕西法厄;雷电独角松鼠;灵药好问;阿戈斯;伊希欧;利利奥佩;分裂的温迪戈;米凯尔拉;巴巴托斯;红幻龙;蓝幻龙;紫幻龙;怨恨幽灵战士;傀儡守卫·魔;傀儡守卫·狱;傀儡守卫·炼;王高美;高美女;吸血鬼执事;莉莉丝;艾因霍恩;亚斯莫德亚;巨龙幻影;烛阴;雷霆战兔;科长巴拉克;龙爪变异龙人;水妖;鴸鸟;科洛里斯;莫斯王国精锐魔法师;诺克斯王子;贝尔基米;忘却忘川;雷掣;火魔法师肖像画;风魔法师披风;水魔法师肖像画;异界魔法师披风;蛇影;墨魁;"
 				}],
-			"num":	0,
-			"grade":	"[无]"
+			"num":	0
 		}, {
 			"sw":	true,
 			"id":	3201026,
@@ -743,8 +737,7 @@
 				}, {
 					"技能冷却中":	"恶魔之音"
 				}],
-			"num":	0,
-			"grade":	"[无]"
+			"num":	0
 		}, {
 			"sw":	true,
 			"id":	3201027,
@@ -757,8 +750,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0,
-			"grade":	"[无]"
+			"num":	0
 		}, {
 			"sw":	true,
 			"id":	3814104,
@@ -771,8 +763,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0,
-			"grade":	"[无]"
+			"num":	0
 		}, {
 			"sw":	true,
 			"id":	3001019,
@@ -785,8 +776,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0,
-			"grade":	"[无]"
+			"num":	0
 		}, {
 			"sw":	true,
 			"id":	1108001,
@@ -799,8 +789,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0,
-			"grade":	"[无]"
+			"num":	0
 		}, {
 			"sw":	true,
 			"id":	3820001,
@@ -813,8 +802,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0,
-			"grade":	"[无]"
+			"num":	0
 		}, {
 			"sw":	true,
 			"id":	3804104,
@@ -827,8 +815,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0,
-			"grade":	"[无]"
+			"num":	0
 		}, {
 			"sw":	true,
 			"id":	3201023,
@@ -841,8 +828,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0,
-			"grade":	"[无]"
+			"num":	0
 		}, {
 			"sw":	true,
 			"id":	3201025,
@@ -855,8 +841,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0,
-			"grade":	"[无]"
+			"num":	0
 		}, {
 			"sw":	true,
 			"id":	3101023,
@@ -871,8 +856,7 @@
 			"judge":	[{
 					"AP>=":	"300"
 				}],
-			"num":	0,
-			"grade":	"[无]"
+			"num":	0
 		}, {
 			"sw":	true,
 			"id":	1802410,
@@ -885,8 +869,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0,
-			"grade":	"[无]"
+			"num":	0
 		}, {
 			"sw":	true,
 			"id":	3201021,
@@ -899,8 +882,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0,
-			"grade":	"[无]"
+			"num":	0
 		}, {
 			"sw":	true,
 			"id":	1,
@@ -915,8 +897,7 @@
 			"judge":	[{
 					"搜索内有怪":	"夏树阿姨(魔免);秋树阿姨(魔免);冬树阿姨"
 				}],
-			"num":	0,
-			"grade":	"[无]"
+			"num":	0
 		}],
 	"skill_buff_data":	[{
 			"sw":	true,
@@ -924,60 +905,80 @@
 			"name":	"【结合】",
 			"judge":	[{
 					"没有BUFF":	"巨星-结合_24000148"
-				}]
+				}],
+			"sleep":	0,
+			"auto":	false
 		}, {
 			"sw":	true,
 			"id":	3804103,
 			"name":	"【和谐】",
 			"judge":	[{
 					"没有BUFF":	"和谐_24000146"
-				}]
+				}],
+			"sleep":	0,
+			"auto":	false
 		}, {
 			"sw":	true,
 			"id":	2010005,
 			"name":	"财迷心窍",
-			"judge":	[]
+			"judge":	[],
+			"sleep":	0,
+			"auto":	false
 		}, {
 			"sw":	true,
 			"id":	2010001,
 			"name":	"远古巨龙的祝福",
-			"judge":	[]
+			"judge":	[],
+			"sleep":	0,
+			"auto":	false
 		}, {
 			"sw":	true,
 			"id":	2010003,
 			"name":	"英灵之水",
-			"judge":	[]
+			"judge":	[],
+			"sleep":	0,
+			"auto":	false
 		}, {
 			"sw":	true,
 			"id":	2010002,
 			"name":	"亚特兰蒂斯科技",
-			"judge":	[]
+			"judge":	[],
+			"sleep":	0,
+			"auto":	false
 		}, {
 			"sw":	true,
 			"id":	2010004,
 			"name":	"遗珠的意志",
-			"judge":	[]
+			"judge":	[],
+			"sleep":	0,
+			"auto":	false
 		}, {
 			"sw":	true,
 			"id":	3814106,
 			"name":	"【生存本能】",
 			"judge":	[{
 					"[无]":	""
-				}]
+				}],
+			"sleep":	0,
+			"auto":	false
 		}, {
 			"sw":	true,
 			"id":	5000916,
 			"name":	"[特殊]巨星",
 			"judge":	[{
 					"[无]":	""
-				}]
+				}],
+			"sleep":	0,
+			"auto":	false
 		}, {
 			"sw":	true,
 			"id":	3110152,
 			"name":	"第六感",
 			"judge":	[{
 					"AP<=":	"300"
-				}]
+				}],
+			"sleep":	0,
+			"auto":	false
 		}, {
 			"sw":	true,
 			"id":	3101023,
@@ -986,7 +987,9 @@
 					"AP>=":	"900"
 				}, {
 					"怪物数量>=":	"1"
-				}]
+				}],
+			"sleep":	0,
+			"auto":	false
 		}],
 	"speak_data":	[],
 	"skill_hotkey_data":	[{
@@ -3303,6 +3306,90 @@
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
+		}, {
+			"id":	2001167,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001169,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001172,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001174,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001182,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001186,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001189,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001192,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001196,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001199,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001202,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001207,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
 		}],
 	"auto_file":	[{
 			"setcount":	0,
@@ -3311,7 +3398,7 @@
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	"",
-			"script":	"领取温泉蛋",
+			"script":	"梦一（2-4人）",
 			"task":	0
 		}, {
 			"setcount":	0,
@@ -3320,7 +3407,7 @@
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	"",
-			"script":	"自动存入ELY",
+			"script":	"梦二",
 			"task":	0
 		}, {
 			"setcount":	0,
@@ -3329,7 +3416,7 @@
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	"",
-			"script":	"购买勇者小型药水",
+			"script":	"梦三",
 			"task":	0
 		}, {
 			"setcount":	0,
@@ -3338,34 +3425,7 @@
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	"",
-			"script":	"购买蚯梨膏",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"购买索拉斗兽药品",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"购买紫色大药罐",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"兑换西格药(99个换)",
+			"script":	"开启拾取",
 			"task":	0
 		}],
 	"trigger":	[{
