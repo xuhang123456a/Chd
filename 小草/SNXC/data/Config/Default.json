@@ -131,6 +131,7 @@
 	"path_script_picture_sw2":	false,
 	"path_script_picture_sw4":	false,
 	"path_script_picture_sw4-1":	false,
+	"path_subjoin_fps":	false,
 	"path_subjoin_htyh":	false,
 	"path_subjoin_ksqp":	false,
 	"path_subjoin_msxj":	false,
@@ -168,9 +169,7 @@
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	false,
 	"skill_option_lr_boss":	false,
-	"skill_option_next_skill":	false,
 	"skill_option_platform_skill":	false,
-	"skill_option_repeat_skill":	false,
 	"skill_option_slide_off":	false,
 	"skill_option_sombra":	false,
 	"skill_option_stop_skill":	false,
@@ -2533,6 +2532,13 @@
 			"diyawaken":	""
 		}, {
 			"id":	2001202,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001205,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",

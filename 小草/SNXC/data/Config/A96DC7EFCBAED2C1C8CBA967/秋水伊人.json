@@ -131,6 +131,7 @@
 	"path_script_picture_sw2":	false,
 	"path_script_picture_sw4":	false,
 	"path_script_picture_sw4-1":	true,
+	"path_subjoin_fps":	false,
 	"path_subjoin_htyh":	false,
 	"path_subjoin_ksqp":	true,
 	"path_subjoin_msxj":	true,
@@ -168,9 +169,7 @@
 	"skill_option_jump_off2":	true,
 	"skill_option_lr":	true,
 	"skill_option_lr_boss":	true,
-	"skill_option_next_skill":	true,
 	"skill_option_platform_skill":	true,
-	"skill_option_repeat_skill":	true,
 	"skill_option_slide_off":	true,
 	"skill_option_sombra":	false,
 	"skill_option_stop_skill":	false,
@@ -190,8 +189,8 @@
 	"auto_end_item_val":	"",
 	"auto_end_lua_val":	"",
 	"auto_load_team_val":	"",
-	"auto_team_dream_room_name":	"",
-	"auto_team_dream_room_namelist":	"",
+	"auto_team_dream_room_name":	"苏黎旧梦り",
+	"auto_team_dream_room_namelist":	"自然萌ご\r苏黎旧梦り\r记忆丶流逝\r",
 	"auto_team_room_name":	"要不要吻我",
 	"auto_team_room_namelist":	"黑化费\r蓝天乱了巴黎海\r崽崽\r",
 	"guild_tribute_items":	"高级冒险家情报卷轴;中级冒险家情报卷轴;初级活力水滴;达人活力水滴;大师活力水滴;初级冒险家情报卷轴;达人冒险家情报卷轴;黄金魔方;大师冒险家情报卷轴;闪闪发光的宝箱;美丽的碎片结晶;智之石;智之石碎片;家族战宝箱;外交印章：朱雀;",
@@ -570,7 +569,7 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"希望的减伤药水",
-			"induns":	["生命之恩泰莱凯", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "炼狱阿兹雷尔", "玫瑰庭院"]
+			"induns":	["生命之恩泰莱凯", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "炼狱阿兹雷尔", "玫瑰庭院", "奈落·冰封雪域", "奈落·破坏之城", "奈落·冰淇淋庭院", "奈落·珊瑚之歌", "奈落·蛇龙之巢"]
 		}, {
 			"sw":	true,
 			"type":	"物品",
@@ -3301,6 +3300,13 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001205,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001207,
 			"sw":	false,
 			"diyitem":	"",
@@ -3322,43 +3328,8 @@
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	"",
-			"script":	"联盟营地",
-			"task":	2003002
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"探索心之休憩地",
-			"task":	2003018
-		}, {
-			"setcount":	1,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"月华苑",
-			"task":	0
-		}, {
-			"setcount":	1,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"索拉城斗兽场",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"经验套装",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"5经验石",
-			"script":	"泡泡战舰",
+			"tag":	18468,
+			"script":	"奈落之心(珊瑚之歌)",
 			"task":	0
 		}, {
 			"setcount":	0,
@@ -3367,16 +3338,8 @@
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	"",
-			"script":	"克洛诺斯的时间",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"心脏的记忆",
+			"tag":	19170,
+			"script":	"奈落之心(蛇龙之巢)",
 			"task":	0
 		}],
 	"trigger":	[{

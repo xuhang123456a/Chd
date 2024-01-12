@@ -13,6 +13,8 @@
 	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_login_end":	false,
+	"auto_reward_open_sw":	false,
+	"auto_reward_pay_sw":	false,
 	"auto_set_boss_deliver":	false,
 	"auto_set_boss_hp":	true,
 	"auto_set_boss_hp_team":	false,
@@ -44,7 +46,6 @@
 	"automatic_subjoin_cwzx":	true,
 	"guild_diplomacy_only":	false,
 	"guild_tribute_sw":	true,
-	"item_buff_check":	true,
 	"item_buff_indun":	false,
 	"item_buff_sw":	true,
 	"item_disassemble_item_sw":	true,
@@ -130,12 +131,12 @@
 	"path_script_picture_sw2":	false,
 	"path_script_picture_sw4":	false,
 	"path_script_picture_sw4-1":	false,
+	"path_subjoin_fps":	false,
 	"path_subjoin_htyh":	false,
 	"path_subjoin_ksqp":	true,
 	"path_subjoin_msxj":	true,
 	"path_subjoin_msxj_msg":	true,
 	"path_subjoin_pbds":	true,
-	"path_subjoin_shjn":	false,
 	"path_subjoin_shtx":	false,
 	"path_subjoin_tyjn":	false,
 	"path_subjoin_xsyc":	false,
@@ -168,12 +169,11 @@
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	false,
 	"skill_option_lr_boss":	true,
-	"skill_option_next_skill":	false,
 	"skill_option_platform_skill":	false,
-	"skill_option_repeat_skill":	false,
 	"skill_option_slide_off":	false,
 	"skill_option_sombra":	false,
 	"skill_option_stop_skill":	true,
+	"skill_option_stop_skill_all":	false,
 	"skill_shake_sw":	false,
 	"skill_silent_sw":	true,
 	"summon_automatic_priority_sw":	false,
@@ -189,8 +189,8 @@
 	"auto_end_item_val":	"",
 	"auto_end_lua_val":	"停止挂机操作.lua",
 	"auto_load_team_val":	"",
-	"auto_team_dream_room_name":	"你到底吻不吻我o",
-	"auto_team_dream_room_namelist":	"苏黎旧梦り\r你到底吻不吻我o\r",
+	"auto_team_dream_room_name":	"苏黎旧梦り",
+	"auto_team_dream_room_namelist":	"苏黎旧梦り\r天然呆就自然萌\r雪碧゛\r",
 	"auto_team_room_name":	"",
 	"auto_team_room_namelist":	"",
 	"guild_tribute_items":	"初级活力水滴;",
@@ -269,7 +269,6 @@
 	"main_mob_trap_type":	0,
 	"path_hide_effect_type":	0,
 	"path_script_picture_val2":	0,
-	"path_subjoin_shtx_type":	0,
 	"revive_type":	2,
 	"skill_option_lr_val":	0,
 	"skill_option_platform_skill_v":	0,
@@ -3335,6 +3334,13 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001177,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001182,
 			"sw":	false,
 			"diyitem":	"",
@@ -3384,7 +3390,21 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001205,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001207,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001210,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -3398,15 +3418,7 @@
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	"",
-			"script":	"梦一（2-4人）",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
+			"tag":	18468,
 			"script":	"梦二",
 			"task":	0
 		}, {
@@ -3416,15 +3428,7 @@
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	"",
-			"script":	"梦三",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
+			"tag":	26501,
 			"script":	"开启拾取",
 			"task":	0
 		}],
