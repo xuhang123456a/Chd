@@ -1,5 +1,4 @@
 {
-	"config_name":	"ÃÎÀïÃÎÄã",
 	"auto_card_collect_sw":	false,
 	"auto_card_open_sw":	true,
 	"auto_end_item":	false,
@@ -43,14 +42,11 @@
 	"automatic_schedule":	true,
 	"automatic_skill_update_entrepot":	true,
 	"automatic_skill_update_sw":	true,
-	"automatic_subjoin_cwzx":	true,
 	"guild_diplomacy_only":	false,
 	"guild_tribute_sw":	true,
 	"item_buff_indun":	false,
 	"item_buff_sw":	true,
 	"item_disassemble_item_sw":	true,
-	"item_pick_1":	false,
-	"item_pick_2":	true,
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	false,
@@ -63,7 +59,6 @@
 	"item_pick_filter_8":	false,
 	"item_pick_filter_9":	false,
 	"item_pick_sw":	true,
-	"item_throw_1":	false,
 	"item_throw_1_sw":	false,
 	"item_throw_2":	false,
 	"item_throw_2_sw":	false,
@@ -189,7 +184,9 @@
 	"auto_end_item_val":	"",
 	"auto_end_lua_val":	"Í£Ö¹¹Ò»ú²Ù×÷.lua",
 	"auto_load_team_val":	"",
-	"auto_team_dream_room_name":	"×üËÕÀè¾ÉÃÎ¤ê",
+	"auto_set_diyitem":	"",
+	"auto_set_diyproperty":	"",
+	"auto_team_dream_room_name":	"ÖÂ½ñÉú",
 	"auto_team_dream_room_namelist":	"×üËÕÀè¾ÉÃÎ¤ê\rÌìÈ»´ô¾Í×ÔÈ»ÃÈ\r×ü×üÑ©±Ì×ü©a\r",
 	"auto_team_room_name":	"",
 	"auto_team_room_namelist":	"",
@@ -3306,7 +3303,154 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001144,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001145,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001146,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001147,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001148,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001151,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001152,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001153,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001154,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001155,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001156,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001157,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001158,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001159,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001160,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001161,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001162,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001163,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001164,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001166,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001167,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001168,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -3320,7 +3464,28 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001170,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001171,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001172,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001173,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -3334,7 +3499,49 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001175,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001176,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001177,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001178,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001179,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001180,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001181,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -3348,7 +3555,42 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001183,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001184,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001185,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001186,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001187,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001188,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -3362,7 +3604,42 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001190,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001191,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001192,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001193,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001194,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001195,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -3383,7 +3660,35 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001200,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001201,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001202,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001203,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001204,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -3397,7 +3702,28 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001206,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001207,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001208,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001209,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -3410,27 +3736,6 @@
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
-		}],
-	"auto_file":	[{
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"tag":	18468,
-			"script":	"ÃÎ¶þ",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"tag":	26501,
-			"script":	"¿ªÆôÊ°È¡",
-			"task":	0
 		}],
 	"trigger":	[{
 			"sw":	true,

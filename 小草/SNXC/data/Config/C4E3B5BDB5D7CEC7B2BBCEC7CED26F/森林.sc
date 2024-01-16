@@ -5,6 +5,7 @@
 		"diyproperty":	"",
 		"diyother":	"装备副本",
 		"diyawaken":	"",
+		"tag":	1870,
 		"script":	"未知森林",
 		"task":	0
 	}]

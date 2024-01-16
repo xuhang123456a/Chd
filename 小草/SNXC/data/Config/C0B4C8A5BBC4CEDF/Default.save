@@ -1,5 +1,4 @@
 {
-	"config_name":	"默认设置",
 	"auto_card_collect_sw":	true,
 	"auto_card_open_sw":	true,
 	"auto_end_item":	false,
@@ -43,14 +42,11 @@
 	"automatic_schedule":	true,
 	"automatic_skill_update_entrepot":	true,
 	"automatic_skill_update_sw":	true,
-	"automatic_subjoin_cwzx":	true,
 	"guild_diplomacy_only":	false,
 	"guild_tribute_sw":	false,
 	"item_buff_indun":	false,
 	"item_buff_sw":	true,
 	"item_disassemble_item_sw":	true,
-	"item_pick_1":	false,
-	"item_pick_2":	false,
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	false,
@@ -63,7 +59,6 @@
 	"item_pick_filter_8":	false,
 	"item_pick_filter_9":	false,
 	"item_pick_sw":	true,
-	"item_throw_1":	false,
 	"item_throw_1_sw":	false,
 	"item_throw_2":	false,
 	"item_throw_2_sw":	false,
@@ -131,6 +126,7 @@
 	"path_script_picture_sw2":	false,
 	"path_script_picture_sw4":	false,
 	"path_script_picture_sw4-1":	false,
+	"path_subjoin_fps":	false,
 	"path_subjoin_htyh":	false,
 	"path_subjoin_ksqp":	false,
 	"path_subjoin_msxj":	true,
@@ -168,9 +164,7 @@
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	true,
 	"skill_option_lr_boss":	true,
-	"skill_option_next_skill":	false,
 	"skill_option_platform_skill":	false,
-	"skill_option_repeat_skill":	true,
 	"skill_option_slide_off":	false,
 	"skill_option_sombra":	false,
 	"skill_option_stop_skill":	false,
@@ -190,6 +184,8 @@
 	"auto_end_item_val":	"",
 	"auto_end_lua_val":	"执行自动切换角色.lua",
 	"auto_load_team_val":	"",
+	"auto_set_diyitem":	"",
+	"auto_set_diyproperty":	"",
 	"auto_team_dream_room_name":	"",
 	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"",
@@ -371,6 +367,33 @@
 				"[无]":	""
 			},
 			"item":	"蚯梨膏"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"[无]":	""
+			},
+			"Judge2":	{
+				"SP<=%":	"10"
+			},
+			"item":	"自动吃普通蓝"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"[无]":	""
+			},
+			"Judge2":	{
+				"SP<=%":	"7"
+			},
+			"item":	"自动吃普通复合"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"[无]":	""
+			},
+			"Judge2":	{
+				"SP<=%":	"5"
+			},
+			"item":	"勇者小型魔法药水"
 		}],
 	"protec_data":	[{
 			"sw":	true,
@@ -2721,7 +2744,161 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001144,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001145,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001146,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001147,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001148,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001151,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001152,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001153,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001154,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001155,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001156,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001157,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001158,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001159,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001160,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001161,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001162,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001163,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001164,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001165,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001166,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001167,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001168,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -2735,7 +2912,28 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001170,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001171,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001172,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001173,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -2749,7 +2947,49 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001175,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001176,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001177,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001178,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001179,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001180,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001181,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -2763,7 +3003,42 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001183,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001184,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001185,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001186,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001187,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001188,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -2777,7 +3052,42 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001190,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001191,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001192,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001193,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001194,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001195,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -2798,7 +3108,49 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001200,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001201,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001202,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001203,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001204,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001205,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001206,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -2812,112 +3164,26 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2001208,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001209,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001210,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
-		}],
-	"auto_file":	[{
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"攻击套装",
-			"diyproperty":	"普通支配",
-			"diyother":	"装备副本",
-			"diyawaken":	"",
-			"script":	"竞技场练习赛（全部任务）",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"攻击套装",
-			"diyproperty":	"普通支配",
-			"diyother":	"装备副本",
-			"diyawaken":	"装备觉醒",
-			"script":	"探险家神殿(普通)",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"探险家神殿(高级)",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"探险家神殿(英雄)",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"保护春植园",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"入侵太空农场",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"猫头鹰的神秘组织",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"樱树湖历险",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"被感染的哎哟城",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"金字塔的秘密",
-			"task":	0
-		}, {
-			"setcount":	0,
-			"loadtime":	0,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	"",
-			"script":	"克杜卡的咆哮",
-			"task":	0
 		}],
 	"trigger":	[{
 			"sw":	false,
@@ -3028,6 +3294,22 @@
 					},
 					"judges":	[{
 							"拥有BUFF":	"活动_6000157"
+						}]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	false,
+			"name":	"防卡本",
+			"judges":	[],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"射手座的黄金守护+4"
+					},
+					"judges":	[{
+							"在副本":	"保护春植园;"
 						}]
 				}]
 		}],
