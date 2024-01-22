@@ -258,4 +258,14 @@
 		"tag":	1870,
 		"script":	"探险家神殿(英雄)",
 		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	19913,
+		"script":	"执行自动切换角色",
+		"task":	0
 	}]

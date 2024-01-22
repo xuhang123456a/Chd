@@ -5,6 +5,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	30334,
 		"script":	"梦一（2-4人）",
 		"task":	0
 	}, {
@@ -14,15 +15,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"script":	"梦二",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
+		"tag":	4665,
 		"script":	"梦三",
 		"task":	0
 	}, {
@@ -32,6 +25,17 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	28254,
+		"script":	"梦二（1法3战）",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	15142,
 		"script":	"开启拾取",
 		"task":	0
 	}]

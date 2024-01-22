@@ -83,7 +83,7 @@
 	"main_mob_distance_change":	true,
 	"main_mob_distance_max_sw":	false,
 	"main_mob_distance_min_sw":	false,
-	"main_mob_external":	false,
+	"main_mob_external":	true,
 	"main_mob_friend_sw":	false,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
@@ -140,7 +140,7 @@
 	"protect_skill_syncope_1":	true,
 	"protect_skill_syncope_2":	false,
 	"protect_sw":	true,
-	"revive_print":	true,
+	"revive_print":	false,
 	"revive_situ_buff":	true,
 	"revive_sw1":	true,
 	"revive_sw2":	true,
@@ -234,13 +234,13 @@
 	"item_throw_4_end":	168,
 	"item_throw_time":	0,
 	"item_use_time":	150,
-	"main_mob_bottom":	200,
+	"main_mob_bottom":	150,
 	"main_mob_distance_max":	30,
 	"main_mob_distance_min":	30,
 	"main_mob_location_l":	32,
 	"main_mob_location_r":	99999,
-	"main_mob_lr":	1600,
-	"main_mob_top":	180,
+	"main_mob_lr":	800,
+	"main_mob_top":	80,
 	"main_mob_trap_x":	64,
 	"msg_speak_time":	10,
 	"script_monster_x":	350,
@@ -587,12 +587,84 @@
 			"speedx":	false,
 			"judge":	[],
 			"num":	0
+		}, {
+			"sw":	true,
+			"id":	2,
+			"name":	"Ç¿¹¥»÷",
+			"dmin":	0,
+			"dmax":	200,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
 		}],
 	"skill_buff_data":	[],
 	"speak_data":	[],
 	"skill_hotkey_data":	[],
 	"team_list_data":	[],
-	"script_point_data":	[],
+	"script_point_data":	[{
+			"type":	"ÉÏ¶ş¶ÎÌø",
+			"x":	"3167",
+			"y":	"1440",
+			"pos1":	"×ó&ÓÒ[ÎŞ]",
+			"pos2":	"×óÅÜ",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+			}
+		}, {
+			"type":	"ÏÂÅÀÌİ×Ó",
+			"x":	"223",
+			"y":	"751",
+			"pos1":	"×ó&ÓÒ[ÎŞ]",
+			"pos2":	"ÓÒÅÜ",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"ÓÒÌø(ÖúÅÜ)",
+			"x":	"900",
+			"y":	"1119",
+			"pos1":	"ÓÒÅÜ",
+			"pos2":	"ÓÒÅÜ",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"ÓÒÌø(ÖúÅÜ)",
+			"x":	"1390",
+			"y":	"1247",
+			"pos1":	"ÓÒÅÜ",
+			"pos2":	"×óÅÜ",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"×ªÉí&Ö´ĞĞ¶îÍâ",
+			"x":	"32",
+			"y":	"1440",
+			"pos1":	"×ó&ÓÒ[ÎŞ]",
+			"pos2":	"ÓÒÅÜ",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}],
 	"script_trigger_data":	[],
 	"summon_data":	[201901181, 201901182, 201901183, 201901184, 201901185, 201901186],
 	"line_monster_data":	[],

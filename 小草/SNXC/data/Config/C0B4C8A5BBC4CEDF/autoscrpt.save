@@ -5,7 +5,7 @@
 		"diyproperty":	"普通支配",
 		"diyother":	"装备副本",
 		"diyawaken":	"",
-		"tag":	31323,
+		"tag":	5830,
 		"script":	"竞技场练习赛（全部任务）",
 		"task":	0
 	}, {
@@ -15,7 +15,7 @@
 		"diyproperty":	"普通支配",
 		"diyother":	"装备副本",
 		"diyawaken":	"装备觉醒",
-		"tag":	30334,
+		"tag":	26778,
 		"script":	"探险家神殿(普通)",
 		"task":	0
 	}, {
@@ -25,7 +25,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17674,
+		"tag":	15574,
 		"script":	"探险家神殿(高级)",
 		"task":	0
 	}, {
@@ -35,7 +35,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	4665,
+		"tag":	5098,
 		"script":	"探险家神殿(英雄)",
 		"task":	0
 	}, {
@@ -45,7 +45,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15142,
+		"tag":	16513,
 		"script":	"保护春植园",
 		"task":	0
 	}, {
@@ -55,7 +55,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	7712,
+		"tag":	23987,
 		"script":	"入侵太空农场",
 		"task":	0
 	}, {
@@ -65,7 +65,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	28254,
+		"tag":	13291,
 		"script":	"猫头鹰的神秘组织",
 		"task":	0
 	}, {
@@ -75,7 +75,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6869,
+		"tag":	9162,
 		"script":	"樱树湖历险",
 		"task":	0
 	}, {
@@ -85,7 +85,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	25548,
+		"tag":	18637,
 		"script":	"被感染的哎哟城",
 		"task":	0
 	}, {
@@ -95,7 +95,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	27645,
+		"tag":	22356,
 		"script":	"金字塔的秘密",
 		"task":	0
 	}, {
@@ -105,7 +105,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	32663,
+		"tag":	24768,
 		"script":	"克杜卡的咆哮",
 		"task":	0
 	}]
