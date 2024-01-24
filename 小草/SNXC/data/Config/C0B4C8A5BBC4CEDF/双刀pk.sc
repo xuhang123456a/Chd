@@ -5,6 +5,7 @@
 		"diyproperty":	"普通支配",
 		"diyother":	"装备副本",
 		"diyawaken":	"",
+		"tag":	32758,
 		"script":	"竞技场练习赛（全部任务）",
 		"task":	0
 	}, {
@@ -14,6 +15,7 @@
 		"diyproperty":	"普通支配",
 		"diyother":	"装备副本",
 		"diyawaken":	"装备觉醒",
+		"tag":	20038,
 		"script":	"探险家神殿(普通)",
 		"task":	0
 	}, {
@@ -23,6 +25,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	12860,
 		"script":	"探险家神殿(高级)",
 		"task":	0
 	}, {
@@ -32,6 +35,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	8724,
 		"script":	"探险家神殿(英雄)",
 		"task":	0
 	}, {
@@ -41,6 +45,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	9742,
 		"script":	"保护春植园",
 		"task":	0
 	}, {
@@ -50,6 +55,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	27530,
 		"script":	"入侵太空农场",
 		"task":	0
 	}, {
@@ -59,6 +65,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	779,
 		"script":	"猫头鹰的神秘组织",
 		"task":	0
 	}, {
@@ -68,6 +75,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	12317,
 		"script":	"樱树湖历险",
 		"task":	0
 	}, {
@@ -77,6 +85,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	3036,
 		"script":	"被感染的哎哟城",
 		"task":	0
 	}, {
@@ -86,6 +95,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	22191,
 		"script":	"金字塔的秘密",
 		"task":	0
 	}, {
@@ -95,6 +105,37 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	1843,
 		"script":	"克杜卡的咆哮",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"火山",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	289,
+		"script":	"火山珊瑚",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30107,
+		"script":	"索拉城斗兽场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	9041,
+		"script":	"世界之树",
 		"task":	0
 	}]
