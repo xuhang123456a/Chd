@@ -5,7 +5,7 @@
 	"auto_end_lua":	false,
 	"auto_end_plan":	true,
 	"auto_end_team":	false,
-	"auto_load_change":	true,
+	"auto_load_change":	false,
 	"auto_load_kcb":	true,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
@@ -84,7 +84,7 @@
 	"main_mob_distance_change":	true,
 	"main_mob_distance_max_sw":	false,
 	"main_mob_distance_min_sw":	false,
-	"main_mob_external":	false,
+	"main_mob_external":	true,
 	"main_mob_friend_sw":	false,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
@@ -112,7 +112,7 @@
 	"other_passprint":	true,
 	"path_auto_script_door_sw":	true,
 	"path_auto_script_showval_sw":	true,
-	"path_down_hotkey_sw":	false,
+	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
 	"path_hide_effect_sw":	false,
 	"path_line_boss_sw":	true,
@@ -150,7 +150,7 @@
 	"script_changemap":	false,
 	"script_jump":	true,
 	"script_monster":	true,
-	"script_sw":	false,
+	"script_sw":	true,
 	"skill_buff_no_monster":	true,
 	"skill_buff_online_sw":	false,
 	"skill_buff_pet_fb":	false,
@@ -189,13 +189,13 @@
 	"auto_team_dream_room_name":	"你到底吻不吻我o",
 	"auto_team_dream_room_namelist":	"10181788;﹎秋水伊人ゞ\r11078750;他不会等你了\r4775863;呆小ˇ宝\r",
 	"auto_team_room_name":	"7758",
-	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r10335259;猫又*\r4775863;呆小ˇ宝\r",
+	"auto_team_room_namelist":	"4775863;呆小ˇ宝\r7395990;|\"可爱的虫虫ぁ\r10181788;﹎秋水伊人ゞ\r",
 	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;初级冒险家情报卷轴;中级冒险家情报卷轴;大师冒险家情报卷轴;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"",
 	"hotkey_hide_game":	"",
-	"hotkey_hide_ui":	"",
+	"hotkey_hide_ui":	"F12",
 	"hotkey_start":	"F8",
 	"hotkey_start_mouse":	"",
 	"hotkey_start_playmouse":	"",
@@ -441,21 +441,25 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"高级温泉蛋",
+			"maps":	["★战士休息处3_41302"],
 			"induns":	["泡泡战舰", "克洛诺斯的时间", "心脏的记忆"]
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"经验值的秘药 500%(不可交易)",
+			"maps":	["★战士休息处3_41302"],
 			"induns":	["泡泡战舰", "克洛诺斯的时间", "心脏的记忆"]
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"回忆の沙漏",
+			"maps":	["★战士休息处3_41302"],
 			"induns":	["泡泡战舰", "克洛诺斯的时间", "心脏的记忆"]
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"百分考卷",
+			"maps":	["★战士休息处3_41302"],
 			"induns":	["泡泡战舰", "克洛诺斯的时间", "心脏的记忆"]
 		}, {
 			"sw":	true,
@@ -466,11 +470,13 @@
 			"sw":	true,
 			"type":	"外交",
 			"name":	"艾利娅斯-小四",
+			"maps":	["★战士休息处3_41302"],
 			"induns":	["泡泡战舰", "克洛诺斯的时间", "心脏的记忆"]
 		}, {
 			"sw":	true,
 			"type":	"操作",
 			"name":	"课程:使用七彩玲珑",
+			"maps":	["★战士休息处3_41302"],
 			"induns":	["泡泡战舰", "克洛诺斯的时间", "心脏的记忆"]
 		}, {
 			"sw":	true,
@@ -486,6 +492,7 @@
 			"sw":	true,
 			"type":	"操作",
 			"name":	"召唤兽出战:龙猫理查",
+			"maps":	["★战士休息处3_41302"],
 			"induns":	["泡泡战舰", "克洛诺斯的时间", "心脏的记忆"]
 		}, {
 			"sw":	true,
@@ -737,7 +744,31 @@
 	"speak_data":	[],
 	"skill_hotkey_data":	[],
 	"team_list_data":	[],
-	"script_point_data":	[],
+	"script_point_data":	[{
+			"type":	"上跳",
+			"x":	"3487",
+			"y":	"1103",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"下爬梯子",
+			"x":	"562",
+			"y":	"527",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}],
 	"script_trigger_data":	[],
 	"summon_data":	[201901181, 201901182, 201901183, 201901184, 201901185, 201901186],
 	"line_monster_data":	[],
@@ -3563,6 +3594,35 @@
 							"在地图":	"樱树湖3_99202;樱树湖4_99203;樱树湖1_99200;樱树湖2_99201;"
 						}]
 				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"吃减伤",
+			"judges":	[],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"希望的减伤药水"
+					},
+					"judges":	[{
+							"没有BUFF":	"战斗药水:防御型_13004115"
+						}, {
+							"在副本":	"奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"小型伤害吸收红剂"
+					},
+					"judges":	[{
+							"没有BUFF":	"速效药剂:防御型_13005027"
+						}, {
+							"在副本":	"奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;"
+						}]
+				}]
 		}],
 	"pet_build":	[{
 			"sw":	true,
@@ -4236,6 +4296,18 @@
 			"sw":	true,
 			"vague":	false,
 			"name":	"藤蔓腕轮",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"禁魔者腕轮",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
