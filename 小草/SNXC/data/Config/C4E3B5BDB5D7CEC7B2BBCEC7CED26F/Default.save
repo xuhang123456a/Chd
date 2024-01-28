@@ -111,14 +111,14 @@
 	"other_debug":	false,
 	"other_passprint":	true,
 	"path_auto_script_door_sw":	true,
-	"path_auto_script_showval_sw":	true,
+	"path_auto_script_showval_sw":	false,
 	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
 	"path_hide_effect_sw":	false,
 	"path_line_boss_sw":	true,
 	"path_line_deliver_sw":	true,
 	"path_line_exchange_back_sw":	false,
-	"path_line_exchange_sw":	false,
+	"path_line_exchange_sw":	true,
 	"path_line_itemtime_sw":	true,
 	"path_line_name_sw":	false,
 	"path_line_settings_sw":	false,
@@ -185,7 +185,7 @@
 	"auto_end_item_val":	"",
 	"auto_end_lua_val":	"执行自动切换角色.lua",
 	"auto_load_team_val":	"",
-	"auto_set_diyitem":	"",
+	"auto_set_diyitem":	"攻击套装",
 	"auto_team_dream_room_name":	"你到底吻不吻我o",
 	"auto_team_dream_room_namelist":	"10181788;﹎秋水伊人ゞ\r11078750;他不会等你了\r4775863;呆小ˇ宝\r",
 	"auto_team_room_name":	"7758",
@@ -3621,6 +3621,24 @@
 							"没有BUFF":	"速效药剂:防御型_13005027"
 						}, {
 							"在副本":	"奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;"
+						}]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"boss吃古籍",
+			"judges":	[],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"600",
+					"execute":	{
+						"使用物品":	"古籍·壁垒"
+					},
+					"judges":	[{
+							"在地图":	"精灵树桩 6_103206;生命之恩泰莱凯 6_103106;"
+						}, {
+							"搜索内有首领":	""
 						}]
 				}]
 		}],

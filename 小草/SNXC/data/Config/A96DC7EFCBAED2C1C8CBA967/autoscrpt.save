@@ -5,8 +5,48 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	4828,
-		"script":	"自动强化经验值觉醒石+3",
+		"tag":	42,
+		"script":	"联盟营地",
+		"task":	2003002
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	18468,
+		"script":	"探索心之休憩地",
+		"task":	2003018
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	6335,
+		"script":	"月华苑",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	26501,
+		"script":	"索拉城斗兽场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"经验套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5经验石",
+		"tag":	19170,
+		"script":	"泡泡战舰",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -15,7 +55,17 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	5437,
-		"script":	"自动强化暴击伤害觉醒石+3",
+		"tag":	15725,
+		"script":	"克洛诺斯的时间",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	11479,
+		"script":	"心脏的记忆",
 		"task":	0
 	}]
