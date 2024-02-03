@@ -1,6 +1,6 @@
 [{
 		"setcount":	1,
-		"loadtime":	-2146795460,
+		"loadtime":	-2146827868,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -10,7 +10,7 @@
 		"task":	0
 	}, {
 		"setcount":	2,
-		"loadtime":	-2076670800,
+		"loadtime":	-2119957709,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -20,7 +20,7 @@
 		"task":	0
 	}, {
 		"setcount":	3,
-		"loadtime":	-2057009761,
+		"loadtime":	-2092432228,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -29,8 +29,8 @@
 		"script":	"泡泡战舰",
 		"task":	0
 	}, {
-		"setcount":	1,
-		"loadtime":	-2146140100,
+		"setcount":	0,
+		"loadtime":	-2146828228,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -39,24 +39,44 @@
 		"script":	"克洛诺斯的时间",
 		"task":	0
 	}, {
-		"setcount":	2,
-		"loadtime":	-2076670800,
-		"diyitem":	"经验套装",
+		"setcount":	1,
+		"loadtime":	-2145517508,
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5经验石",
-		"tag":	32758,
-		"script":	"克洛诺斯的时间",
+		"diyawaken":	"5爆伤石",
+		"tag":	12383,
+		"script":	"心脏的记忆",
+		"task":	0
+	}, {
+		"setcount":	2,
+		"loadtime":	-2119958528,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	17422,
+		"script":	"心脏的记忆",
 		"task":	0
 	}, {
 		"setcount":	3,
-		"loadtime":	-2057009767,
-		"diyitem":	"经验套装",
+		"loadtime":	-2096364728,
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5经验石",
-		"tag":	20038,
-		"script":	"克洛诺斯的时间",
+		"diyawaken":	"5爆伤石",
+		"tag":	18717,
+		"script":	"心脏的记忆",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2144206848,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	19896,
+		"script":	"龙猫妹妹庭院",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -65,28 +85,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	18468,
-		"script":	"火山珊瑚",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	6335,
-		"script":	"索拉城斗兽场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	26501,
-		"script":	"世界之树",
+		"tag":	293,
+		"script":	"开启自动刷课程",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -147,6 +147,36 @@
 		"diyawaken":	"",
 		"tag":	24465,
 		"script":	"金字塔的秘密",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	18468,
+		"script":	"火山珊瑚",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	26501,
+		"script":	"世界之树",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	6335,
+		"script":	"索拉城斗兽场",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -229,27 +259,7 @@
 		"script":	"艾乌加蒙剧场（困难）",
 		"task":	0
 	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	4828,
-		"script":	"艾乌加蒙剧场",
-		"task":	0
-	}, {
-		"setcount":	2,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	5437,
-		"script":	"艾乌加蒙剧场",
-		"task":	0
-	}, {
-		"setcount":	3,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
@@ -279,7 +289,7 @@
 		"script":	"深渊之镜（困难）",
 		"task":	0
 	}, {
-		"setcount":	1,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
@@ -289,93 +299,13 @@
 		"script":	"深渊之镜",
 		"task":	0
 	}, {
-		"setcount":	2,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	293,
-		"script":	"深渊之镜",
-		"task":	0
-	}, {
-		"setcount":	3,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	12383,
-		"script":	"深渊之镜",
-		"task":	0
-	}, {
-		"setcount":	4,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	17422,
-		"script":	"深渊之镜",
-		"task":	0
-	}, {
-		"setcount":	5,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	18717,
-		"script":	"深渊之镜",
-		"task":	0
-	}, {
-		"setcount":	1,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
 		"tag":	19719,
-		"script":	"生命之恩泰莱凯",
-		"task":	0
-	}, {
-		"setcount":	2,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	19896,
-		"script":	"生命之恩泰莱凯",
-		"task":	0
-	}, {
-		"setcount":	3,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	5448,
-		"script":	"生命之恩泰莱凯",
-		"task":	0
-	}, {
-		"setcount":	4,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	21727,
-		"script":	"生命之恩泰莱凯",
-		"task":	0
-	}, {
-		"setcount":	5,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	14772,
 		"script":	"生命之恩泰莱凯",
 		"task":	0
 	}]

@@ -3,7 +3,7 @@
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"强化装备",
 		"diyawaken":	"",
 		"tag":	4828,
 		"script":	"自动强化经验值觉醒石+3",
@@ -13,9 +13,29 @@
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"强化装备",
+		"diyawaken":	"",
+		"tag":	42,
+		"script":	"自动强化贯穿力觉醒石+3",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"强化装备",
 		"diyawaken":	"",
 		"tag":	5437,
 		"script":	"自动强化暴击伤害觉醒石+3",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"强化装备",
+		"diyawaken":	"",
+		"tag":	26963,
+		"script":	"自动强化拉尔沙之戒",
 		"task":	0
 	}]

@@ -4,7 +4,58 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
+		"diyawaken":	"5生命石",
+		"tag":	23282,
+		"script":	"回声泉",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5生命石",
+		"tag":	16828,
+		"script":	"冰狱",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5生命石",
+		"tag":	9962,
+		"script":	"哈姆克公爵府",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5生命石",
+		"tag":	492,
+		"script":	"圣字教堂",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5生命石",
+		"tag":	2996,
+		"script":	"阿科洛之棺",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	42,
 		"script":	"盟约圣地",
 		"task":	0
 	}, {
@@ -14,6 +65,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"速清觉醒",
+		"tag":	18468,
 		"script":	"希列",
 		"task":	0
 	}, {
@@ -23,6 +75,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	6335,
 		"script":	"玫瑰庭院",
 		"task":	0
 	}, {
@@ -32,6 +85,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	26501,
 		"script":	"幻之摇篮",
 		"task":	0
 	}, {
@@ -41,6 +95,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	19170,
 		"script":	"忘却湖畔",
 		"task":	0
 	}, {
@@ -50,6 +105,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	15725,
 		"script":	"虚无之星",
 		"task":	0
 	}, {
@@ -59,6 +115,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	11479,
 		"script":	"山海归墟",
 		"task":	0
 	}, {
@@ -68,6 +125,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	29359,
 		"script":	"梦境奥涅伊鲁",
 		"task":	0
 	}, {
@@ -77,6 +135,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	26963,
 		"script":	"魔力防空洞",
 		"task":	0
 	}, {
@@ -86,24 +145,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	24465,
 		"script":	"神笔画卷",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"script":	"神树拉菲尔",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"速清觉醒",
-		"script":	"龙之峡谷",
 		"task":	0
 	}]

@@ -1,37 +1,71 @@
 [{
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
+		"setcount":	1,
+		"loadtime":	-2145517568,
+		"diyitem":	"最强经验套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"速清觉醒",
+		"diyawaken":	"5经验石",
+		"tag":	30837,
+		"script":	"心脏的记忆",
+		"task":	0
+	}, {
+		"setcount":	2,
+		"loadtime":	-2119958528,
+		"diyitem":	"最强经验套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5经验石",
+		"tag":	9375,
+		"script":	"心脏的记忆",
+		"task":	0
+	}, {
+		"setcount":	3,
+		"loadtime":	-2096365568,
+		"diyitem":	"最强经验套装",
+		"diyproperty":	"",
+		"diyother":	"经验副本",
+		"diyawaken":	"5经验石",
+		"tag":	11021,
+		"script":	"心脏的记忆",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2144206848,
+		"diyitem":	"最强经验套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5经验石",
+		"tag":	4597,
+		"script":	"龙猫妹妹庭院",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	10292,
+		"script":	"开启自动刷课程",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	9759,
 		"script":	"开启自动刷超能",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"script":	"火山珊瑚",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"掉落套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"script":	"索拉城斗兽场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
+		"tag":	6423,
 		"script":	"世界之树",
 		"task":	0
 	}, {
@@ -41,6 +75,27 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	18589,
+		"script":	"索拉城斗兽场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	24222,
+		"script":	"火山珊瑚",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	24947,
 		"script":	"保护春植园",
 		"task":	0
 	}, {
@@ -50,6 +105,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	27507,
 		"script":	"入侵太空农场",
 		"task":	0
 	}, {
@@ -59,6 +115,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	13031,
 		"script":	"猫头鹰的神秘组织",
 		"task":	0
 	}, {
@@ -68,6 +125,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	16414,
 		"script":	"樱树湖历险",
 		"task":	0
 	}, {
@@ -77,6 +135,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	29169,
 		"script":	"被感染的哎哟城",
 		"task":	0
 	}, {
@@ -86,6 +145,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	901,
 		"script":	"金字塔的秘密",
 		"task":	0
 	}, {
@@ -95,6 +155,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	32592,
 		"script":	"竞技场练习赛（全部任务）",
 		"task":	0
 	}, {
@@ -103,7 +164,8 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	18763,
 		"script":	"水下培养皿",
 		"task":	0
 	}, {
@@ -112,17 +174,9 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	1656,
 		"script":	"燥热键盘",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"速清觉醒",
-		"script":	"开启自动刷超能",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -130,7 +184,28 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	24485,
+		"script":	"神秘的迷宫教室",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	8282,
+		"script":	"圣域之塔",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	6360,
 		"script":	"幻影毒雾沼泽",
 		"task":	0
 	}, {
@@ -139,52 +214,8 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"script":	"巧克力花园(超越)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"script":	"欧若拉庭院",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"script":	"神圣教堂",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"script":	"太阳神地下祭坛(超越)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"script":	"宝石丛林",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	27349,
 		"script":	"混沌峡谷",
 		"task":	0
 	}, {
@@ -193,8 +224,9 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"script":	"奈落之屋",
+		"diyawaken":	"5爆伤石",
+		"tag":	19669,
+		"script":	"幻影毒雾沼泽(困难)",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -202,7 +234,18 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"script":	"超能者纪念馆",
+		"diyawaken":	"5爆伤石",
+		"tag":	24022,
+		"script":	"混沌峡谷(困难)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	17411,
+		"script":	"开启自动刷超能",
 		"task":	0
 	}]

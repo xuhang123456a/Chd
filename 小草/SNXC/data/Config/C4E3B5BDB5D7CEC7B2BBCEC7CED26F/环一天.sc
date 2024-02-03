@@ -1,12 +1,42 @@
 [{
-		"setcount":	0,
-		"loadtime":	0,
+		"setcount":	1,
+		"loadtime":	-2146828288,
 		"diyitem":	"经验套装",
 		"diyproperty":	"普通支配",
 		"diyother":	"经验副本",
 		"diyawaken":	"装备觉醒",
 		"tag":	5706,
 		"script":	"泡泡战舰",
+		"task":	0
+	}, {
+		"setcount":	2,
+		"loadtime":	-2119958528,
+		"diyitem":	"经验套装",
+		"diyproperty":	"普通支配",
+		"diyother":	"经验副本",
+		"diyawaken":	"装备觉醒",
+		"tag":	23812,
+		"script":	"泡泡战舰",
+		"task":	0
+	}, {
+		"setcount":	3,
+		"loadtime":	-2092433408,
+		"diyitem":	"经验套装",
+		"diyproperty":	"普通支配",
+		"diyother":	"经验副本",
+		"diyawaken":	"装备觉醒",
+		"tag":	31323,
+		"script":	"泡泡战舰",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	26501,
+		"script":	"开启自动刷课程",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -17,16 +47,6 @@
 		"diyawaken":	"",
 		"tag":	28146,
 		"script":	"克洛诺斯的时间",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	23282,
-		"script":	"心脏的记忆",
 		"task":	0
 	}, {
 		"setcount":	0,
