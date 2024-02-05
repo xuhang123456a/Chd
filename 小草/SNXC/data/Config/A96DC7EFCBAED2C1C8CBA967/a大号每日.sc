@@ -1,4 +1,14 @@
 [{
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	293,
+		"script":	"开启自动刷课程",
+		"task":	0
+	}, {
 		"setcount":	1,
 		"loadtime":	-2146827868,
 		"diyitem":	"经验套装",
@@ -37,56 +47,6 @@
 		"diyawaken":	"5经验石",
 		"tag":	27645,
 		"script":	"克洛诺斯的时间",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"loadtime":	-2145517508,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	12383,
-		"script":	"心脏的记忆",
-		"task":	0
-	}, {
-		"setcount":	2,
-		"loadtime":	-2119958528,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	17422,
-		"script":	"心脏的记忆",
-		"task":	0
-	}, {
-		"setcount":	3,
-		"loadtime":	-2096364728,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	18717,
-		"script":	"心脏的记忆",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	-2144206848,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	19896,
-		"script":	"龙猫妹妹庭院",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	293,
-		"script":	"开启自动刷课程",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -307,5 +267,45 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	19719,
 		"script":	"生命之恩泰莱凯",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	-2145517508,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	12383,
+		"script":	"心脏的记忆",
+		"task":	0
+	}, {
+		"setcount":	2,
+		"loadtime":	-2119958528,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	17422,
+		"script":	"心脏的记忆",
+		"task":	0
+	}, {
+		"setcount":	3,
+		"loadtime":	-2096364728,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	18717,
+		"script":	"心脏的记忆",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2144206848,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	19896,
+		"script":	"龙猫妹妹庭院",
 		"task":	0
 	}]

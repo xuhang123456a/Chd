@@ -1,48 +1,13 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"恐怖攻击套装",
+		"diyitem":	"最强经验套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"script":	"联盟营地",
-		"task":	2003002
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"恐怖攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"script":	"探索心之休憩地",
-		"task":	2003018
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"script":	"领取家族工资",
+		"diyawaken":	"5经验石",
+		"tag":	9516,
+		"script":	"心脏的记忆",
 		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"恐怖攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"script":	"月华苑",
-		"task":	2001015
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"script":	"索拉城斗兽场",
-		"task":	2001014
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -50,33 +15,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"经验觉醒",
+		"tag":	17965,
 		"script":	"龙猫妹妹庭院",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"最强经验套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"经验觉醒",
-		"script":	"魔法学院主楼",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"最强经验套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"经验觉醒",
-		"script":	"怪物树山山谷",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"最强经验套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"经验觉醒",
-		"script":	"扭曲的世界树(超越)",
 		"task":	0
 	}]

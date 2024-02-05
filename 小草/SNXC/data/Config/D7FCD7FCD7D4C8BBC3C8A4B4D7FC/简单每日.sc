@@ -171,111 +171,41 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"战斗套",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	30334,
-		"script":	"探索心之休憩地",
-		"task":	2003018
+		"diyother":	"开启战魂",
+		"diyawaken":	"战斗",
+		"tag":	31674,
+		"script":	"炼狱阿兹雷尔",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"掉落套装",
+		"diyitem":	"战斗套",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	17674,
-		"script":	"保管异面不祥道具(1)",
-		"task":	100069
+		"diyother":	"开启战魂",
+		"diyawaken":	"战斗",
+		"tag":	22387,
+		"script":	"炼狱阿兹雷尔(困难)",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"战斗套",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20038,
-		"script":	"星之摇篮",
-		"task":	100042
+		"diyawaken":	"战斗",
+		"tag":	28746,
+		"script":	"幻影毒雾沼泽",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"战斗套",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	1843,
-		"script":	"世界之树",
-		"task":	100035
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	289,
-		"script":	"世界之树",
-		"task":	100036
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	23806,
-		"script":	"里维拉市政府",
-		"task":	100011
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31102,
-		"script":	"神秘殿堂",
-		"task":	100005
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24394,
-		"script":	"神秘殿堂",
-		"task":	100006
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24085,
-		"script":	"矮人飞艇(超越)",
-		"task":	100016
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	11841,
-		"script":	"春植岛纪念馆",
-		"task":	100022
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	7377,
-		"script":	"阿玛伦宝库",
-		"task":	100134
+		"diyawaken":	"战斗",
+		"tag":	26925,
+		"script":	"幻影毒雾沼泽(困难)",
+		"task":	0
 	}]

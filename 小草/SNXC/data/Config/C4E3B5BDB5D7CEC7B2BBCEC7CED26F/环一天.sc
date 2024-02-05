@@ -1,4 +1,14 @@
 [{
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	26501,
+		"script":	"开启自动刷课程",
+		"task":	0
+	}, {
 		"setcount":	1,
 		"loadtime":	-2146828288,
 		"diyitem":	"经验套装",
@@ -27,16 +37,6 @@
 		"diyawaken":	"装备觉醒",
 		"tag":	31323,
 		"script":	"泡泡战舰",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	26501,
-		"script":	"开启自动刷课程",
 		"task":	0
 	}, {
 		"setcount":	0,

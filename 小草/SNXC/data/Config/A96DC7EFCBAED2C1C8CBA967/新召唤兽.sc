@@ -38,4 +38,34 @@
 		"tag":	15725,
 		"script":	"Ä§Á¦·À¿Õ¶´",
 		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	18468,
+		"script":	"ÃÎ¾³°ÂÄùÒÁÂ³",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	11479,
+		"script":	"ĞéÎŞÖ®ĞÇ",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	19073,
+		"script":	"Ãµ¹åÍ¥Ôº",
+		"task":	0
 	}]
