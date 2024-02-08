@@ -1,12 +1,82 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	24465,
+		"script":	"领取家族工资",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	15725,
+		"script":	"联盟营地",
+		"task":	2003002
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	11479,
+		"script":	"探索心之休憩地",
+		"task":	2003018
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	29359,
+		"script":	"月华苑",
+		"task":	2001015
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	26963,
+		"script":	"索拉城斗兽场",
+		"task":	2001014
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	10292,
-		"script":	"开启自动刷课程",
+		"tag":	6335,
+		"script":	"探险家神殿(英雄)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	26501,
+		"script":	"探险家神殿(高级)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	19170,
+		"script":	"探险家神殿(普通)",
 		"task":	0
 	}, {
 		"setcount":	0,

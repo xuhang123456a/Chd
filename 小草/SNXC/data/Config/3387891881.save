@@ -1,7 +1,19 @@
 [{
+		"index":	309096343,
+		"name":	"你到底吻不吻我o",
+		"autoscript":	"环一天",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	433160875,
 		"name":	"来去荒芜",
 		"autoscript":	"双刀pk",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	309111265,
+		"name":	"你到底吻不吻我o",
+		"autoscript":	"环一天",
 		"item":	"存仓",
 		"item_other":	""
 	}]

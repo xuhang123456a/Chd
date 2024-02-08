@@ -10,7 +10,7 @@
 		"task":	0
 	}, {
 		"setcount":	1,
-		"loadtime":	-2146828288,
+		"loadtime":	-2147155968,
 		"diyitem":	"经验套装",
 		"diyproperty":	"普通支配",
 		"diyother":	"经验副本",
@@ -277,5 +277,25 @@
 		"diyawaken":	"",
 		"tag":	1870,
 		"script":	"探险家神殿(英雄)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	6335,
+		"script":	"领取家族工资",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"存仓",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	19170,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]

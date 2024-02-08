@@ -5,18 +5,58 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	293,
-		"script":	"开启自动刷课程",
-		"task":	0
+		"tag":	31323,
+		"script":	"联盟营地",
+		"task":	2003002
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30334,
+		"script":	"探索心之休憩地",
+		"task":	2003018
 	}, {
 		"setcount":	1,
-		"loadtime":	-2146827868,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	17674,
+		"script":	"月华苑",
+		"task":	2001015
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	4665,
+		"script":	"索拉城斗兽场",
+		"task":	2001014
+	}, {
+		"setcount":	1,
+		"loadtime":	-2147155548,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5经验石",
 		"tag":	32663,
 		"script":	"泡泡战舰",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2119958528,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	42,
+		"script":	"自动领取活动强力戒指(12小时)",
 		"task":	0
 	}, {
 		"setcount":	2,
