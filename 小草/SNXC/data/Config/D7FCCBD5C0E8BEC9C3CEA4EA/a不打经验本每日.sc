@@ -195,26 +195,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	18763,
-		"script":	"水下培养皿",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	1656,
-		"script":	"燥热键盘",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
 		"tag":	24485,
 		"script":	"神秘的迷宫教室",
 		"task":	0
@@ -277,5 +257,15 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	17411,
 		"script":	"开启自动刷超能",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"存仓",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22356,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]

@@ -101,6 +101,16 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"装备副本",
+		"diyawaken":	"装备觉醒",
+		"tag":	7712,
+		"script":	"艾乌加蒙剧场（困难）",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -298,4 +308,44 @@
 		"tag":	19170,
 		"script":	"执行自动切换角色",
 		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	19913,
+		"script":	"联盟营地",
+		"task":	2003002
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	9895,
+		"script":	"探索心之休憩地",
+		"task":	2003018
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	17674,
+		"script":	"月华苑",
+		"task":	2001015
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	15142,
+		"script":	"索拉城斗兽场",
+		"task":	2001014
 	}]

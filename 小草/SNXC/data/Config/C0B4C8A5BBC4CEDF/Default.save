@@ -51,15 +51,15 @@
 	"item_disassemble_item_sw":	true,
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
-	"item_pick_filter_10":	false,
+	"item_pick_filter_10":	true,
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
-	"item_pick_filter_4":	true,
+	"item_pick_filter_4":	false,
 	"item_pick_filter_5":	true,
 	"item_pick_filter_6":	true,
 	"item_pick_filter_7":	true,
 	"item_pick_filter_8":	false,
-	"item_pick_filter_9":	false,
+	"item_pick_filter_9":	true,
 	"item_pick_sw":	true,
 	"item_throw_1_sw":	true,
 	"item_throw_2":	true,
@@ -675,10 +675,7 @@
 			"type":	"其他",
 			"name":	"萨尔加德"
 		}],
-	"item_filter_throw_data_1":	[{
-			"type":	"全部",
-			"name":	"西格"
-		}],
+	"item_filter_throw_data_1":	[],
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
 			"npc":	1,

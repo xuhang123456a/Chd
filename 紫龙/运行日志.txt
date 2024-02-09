@@ -22892,3 +22892,9 @@
 [ 2- 8 12: 7:32]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
 [ 2- 8 12: 7:46]:收到游戏退出消息
 [ 2- 8 12: 7:47]:收到游戏退出消息
+[ 2- 8 12:36:47]:Module:LaTaleClient.exe+72E2A9,eax=E022348,ecx=E5D6DEF1,edx=7A5A010,edi=251DBDE0,esi=56A605C0
+[ 2- 8 12:36:47]:Module: D:\Program Files (x86)\Chd\Chd\紫龙\SysChd.dll Function:aliFont
+[ 2- 8 12:36:47]:Module: C:\Windows\System32\ucrtbase.dll Function:o_iswdigit
+[ 2- 8 12:36:47]:Module: C:\Windows\System32\KERNEL32.DLL Function:BaseThreadInitThunk
+[ 2- 8 12:36:47]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 2- 8 12:36:47]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath

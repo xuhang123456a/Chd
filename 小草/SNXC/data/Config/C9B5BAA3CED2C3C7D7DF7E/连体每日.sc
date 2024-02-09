@@ -80,7 +80,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	0,
+		"loadtime":	-2100297728,
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -90,7 +90,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	0,
+		"loadtime":	-2100297728,
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -100,7 +100,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	0,
+		"loadtime":	-2100297728,
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",

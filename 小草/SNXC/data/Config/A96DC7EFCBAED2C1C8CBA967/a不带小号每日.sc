@@ -5,6 +5,16 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	7712,
+		"script":	"领取家族工资",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
 		"tag":	31323,
 		"script":	"联盟营地",
 		"task":	2003002
@@ -38,6 +48,36 @@
 		"tag":	4665,
 		"script":	"索拉城斗兽场",
 		"task":	2001014
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	28254,
+		"script":	"探险家神殿(英雄)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	32758,
+		"script":	"探险家神殿(高级)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	20038,
+		"script":	"探险家神殿(普通)",
+		"task":	0
 	}, {
 		"setcount":	1,
 		"loadtime":	-2147155548,
@@ -249,14 +289,14 @@
 		"script":	"精灵树桩",
 		"task":	0
 	}, {
-		"setcount":	1,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	11943,
-		"script":	"艾乌加蒙剧场（困难）",
+		"tag":	19719,
+		"script":	"生命之恩泰莱凯",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -267,26 +307,6 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	32392,
 		"script":	"艾乌加蒙剧场",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	14605,
-		"script":	"深渊之镜（困难）",
-		"task":	0
-	}, {
-		"setcount":	2,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	3903,
-		"script":	"深渊之镜（困难）",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -305,7 +325,27 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	19719,
-		"script":	"生命之恩泰莱凯",
+		"tag":	3903,
+		"script":	"深渊之镜（困难）",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	11943,
+		"script":	"艾乌加蒙剧场（困难）",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	12860,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]
