@@ -3,7 +3,7 @@
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"巴尔特支援",
 		"diyawaken":	"",
 		"tag":	26300,
 		"script":	"自动强化经验值觉醒石+3",

@@ -675,7 +675,10 @@
 			"type":	"其他",
 			"name":	"萨尔加德"
 		}],
-	"item_filter_throw_data_1":	[],
+	"item_filter_throw_data_1":	[{
+			"type":	"任务",
+			"name":	"西格卷轴"
+		}],
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
 			"npc":	1,

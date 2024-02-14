@@ -25,8 +25,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15725,
-		"script":	"梦二",
+		"tag":	42,
+		"script":	"梦二（1法3战）",
 		"task":	0
 	}, {
 		"setcount":	0,

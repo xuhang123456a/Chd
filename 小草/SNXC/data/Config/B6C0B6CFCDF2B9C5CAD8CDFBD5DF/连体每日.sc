@@ -84,7 +84,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5爆伤石",
+		"diyawaken":	"",
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
 		"task":	0
@@ -94,7 +94,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5爆伤石",
+		"diyawaken":	"",
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
 		"task":	0
@@ -104,7 +104,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5爆伤石",
+		"diyawaken":	"",
 		"tag":	22387,
 		"script":	"探险家神殿(普通)",
 		"task":	0

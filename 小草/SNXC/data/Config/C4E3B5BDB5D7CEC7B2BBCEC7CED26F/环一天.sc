@@ -75,6 +75,26 @@
 		"diyproperty":	"",
 		"diyother":	"装备副本",
 		"diyawaken":	"装备觉醒",
+		"tag":	17036,
+		"script":	"消失的星之歌",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"装备副本",
+		"diyawaken":	"装备觉醒",
+		"tag":	9895,
+		"script":	"黄昏教堂",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"装备副本",
+		"diyawaken":	"装备觉醒",
 		"tag":	9962,
 		"script":	"生命之恩泰莱凯",
 		"task":	0
@@ -315,7 +335,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19913,
+		"tag":	15725,
 		"script":	"联盟营地",
 		"task":	2003002
 	}, {
@@ -325,7 +345,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9895,
+		"tag":	24465,
 		"script":	"探索心之休憩地",
 		"task":	2003018
 	}, {
@@ -335,7 +355,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17674,
+		"tag":	19913,
 		"script":	"月华苑",
 		"task":	2001015
 	}, {
@@ -345,7 +365,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15142,
+		"tag":	26300,
 		"script":	"索拉城斗兽场",
 		"task":	2001014
 	}]
