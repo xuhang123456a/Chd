@@ -14,7 +14,7 @@
 		"diyitem":	"经验套装",
 		"diyproperty":	"普通支配",
 		"diyother":	"经验副本",
-		"diyawaken":	"装备觉醒",
+		"diyawaken":	"5经验石",
 		"tag":	5706,
 		"script":	"泡泡战舰",
 		"task":	0
@@ -24,7 +24,7 @@
 		"diyitem":	"经验套装",
 		"diyproperty":	"普通支配",
 		"diyother":	"经验副本",
-		"diyawaken":	"装备觉醒",
+		"diyawaken":	"5经验石",
 		"tag":	23812,
 		"script":	"泡泡战舰",
 		"task":	0
@@ -34,7 +34,7 @@
 		"diyitem":	"经验套装",
 		"diyproperty":	"普通支配",
 		"diyother":	"经验副本",
-		"diyawaken":	"装备觉醒",
+		"diyawaken":	"5经验石",
 		"tag":	31323,
 		"script":	"泡泡战舰",
 		"task":	0
@@ -44,7 +44,7 @@
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5经验石",
 		"tag":	28146,
 		"script":	"克洛诺斯的时间",
 		"task":	0

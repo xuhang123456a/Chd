@@ -678,6 +678,9 @@
 	"item_filter_throw_data_1":	[{
 			"type":	"任务",
 			"name":	"西格卷轴"
+		}, {
+			"type":	"任务",
+			"name":	"西格首饰"
 		}],
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
@@ -2041,6 +2044,41 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	2003002,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2003015,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2003016,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2003017,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2003018,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	2001069,
 			"sw":	true,
 			"diyitem":	"",
@@ -2433,36 +2471,8 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
-			"id":	2003002,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2003015,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2003016,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2003017,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2003018,
-			"sw":	true,
+			"id":	2001211,
+			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
@@ -3274,6 +3284,20 @@
 			"diyawaken":	""
 		}, {
 			"id":	2001209,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001213,
+			"sw":	false,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	2001212,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
