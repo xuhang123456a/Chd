@@ -28,7 +28,7 @@
 	"auto_task_sw2":	true,
 	"auto_team_dream_room_leader":	false,
 	"auto_team_room_leader":	false,
-	"automatic_book":	false,
+	"automatic_book":	true,
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
 	"automatic_explorer":	true,
@@ -163,7 +163,7 @@
 	"skill_option_jump_off1":	true,
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	false,
-	"skill_option_lr_boss":	true,
+	"skill_option_lr_boss":	false,
 	"skill_option_platform_skill":	false,
 	"skill_option_repeat":	false,
 	"skill_option_slide_off":	false,
@@ -190,7 +190,7 @@
 	"auto_team_dream_room_namelist":	"苏黎旧梦り\r天然呆就自然萌\r雪碧゛\r",
 	"auto_team_room_name":	"",
 	"auto_team_room_namelist":	"",
-	"guild_tribute_items":	"初级活力水滴;智之石碎片;智之石;中级冒险家情报卷轴;闪闪发光的宝箱;高级冒险家情报卷轴;",
+	"guild_tribute_items":	"初级活力水滴;智之石碎片;智之石;中级冒险家情报卷轴;闪闪发光的宝箱;高级冒险家情报卷轴;达人冒险家情报卷轴;初级冒险家情报卷轴;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"",
@@ -223,7 +223,7 @@
 	"auto_team_room_playercount":	4,
 	"guild_diplomacy_min":	300,
 	"item_disassemble_item_time":	1,
-	"item_pick_time":	100,
+	"item_pick_time":	0,
 	"item_throw_1_begin":	1,
 	"item_throw_1_end":	168,
 	"item_throw_2_begin":	1,
@@ -278,13 +278,6 @@
 	"summon_automatic_zhs_refresh5":	1,
 	"summon_automatic_zhs_refresh6":	1,
 	"summon_automatic_zhs_refresh7":	0,
-	"summon_automatic_zhs_sort1":	1,
-	"summon_automatic_zhs_sort2":	1,
-	"summon_automatic_zhs_sort3":	1,
-	"summon_automatic_zhs_sort4":	1,
-	"summon_automatic_zhs_sort5":	1,
-	"summon_automatic_zhs_sort6":	1,
-	"summon_automatic_zhs_sort7":	0,
 	"team_accept_allot":	2,
 	"btn_color_1":	33023,
 	"btn_color_10":	16384000,
@@ -3884,7 +3877,7 @@
 				"密语聊天":	"黑色的眼眸~~~ 911"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:06"
 			},
@@ -3895,7 +3888,7 @@
 				"更改自动脚本":	"简单每日"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:06"
 			},
@@ -3906,7 +3899,7 @@
 				"退出到角色":	""
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},
@@ -4114,6 +4107,31 @@
 							"地图内有首领":	""
 						}, {
 							"未中异常状态":	""
+						}]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"苏生血脉时间箱子",
+			"judges":	[],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"黄金血脉箱子"
+					},
+					"judges":	[{
+							"没有物品":	"苏生药剂"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"黄金箱子"
+					},
+					"judges":	[{
+							"没有物品":	"苏生药剂"
 						}]
 				}]
 		}, {
@@ -4423,6 +4441,15 @@
 					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
+						"使用物品":	"遗忘之城怪物图鉴包"
+					},
+					"judges":	[{
+							"HP<=%":	"100"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
 						"使用物品":	"长苔藓的箱子"
 					},
 					"judges":	[{
@@ -4640,6 +4667,24 @@
 					"sleep":	"1",
 					"execute":	{
 						"使用物品":	"燃炼包"
+					},
+					"judges":	[{
+							"HP<=%":	"100"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"新年红包"
+					},
+					"judges":	[{
+							"HP<=%":	"100"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"龙年大吉红包"
 					},
 					"judges":	[{
 							"HP<=%":	"100"

@@ -274,7 +274,7 @@
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
+		"diyawaken":	"5¾õĞÑ",
 		"tag":	492,
 		"script":	"¾«ÁéÊ÷×®",
 		"task":	0
@@ -284,7 +284,7 @@
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
+		"diyawaken":	"5¾õĞÑ",
 		"tag":	2996,
 		"script":	"¾«ÁéÊ÷×®",
 		"task":	0
@@ -294,7 +294,7 @@
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
+		"diyawaken":	"5¾õĞÑ",
 		"tag":	4828,
 		"script":	"ÏûÊ§µÄĞÇÖ®¸è",
 		"task":	0
@@ -304,7 +304,7 @@
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
+		"diyawaken":	"5¾õĞÑ",
 		"tag":	5437,
 		"script":	"»Æ»è½ÌÌÃ",
 		"task":	0
@@ -314,9 +314,29 @@
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
+		"diyawaken":	"5¾õĞÑ",
 		"tag":	19719,
 		"script":	"ÉúÃüÖ®¶÷Ì©À³¿­",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5¾õĞÑ",
+		"tag":	11943,
+		"script":	"ÉîÔ¨Ö®¾µ",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5¾õĞÑ",
+		"tag":	32392,
+		"script":	"°¬ÎÚ¼ÓÃÉ¾ç³¡",
 		"task":	0
 	}, {
 		"setcount":	0,

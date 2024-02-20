@@ -60,7 +60,7 @@
 	"item_pick_filter_7":	true,
 	"item_pick_filter_8":	false,
 	"item_pick_filter_9":	true,
-	"item_pick_sw":	false,
+	"item_pick_sw":	true,
 	"item_throw_1_sw":	true,
 	"item_throw_2":	true,
 	"item_throw_2_sw":	true,
@@ -278,13 +278,6 @@
 	"summon_automatic_zhs_refresh5":	1,
 	"summon_automatic_zhs_refresh6":	1,
 	"summon_automatic_zhs_refresh7":	0,
-	"summon_automatic_zhs_sort1":	1,
-	"summon_automatic_zhs_sort2":	1,
-	"summon_automatic_zhs_sort3":	1,
-	"summon_automatic_zhs_sort4":	1,
-	"summon_automatic_zhs_sort5":	1,
-	"summon_automatic_zhs_sort6":	0,
-	"summon_automatic_zhs_sort7":	0,
 	"team_accept_allot":	2,
 	"btn_color_1":	255,
 	"btn_color_10":	65280,
@@ -4024,7 +4017,7 @@
 						"使用物品":	"古籍·壁垒"
 					},
 					"judges":	[{
-							"在副本":	"黄昏教堂;消失的星之歌;精灵树桩;奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;流水回廊;"
+							"在副本":	"精灵树桩;奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;流水回廊;"
 						}, {
 							"搜索内有首领":	""
 						}, {
@@ -4966,6 +4959,24 @@
 					"judges":	[{
 							"HP<=%":	"100"
 						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"新年红包"
+					},
+					"judges":	[{
+							"HP<=%":	"100"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"龙年大吉红包"
+					},
+					"judges":	[{
+							"HP<=%":	"100"
+						}]
 				}]
 		}],
 	"pet_build":	[{
@@ -5197,10 +5208,10 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"贯穿力 觉醒石+1",
-			"type1":	false,
+			"type1":	true,
 			"type2":	false,
 			"type3":	false,
 			"filter1":	false,
@@ -6292,6 +6303,54 @@
 			"sw":	true,
 			"vague":	false,
 			"name":	"暴击伤害 觉醒石+2",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"经验值 觉醒石+1",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"黄昏眼镜",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"黄昏丝袜",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"黄昏脸饰",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,

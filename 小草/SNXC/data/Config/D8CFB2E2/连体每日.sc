@@ -111,12 +111,12 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	10384,
-		"script":	"竞技场练习赛（全部任务）",
+		"tag":	42,
+		"script":	"竞技场练习赛（低保任务）",
 		"task":	0
 	}, {
 		"setcount":	0,
