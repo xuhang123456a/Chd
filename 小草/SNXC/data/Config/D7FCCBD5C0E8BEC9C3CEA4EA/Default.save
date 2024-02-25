@@ -707,13 +707,13 @@
 		}, {
 			"sw":	true,
 			"type":	"操作",
-			"name":	"召唤兽出战:阿里亚",
-			"induns":	["龙猫妹妹庭院", "心脏的记忆"]
+			"name":	"召唤兽出战:龙猫理查",
+			"induns":	["龙猫妹妹庭院", "心脏的记忆", "克洛诺斯的时间", "泡泡战舰"]
 		}, {
 			"sw":	true,
 			"type":	"操作",
-			"name":	"召唤兽出战:龙猫理查",
-			"induns":	["龙猫妹妹庭院", "心脏的记忆", "克洛诺斯的时间", "泡泡战舰"]
+			"name":	"召唤兽出战:阿里亚",
+			"induns":	["龙猫妹妹庭院", "心脏的记忆"]
 		}, {
 			"sw":	true,
 			"type":	"物品",
@@ -5516,7 +5516,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"回声丝袜",
 			"type1":	true,
@@ -5528,7 +5528,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"回声星朵",
 			"type1":	true,

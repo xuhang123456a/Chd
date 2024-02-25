@@ -25,8 +25,8 @@
 		"diyproperty":	"",
 		"diyother":	"装备副本",
 		"diyawaken":	"装备觉醒",
-		"tag":	26501,
-		"script":	"炼狱阿兹雷尔",
+		"tag":	19170,
+		"script":	"巴尼塔斯",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -35,7 +35,7 @@
 		"diyproperty":	"",
 		"diyother":	"装备副本",
 		"diyawaken":	"装备觉醒",
-		"tag":	19170,
-		"script":	"巴尼塔斯",
+		"tag":	26501,
+		"script":	"炼狱阿兹雷尔",
 		"task":	0
 	}]

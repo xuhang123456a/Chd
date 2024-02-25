@@ -4,7 +4,7 @@
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
+		"diyawaken":	"5¾õÐÑ",
 		"tag":	1870,
 		"script":	"¿¨·ò¿¨¾ç³¡",
 		"task":	0

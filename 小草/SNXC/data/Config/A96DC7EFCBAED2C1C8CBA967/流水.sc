@@ -4,7 +4,8 @@
 		"diyitem":	"攻击古碑",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5经验石",
+		"diyawaken":	"5觉醒",
+		"tag":	32210,
 		"script":	"流水回廊",
 		"task":	0
 	}]
