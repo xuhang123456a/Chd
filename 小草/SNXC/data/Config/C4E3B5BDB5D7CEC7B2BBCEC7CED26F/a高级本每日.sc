@@ -135,16 +135,6 @@
 		"diyproperty":	"",
 		"diyother":	"装备副本",
 		"diyawaken":	"装备觉醒",
-		"tag":	7712,
-		"script":	"艾乌加蒙剧场（困难）",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"装备副本",
-		"diyawaken":	"装备觉醒",
 		"tag":	14772,
 		"script":	"探险家神殿(普通)",
 		"task":	0
@@ -181,11 +171,21 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"装备副本",
+		"diyawaken":	"装备觉醒",
+		"tag":	7712,
+		"script":	"艾乌加蒙剧场（困难）",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15725,
+		"tag":	24465,
 		"script":	"联盟营地",
 		"task":	2003002
 	}, {
@@ -195,7 +195,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	24465,
+		"tag":	2996,
 		"script":	"探索心之休憩地",
 		"task":	2003018
 	}, {
@@ -205,7 +205,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19913,
+		"tag":	5437,
 		"script":	"月华苑",
 		"task":	2001015
 	}, {
@@ -215,7 +215,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	26300,
+		"tag":	14605,
 		"script":	"索拉城斗兽场",
 		"task":	2001014
 	}]

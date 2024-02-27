@@ -149,7 +149,7 @@
 		"script":	"家族图腾(领取图腾)",
 		"task":	0
 	}, {
-		"setcount":	2,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
