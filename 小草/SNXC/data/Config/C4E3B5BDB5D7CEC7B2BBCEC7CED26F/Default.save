@@ -9,7 +9,7 @@
 	"auto_load_kcb":	true,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_login_end":	false,
 	"auto_reward_open_sw":	true,
@@ -60,7 +60,7 @@
 	"item_pick_filter_7":	true,
 	"item_pick_filter_8":	false,
 	"item_pick_filter_9":	true,
-	"item_pick_sw":	true,
+	"item_pick_sw":	false,
 	"item_throw_1_sw":	true,
 	"item_throw_2":	true,
 	"item_throw_2_sw":	true,
@@ -188,7 +188,7 @@
 	"auto_team_dream_room_name":	"你到底吻不吻我o",
 	"auto_team_dream_room_namelist":	"10145600;逆袭丶刀龙\r10181788;﹎秋水伊人ゞ\r4775863;呆小ˇ宝\r",
 	"auto_team_room_name":	"7758",
-	"auto_team_room_namelist":	"10335259;猫又*\r1111935;╉⑨⒋很坏。0\r10181788;﹎秋水伊人ゞ\r",
+	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r10335259;猫又*\r9937905;顾影人自怜丶\r",
 	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;初级冒险家情报卷轴;中级冒险家情报卷轴;大师冒险家情报卷轴;高级冒险家情报卷轴;达人冒险家情报卷轴;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
@@ -3803,562 +3803,6 @@
 			"only_run":	false,
 			"run_sleep":	1,
 			"sw":	true,
-			"name":	"自动使用杂物",
-			"judges":	[],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【无限梦境II】15层通关奖励"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【无限梦境】20层通关奖励"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"人品能量剂福袋"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"黄昏教堂图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"消失的星之歌图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"精灵树桩图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"生命之恩泰莱凯图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"艾乌加蒙剧场图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"深渊之镜图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"普洛菲司台图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"霍普占卜室图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"卡伊洛斯的时间图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"炼狱阿兹雷尔图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"巴尼塔斯图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"哈姆克公爵府图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"圣字教堂图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"阿科洛之棺图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"回声泉图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"冰狱图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"盟约圣地图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"希列图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"玫瑰庭院图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"幻之摇篮图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"忘却湖畔图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"虚无之星图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"山海归墟图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"梦境奥涅伊鲁图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"魔力防空洞图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"神笔画卷图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"泡泡战舰图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"克洛诺斯的时间图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"心脏的记忆图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"龙猫妹妹庭院图鉴集"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"遗忘之城怪物图鉴包"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"长苔藓的箱子"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"木箱"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"长苔藓的血脉箱子"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"血脉木箱"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"长苔藓的混沌箱子"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"混沌木箱"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"长苔藓的神秘箱子"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"神秘木箱"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"长苔藓的时间箱子"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"时间木箱"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·长苔藓的箱子"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·木箱"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·长苔藓的血脉箱子"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·血脉木箱"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·长苔藓的混沌箱子"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·混沌木箱"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·长苔藓的神秘箱子"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·神秘木箱"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·长苔藓的时间箱子"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·时间木箱"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"每周挑战礼包"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"低级职业徽章包"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】8层护身宝石通关礼包"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】9层护身宝石通关礼包"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"燃炼包"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"新年红包"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"龙年大吉红包"
-					},
-					"judges":	[{
-							"HP<=%":	"100"
-						}]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	true,
 			"name":	"苏生血脉时间箱子",
 			"judges":	[],
 			"executes":	[{
@@ -4379,6 +3823,475 @@
 					"judges":	[{
 							"没有物品":	"苏生药剂"
 						}]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"自动使用杂物",
+			"judges":	[],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"【无限梦境】20层通关奖励"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"【无限梦境II】10层通关奖励"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"【无限梦境II】15层通关奖励"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"【无限梦境III】4层通关奖励"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"人品能量剂福袋"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"黄昏教堂图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"消失的星之歌图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"精灵树桩图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"生命之恩泰莱凯图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"艾乌加蒙剧场图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"深渊之镜图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"普洛菲司台图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"霍普占卜室图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"卡伊洛斯的时间图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"炼狱阿兹雷尔图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"巴尼塔斯图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"哈姆克公爵府图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"圣字教堂图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"阿科洛之棺图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"回声泉图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"冰狱图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"盟约圣地图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"希列图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"玫瑰庭院图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"幻之摇篮图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"忘却湖畔图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"虚无之星图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"山海归墟图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"梦境奥涅伊鲁图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"魔力防空洞图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"神笔画卷图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"泡泡战舰图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"克洛诺斯的时间图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"心脏的记忆图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"龙猫妹妹庭院图鉴集"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"遗忘之城怪物图鉴包"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"长苔藓的箱子"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"木箱"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"长苔藓的血脉箱子"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"血脉木箱"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"长苔藓的混沌箱子"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"混沌木箱"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"长苔藓的神秘箱子"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"神秘木箱"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"长苔藓的时间箱子"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"时间木箱"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"觉醒·长苔藓的箱子"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"觉醒·木箱"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"觉醒·长苔藓的血脉箱子"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"觉醒·血脉木箱"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"觉醒·长苔藓的混沌箱子"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"觉醒·混沌木箱"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"觉醒·长苔藓的神秘箱子"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"觉醒·神秘木箱"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"觉醒·长苔藓的时间箱子"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"觉醒·时间木箱"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"每周挑战礼包"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"低级职业徽章包"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"【奈落】8层护身宝石通关礼包"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"【奈落】9层护身宝石通关礼包"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"【奈落】10层护身宝石通关礼包"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"【奈落】11层护身宝石通关礼包"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"【奈落】12层护身宝石通关礼包"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"燃炼包"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"新年红包"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"龙年大吉红包"
+					},
+					"judges":	[]
 				}]
 		}],
 	"pet_build":	[{

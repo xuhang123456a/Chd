@@ -1,28 +1,31 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5¾õĞÑ",
+		"tag":	15725,
 		"script":	"ÄÎÂäÖ®ĞÄ(±ù·âÑ©Óò)",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5¾õĞÑ",
+		"tag":	11479,
 		"script":	"ÄÎÂäÖ®ĞÄ(Éºº÷Ö®¸è)",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5¾õĞÑ",
+		"tag":	29359,
 		"script":	"ÄÎÂäÖ®ĞÄ(±ùä¿ÁÜÍ¥Ôº)",
 		"task":	0
 	}, {
@@ -32,15 +35,17 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	26963,
 		"script":	"ÄÎÂäÖ®ĞÄ(ÆÆ»µÖ®³Ç)",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5¾õĞÑ",
+		"tag":	24465,
 		"script":	"ÄÎÂäÖ®ĞÄ(ÉßÁúÖ®³²)",
 		"task":	0
 	}]
