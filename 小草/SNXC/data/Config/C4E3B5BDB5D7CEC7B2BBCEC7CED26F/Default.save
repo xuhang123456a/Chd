@@ -18,7 +18,7 @@
 	"auto_set_boss_hp":	true,
 	"auto_set_boss_hp_team":	false,
 	"auto_set_boss_team":	true,
-	"auto_set_deliver_time":	true,
+	"auto_set_deliver_time":	false,
 	"auto_set_fly":	false,
 	"auto_set_revive":	true,
 	"auto_set_reviveall":	true,
@@ -60,7 +60,7 @@
 	"item_pick_filter_7":	true,
 	"item_pick_filter_8":	false,
 	"item_pick_filter_9":	true,
-	"item_pick_sw":	false,
+	"item_pick_sw":	true,
 	"item_throw_1_sw":	true,
 	"item_throw_2":	true,
 	"item_throw_2_sw":	true,
@@ -114,8 +114,8 @@
 	"path_auto_script_door_sw":	true,
 	"path_auto_script_showval_sw":	true,
 	"path_down_hotkey_sw":	true,
-	"path_hide_background_sw":	true,
-	"path_hide_effect_sw":	true,
+	"path_hide_background_sw":	false,
+	"path_hide_effect_sw":	false,
 	"path_line_boss_sw":	true,
 	"path_line_deliver_sw":	true,
 	"path_line_exchange_back_sw":	false,
@@ -126,13 +126,13 @@
 	"path_line_team_sw":	false,
 	"path_script_picture_sw1":	false,
 	"path_script_picture_sw2":	false,
-	"path_script_picture_sw4":	false,
+	"path_script_picture_sw4":	true,
 	"path_script_picture_sw4-1":	true,
 	"path_subjoin_htyh":	true,
 	"path_subjoin_ksqp":	true,
 	"path_subjoin_msxj":	true,
 	"path_subjoin_msxj_msg":	false,
-	"path_subjoin_pbds":	true,
+	"path_subjoin_pbds":	false,
 	"path_subjoin_tyjn":	true,
 	"path_subjoin_xsyc":	false,
 	"path_subjoin_ycwj":	false,
@@ -447,7 +447,7 @@
 			"judge":	[{
 					"被沉默":	""
 				}, {
-					"不在地图":	"挑战！保护天使*"
+					"不在地图":	"挑战！保护天使*;挑战！铁人三项_40400;挑战！铁人三项_40402;"
 				}],
 			"reverse":	false
 		}, {

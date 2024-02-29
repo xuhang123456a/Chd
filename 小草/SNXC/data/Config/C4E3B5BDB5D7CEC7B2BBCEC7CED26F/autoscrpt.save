@@ -81,16 +81,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	4828,
-		"script":	"哈姆克公爵府",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"存仓",
 		"diyproperty":	"普通支配",
 		"diyother":	"装备副本",

@@ -253,7 +253,7 @@
 	"automatic_zhs_time3":	5,
 	"automatic_zhs_time4":	5,
 	"automatic_zhs_time5":	2,
-	"automatic_zhs_time6":	5,
+	"automatic_zhs_time6":	2,
 	"automatic_zhs_time7":	0,
 	"config_system_type":	1,
 	"login_server1":	0,
@@ -266,12 +266,12 @@
 	"skill_option_platform_skill_v":	0,
 	"skill_option_sombra_val":	0,
 	"skill_silent_val":	0,
-	"summon_automatic_zhs_refresh1":	1,
-	"summon_automatic_zhs_refresh2":	1,
-	"summon_automatic_zhs_refresh3":	1,
-	"summon_automatic_zhs_refresh4":	1,
-	"summon_automatic_zhs_refresh5":	1,
-	"summon_automatic_zhs_refresh6":	1,
+	"summon_automatic_zhs_refresh1":	0,
+	"summon_automatic_zhs_refresh2":	0,
+	"summon_automatic_zhs_refresh3":	0,
+	"summon_automatic_zhs_refresh4":	0,
+	"summon_automatic_zhs_refresh5":	0,
+	"summon_automatic_zhs_refresh6":	0,
 	"summon_automatic_zhs_refresh7":	0,
 	"team_accept_allot":	2,
 	"btn_color_1":	255,
@@ -1053,7 +1053,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[{
-					"在地图":	"珊瑚森林 2_30401;"
+					"在地图":	"珊瑚森林 2_30401;古木丛林入口_4700;"
 				}],
 			"num":	0
 		}],
@@ -1196,7 +1196,7 @@
 	"team_list_data":	[],
 	"script_point_data":	[],
 	"script_trigger_data":	[],
-	"summon_data":	[190145624, 190145625, 201901183, 201901186, 202401183, 202401186, 202401192, 202401195],
+	"summon_data":	[190145624, 190145625, 190148179, 201901183, 201901186, 202401183, 202401186, 202401192, 202401195],
 	"line_monster_data":	[],
 	"item_filter_pick_data_1":	[],
 	"item_filter_pick_data_2":	[],
@@ -3880,7 +3880,7 @@
 				"邀请组队":	"[%1]"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:06"
 			},
@@ -3891,7 +3891,7 @@
 				"更改自动脚本":	"a不带小号每日"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:06"
 			},
@@ -3902,7 +3902,7 @@
 				"退出到角色":	""
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},
