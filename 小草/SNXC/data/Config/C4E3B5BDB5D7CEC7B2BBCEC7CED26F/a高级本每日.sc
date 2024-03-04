@@ -131,12 +131,12 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"存仓",
 		"diyproperty":	"",
-		"diyother":	"装备副本",
-		"diyawaken":	"装备觉醒",
-		"tag":	14772,
-		"script":	"探险家神殿(普通)",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	1870,
+		"script":	"探险家神殿(英雄)",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -151,12 +151,12 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"存仓",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	1870,
-		"script":	"探险家神殿(英雄)",
+		"diyother":	"装备副本",
+		"diyawaken":	"装备觉醒",
+		"tag":	14772,
+		"script":	"探险家神殿(普通)",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -181,41 +181,11 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24465,
-		"script":	"联盟营地",
-		"task":	2003002
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	2996,
-		"script":	"探索心之休憩地",
-		"task":	2003018
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	5437,
-		"script":	"月华苑",
-		"task":	2001015
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	14605,
-		"script":	"索拉城斗兽场",
-		"task":	2001014
+		"diyother":	"装备副本",
+		"diyawaken":	"装备觉醒",
+		"tag":	11479,
+		"script":	"黄昏教堂(困难)",
+		"task":	0
 	}]

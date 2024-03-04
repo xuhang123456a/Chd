@@ -17,7 +17,8 @@
 		"diyawaken":	"5经验石",
 		"tag":	5706,
 		"script":	"泡泡战舰",
-		"task":	0
+		"task":	0,
+		"scriptend":	4
 	}, {
 		"setcount":	2,
 		"loadtime":	-2119958528,
@@ -27,7 +28,8 @@
 		"diyawaken":	"5经验石",
 		"tag":	23812,
 		"script":	"泡泡战舰",
-		"task":	0
+		"task":	0,
+		"scriptend":	4
 	}, {
 		"setcount":	3,
 		"loadtime":	-2092433408,
@@ -37,7 +39,8 @@
 		"diyawaken":	"5经验石",
 		"tag":	31323,
 		"script":	"泡泡战舰",
-		"task":	0
+		"task":	0,
+		"scriptend":	4
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -47,7 +50,8 @@
 		"diyawaken":	"5经验石",
 		"tag":	28146,
 		"script":	"克洛诺斯的时间",
-		"task":	0
+		"task":	0,
+		"scriptend":	4
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -57,7 +61,8 @@
 		"diyawaken":	"",
 		"tag":	492,
 		"script":	"武林大会",
-		"task":	0
+		"task":	0,
+		"scriptend":	4
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -67,7 +72,8 @@
 		"diyawaken":	"",
 		"tag":	2996,
 		"script":	"傀儡牢狱",
-		"task":	0
+		"task":	0,
+		"scriptend":	4
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -77,6 +83,17 @@
 		"diyawaken":	"",
 		"tag":	11943,
 		"script":	"圣字教堂",
+		"task":	0,
+		"scriptend":	4
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	4828,
+		"script":	"哈姆克公爵府",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -247,7 +264,8 @@
 		"diyawaken":	"",
 		"tag":	15725,
 		"script":	"联盟营地",
-		"task":	2003002
+		"task":	2003002,
+		"scriptend":	4
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -257,7 +275,8 @@
 		"diyawaken":	"",
 		"tag":	24465,
 		"script":	"探索心之休憩地",
-		"task":	2003018
+		"task":	2003018,
+		"scriptend":	4
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -267,7 +286,8 @@
 		"diyawaken":	"",
 		"tag":	19913,
 		"script":	"月华苑",
-		"task":	2001015
+		"task":	2001015,
+		"scriptend":	4
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -277,5 +297,6 @@
 		"diyawaken":	"",
 		"tag":	26300,
 		"script":	"索拉城斗兽场",
-		"task":	2001014
+		"task":	2001014,
+		"scriptend":	4
 	}]
