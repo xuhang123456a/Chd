@@ -4,8 +4,8 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5觉醒",
-		"tag":	9759,
+		"diyawaken":	"5爆伤石",
+		"tag":	26501,
 		"script":	"未知森林",
 		"task":	0
 	}]

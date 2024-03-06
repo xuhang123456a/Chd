@@ -186,7 +186,7 @@
 	"auto_team_dream_room_name":	"你到底吻不吻我o",
 	"auto_team_dream_room_namelist":	"10020556;关于小熊ぢ\r10181788;﹎秋水伊人ゞ\r4775863;呆小ˇ宝\r",
 	"auto_team_room_name":	"7758",
-	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r10335259;猫又*\r9937905;顾影人自怜丶\r",
+	"auto_team_room_namelist":	"10335259;猫又*\r10181788;﹎秋水伊人ゞ\r11089496;山有木兮卿有意\r",
 	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;初级冒险家情报卷轴;中级冒险家情报卷轴;大师冒险家情报卷轴;高级冒险家情报卷轴;达人冒险家情报卷轴;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
@@ -444,7 +444,7 @@
 			"judge":	[{
 					"被沉默":	""
 				}, {
-					"不在地图":	"挑战！保护天使*;挑战！铁人三项_40400;挑战！铁人三项_40402;"
+					"不在地图":	"挑战！保护天使*;挑战！铁人三项_40400;挑战！铁人三项_40402;挑战！超级玛丽_40100;"
 				}],
 			"reverse":	false
 		}, {
@@ -822,7 +822,55 @@
 		}],
 	"skill_buff_data":	[],
 	"speak_data":	[],
-	"skill_hotkey_data":	[],
+	"skill_hotkey_data":	[{
+			"sw":	true,
+			"id":	1803806,
+			"name":	"旋转射击",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1803805,
+			"name":	"旋转之戒",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1803804,
+			"name":	"神秘步伐",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1803807,
+			"name":	"大脚怪",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1803801,
+			"name":	"环斩",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1803802,
+			"name":	"升刃",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}],
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"上跳",
@@ -3542,7 +3590,7 @@
 				"宏指令":	"/一键换装 攻击套装"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:06"
 			},
@@ -3553,7 +3601,7 @@
 				"更改自动脚本":	"a高级本每日"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:06"
 			},
@@ -3564,7 +3612,7 @@
 				"退出到角色":	""
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},
@@ -5269,6 +5317,42 @@
 			"sw":	true,
 			"vague":	false,
 			"name":	"黄昏眼镜",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"热忱者腕轮",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"巨星·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"神之使者·超越符文",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,

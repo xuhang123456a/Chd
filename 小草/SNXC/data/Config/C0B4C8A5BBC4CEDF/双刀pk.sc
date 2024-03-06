@@ -131,11 +131,21 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"掉落套装",
+		"diyitem":	"存仓",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
 		"tag":	9041,
 		"script":	"世界之树",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"存仓",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	9515,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]

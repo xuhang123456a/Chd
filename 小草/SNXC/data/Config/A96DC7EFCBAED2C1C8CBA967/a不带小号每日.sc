@@ -129,6 +129,26 @@
 		"script":	"克洛诺斯的时间",
 		"task":	0
 	}, {
+		"setcount":	2,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	2996,
+		"script":	"心脏的记忆",
+		"task":	0
+	}, {
+		"setcount":	2,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	11943,
+		"script":	"龙猫妹妹庭院",
+		"task":	0
+	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"掉落套装",
@@ -207,16 +227,6 @@
 		"diyawaken":	"",
 		"tag":	18468,
 		"script":	"火山珊瑚",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	26501,
-		"script":	"世界之树",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -311,12 +321,22 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"存仓",
+		"diyitem":	"掉落套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
 		"tag":	23282,
 		"script":	"幻影毒雾沼泽(困难)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"存仓",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	26501,
+		"script":	"世界之树",
 		"task":	0
 	}, {
 		"setcount":	0,
