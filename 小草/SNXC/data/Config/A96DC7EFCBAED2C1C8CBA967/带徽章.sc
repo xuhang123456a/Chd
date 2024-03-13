@@ -1,21 +1,21 @@
 [{
-		"setcount":	2,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5¾õĞÑ",
-		"tag":	32392,
-		"script":	"ĞÄÔàµÄ¼ÇÒä",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	11943,
+		"script":	"ÍüÈ´ºşÅÏ(À§ÄÑ)",
 		"task":	0
 	}, {
-		"setcount":	2,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5¾õĞÑ",
-		"tag":	9962,
-		"script":	"ÁúÃ¨ÃÃÃÃÍ¥Ôº",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	4828,
+		"script":	"ĞéÎŞÖ®ĞÇ(À§ÄÑ)",
 		"task":	0
 	}]

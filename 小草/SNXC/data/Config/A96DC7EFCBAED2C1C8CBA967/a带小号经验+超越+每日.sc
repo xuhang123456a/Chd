@@ -1,4 +1,94 @@
 [{
+		"setcount":	2,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	32392,
+		"script":	"心脏的记忆",
+		"task":	0
+	}, {
+		"setcount":	2,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	9962,
+		"script":	"龙猫妹妹庭院",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	11479,
+		"script":	"炼狱阿兹雷尔",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	24465,
+		"script":	"巴尼塔斯",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	23282,
+		"script":	"回声泉",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	16828,
+		"script":	"冰狱",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	6335,
+		"script":	"玫瑰庭院",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	26501,
+		"script":	"幻之摇篮",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	2996,
+		"script":	"阿科洛之棺",
+		"task":	0
+	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"",
@@ -145,7 +235,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9962,
+		"tag":	26963,
 		"script":	"家族图腾(领取图腾)",
 		"task":	0
 	}, {
@@ -195,7 +285,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	32392,
+		"tag":	5706,
 		"script":	"艾乌加蒙剧场",
 		"task":	0
 	}, {
@@ -205,7 +295,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	2996,
+		"tag":	28146,
 		"script":	"深渊之镜",
 		"task":	0
 	}, {
@@ -225,7 +315,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6335,
+		"tag":	11943,
 		"script":	"索拉城斗兽场",
 		"task":	0
 	}, {
@@ -235,7 +325,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	26501,
+		"tag":	14605,
 		"script":	"世界之树",
 		"task":	0
 	}, {
@@ -255,7 +345,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11479,
+		"tag":	3903,
 		"script":	"猫头鹰的神秘组织",
 		"task":	0
 	}, {
@@ -275,7 +365,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	26963,
+		"tag":	154,
 		"script":	"被感染的哎哟城",
 		"task":	0
 	}, {
@@ -285,7 +375,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	24465,
+		"tag":	293,
 		"script":	"金字塔的秘密",
 		"task":	0
 	}, {
@@ -295,7 +385,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	5706,
+		"tag":	12383,
 		"script":	"混沌峡谷(困难)",
 		"task":	0
 	}, {
@@ -305,7 +395,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	28146,
+		"tag":	17422,
 		"script":	"混沌峡谷",
 		"task":	0
 	}, {
@@ -325,7 +415,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	154,
+		"tag":	18717,
 		"script":	"黄昏教堂(困难)",
 		"task":	0
 	}, {
@@ -335,7 +425,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	293,
+		"tag":	19896,
 		"script":	"消失的星之歌(困难)",
 		"task":	0
 	}, {
@@ -345,7 +435,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	12383,
+		"tag":	5448,
 		"script":	"生命之恩泰莱凯(困难)",
 		"task":	0
 	}, {
@@ -355,7 +445,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	17422,
+		"tag":	21727,
 		"script":	"艾乌加蒙剧场（困难）",
 		"task":	0
 	}, {
@@ -365,7 +455,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	18717,
+		"tag":	14772,
 		"script":	"深渊之镜（困难）",
 		"task":	0
 	}]

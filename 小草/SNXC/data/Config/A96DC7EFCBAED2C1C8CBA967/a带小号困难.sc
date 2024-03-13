@@ -4,6 +4,26 @@
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
+		"diyawaken":	"5¾õĞÑ",
+		"tag":	26501,
+		"script":	"Á¶Óü°¢×ÈÀ×¶û(À§ÄÑ)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5¾õĞÑ",
+		"tag":	19170,
+		"script":	"°ÍÄáËşË¹(À§ÄÑ)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"",
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	19630,
 		"script":	"»ØÉùÈª(À§ÄÑ)",

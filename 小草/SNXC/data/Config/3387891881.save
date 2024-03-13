@@ -16,16 +16,4 @@
 		"autoscript":	"a日常本每日",
 		"item":	"存仓",
 		"item_other":	""
-	}, {
-		"index":	198675468,
-		"name":	"来去荒芜",
-		"autoscript":	"双刀pk",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	198689718,
-		"name":	"你到底吻不吻我o",
-		"autoscript":	"环一天",
-		"item":	"存仓",
-		"item_other":	""
 	}]

@@ -86,7 +86,7 @@
 	"main_mob_external":	true,
 	"main_mob_friend_sw":	true,
 	"main_mob_jump":	true,
-	"main_mob_location_sw":	false,
+	"main_mob_location_sw":	true,
 	"main_mob_mineral":	false,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
@@ -233,7 +233,7 @@
 	"main_mob_distance_max":	30,
 	"main_mob_distance_min":	30,
 	"main_mob_location_l":	32,
-	"main_mob_location_r":	99999,
+	"main_mob_location_r":	3165,
 	"main_mob_lr":	1200,
 	"main_mob_top":	90,
 	"main_mob_trap_x":	64,
@@ -252,7 +252,7 @@
 	"automatic_zhs_time4":	3,
 	"automatic_zhs_time5":	3,
 	"automatic_zhs_time6":	3,
-	"automatic_zhs_time7":	0,
+	"automatic_zhs_time7":	5,
 	"config_system_type":	0,
 	"main_mob_trap_type":	0,
 	"path_hide_effect_type":	0,
@@ -268,7 +268,7 @@
 	"summon_automatic_zhs_refresh4":	1,
 	"summon_automatic_zhs_refresh5":	1,
 	"summon_automatic_zhs_refresh6":	1,
-	"summon_automatic_zhs_refresh7":	0,
+	"summon_automatic_zhs_refresh7":	1,
 	"team_accept_allot":	2,
 	"btn_color_1":	255,
 	"btn_color_10":	65280,
@@ -1493,7 +1493,7 @@
 			}
 		}],
 	"script_trigger_data":	[],
-	"summon_data":	[190145624, 190145625, 201901183],
+	"summon_data":	[190145624, 190145625],
 	"line_monster_data":	[],
 	"item_filter_pick_data_1":	[],
 	"item_filter_pick_data_2":	[],
@@ -2155,7 +2155,7 @@
 				"更换装备":	"尼莫手枪 (双枪)"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -2166,7 +2166,7 @@
 				"退出到角色":	""
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -2177,7 +2177,7 @@
 				"更改自动副本模式":	""
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -2197,6 +2197,15 @@
 				}],
 			"execute":	{
 				"挂机控制":	"1"
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"收到密语":	"* 9999"
+			},
+			"judge":	[],
+			"execute":	{
+				"邀请组队":	"[%1]"
 			}
 		}],
 	"diytrigger":	[{
@@ -3958,6 +3967,18 @@
 			"sw":	true,
 			"vague":	false,
 			"name":	"远古机甲师·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"唤雨之灵·超越符文",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,

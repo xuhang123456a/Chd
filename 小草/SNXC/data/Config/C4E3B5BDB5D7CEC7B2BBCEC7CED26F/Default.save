@@ -9,7 +9,7 @@
 	"auto_load_kcb":	true,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_login_end":	false,
 	"auto_reward_open_sw":	true,
@@ -112,7 +112,7 @@
 	"path_auto_script_door_sw":	true,
 	"path_auto_script_showval_sw":	true,
 	"path_down_hotkey_sw":	true,
-	"path_hide_background_sw":	false,
+	"path_hide_background_sw":	true,
 	"path_hide_effect_sw":	true,
 	"path_line_boss_sw":	true,
 	"path_line_deliver_sw":	true,
@@ -160,7 +160,7 @@
 	"skill_option_jump_off1":	true,
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	true,
-	"skill_option_lr_boss":	false,
+	"skill_option_lr_boss":	true,
 	"skill_option_platform_skill":	true,
 	"skill_option_repeat":	false,
 	"skill_option_slide_off":	false,
@@ -184,9 +184,9 @@
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[ÎŞ]",
 	"auto_team_dream_room_name":	"Äãµ½µ×ÎÇ²»ÎÇÎÒo",
-	"auto_team_dream_room_namelist":	"10020556;×ü×ü¹ØÓÚĞ¡ĞÜ¤Â\r10181788;©mÇïË®ÒÁÈË©g\r4775863;´ôĞ¡¡¦±¦\r",
+	"auto_team_dream_room_namelist":	"4775863;´ôĞ¡¡¦±¦\r10181788;©mÇïË®ÒÁÈË©g\r11078315;¤é£®¾Ã°éÿÿÿÿÿ©a\r",
 	"auto_team_room_name":	"7758",
-	"auto_team_room_namelist":	"10335259;Ã¨ÓÖ*\r10181788;©mÇïË®ÒÁÈË©g\r11089496;É½ÓĞÄ¾Ùâ×üÇäÓĞÒâ\r",
+	"auto_team_room_namelist":	"10181788;©mÇïË®ÒÁÈË©g\r9119662;×üËÕÀè¾ÉÃÎ¤ê\r",
 	"guild_tribute_items":	"´óÊ¦»îÁ¦Ë®µÎ;³õ¼¶»îÁ¦Ë®µÎ;ÖÇÖ®Ê¯ËéÆ¬;ÖÇÖ®Ê¯;Íâ½»Ó¡ÕÂ£ºÖìÈ¸;³õ¼¶Ã°ÏÕ¼ÒÇé±¨¾íÖá;ÖĞ¼¶Ã°ÏÕ¼ÒÇé±¨¾íÖá;´óÊ¦Ã°ÏÕ¼ÒÇé±¨¾íÖá;¸ß¼¶Ã°ÏÕ¼ÒÇé±¨¾íÖá;´ïÈËÃ°ÏÕ¼ÒÇé±¨¾íÖá;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
@@ -216,7 +216,7 @@
 	"auto_task_book_num":	3,
 	"auto_task_book_time1":	0,
 	"auto_task_book_time2":	30,
-	"auto_team_room_playercount":	4,
+	"auto_team_room_playercount":	3,
 	"guild_diplomacy_min":	300,
 	"item_disassemble_item_time":	0,
 	"item_pick_time":	0,
@@ -565,15 +565,15 @@
 		}, {
 			"sw":	true,
 			"type":	"²Ù×÷",
-			"name":	"ÕÙ»½ÊŞ³öÕ½:°¢ÀïÑÇ",
-			"maps":	["¡ïÕ½Ê¿ĞİÏ¢´¦3_41302"],
-			"induns":	["ÅİÅİÕ½½¢", "¿ËÂåÅµË¹µÄÊ±¼ä", "ĞÄÔàµÄ¼ÇÒä", "ÁúÃ¨ÃÃÃÃÍ¥Ôº"]
-		}, {
-			"sw":	true,
-			"type":	"²Ù×÷",
 			"name":	"ÕÙ»½ÊŞ³öÕ½:ÁúÃ¨Àí²é",
 			"maps":	["¡ïÕ½Ê¿ĞİÏ¢´¦3_41302"],
 			"induns":	["ÅİÅİÕ½½¢", "¿ËÂåÅµË¹µÄÊ±¼ä", "ĞÄÔàµÄ¼ÇÒä"]
+		}, {
+			"sw":	true,
+			"type":	"²Ù×÷",
+			"name":	"ÕÙ»½ÊŞ³öÕ½:°¢ÀïÑÇ",
+			"maps":	["¡ïÕ½Ê¿ĞİÏ¢´¦3_41302"],
+			"induns":	["ÅİÅİÕ½½¢", "¿ËÂåÅµË¹µÄÊ±¼ä", "ĞÄÔàµÄ¼ÇÒä", "ÁúÃ¨ÃÃÃÃÍ¥Ôº"]
 		}, {
 			"sw":	true,
 			"type":	"ÎïÆ·",
@@ -898,7 +898,7 @@
 			}
 		}],
 	"script_trigger_data":	[],
-	"summon_data":	[190145624, 190145625, 201901181, 201901182, 201901183, 201901186],
+	"summon_data":	[190145624, 190145625, 201901183],
 	"line_monster_data":	[],
 	"item_filter_pick_data_1":	[{
 			"type":	"È«²¿",
@@ -3590,7 +3590,7 @@
 				"ºêÖ¸Áî":	"/Ò»¼ü»»×° ¹¥»÷Ì××°"
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"Ö¸¶¨Ê±¼ä":	"00:06"
 			},
@@ -3601,7 +3601,7 @@
 				"¸ü¸Ä×Ô¶¯½Å±¾":	"a¸ß¼¶±¾Ã¿ÈÕ"
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"Ö¸¶¨Ê±¼ä":	"00:06"
 			},
@@ -3612,7 +3612,7 @@
 				"ÍË³öµ½½ÇÉ«":	""
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"Ö¸¶¨Ê±¼ä":	"00:07"
 			},
