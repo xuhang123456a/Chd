@@ -50,7 +50,8 @@
 		"diyawaken":	"5经验石",
 		"tag":	31323,
 		"script":	"泡泡战舰",
-		"task":	0
+		"task":	0,
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -137,7 +138,8 @@
 		"diyawaken":	"装备觉醒",
 		"tag":	21727,
 		"script":	"艾乌加蒙剧场",
-		"task":	0
+		"task":	0,
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -147,7 +149,8 @@
 		"diyawaken":	"",
 		"tag":	1870,
 		"script":	"探险家神殿(英雄)",
-		"task":	0
+		"task":	0,
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -157,7 +160,8 @@
 		"diyawaken":	"",
 		"tag":	11539,
 		"script":	"探险家神殿(高级)",
-		"task":	0
+		"task":	0,
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -167,7 +171,8 @@
 		"diyawaken":	"装备觉醒",
 		"tag":	14772,
 		"script":	"探险家神殿(普通)",
-		"task":	0
+		"task":	0,
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -177,7 +182,8 @@
 		"diyawaken":	"",
 		"tag":	22191,
 		"script":	"世界之树",
-		"task":	0
+		"task":	0,
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

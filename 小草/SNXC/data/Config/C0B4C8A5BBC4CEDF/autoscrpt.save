@@ -7,8 +7,7 @@
 		"diyawaken":	"",
 		"tag":	32758,
 		"script":	"竞技场练习赛（全部任务）",
-		"task":	0,
-		"scriptend":	13
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
