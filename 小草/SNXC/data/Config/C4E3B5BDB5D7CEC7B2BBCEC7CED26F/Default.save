@@ -60,7 +60,7 @@
 	"item_pick_filter_7":	true,
 	"item_pick_filter_8":	false,
 	"item_pick_filter_9":	true,
-	"item_pick_sw":	true,
+	"item_pick_sw":	false,
 	"item_throw_1_sw":	true,
 	"item_throw_2":	true,
 	"item_throw_2_sw":	true,
