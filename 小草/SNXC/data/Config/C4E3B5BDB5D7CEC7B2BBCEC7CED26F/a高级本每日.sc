@@ -20,7 +20,7 @@
 		"task":	0
 	}, {
 		"setcount":	1,
-		"loadtime":	-2147155968,
+		"loadtime":	327680,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验副本",
@@ -30,7 +30,7 @@
 		"task":	0
 	}, {
 		"setcount":	2,
-		"loadtime":	-2119958528,
+		"loadtime":	27525120,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验副本",
@@ -40,7 +40,7 @@
 		"task":	0
 	}, {
 		"setcount":	3,
-		"loadtime":	-2092433408,
+		"loadtime":	55050240,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验副本",
@@ -61,12 +61,32 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"装备觉醒",
+		"tag":	5437,
+		"script":	"开启自动刷超能",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
 		"tag":	42,
 		"script":	"家族图腾(领取图腾)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"装备觉醒",
+		"tag":	3754,
+		"script":	"无尽繁星大厅",
 		"task":	0
 	}, {
 		"setcount":	2,
@@ -198,4 +218,44 @@
 		"tag":	11479,
 		"script":	"黄昏教堂(困难)",
 		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	15725,
+		"script":	"联盟营地",
+		"task":	2003002
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23282,
+		"script":	"探索心之休憩地",
+		"task":	2003018
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	2996,
+		"script":	"月华苑",
+		"task":	2001015
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	4828,
+		"script":	"索拉城斗兽场",
+		"task":	2001014
 	}]

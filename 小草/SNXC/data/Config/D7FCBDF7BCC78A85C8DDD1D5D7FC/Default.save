@@ -142,7 +142,6 @@
 	"revive_situ_buff":	true,
 	"revive_sw1":	true,
 	"revive_sw2":	true,
-	"revive_talisman":	false,
 	"run_log_file":	false,
 	"run_log_sw":	true,
 	"script_changemap":	false,
@@ -169,8 +168,6 @@
 	"skill_option_stop_skill_all":	false,
 	"skill_shake_sw":	false,
 	"skill_silent_sw":	true,
-	"summon_automatic_priority_sw":	false,
-	"summon_automatic_up_sw":	false,
 	"summon_automatic_zhs":	true,
 	"team_accept_cmd_sw":	false,
 	"team_accept_sw":	false,
@@ -253,7 +250,7 @@
 	"automatic_zhs_time5":	3,
 	"automatic_zhs_time6":	3,
 	"automatic_zhs_time7":	0,
-	"config_system_type":	1,
+	"config_system_type":	0,
 	"main_mob_trap_type":	0,
 	"path_hide_effect_type":	0,
 	"path_script_picture_val2":	3,
@@ -687,6 +684,32 @@
 			"speedx":	false,
 			"judge":	[],
 			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1,
+			"name":	"弱攻击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	false,
+			"id":	2,
+			"name":	"强攻击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
 		}],
 	"skill_buff_data":	[],
 	"speak_data":	[],
@@ -788,11 +811,6 @@
 			"item":	""
 		}, {
 			"npc":	19,
-			"sw1":	true,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	35,
 			"sw1":	true,
 			"sw2":	false,
 			"item":	""
@@ -953,6 +971,20 @@
 			"item":	""
 		}],
 	"auto_card":	[{
+			"id":	394,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	393,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
 			"id":	386,
 			"num1":	0,
 			"num2":	0,
@@ -2194,13 +2226,13 @@
 		"[巨星]电鸣支援":	false,
 		"[巨星]怪声演奏支援":	false,
 		"[风行刺客(匕首)]连招1":	false,
-		"[风行刺客(匕首)]连招2":	false,
 		"[守护天使]连招":	false,
 		"[修行舞者]二连击":	false,
 		"[宝石星]连招(1)":	false,
 		"[宝石星]连招(2)":	false,
 		"[宝石星]连招(3)":	false,
 		"[唤雨之灵]连招":	false,
+		"[术士]灵魂4":	false,
 		"[通用]魔免循环":	true,
 		"[通用]位移技能左右释放":	false
 	},

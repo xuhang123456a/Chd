@@ -134,6 +134,16 @@
 		"diyitem":	"掉落套装",
 		"diyproperty":	"",
 		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	23282,
+		"script":	"开启自动刷超能",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
 		"diyawaken":	"",
 		"tag":	19170,
 		"script":	"保护春植园",
@@ -155,8 +165,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	492,
-		"script":	"精灵树桩",
+		"tag":	16828,
+		"script":	"无尽繁星大厅",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -165,8 +175,28 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	4828,
-		"script":	"消失的星之歌",
+		"tag":	11943,
+		"script":	"大地的考验",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	14605,
+		"script":	"黑月的考验",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	492,
+		"script":	"精灵树桩",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -185,28 +215,28 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
+		"tag":	4828,
+		"script":	"消失的星之歌",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
 		"tag":	19719,
 		"script":	"生命之恩泰莱凯",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"掉落套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5觉醒",
-		"tag":	32392,
-		"script":	"艾乌加蒙剧场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5觉醒",
-		"tag":	2996,
-		"script":	"深渊之镜",
+		"diyawaken":	"5爆伤石",
+		"tag":	3903,
+		"script":	"开启自动刷超能",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -287,26 +317,6 @@
 		"diyawaken":	"",
 		"tag":	24465,
 		"script":	"金字塔的秘密",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	5706,
-		"script":	"混沌峡谷(困难)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"存仓",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	28146,
-		"script":	"混沌峡谷",
 		"task":	0
 	}, {
 		"setcount":	0,

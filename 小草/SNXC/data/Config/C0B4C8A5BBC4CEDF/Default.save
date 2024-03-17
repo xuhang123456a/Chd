@@ -142,7 +142,6 @@
 	"revive_situ_buff":	true,
 	"revive_sw1":	true,
 	"revive_sw2":	true,
-	"revive_talisman":	false,
 	"run_log_file":	false,
 	"run_log_sw":	true,
 	"script_changemap":	false,
@@ -169,8 +168,6 @@
 	"skill_option_stop_skill_all":	false,
 	"skill_shake_sw":	false,
 	"skill_silent_sw":	true,
-	"summon_automatic_priority_sw":	false,
-	"summon_automatic_up_sw":	false,
 	"summon_automatic_zhs":	true,
 	"team_accept_cmd_sw":	false,
 	"team_accept_sw":	true,
@@ -485,11 +482,11 @@
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	1210102,
-			"name":	"ÎÞË«ÂÒÎè",
+			"id":	300,
+			"name":	"¡¾Éú´æ±¾ÄÜ¡¿1¶Î",
 			"dmin":	0,
 			"dmax":	300,
-			"priority":	false,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
@@ -501,40 +498,120 @@
 			"id":	3210505,
 			"name":	"ÍüÈ´",
 			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
+			"dmax":	330,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0
+			"num":	1
+		}, {
+			"sw":	true,
+			"id":	3820001,
+			"name":	"Ä§·¨Çò°å",
+			"dmin":	0,
+			"dmax":	330,
+			"priority":	true,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	3803707,
+			"name":	"¡¾´«Ææ¡¿",
+			"dmin":	0,
+			"dmax":	330,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	1
+		}, {
+			"sw":	true,
+			"id":	3813707,
+			"name":	"¡¾´«ÆæII¡¿",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	3813704,
+			"name":	"¡¾¾õÐÑII¡¿",
+			"dmin":	0,
+			"dmax":	330,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	1
 		}, {
 			"sw":	true,
 			"id":	1109021,
 			"name":	"Ê®×ÖÖ®ÈÐ",
 			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
+			"dmax":	330,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0
+			"num":	1
 		}, {
 			"sw":	true,
 			"id":	1210021,
 			"name":	"Áé»êÖ®ÈÐ",
 			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
+			"dmax":	330,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0
+			"num":	1
+		}, {
+			"sw":	true,
+			"id":	3803704,
+			"name":	"¡¾¾õÐÑ¡¿",
+			"dmin":	0,
+			"dmax":	330,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	1
+		}, {
+			"sw":	true,
+			"id":	1802403,
+			"name":	"[ÎÞÏÞ]Ðý·ç³µÂÖÕ¶",
+			"dmin":	0,
+			"dmax":	330,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"ËÑË÷ÄÚÎÞÊ×Áì":	""
+				}],
+			"num":	8
 		}, {
 			"sw":	true,
 			"id":	1210101,
@@ -545,41 +622,15 @@
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
-			"speedx":	false,
+			"speedx":	true,
 			"judge":	[],
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1210104,
-			"name":	"»Ø×ªÖ®Õ½",
+			"id":	1210102,
+			"name":	"ÎÞË«ÂÒÎè",
 			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1210103,
-			"name":	"ÐÅÄî",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	2,
-			"name":	"Ç¿¹¥»÷",
-			"dmin":	0,
-			"dmax":	200,
+			"dmax":	330,
 			"priority":	false,
 			"intact":	false,
 			"alone":	false,
@@ -754,11 +805,6 @@
 			"sw2":	false,
 			"item":	""
 		}, {
-			"npc":	35,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
 			"npc":	21,
 			"sw1":	false,
 			"sw2":	false,
@@ -915,6 +961,20 @@
 			"item":	""
 		}],
 	"auto_card":	[{
+			"id":	394,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	393,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
 			"id":	386,
 			"num1":	0,
 			"num2":	0,
@@ -1287,6 +1347,384 @@
 			"item3":	false
 		}],
 	"auto_task":	[{
+			"id":	100001,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100002,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100003,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100004,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100005,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100006,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100007,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100008,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100009,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100010,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100011,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100012,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100013,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100014,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100016,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100017,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100018,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100021,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100022,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100023,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100024,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100025,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100026,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100027,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100031,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100032,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100033,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100034,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100035,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100036,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100037,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100038,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100039,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100040,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100041,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100042,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100043,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100044,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100047,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100048,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100049,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100050,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100051,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100052,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100053,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100054,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100055,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100056,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100057,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100058,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100059,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100060,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100061,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100062,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	100069,
 			"sw":	true,
 			"diyitem":	"",
@@ -1400,27 +1838,6 @@
 			"diyawaken":	""
 		}, {
 			"id":	100087,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100130,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100131,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100132,
 			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -1546,6 +1963,41 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
+			"id":	100130,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100131,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100132,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100133,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100134,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
 			"id":	100135,
 			"sw":	true,
 			"diyitem":	"",
@@ -1561,6 +2013,20 @@
 			"diyawaken":	""
 		}, {
 			"id":	100137,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100138,
+			"sw":	true,
+			"diyitem":	"",
+			"diyproperty":	"",
+			"diyother":	"",
+			"diyawaken":	""
+		}, {
+			"id":	100139,
 			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -1603,412 +2069,6 @@
 			"diyawaken":	""
 		}, {
 			"id":	100151,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100038,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100039,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100040,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100041,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100042,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100043,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100044,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100032,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100033,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100034,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100035,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100036,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100037,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100009,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100047,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100010,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100048,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100049,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100050,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100011,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100012,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100051,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100052,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100026,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100025,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100001,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100002,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100003,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100004,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100005,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100006,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100007,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100008,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100133,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100014,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100053,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100054,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100016,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100017,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100018,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100055,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100056,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100013,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100057,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100058,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100021,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100022,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100023,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100024,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100027,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100059,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100060,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100031,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100061,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100062,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100134,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100138,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	100139,
 			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -3295,27 +3355,6 @@
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
-		}, {
-			"id":	2001166,
-			"sw":	false,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001193,
-			"sw":	false,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001206,
-			"sw":	false,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
 		}],
 	"trigger":	[{
 			"sw":	false,
@@ -3471,11 +3510,11 @@
 	"diy_skill":	{
 		"[Ó¢ÐÛ(µ¶)]Á¬ÕÐ":	false,
 		"[Ó¢ÐÛ(Ç¹)]Á¬ÕÐ":	false,
-		"[½£Ê¥]Ê®×ÖÖ®ÈÐÃØ¼¼":	true,
-		"[½£Ê¥]½£Ê¥Ë«ÐÞ³ËÌìË¢Áé»ê":	false,
-		"[½£Ê¥]Áé»êÖ®ÈÐÃØ¼¼":	true,
-		"[½£Ê¥]ÍüÈ´(Ê®×ÖÖ®ÈÐ)":	false,
-		"[½£Ê¥]ÍüÈ´(Áé»êÖ®ÈÐ)":	false,
+		"[½£Ê¥]Ê®×ÖÖ®ÈÐÃØ¼¼":	false,
+		"[½£Ê¥]½£Ê¥Ë«ÐÞ³ËÌìË¢Áé»ê":	true,
+		"[½£Ê¥]Áé»êÖ®ÈÐÃØ¼¼":	false,
+		"[½£Ê¥]ÍüÈ´(Ê®×ÖÖ®ÈÐ)":	true,
+		"[½£Ê¥]ÍüÈ´(Áé»êÖ®ÈÐ)":	true,
 		"[ÎäµÀ×ÚÊ¦]Á¬ÕÐ(1)":	false,
 		"[ÎäµÀ×ÚÊ¦]Á¬ÕÐ(2)":	false,
 		"[ÎäµÀ×ÚÊ¦]Á¬ÕÐ(3)":	false,
@@ -3490,6 +3529,7 @@
 		"[±¦Ê¯ÐÇ]Á¬ÕÐ(2)":	false,
 		"[±¦Ê¯ÐÇ]Á¬ÕÐ(3)":	false,
 		"[»½ÓêÖ®Áé]Á¬ÕÐ":	false,
+		"[ÊõÊ¿]Áé»ê4":	false,
 		"[Í¨ÓÃ]Ä§ÃâÑ­»·":	true,
 		"[Í¨ÓÃ]Î»ÒÆ¼¼ÄÜ×óÓÒÊÍ·Å":	false
 	},
