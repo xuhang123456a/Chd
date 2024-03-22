@@ -34,7 +34,6 @@
 	"automatic_explorer":	true,
 	"automatic_guild":	true,
 	"automatic_guildmoney":	true,
-	"automatic_master_1":	false,
 	"automatic_master_2":	false,
 	"automatic_ml":	true,
 	"automatic_monter_book":	true,

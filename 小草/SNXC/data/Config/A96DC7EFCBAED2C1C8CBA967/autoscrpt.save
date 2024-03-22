@@ -1,14 +1,13 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"掉落套装",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	28146,
-		"script":	"索拉城斗兽场",
-		"task":	100004,
-		"scriptend":	18
+		"tag":	3903,
+		"script":	"隐藏的洞穴",
+		"task":	100010
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -16,10 +15,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	23282,
-		"script":	"神秘殿堂",
-		"task":	100005,
-		"scriptend":	18
+		"tag":	154,
+		"script":	"梦之路",
+		"task":	100034
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -27,10 +25,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16828,
-		"script":	"神秘殿堂",
-		"task":	100007,
-		"scriptend":	18
+		"tag":	293,
+		"script":	"遗忘花园",
+		"task":	100040
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -38,10 +35,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9962,
+		"tag":	12383,
 		"script":	"破坏之城",
-		"task":	100050,
-		"scriptend":	18
+		"task":	100049
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -49,17 +45,27 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	492,
+		"tag":	17422,
 		"script":	"冰封雪域",
 		"task":	100061
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	18717,
+		"script":	"保管异面怪异道具(2)",
+		"task":	100078
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	2996,
+		"tag":	19719,
 		"script":	"惩罚干扰修炼之人(2)",
 		"task":	100097
 	}, {
@@ -69,9 +75,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11943,
-		"script":	"惩罚干扰修炼之人(3)",
-		"task":	100098
+		"tag":	19896,
+		"script":	"汪洋血海",
+		"task":	100135
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -79,9 +85,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	4828,
-		"script":	"净化污染精灵的住所(2)",
-		"task":	100101
+		"tag":	5448,
+		"script":	"超能者纪念馆",
+		"task":	100138
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -89,17 +95,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	5437,
-		"script":	"沙之战场(1)",
-		"task":	100130
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	32392,
-		"script":	"沙之战场(2)",
-		"task":	100131
+		"tag":	21727,
+		"script":	"奈落之屋",
+		"task":	100139
 	}]
