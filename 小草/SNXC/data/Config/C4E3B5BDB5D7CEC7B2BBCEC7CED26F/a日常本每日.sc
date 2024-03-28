@@ -5,6 +5,16 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	6335,
+		"script":	"领取家族工资",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
 		"tag":	26501,
 		"script":	"开启自动刷课程",
 		"task":	0
@@ -50,13 +60,33 @@
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	0,
+		"loadtime":	-2100297728,
 		"diyitem":	"存仓",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	1870,
+		"script":	"探险家神殿(英雄)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	11539,
+		"script":	"探险家神殿(高级)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
+		"diyitem":	"攻击套装",
 		"diyproperty":	"普通支配",
 		"diyother":	"装备副本",
-		"diyawaken":	"",
-		"tag":	19896,
-		"script":	"竞技场练习赛（全部任务）",
+		"diyawaken":	"装备觉醒",
+		"tag":	14772,
+		"script":	"探险家神殿(普通)",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -91,70 +121,40 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"装备觉醒",
 		"tag":	492,
 		"script":	"武林大会",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"装备觉醒",
 		"tag":	2996,
 		"script":	"傀儡牢狱",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"存仓",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	1870,
-		"script":	"探险家神殿(英雄)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	11539,
-		"script":	"探险家神殿(高级)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"攻击套装",
-		"diyproperty":	"普通支配",
-		"diyother":	"装备副本",
-		"diyawaken":	"装备觉醒",
-		"tag":	14772,
-		"script":	"探险家神殿(普通)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"装备觉醒",
 		"tag":	11943,
 		"script":	"圣字教堂",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"装备觉醒",
 		"tag":	4828,
 		"script":	"哈姆克公爵府",
 		"task":	0
@@ -231,12 +231,12 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
+		"diyitem":	"存仓",
+		"diyproperty":	"普通支配",
+		"diyother":	"装备副本",
 		"diyawaken":	"",
-		"tag":	6335,
-		"script":	"领取家族工资",
+		"tag":	19896,
+		"script":	"竞技场练习赛（全部任务）",
 		"task":	0
 	}, {
 		"setcount":	0,

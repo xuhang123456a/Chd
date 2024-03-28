@@ -225,7 +225,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5经验石",
-		"tag":	19913,
+		"tag":	12860,
 		"script":	"泡泡战舰",
 		"task":	0
 	}, {
@@ -235,7 +235,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5经验石",
-		"tag":	25668,
+		"tag":	8724,
 		"script":	"克洛诺斯的时间",
 		"task":	0
 	}, {
@@ -245,7 +245,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	26300,
+		"tag":	9742,
 		"script":	"开启自动刷超能",
 		"task":	0
 	}, {
@@ -265,7 +265,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17036,
+		"tag":	27530,
 		"script":	"家族图腾(领取图腾)",
 		"task":	0
 	}, {
@@ -275,7 +275,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	9895,
+		"tag":	779,
 		"script":	"无尽繁星大厅",
 		"task":	0
 	}, {
@@ -365,7 +365,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	28704,
+		"tag":	12317,
 		"script":	"索拉城斗兽场",
 		"task":	0
 	}, {
@@ -375,7 +375,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	23812,
+		"tag":	3036,
 		"script":	"世界之树",
 		"task":	0
 	}, {
@@ -395,7 +395,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15142,
+		"tag":	22191,
 		"script":	"猫头鹰的神秘组织",
 		"task":	0
 	}, {
@@ -425,7 +425,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	12860,
+		"tag":	1843,
 		"script":	"金字塔的秘密",
 		"task":	0
 	}, {
@@ -445,7 +445,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	8724,
+		"tag":	289,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}, {

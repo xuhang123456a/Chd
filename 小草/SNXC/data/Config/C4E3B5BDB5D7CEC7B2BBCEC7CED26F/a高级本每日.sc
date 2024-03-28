@@ -151,26 +151,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"装备副本",
-		"diyawaken":	"装备觉醒",
-		"tag":	5448,
-		"script":	"深渊之镜",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"装备副本",
-		"diyawaken":	"装备觉醒",
-		"tag":	21727,
-		"script":	"艾乌加蒙剧场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"存仓",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -265,7 +245,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	2996,
+		"tag":	4828,
 		"script":	"月华苑",
 		"task":	2001015
 	}, {
@@ -275,7 +255,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	4828,
+		"tag":	32392,
 		"script":	"索拉城斗兽场",
 		"task":	2001014
 	}]

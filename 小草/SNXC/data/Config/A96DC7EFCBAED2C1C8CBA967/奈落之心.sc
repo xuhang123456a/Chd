@@ -31,10 +31,10 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5觉醒",
 		"tag":	26963,
 		"script":	"奈落之心(破坏之城)",
 		"task":	0
