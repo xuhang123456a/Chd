@@ -1,222 +1,36 @@
 [{
-		"setcount":	0,
+		"setcount":	2,
 		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22467,
-		"script":	"恶魔峡谷",
-		"task":	100014,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"存仓",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	4679,
-		"script":	"混沌峡谷",
-		"task":	100031,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22594,
-		"script":	"梦之路",
-		"task":	100034,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	23852,
-		"script":	"秘密藏书库",
-		"task":	100039,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	25485,
-		"script":	"破坏之城",
-		"task":	100048,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	1019,
-		"script":	"冰封雪域",
-		"task":	100061,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	28465,
-		"script":	"阿玛伦宝库",
-		"task":	100134,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	21120,
-		"script":	"汪洋血海",
-		"task":	100135,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	23153,
-		"script":	"灵气清澈之山(3)",
-		"task":	100142,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	2801,
-		"script":	"拥有特殊记忆的动物(1)",
-		"task":	100149,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	7712,
-		"script":	"领取家族工资",
-		"task":	0,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31323,
-		"script":	"联盟营地",
-		"task":	2003002,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	30334,
-		"script":	"探索心之休憩地",
-		"task":	2003018,
-		"scriptend":	28
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	17674,
-		"script":	"月华苑",
-		"task":	2001015,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	4665,
-		"script":	"索拉城斗兽场",
-		"task":	2001014,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	-2100297728,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	28254,
-		"script":	"探险家神殿(英雄)",
+		"diyawaken":	"5觉醒",
+		"tag":	32392,
+		"script":	"心脏的记忆",
 		"task":	0,
-		"scriptend":	28
+		"scriptend":	30
 	}, {
 		"setcount":	0,
-		"loadtime":	-2100297728,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	32758,
-		"script":	"探险家神殿(高级)",
+		"diyawaken":	"5觉醒",
+		"tag":	9962,
+		"script":	"龙猫妹妹庭院",
 		"task":	0,
-		"scriptend":	28
+		"scriptend":	30
 	}, {
 		"setcount":	0,
-		"loadtime":	-2100297728,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20038,
-		"script":	"探险家神殿(普通)",
+		"diyawaken":	"5爆伤石",
+		"tag":	11479,
+		"script":	"炼狱阿兹雷尔",
 		"task":	0,
-		"scriptend":	28
-	}, {
-		"setcount":	1,
-		"loadtime":	-2147155548,
-		"diyitem":	"经验套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5经验石",
-		"tag":	32663,
-		"script":	"泡泡战舰",
-		"task":	0,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	-2120613888,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	42,
-		"script":	"自动领取活动强力戒指(12小时)",
-		"task":	0
+		"scriptend":	30
 	}, {
 		"setcount":	2,
 		"loadtime":	-2119957709,
@@ -227,7 +41,213 @@
 		"tag":	6869,
 		"script":	"泡泡战舰",
 		"task":	0,
-		"scriptend":	28
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	24465,
+		"script":	"巴尼塔斯",
+		"task":	0,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	23282,
+		"script":	"回声泉",
+		"task":	0,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	16828,
+		"script":	"冰狱",
+		"task":	0,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	6335,
+		"script":	"玫瑰庭院",
+		"task":	0,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	26501,
+		"script":	"幻之摇篮",
+		"task":	0,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	2996,
+		"script":	"阿科洛之棺",
+		"task":	0,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	25548,
+		"script":	"哈姆克公爵府",
+		"task":	0,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	27645,
+		"script":	"圣字教堂",
+		"task":	0,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	5706,
+		"script":	"领取龙王大葡萄",
+		"task":	0,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	4967,
+		"script":	"自动转换星座点数",
+		"task":	0,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	7712,
+		"script":	"领取家族工资",
+		"task":	0,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	31323,
+		"script":	"联盟营地",
+		"task":	2003002,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30334,
+		"script":	"探索心之休憩地",
+		"task":	2003018,
+		"scriptend":	30
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	17674,
+		"script":	"月华苑",
+		"task":	2001015,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	4665,
+		"script":	"索拉城斗兽场",
+		"task":	2001014,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	28254,
+		"script":	"探险家神殿(英雄)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	32758,
+		"script":	"探险家神殿(高级)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	20038,
+		"script":	"探险家神殿(普通)",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	-2147155548,
+		"diyitem":	"经验套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5经验石",
+		"tag":	32663,
+		"script":	"泡泡战舰",
+		"task":	0,
+		"scriptend":	30
 	}, {
 		"setcount":	3,
 		"loadtime":	-2096364388,
@@ -235,10 +255,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5经验石",
-		"tag":	25548,
+		"tag":	28146,
 		"script":	"泡泡战舰",
-		"task":	0,
-		"scriptend":	28
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	-2146828228,
@@ -246,10 +265,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5经验石",
-		"tag":	27645,
+		"tag":	492,
 		"script":	"克洛诺斯的时间",
 		"task":	0,
-		"scriptend":	28
+		"scriptend":	30
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -257,29 +276,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	23282,
+		"tag":	11943,
 		"script":	"开启自动刷超能",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	15725,
-		"script":	"入侵太空农场",
-		"task":	0,
-		"scriptend":	28
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	6335,
-		"script":	"索拉城斗兽场",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -290,7 +288,8 @@
 		"diyawaken":	"",
 		"tag":	19170,
 		"script":	"保护春植园",
-		"task":	0
+		"task":	0,
+		"scriptend":	30
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -298,9 +297,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9962,
+		"tag":	4828,
 		"script":	"家族图腾(领取图腾)",
-		"task":	0
+		"task":	0,
+		"scriptend":	30
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -308,19 +308,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	16828,
+		"tag":	5437,
 		"script":	"无尽繁星大厅",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5觉醒",
-		"tag":	11943,
-		"script":	"大地的考验",
-		"task":	0
+		"task":	0,
+		"scriptend":	30
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -329,7 +320,29 @@
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
 		"tag":	14605,
+		"script":	"大地的考验",
+		"task":	0,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	3903,
 		"script":	"黑月的考验",
+		"task":	0,
+		"scriptend":	30
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	154,
+		"script":	"消失的星之歌",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -338,7 +351,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	492,
+		"tag":	293,
 		"script":	"精灵树桩",
 		"task":	0
 	}, {
@@ -348,18 +361,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	5437,
+		"tag":	12383,
 		"script":	"黄昏教堂",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5觉醒",
-		"tag":	4828,
-		"script":	"消失的星之歌",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -378,8 +381,18 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	3903,
+		"tag":	17422,
 		"script":	"开启自动刷超能",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	21727,
+		"script":	"破坏之城",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -394,11 +407,21 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	18717,
+		"script":	"索拉城斗兽场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"存仓",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	26501,
+		"tag":	19896,
 		"script":	"世界之树",
 		"task":	0
 	}, {
@@ -408,7 +431,17 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11479,
+		"tag":	15725,
+		"script":	"入侵太空农场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	5448,
 		"script":	"猫头鹰的神秘组织",
 		"task":	0
 	}, {
@@ -438,18 +471,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	24465,
+		"tag":	14772,
 		"script":	"金字塔的秘密",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	21727,
-		"script":	"破坏之城",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -468,7 +491,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	154,
+		"tag":	11539,
 		"script":	"黄昏教堂(困难)",
 		"task":	0
 	}, {
@@ -478,7 +501,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	293,
+		"tag":	1870,
 		"script":	"消失的星之歌(困难)",
 		"task":	0
 	}, {
@@ -488,7 +511,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	12383,
+		"tag":	19913,
 		"script":	"生命之恩泰莱凯(困难)",
 		"task":	0
 	}, {
@@ -498,7 +521,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	17422,
+		"tag":	25668,
 		"script":	"艾乌加蒙剧场（困难）",
 		"task":	0
 	}, {
@@ -508,7 +531,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	18717,
+		"tag":	26300,
 		"script":	"深渊之镜（困难）",
 		"task":	0
 	}]

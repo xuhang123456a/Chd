@@ -5,6 +5,26 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	5706,
+		"script":	"领取龙王大葡萄",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	4967,
+		"script":	"自动转换星座点数",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
 		"tag":	7712,
 		"script":	"领取家族工资",
 		"task":	0
@@ -87,16 +107,6 @@
 		"diyawaken":	"5经验石",
 		"tag":	32663,
 		"script":	"泡泡战舰",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	-2120613888,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	42,
-		"script":	"自动领取活动强力戒指(12小时)",
 		"task":	0
 	}, {
 		"setcount":	2,
@@ -195,6 +205,16 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
+		"tag":	4828,
+		"script":	"消失的星之歌",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
 		"tag":	492,
 		"script":	"精灵树桩",
 		"task":	0
@@ -215,16 +235,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	4828,
-		"script":	"消失的星之歌",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5觉醒",
 		"tag":	19719,
 		"script":	"生命之恩泰莱凯",
 		"task":	0
@@ -237,6 +247,16 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	3903,
 		"script":	"开启自动刷超能",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	21727,
+		"script":	"破坏之城",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -317,16 +337,6 @@
 		"diyawaken":	"",
 		"tag":	24465,
 		"script":	"金字塔的秘密",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	21727,
-		"script":	"破坏之城",
 		"task":	0
 	}, {
 		"setcount":	0,
