@@ -121,6 +121,16 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"存仓",
+		"diyproperty":	"普通支配",
+		"diyother":	"装备副本",
+		"diyawaken":	"",
+		"tag":	19896,
+		"script":	"竞技场练习赛（全部任务）",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -227,16 +237,6 @@
 		"diyawaken":	"",
 		"tag":	17422,
 		"script":	"克杜卡的咆哮",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"存仓",
-		"diyproperty":	"普通支配",
-		"diyother":	"装备副本",
-		"diyawaken":	"",
-		"tag":	19896,
-		"script":	"竞技场练习赛（全部任务）",
 		"task":	0
 	}, {
 		"setcount":	0,

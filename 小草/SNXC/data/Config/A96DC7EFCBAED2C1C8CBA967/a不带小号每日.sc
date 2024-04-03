@@ -1,5 +1,5 @@
 [{
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -161,6 +161,16 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	8724,
+		"script":	"混乱世界",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -241,6 +251,16 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	3036,
+		"script":	"[活动]裂缝修复工作",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"掉落套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -277,16 +297,6 @@
 		"diyawaken":	"",
 		"tag":	6335,
 		"script":	"索拉城斗兽场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"存仓",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	26501,
-		"script":	"世界之树",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -337,6 +347,16 @@
 		"diyawaken":	"",
 		"tag":	24465,
 		"script":	"金字塔的秘密",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"存仓",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	26501,
+		"script":	"世界之树",
 		"task":	0
 	}, {
 		"setcount":	0,

@@ -5,16 +5,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19816,
-		"script":	"领取龙王大葡萄",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
 		"tag":	6192,
 		"script":	"自动转换星座点数",
 		"task":	0
@@ -87,6 +77,16 @@
 		"diyawaken":	"装备觉醒",
 		"tag":	5437,
 		"script":	"开启自动刷超能",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"装备觉醒",
+		"tag":	29359,
+		"script":	"混乱世界",
 		"task":	0
 	}, {
 		"setcount":	0,

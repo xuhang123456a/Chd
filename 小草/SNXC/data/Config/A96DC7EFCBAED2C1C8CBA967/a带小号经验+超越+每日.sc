@@ -29,16 +29,6 @@
 		"script":	"炼狱阿兹雷尔",
 		"task":	0
 	}, {
-		"setcount":	2,
-		"loadtime":	-2119957709,
-		"diyitem":	"经验套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5经验石",
-		"tag":	6869,
-		"script":	"泡泡战舰",
-		"task":	0
-	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
@@ -119,7 +109,7 @@
 		"script":	"圣字教堂",
 		"task":	0
 	}, {
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -229,13 +219,23 @@
 		"script":	"泡泡战舰",
 		"task":	0
 	}, {
+		"setcount":	2,
+		"loadtime":	-2119957709,
+		"diyitem":	"经验套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5经验石",
+		"tag":	6869,
+		"script":	"泡泡战舰",
+		"task":	0
+	}, {
 		"setcount":	3,
 		"loadtime":	-2096364388,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5经验石",
-		"tag":	28146,
+		"tag":	12317,
 		"script":	"泡泡战舰",
 		"task":	0
 	}, {
@@ -245,7 +245,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5经验石",
-		"tag":	492,
+		"tag":	3036,
 		"script":	"克洛诺斯的时间",
 		"task":	0
 	}, {
@@ -255,7 +255,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	11943,
+		"tag":	22191,
 		"script":	"开启自动刷超能",
 		"task":	0
 	}, {
@@ -271,11 +271,21 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	8724,
+		"script":	"混乱世界",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	4828,
+		"tag":	1843,
 		"script":	"家族图腾(领取图腾)",
 		"task":	0
 	}, {
@@ -285,7 +295,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	5437,
+		"tag":	289,
 		"script":	"无尽繁星大厅",
 		"task":	0
 	}, {
@@ -295,7 +305,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	14605,
+		"tag":	11943,
 		"script":	"大地的考验",
 		"task":	0
 	}, {
@@ -305,7 +315,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	3903,
+		"tag":	14605,
 		"script":	"黑月的考验",
 		"task":	0
 	}, {
@@ -315,7 +325,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	154,
+		"tag":	4828,
 		"script":	"消失的星之歌",
 		"task":	0
 	}, {
@@ -325,7 +335,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	293,
+		"tag":	492,
 		"script":	"精灵树桩",
 		"task":	0
 	}, {
@@ -335,7 +345,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	12383,
+		"tag":	5437,
 		"script":	"黄昏教堂",
 		"task":	0
 	}, {
@@ -351,11 +361,21 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30107,
+		"script":	"[活动]裂缝修复工作",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"掉落套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	17422,
+		"tag":	3903,
 		"script":	"开启自动刷超能",
 		"task":	0
 	}, {
@@ -385,18 +405,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	18717,
+		"tag":	9041,
 		"script":	"索拉城斗兽场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"存仓",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	19896,
-		"script":	"世界之树",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -415,7 +425,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	5448,
+		"tag":	8943,
 		"script":	"猫头鹰的神秘组织",
 		"task":	0
 	}, {
@@ -445,8 +455,18 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	14772,
+		"tag":	19265,
 		"script":	"金字塔的秘密",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"存仓",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22649,
+		"script":	"世界之树",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -465,7 +485,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	11539,
+		"tag":	154,
 		"script":	"黄昏教堂(困难)",
 		"task":	0
 	}, {
@@ -475,7 +495,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	1870,
+		"tag":	293,
 		"script":	"消失的星之歌(困难)",
 		"task":	0
 	}, {
@@ -485,7 +505,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	19913,
+		"tag":	12383,
 		"script":	"生命之恩泰莱凯(困难)",
 		"task":	0
 	}, {
@@ -495,7 +515,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	25668,
+		"tag":	17422,
 		"script":	"艾乌加蒙剧场（困难）",
 		"task":	0
 	}, {
@@ -505,7 +525,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	26300,
+		"tag":	18717,
 		"script":	"深渊之镜（困难）",
 		"task":	0
 	}]
