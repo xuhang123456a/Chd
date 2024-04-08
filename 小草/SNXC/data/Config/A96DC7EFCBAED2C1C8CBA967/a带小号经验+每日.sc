@@ -1,4 +1,34 @@
 [{
+		"setcount":	2,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	32392,
+		"script":	"心脏的记忆",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	9962,
+		"script":	"龙猫妹妹庭院",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	5706,
+		"script":	"领取龙王大葡萄",
+		"task":	0
+	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"",
@@ -7,8 +37,7 @@
 		"diyawaken":	"",
 		"tag":	4967,
 		"script":	"自动转换星座点数",
-		"task":	0,
-		"scriptend":	8
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -18,8 +47,7 @@
 		"diyawaken":	"",
 		"tag":	7712,
 		"script":	"领取家族工资",
-		"task":	0,
-		"scriptend":	8
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -29,8 +57,7 @@
 		"diyawaken":	"",
 		"tag":	31323,
 		"script":	"联盟营地",
-		"task":	2003002,
-		"scriptend":	8
+		"task":	2003002
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -40,8 +67,7 @@
 		"diyawaken":	"",
 		"tag":	30334,
 		"script":	"探索心之休憩地",
-		"task":	2003018,
-		"scriptend":	8
+		"task":	2003018
 	}, {
 		"setcount":	1,
 		"loadtime":	0,
@@ -51,8 +77,7 @@
 		"diyawaken":	"",
 		"tag":	17674,
 		"script":	"月华苑",
-		"task":	2001015,
-		"scriptend":	8
+		"task":	2001015
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -62,8 +87,7 @@
 		"diyawaken":	"",
 		"tag":	4665,
 		"script":	"索拉城斗兽场",
-		"task":	2001014,
-		"scriptend":	8
+		"task":	2001014
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -103,8 +127,7 @@
 		"diyawaken":	"5经验石",
 		"tag":	32663,
 		"script":	"泡泡战舰",
-		"task":	0,
-		"scriptend":	8
+		"task":	0
 	}, {
 		"setcount":	2,
 		"loadtime":	-2119957709,
@@ -114,8 +137,7 @@
 		"diyawaken":	"5经验石",
 		"tag":	6869,
 		"script":	"泡泡战舰",
-		"task":	0,
-		"scriptend":	8
+		"task":	0
 	}, {
 		"setcount":	3,
 		"loadtime":	-2096364388,
@@ -135,8 +157,7 @@
 		"diyawaken":	"5经验石",
 		"tag":	27645,
 		"script":	"克洛诺斯的时间",
-		"task":	0,
-		"scriptend":	8
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -156,8 +177,7 @@
 		"diyawaken":	"",
 		"tag":	19170,
 		"script":	"保护春植园",
-		"task":	0,
-		"scriptend":	8
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -167,8 +187,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	8724,
 		"script":	"混乱世界",
-		"task":	0,
-		"scriptend":	8
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -176,10 +195,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9962,
+		"tag":	21727,
 		"script":	"家族图腾(领取图腾)",
-		"task":	0,
-		"scriptend":	8
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -189,8 +207,7 @@
 		"diyawaken":	"5觉醒",
 		"tag":	16828,
 		"script":	"无尽繁星大厅",
-		"task":	0,
-		"scriptend":	8
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -200,8 +217,7 @@
 		"diyawaken":	"5觉醒",
 		"tag":	11943,
 		"script":	"大地的考验",
-		"task":	0,
-		"scriptend":	8
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -211,8 +227,7 @@
 		"diyawaken":	"5觉醒",
 		"tag":	14605,
 		"script":	"黑月的考验",
-		"task":	0,
-		"scriptend":	8
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -222,8 +237,7 @@
 		"diyawaken":	"5觉醒",
 		"tag":	4828,
 		"script":	"消失的星之歌",
-		"task":	0,
-		"scriptend":	8
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -233,8 +247,7 @@
 		"diyawaken":	"5觉醒",
 		"tag":	492,
 		"script":	"精灵树桩",
-		"task":	0,
-		"scriptend":	8
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -282,7 +295,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	21727,
+		"tag":	14772,
 		"script":	"破坏之城",
 		"task":	0
 	}, {

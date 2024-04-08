@@ -8,7 +8,7 @@
 		"tag":	32758,
 		"script":	"竞技场练习赛（全部任务）",
 		"task":	0,
-		"scriptend":	2
+		"scriptend":	7
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -19,7 +19,7 @@
 		"tag":	20327,
 		"script":	"探险家神殿(英雄)",
 		"task":	0,
-		"scriptend":	2
+		"scriptend":	7
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -30,7 +30,7 @@
 		"tag":	29012,
 		"script":	"探险家神殿(高级)",
 		"task":	0,
-		"scriptend":	2
+		"scriptend":	7
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -41,7 +41,7 @@
 		"tag":	30772,
 		"script":	"探险家神殿(普通)",
 		"task":	0,
-		"scriptend":	2
+		"scriptend":	7
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

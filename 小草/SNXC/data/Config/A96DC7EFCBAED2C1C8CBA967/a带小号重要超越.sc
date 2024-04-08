@@ -5,26 +5,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	11479,
-		"script":	"Á¶Óü°¢×ÈÀ×¶û",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	24465,
-		"script":	"°ÍÄáËşË¹",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	23282,
 		"script":	"»ØÉùÈª",
 		"task":	0
