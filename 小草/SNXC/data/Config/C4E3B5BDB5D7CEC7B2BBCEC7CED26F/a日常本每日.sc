@@ -205,16 +205,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	154,
-		"script":	"樱树湖历险",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
 		"tag":	293,
 		"script":	"被感染的哎哟城",
 		"task":	0
@@ -241,11 +231,11 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"存仓",
+		"diyitem":	"掉落套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19170,
-		"script":	"执行自动切换角色",
+		"tag":	154,
+		"script":	"樱树湖历险",
 		"task":	0
 	}]

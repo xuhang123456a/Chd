@@ -1,4 +1,14 @@
 [{
+		"setcount":	0,
+		"loadtime":	-2098266112,
+		"diyitem":	"存仓",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	12860,
+		"script":	"执行自动切换角色",
+		"task":	0
+	}, {
 		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"",
@@ -361,16 +371,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	12860,
-		"script":	"执行自动切换角色",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -404,18 +404,8 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5觉醒",
-		"tag":	17422,
-		"script":	"艾乌加蒙剧场（困难）",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5觉醒",
-		"tag":	18717,
-		"script":	"深渊之镜（困难）",
+		"diyawaken":	"5爆伤石",
+		"tag":	28146,
+		"script":	"大地的考验(困难)",
 		"task":	0
 	}]
