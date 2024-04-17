@@ -7,25 +7,61 @@
 	}, {
 		"index":	388325875,
 		"name":	"谨记妳容颜",
+		"autoscript":	"领温泉蛋",
+		"item":	"[空]",
+		"item_other":	""
+	}, {
+		"index":	386426734,
+		"name":	"叵测",
+		"autoscript":	"领温泉蛋",
+		"item":	"[空]",
+		"item_other":	""
+	}, {
+		"index":	385309281,
+		"name":	"独断万古守望者",
+		"autoscript":	"领温泉蛋",
+		"item":	"[空]",
+		"item_other":	""
+	}, {
+		"index":	870225203,
+		"name":	"谨记妳容颜",
+		"autoscript":	"连体竞技场",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	870228406,
+		"name":	"叵测",
+		"autoscript":	"连体竞技场",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	870230468,
+		"name":	"独断万古守望者",
+		"autoscript":	"连体竞技场",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	870281953,
+		"name":	"谨记妳容颜",
 		"autoscript":	"连体每日",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	386426734,
+		"index":	870283906,
 		"name":	"叵测",
 		"autoscript":	"连体每日",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	385309281,
+		"index":	870285609,
 		"name":	"独断万古守望者",
 		"autoscript":	"连体每日",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	388397734,
+		"index":	870299031,
 		"name":	"苏黎旧梦り",
-		"autoscript":	"图鉴",
+		"autoscript":	"a不打经验本每日",
 		"item":	"存仓",
 		"item_other":	""
 	}]

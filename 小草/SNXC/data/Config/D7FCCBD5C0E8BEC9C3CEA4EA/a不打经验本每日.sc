@@ -1,5 +1,25 @@
 [{
 		"setcount":	0,
+		"loadtime":	-2098266112,
+		"diyitem":	"存仓",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22356,
+		"script":	"执行自动切换角色",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	24183,
+		"script":	"自动转换星座点数",
+		"task":	0
+	}, {
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -11,7 +31,7 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"掉落套装",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
@@ -21,7 +41,7 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"掉落套装",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
@@ -34,7 +54,7 @@
 		"diyitem":	"掉落套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5爆伤石",
 		"tag":	29359,
 		"script":	"月华苑",
 		"task":	2001015
@@ -44,7 +64,7 @@
 		"diyitem":	"掉落套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5爆伤石",
 		"tag":	26963,
 		"script":	"索拉城斗兽场",
 		"task":	2001014
@@ -87,6 +107,106 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	9759,
 		"script":	"开启自动刷超能",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	32592,
+		"script":	"竞技场练习赛（全部任务）",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	42,
+		"script":	"混乱世界",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	18468,
+		"script":	"无尽繁星大厅",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23623,
+		"script":	"[活动]裂缝修复工作",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	17411,
+		"script":	"开启自动刷超能",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	30524,
+		"script":	"盟约圣地",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	1588,
+		"script":	"希列",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	29315,
+		"script":	"忘却湖畔",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	9504,
+		"script":	"虚无之星",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	7449,
+		"script":	"神笔画卷",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -184,16 +304,6 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	32592,
-		"script":	"竞技场练习赛（全部任务）",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
 		"diyawaken":	"5爆伤石",
 		"tag":	24485,
 		"script":	"神秘的迷宫教室",
@@ -205,8 +315,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	8282,
-		"script":	"圣域之塔",
+		"tag":	25201,
+		"script":	"开启自动刷超能",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -225,47 +335,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	27349,
-		"script":	"混沌峡谷",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
 		"tag":	19669,
 		"script":	"幻影毒雾沼泽(困难)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	24022,
-		"script":	"混沌峡谷(困难)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	17411,
-		"script":	"开启自动刷超能",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"存仓",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22356,
-		"script":	"执行自动切换角色",
 		"task":	0
 	}]

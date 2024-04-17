@@ -5,7 +5,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	27754,
+		"tag":	29335,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]

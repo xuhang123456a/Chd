@@ -32,11 +32,11 @@
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
 	"automatic_explorer":	true,
-	"automatic_guild":	false,
+	"automatic_guild":	true,
 	"automatic_guildmoney":	true,
 	"automatic_master_2":	false,
 	"automatic_ml":	true,
-	"automatic_monter_book":	false,
+	"automatic_monter_book":	true,
 	"automatic_phb":	false,
 	"automatic_schedule":	true,
 	"automatic_skill_update_entrepot":	true,
@@ -44,10 +44,10 @@
 	"automatic_subjoin_cwzx":	true,
 	"guild_diplomacy_contract":	true,
 	"guild_diplomacy_only":	false,
-	"guild_tribute_sw":	false,
+	"guild_tribute_sw":	true,
 	"item_buff_indun":	false,
 	"item_buff_sw":	true,
-	"item_disassemble_item_sw":	false,
+	"item_disassemble_item_sw":	true,
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	false,
@@ -60,20 +60,20 @@
 	"item_pick_filter_8":	false,
 	"item_pick_filter_9":	false,
 	"item_pick_sw":	true,
-	"item_throw_1_sw":	false,
-	"item_throw_2":	false,
-	"item_throw_2_sw":	false,
-	"item_throw_3":	false,
-	"item_throw_3_sw":	false,
-	"item_throw_4_sw":	false,
-	"item_throw_lock_1":	false,
+	"item_throw_1_sw":	true,
+	"item_throw_2":	true,
+	"item_throw_2_sw":	true,
+	"item_throw_3":	true,
+	"item_throw_3_sw":	true,
+	"item_throw_4_sw":	true,
+	"item_throw_lock_1":	true,
 	"item_throw_pass_1":	false,
 	"item_throw_pass_2":	false,
 	"item_throw_pass_3":	false,
 	"item_throw_pass_4":	false,
 	"item_throw_pass_5":	false,
 	"item_throw_sell":	false,
-	"item_throw_sw1":	false,
+	"item_throw_sw1":	true,
 	"item_throw_sw2":	false,
 	"item_use_sort":	true,
 	"item_use_sw":	true,
@@ -183,7 +183,7 @@
 	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"",
 	"auto_team_room_namelist":	"",
-	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;",
+	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;高级冒险家情报卷轴;中级冒险家情报卷轴;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"Del",
@@ -350,6 +350,24 @@
 				"[无]":	""
 			},
 			"item":	"蚯梨膏"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"RP值<=":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"低级人品能量剂"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"RP值<=":	"200"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级人品能量剂"
 		}],
 	"protec_data":	[{
 			"sw":	true,
@@ -455,7 +473,55 @@
 	"skill_attack_data":	[],
 	"skill_buff_data":	[],
 	"speak_data":	[],
-	"skill_hotkey_data":	[],
+	"skill_hotkey_data":	[{
+			"sw":	true,
+			"id":	1803806,
+			"name":	"旋转射击",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1803805,
+			"name":	"旋转之戒",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1803804,
+			"name":	"神秘步伐",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1803807,
+			"name":	"大脚怪",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1803801,
+			"name":	"环斩",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1803802,
+			"name":	"升刃",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}],
 	"team_list_data":	[],
 	"script_point_data":	[],
 	"script_trigger_data":	[],

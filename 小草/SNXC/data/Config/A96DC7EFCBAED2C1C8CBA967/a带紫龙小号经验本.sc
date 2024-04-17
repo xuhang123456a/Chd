@@ -1,5 +1,5 @@
 [{
-		"setcount":	2,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"¾­ÑéÌ××°",
 		"diyproperty":	"",

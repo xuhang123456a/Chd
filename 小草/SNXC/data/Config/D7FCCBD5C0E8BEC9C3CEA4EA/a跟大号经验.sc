@@ -5,8 +5,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5经验石",
-		"tag":	11943,
-		"script":	"心脏的记忆",
+		"tag":	6619,
+		"script":	"克洛诺斯的时间",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -15,7 +15,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5经验石",
-		"tag":	4828,
-		"script":	"龙猫妹妹庭院",
+		"tag":	20581,
+		"script":	"心脏的记忆",
 		"task":	0
 	}]
