@@ -50,7 +50,7 @@
 	"item_disassemble_item_sw":	true,
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
-	"item_pick_filter_10":	false,
+	"item_pick_filter_10":	true,
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
@@ -58,7 +58,7 @@
 	"item_pick_filter_6":	true,
 	"item_pick_filter_7":	true,
 	"item_pick_filter_8":	false,
-	"item_pick_filter_9":	false,
+	"item_pick_filter_9":	true,
 	"item_pick_sw":	true,
 	"item_throw_1_sw":	true,
 	"item_throw_2":	true,
@@ -74,7 +74,7 @@
 	"item_throw_pass_5":	false,
 	"item_throw_sell":	false,
 	"item_throw_sw1":	true,
-	"item_throw_sw2":	false,
+	"item_throw_sw2":	true,
 	"item_use_sort":	true,
 	"item_use_sw":	true,
 	"main_mob_attack_sw":	false,
@@ -394,13 +394,13 @@
 			"type":	"操作",
 			"name":	"翅膀技[神·圣灵之拥]",
 			"maps":	["无"],
-			"induns":	["怪物树山山谷"]
+			"induns":	["怪物树山山谷", "魔法学院主楼"]
 		}, {
 			"sw":	true,
 			"type":	"操作",
 			"name":	"翅膀技[魔·冥界之翼]",
 			"maps":	["无"],
-			"induns":	["怪物树山山谷"]
+			"induns":	["怪物树山山谷", "魔法学院主楼"]
 		}, {
 			"sw":	false,
 			"type":	"操作",
@@ -432,31 +432,31 @@
 			"type":	"外交",
 			"name":	"艾利娅斯-小四",
 			"maps":	[],
-			"induns":	["怪物树山山谷", "扭曲的世界树"]
+			"induns":	["魔法学院主楼", "怪物树山山谷"]
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"经验值的秘药 500%(不可交易)",
 			"maps":	[],
-			"induns":	["怪物树山山谷", "扭曲的世界树"]
+			"induns":	["怪物树山山谷", "魔法学院主楼"]
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"回忆の沙漏",
 			"maps":	[],
-			"induns":	["怪物树山山谷", "扭曲的世界树"]
+			"induns":	["怪物树山山谷", "扭曲的世界树", "魔法学院主楼"]
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"经验值糖浆",
 			"maps":	[],
-			"induns":	["怪物树山山谷", "扭曲的世界树"]
+			"induns":	["怪物树山山谷", "扭曲的世界树", "魔法学院主楼"]
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"小四的祝福(不可交易)",
 			"maps":	[],
-			"induns":	["怪物树山山谷", "扭曲的世界树"]
+			"induns":	["怪物树山山谷", "扭曲的世界树", "魔法学院主楼"]
 		}, {
 			"sw":	false,
 			"type":	"物品",
@@ -468,9 +468,105 @@
 			"type":	"操作",
 			"name":	"课程:使用七彩玲珑",
 			"maps":	[],
-			"induns":	["怪物树山山谷", "扭曲的世界树"]
+			"induns":	["怪物树山山谷", "扭曲的世界树", "魔法学院主楼"]
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"课程:强力戒指(3小时)",
+			"induns":	["怪物树山山谷", "扭曲的世界树", "魔法学院主楼"]
 		}],
-	"skill_attack_data":	[],
+	"skill_attack_data":	[{
+			"sw":	true,
+			"id":	1802425,
+			"name":	"[无限]野蛮之戒",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803804,
+			"name":	"神秘步伐",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803805,
+			"name":	"旋转之戒",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803806,
+			"name":	"旋转射击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803807,
+			"name":	"大脚怪",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803801,
+			"name":	"环斩",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803802,
+			"name":	"升刃",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}],
 	"skill_buff_data":	[],
 	"speak_data":	[],
 	"skill_hotkey_data":	[{
@@ -1206,6 +1302,15 @@
 			"judge":	[],
 			"execute":	{
 				"退出到角色":	""
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"收到密语":	"111"
+			},
+			"judge":	[],
+			"execute":	{
+				"邀请组队":	""
 			}
 		}],
 	"diytrigger":	[{

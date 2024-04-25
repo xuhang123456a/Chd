@@ -16,4 +16,16 @@
 		"autoscript":	"a日常本每日",
 		"item":	"存仓",
 		"item_other":	""
+	}, {
+		"index":	220329125,
+		"name":	"来去荒芜",
+		"autoscript":	"a每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	298530515,
+		"name":	"你到底吻不吻我o",
+		"autoscript":	"a日常本每日",
+		"item":	"存仓",
+		"item_other":	""
 	}]

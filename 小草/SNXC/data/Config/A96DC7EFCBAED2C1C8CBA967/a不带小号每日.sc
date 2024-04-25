@@ -9,16 +9,6 @@
 		"script":	"执行自动切换角色",
 		"task":	0
 	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	5706,
-		"script":	"领取龙王大葡萄",
-		"task":	0
-	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"",
@@ -140,16 +130,6 @@
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	-2146828228,
-		"diyitem":	"经验套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5经验石",
-		"tag":	27645,
-		"script":	"克洛诺斯的时间",
-		"task":	0
-	}, {
-		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"掉落套装",
 		"diyproperty":	"",
@@ -225,6 +205,16 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
+		"tag":	5437,
+		"script":	"黄昏教堂",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
 		"tag":	4828,
 		"script":	"消失的星之歌",
 		"task":	0
@@ -237,16 +227,6 @@
 		"diyawaken":	"5觉醒",
 		"tag":	492,
 		"script":	"精灵树桩",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5觉醒",
-		"tag":	5437,
-		"script":	"黄昏教堂",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -277,6 +257,46 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	3903,
 		"script":	"开启自动刷超能",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	14772,
+		"script":	"哈姆克公爵府",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	11539,
+		"script":	"圣字教堂",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	1870,
+		"script":	"盟约圣地",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	19913,
+		"script":	"希列",
 		"task":	0
 	}, {
 		"setcount":	1,

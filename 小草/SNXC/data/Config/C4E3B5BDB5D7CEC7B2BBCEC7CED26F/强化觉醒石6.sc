@@ -28,4 +28,14 @@
 		"tag":	26501,
 		"script":	"自动强化暴击伤害觉醒石+6",
 		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"强化装备",
+		"diyawaken":	"",
+		"tag":	27939,
+		"script":	"自动强化拉尔沙之戒",
+		"task":	0
 	}]

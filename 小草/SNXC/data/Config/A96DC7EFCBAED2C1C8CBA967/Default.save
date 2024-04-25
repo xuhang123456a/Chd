@@ -23,11 +23,11 @@
 	"auto_set_revive":	true,
 	"auto_set_reviveall":	true,
 	"auto_set_taskout":	true,
-	"auto_task_book_refresh":	true,
+	"auto_task_book_refresh":	false,
 	"auto_task_sw1":	true,
 	"auto_task_sw2":	true,
 	"auto_team_dream_room_leader":	false,
-	"auto_team_room_leader":	false,
+	"auto_team_room_leader":	true,
 	"automatic_book":	true,
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
@@ -91,7 +91,7 @@
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	false,
 	"main_mob_noattck_show":	false,
-	"main_mob_other_sw":	false,
+	"main_mob_other_sw":	true,
 	"main_mob_trap_sw":	false,
 	"memory_debris_time":	true,
 	"mouse_rest":	false,
@@ -125,7 +125,7 @@
 	"path_script_picture_sw2":	false,
 	"path_script_picture_sw4":	false,
 	"path_script_picture_sw4-1":	true,
-	"path_subjoin_htyh":	false,
+	"path_subjoin_htyh":	true,
 	"path_subjoin_ksqp":	true,
 	"path_subjoin_msxj":	true,
 	"path_subjoin_msxj_msg":	true,
@@ -144,7 +144,7 @@
 	"run_log_file":	false,
 	"run_log_sw":	true,
 	"script_changemap":	true,
-	"script_diysw":	false,
+	"script_diysw":	true,
 	"script_jump":	true,
 	"skill_buff_no_monster":	true,
 	"skill_buff_online_sw":	false,
@@ -181,8 +181,8 @@
 	"auto_set_diyitem":	"[无]",
 	"auto_team_dream_room_name":	"你到底吻不吻我o",
 	"auto_team_dream_room_namelist":	"11083254;你到底吻不吻我o\r10335259;猫又*\r9559907;觉醒の特雷莎\r",
-	"auto_team_room_name":	"7758",
-	"auto_team_room_namelist":	"6686154;飞人v\r10987484;T.B小小彩虹店铺\r10325618;雪梨很甜\r9343254;Joe\r9119662;苏黎旧梦り\r",
+	"auto_team_room_name":	"FLLLL",
+	"auto_team_room_namelist":	"\r",
 	"guild_tribute_items":	"高级冒险家情报卷轴;中级冒险家情报卷轴;初级活力水滴;达人活力水滴;大师活力水滴;初级冒险家情报卷轴;达人冒险家情报卷轴;黄金魔方;大师冒险家情报卷轴;闪闪发光的宝箱;美丽的碎片结晶;智之石;智之石碎片;家族战宝箱;外交印章：朱雀;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
@@ -192,9 +192,9 @@
 	"hotkey_start":	"F8",
 	"hotkey_start_mouse":	"",
 	"hotkey_start_playmouse":	"",
-	"main_mob_attack_name":	"",
+	"main_mob_attack_name":	"愉快的莫瑞尼;文静的艾帕林;记录官丹塔里翁;",
 	"main_mob_friend_name":	"",
-	"main_mob_other_name":	"",
+	"main_mob_other_name":	"愉快的莫瑞尼;记录官丹塔里翁;文静的艾帕林;",
 	"main_mob_trap_name":	"",
 	"path_down_hotkey":	"Down",
 	"team_accept_cmd":	"123",
@@ -512,12 +512,12 @@
 			"name":	"翅膀技[魔·冥界之翼]",
 			"induns":	["泡泡战舰"]
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"type":	"物品",
 			"name":	"小四的祝福(不可交易)",
 			"induns":	["克洛诺斯的时间", "泡泡战舰"]
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"type":	"物品",
 			"name":	"百分考卷",
 			"induns":	["克洛诺斯的时间", "泡泡战舰"]
@@ -639,12 +639,12 @@
 			"name":	"物品爆率糖浆",
 			"induns":	["精灵树桩", "生命之恩泰莱凯"]
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"type":	"外交",
 			"name":	"上京-肖维尔",
 			"induns":	["奈落·蛇龙之巢", "奈落·珊瑚之歌", "奈落·冰淇淋庭院", "奈落·破坏之城", "奈落·冰封雪域"]
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"type":	"外交",
 			"name":	"艾尔法-爱纱",
 			"induns":	["奈落·蛇龙之巢", "奈落·珊瑚之歌", "奈落·冰淇淋庭院", "奈落·破坏之城", "奈落·冰封雪域"]
@@ -1215,28 +1215,64 @@
 		}],
 	"team_list_data":	[],
 	"script_point_data":	[{
-			"type":	"\n下爬梯子",
-			"x":	"1808",
-			"y":	"623",
+			"type":	"转身&执行额外",
+			"x":	"32",
+			"y":	"495",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"上二段跳",
+			"x":	"3167",
+			"y":	"1007",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
-				"[无]":	""
+				"":	""
 			},
 			"execute":	{
-				"[无]":	""
+				"":	""
 			}
 		}, {
-			"type":	"\n模拟↑键",
-			"x":	"675",
-			"y":	"1135",
+			"type":	"上二段跳",
+			"x":	"57",
+			"y":	"1375",
 			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
+			"pos2":	"右跑",
 			"judge":	{
-				"[无]":	""
+				"":	""
 			},
 			"execute":	{
-				"[无]":	""
+				"":	""
+			}
+		}, {
+			"type":	"左跳(助跑)",
+			"x":	"863",
+			"y":	"1007",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"3167",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
 			}
 		}],
 	"script_trigger_data":	[],
@@ -4373,7 +4409,7 @@
 						"更换称号":	"守护领域掌握者"
 					},
 					"judges":	[{
-							"在副本":	"精灵树桩;生命之恩泰莱凯;奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;流水回廊;艾乌加蒙剧场;深渊之镜;普洛菲司台;霍普占卜室;未知森林;卡伊洛斯的时间;炼狱阿兹雷尔;巴尼塔斯;哈姆克公爵府;圣字教堂;阿科洛之棺;回声泉;冰狱;龙猫妹妹庭院;盟约圣地;希列;傀儡牢狱;武林大会;玫瑰庭院;幻之摇篮;八卦阵赛场;忘却湖畔;虚无之星;山海归墟;梦境奥涅伊鲁;魔力防空洞;"
+							"在副本":	"精灵树桩;奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;流水回廊;艾乌加蒙剧场;深渊之镜;未知森林;卡伊洛斯的时间;炼狱阿兹雷尔;巴尼塔斯;阿科洛之棺;"
 						}]
 				}, {
 					"sw":	true,
@@ -4391,7 +4427,7 @@
 						"更换称号":	"玫瑰之心"
 					},
 					"judges":	[{
-							"在副本":	"卡夫卡剧场;"
+							"在副本":	"卡夫卡剧场;消失的星之歌;生命之恩泰莱凯;"
 						}]
 				}, {
 					"sw":	true,
@@ -4400,16 +4436,7 @@
 						"更换称号":	"为了卡兹诺的幸福"
 					},
 					"judges":	[{
-							"在地图":	"星之仓库_21002;"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换称号":	"为了卡兹诺的幸福"
-					},
-					"judges":	[{
-							"在地图":	"古木丛林入口_4700;"
+							"在地图":	"星之仓库_21002;古木丛林入口_4700;"
 						}]
 				}, {
 					"sw":	true,

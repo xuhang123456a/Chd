@@ -63,7 +63,7 @@
 	"item_throw_1_sw":	true,
 	"item_throw_2":	true,
 	"item_throw_2_sw":	true,
-	"item_throw_3":	false,
+	"item_throw_3":	true,
 	"item_throw_3_sw":	true,
 	"item_throw_4_sw":	true,
 	"item_throw_lock_1":	true,
@@ -458,6 +458,24 @@
 				"[无]":	""
 			},
 			"item":	"中级血脉水晶(可存仓)"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级SP潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级幸运值潜力药水"
 		}],
 	"protec_data":	[{
 			"sw":	true,
