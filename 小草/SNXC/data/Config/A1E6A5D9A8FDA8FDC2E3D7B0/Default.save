@@ -197,6 +197,7 @@
 	"main_mob_other_name":	"",
 	"main_mob_trap_name":	"",
 	"path_down_hotkey":	"Down",
+	"store_items":	"",
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
@@ -1238,6 +1239,13 @@
 			"item":	""
 		}],
 	"auto_card":	[{
+			"id":	90065,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
 			"id":	394,
 			"num1":	0,
 			"num2":	0,
@@ -4357,9 +4365,7 @@
 		"[剑圣]灵魂之刃秘技":	false,
 		"[剑圣]忘却(十字之刃)":	false,
 		"[剑圣]忘却(灵魂之刃)":	false,
-		"[武道宗师]连招(1)":	false,
-		"[武道宗师]连招(2)":	false,
-		"[武道宗师]连招(3)":	false,
+		"[武道宗师]连招":	false,
 		"[巨星]电波强震":	false,
 		"[巨星]电鸣支援":	false,
 		"[巨星]怪声演奏支援":	false,

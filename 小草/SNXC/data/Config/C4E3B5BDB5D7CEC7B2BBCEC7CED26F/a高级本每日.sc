@@ -145,8 +145,8 @@
 		"diyproperty":	"",
 		"diyother":	"装备副本",
 		"diyawaken":	"装备觉醒",
-		"tag":	17036,
-		"script":	"消失的星之歌",
+		"tag":	9895,
+		"script":	"黄昏教堂",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -155,8 +155,8 @@
 		"diyproperty":	"",
 		"diyother":	"装备副本",
 		"diyawaken":	"装备觉醒",
-		"tag":	9895,
-		"script":	"黄昏教堂",
+		"tag":	17036,
+		"script":	"消失的星之歌",
 		"task":	0
 	}, {
 		"setcount":	0,

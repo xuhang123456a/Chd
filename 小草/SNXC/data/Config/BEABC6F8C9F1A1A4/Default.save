@@ -32,11 +32,11 @@
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
 	"automatic_explorer":	true,
-	"automatic_guild":	false,
+	"automatic_guild":	true,
 	"automatic_guildmoney":	true,
 	"automatic_master_2":	false,
 	"automatic_ml":	true,
-	"automatic_monter_book":	false,
+	"automatic_monter_book":	true,
 	"automatic_phb":	false,
 	"automatic_schedule":	true,
 	"automatic_skill_update_entrepot":	true,
@@ -197,6 +197,7 @@
 	"main_mob_other_name":	"",
 	"main_mob_trap_name":	"",
 	"path_down_hotkey":	"Down",
+	"store_items":	"",
 	"team_accept_cmd":	"",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
@@ -710,6 +711,13 @@
 			"item":	""
 		}],
 	"auto_card":	[{
+			"id":	90065,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
 			"id":	394,
 			"num1":	0,
 			"num2":	0,

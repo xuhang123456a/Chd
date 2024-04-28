@@ -100,7 +100,7 @@
 		"task":	0
 	}, {
 		"setcount":	1,
-		"loadtime":	-2147155548,
+		"loadtime":	328100,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -110,7 +110,7 @@
 		"task":	0
 	}, {
 		"setcount":	2,
-		"loadtime":	-2119957709,
+		"loadtime":	27525939,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -120,13 +120,23 @@
 		"task":	0
 	}, {
 		"setcount":	3,
-		"loadtime":	-2096364388,
+		"loadtime":	-2116025188,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5经验石",
 		"tag":	25548,
 		"script":	"泡泡战舰",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"经验套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5经验石",
+		"tag":	5706,
+		"script":	"克洛诺斯的时间",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -237,16 +247,6 @@
 		"diyawaken":	"5觉醒",
 		"tag":	19719,
 		"script":	"生命之恩泰莱凯",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	3036,
-		"script":	"[活动]裂缝修复工作",
 		"task":	0
 	}, {
 		"setcount":	0,
