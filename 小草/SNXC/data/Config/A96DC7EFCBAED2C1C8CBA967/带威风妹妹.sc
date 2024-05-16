@@ -1,19 +1,41 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	21727,
+		"script":	"±ùÓü",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	14772,
 		"script":	"»ØÉùÈª",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"script":	"±ùÓü",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	22414,
+		"script":	"±ùÓü(À§ÄÑ)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	30975,
+		"script":	"»ØÉùÈª(À§ÄÑ)",
 		"task":	0
 	}]

@@ -116,7 +116,7 @@
 	"path_line_boss_sw":	false,
 	"path_line_deliver_sw":	false,
 	"path_line_exchange_back_sw":	false,
-	"path_line_exchange_sw":	false,
+	"path_line_exchange_sw":	true,
 	"path_line_itemtime_sw":	true,
 	"path_line_name_sw":	false,
 	"path_line_settings_sw":	true,
@@ -133,7 +133,7 @@
 	"path_subjoin_tyjn":	true,
 	"path_subjoin_xsyc":	false,
 	"path_subjoin_ycwj":	false,
-	"path_subjoin_zxyc":	true,
+	"path_subjoin_zxyc":	false,
 	"protect_skill_syncope_1":	true,
 	"protect_skill_syncope_2":	false,
 	"protect_sw":	true,
@@ -158,7 +158,7 @@
 	"skill_option_jump_off1":	true,
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	true,
-	"skill_option_lr_boss":	true,
+	"skill_option_lr_boss":	false,
 	"skill_option_platform_skill":	false,
 	"skill_option_repeat":	false,
 	"skill_option_slide_off":	false,
@@ -269,12 +269,12 @@
 	"team_accept_allot":	2,
 	"btn_color_1":	16384000,
 	"btn_color_10":	16384000,
-	"btn_color_12":	0,
+	"btn_color_12":	16711680,
 	"btn_color_2":	16384000,
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
 	"btn_color_8":	16384000,
-	"server":	107,
+	"server":	111,
 	"item_filter_1":	[170442041, 705012003, 170441790],
 	"item_filter_2":	[180134540, 190081001, 190081002, 165100501, 611110370, 611110380, 120143001, 60143001, 100143001, 430101712, 430101713, 300190028, 18126662, 18126661, 180134587, 180134585, 180134586, 180134968, 180134498, 180134336, 180134337, 190144078, 190144081, 190144079, 190144080, 190145711, 190145710, 190145709, 611111318, 743810105, 190144963, 190144965, 42081001, 180134325, 611121104, 611121106, 611110391, 190144590, 190144591, 190144592, 190144593, 190144594, 10273501, 20673501, 30273501, 70273501, 90573501, 201660621, 201660622, 201660623, 201772011, 201772012, 201772013, 431801301, 431801302, 431801303, 431801304, 431801305, 431801306, 431801307, 431801308, 431801309, 431801310, 431801311, 431801312, 431801313, 431801314, 431801315, 431801317, 431801316, 431801318, 431801319, 431801320, 431801321, 431801322, 431801323, 431801324, 431801325, 431801326, 431801327, 431801328, 431801329, 431801330, 431801331, 431802301, 431802302, 431802303, 431802304, 431802305, 431802306, 431802307, 431802308, 431802309, 431802310, 431802311, 431802312, 431802315, 431802313, 431802314, 431802316, 431802317, 431802318, 431802319, 431802321, 431802320, 431802322, 431802323, 431802324, 431802325, 431802326, 431802327, 431802328, 431802329, 431802330, 431802331, 435200101, 435200102, 435200103, 435200104, 435200105, 435200106, 435200107, 435200108, 435200109, 435200110, 435200111, 435200112, 435200113, 3810012],
 	"item_filter_3":	[10273501, 20673501, 30273501, 70273501, 90573501, 201660621, 201660622, 201660623, 201772011, 201772012, 201772013, 431801301, 431801302, 431801303, 431801304, 431801305, 431801306, 431801307, 431801308, 431801309, 431801310, 431801312, 431801311, 431801313, 431801314, 431801315, 431801316, 431801317, 431801318, 431801319, 431801320, 431801321, 431801322, 431801323, 431801324, 431801325, 431801326, 431801327, 431801328, 431801329, 431801330, 431801331, 431802301, 431802311, 431802310, 431802309, 431802308, 431802307, 431802306, 431802305, 431802304, 431802303, 431802302, 431802321, 431802320, 431802319, 431802318, 431802317, 431802316, 431802314, 431802313, 431802312, 431802315, 435200101, 431802331, 431802330, 431802329, 431802328, 431802327, 431802326, 431802325, 431802324, 431802323, 431802322, 435200111, 435200110, 435200109, 435200108, 435200107, 435200105, 435200106, 435200104, 435200103, 435200102, 435200112, 435200113, 3810012],
@@ -736,7 +736,7 @@
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
 			"npc":	1,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -756,7 +756,7 @@
 			"item":	""
 		}, {
 			"npc":	6,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -776,7 +776,7 @@
 			"item":	""
 		}, {
 			"npc":	11,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -816,7 +816,7 @@
 			"item":	""
 		}, {
 			"npc":	19,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -2307,13 +2307,6 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
-			"id":	2001110,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
 			"id":	2001112,
 			"sw":	true,
 			"diyitem":	"",
@@ -2972,20 +2965,6 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
-			"id":	2001111,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001126,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
 			"id":	2001113,
 			"sw":	true,
 			"diyitem":	"",
@@ -3028,13 +3007,6 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
-			"id":	2001128,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
 			"id":	2001137,
 			"sw":	true,
 			"diyitem":	"",
@@ -3043,13 +3015,6 @@
 			"diyawaken":	""
 		}, {
 			"id":	2001140,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001139,
 			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -3126,13 +3091,6 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
-			"id":	2001154,
-			"sw":	false,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
 			"id":	2001156,
 			"sw":	false,
 			"diyitem":	"",
@@ -3169,13 +3127,6 @@
 			"diyawaken":	""
 		}, {
 			"id":	2001168,
-			"sw":	false,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001161,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -3280,13 +3231,6 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
-			"id":	2001187,
-			"sw":	false,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
 			"id":	2001194,
 			"sw":	false,
 			"diyitem":	"",
@@ -3302,13 +3246,6 @@
 			"diyawaken":	""
 		}, {
 			"id":	2001198,
-			"sw":	false,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001197,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -4353,6 +4290,42 @@
 			"sw":	true,
 			"vague":	false,
 			"name":	"ÐÇÄÜ»úÊ¦¡¤³¬Ô½·ûÎÄ",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"»Æ»èË¿Íà",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"»Æ»èÑÛ¾µ",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"»Æ»èÁ³ÊÎ",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,

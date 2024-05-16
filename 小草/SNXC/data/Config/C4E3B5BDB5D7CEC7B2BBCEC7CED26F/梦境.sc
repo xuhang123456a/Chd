@@ -25,6 +25,16 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	18468,
+		"script":	"梦四（1法3盾）",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
 		"tag":	492,
 		"script":	"梦二（1法3战）",
 		"task":	0

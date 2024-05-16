@@ -30,7 +30,7 @@
 		"task":	0
 	}, {
 		"setcount":	1,
-		"loadtime":	327680,
+		"loadtime":	-2147155968,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验副本",
@@ -40,7 +40,7 @@
 		"task":	0
 	}, {
 		"setcount":	2,
-		"loadtime":	27525120,
+		"loadtime":	-2119958528,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验副本",
@@ -50,7 +50,7 @@
 		"task":	0
 	}, {
 		"setcount":	3,
-		"loadtime":	55050240,
+		"loadtime":	-2092433408,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验副本",
@@ -91,16 +91,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	42,
-		"script":	"家族图腾(领取图腾)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -109,7 +99,27 @@
 		"script":	"无尽繁星大厅",
 		"task":	0
 	}, {
-		"setcount":	2,
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	26963,
+		"script":	"洗刷刷！",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	42,
+		"script":	"家族图腾(领取图腾)",
+		"task":	0
+	}, {
+		"setcount":	4,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
@@ -171,6 +181,26 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"装备副本",
+		"diyawaken":	"装备觉醒",
+		"tag":	27757,
+		"script":	"艾乌加蒙剧场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"装备副本",
+		"diyawaken":	"装备觉醒",
+		"tag":	28322,
+		"script":	"深渊之镜",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"存仓",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -225,8 +255,8 @@
 		"diyproperty":	"",
 		"diyother":	"装备副本",
 		"diyawaken":	"装备觉醒",
-		"tag":	7712,
-		"script":	"艾乌加蒙剧场（困难）",
+		"tag":	11479,
+		"script":	"黄昏教堂(困难)",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -235,47 +265,17 @@
 		"diyproperty":	"",
 		"diyother":	"装备副本",
 		"diyawaken":	"装备觉醒",
-		"tag":	11479,
-		"script":	"黄昏教堂(困难)",
+		"tag":	7712,
+		"script":	"艾乌加蒙剧场（困难）",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	15725,
-		"script":	"联盟营地",
-		"task":	2003002
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	23282,
-		"script":	"探索心之休憩地",
-		"task":	2003018
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	4828,
-		"script":	"月华苑",
-		"task":	2001015
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	32392,
-		"script":	"索拉城斗兽场",
-		"task":	2001014
+		"diyawaken":	"装备觉醒",
+		"tag":	19559,
+		"script":	"深渊之镜（困难）",
+		"task":	0
 	}]

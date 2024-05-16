@@ -50,7 +50,7 @@
 	"item_disassemble_item_sw":	false,
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
-	"item_pick_filter_10":	false,
+	"item_pick_filter_10":	true,
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
@@ -58,22 +58,22 @@
 	"item_pick_filter_6":	true,
 	"item_pick_filter_7":	true,
 	"item_pick_filter_8":	false,
-	"item_pick_filter_9":	false,
+	"item_pick_filter_9":	true,
 	"item_pick_sw":	true,
-	"item_throw_1_sw":	false,
-	"item_throw_2":	false,
-	"item_throw_2_sw":	false,
-	"item_throw_3":	false,
-	"item_throw_3_sw":	false,
-	"item_throw_4_sw":	false,
-	"item_throw_lock_1":	false,
+	"item_throw_1_sw":	true,
+	"item_throw_2":	true,
+	"item_throw_2_sw":	true,
+	"item_throw_3":	true,
+	"item_throw_3_sw":	true,
+	"item_throw_4_sw":	true,
+	"item_throw_lock_1":	true,
 	"item_throw_pass_1":	false,
 	"item_throw_pass_2":	false,
 	"item_throw_pass_3":	false,
 	"item_throw_pass_4":	false,
 	"item_throw_pass_5":	false,
 	"item_throw_sell":	false,
-	"item_throw_sw1":	false,
+	"item_throw_sw1":	true,
 	"item_throw_sw2":	false,
 	"item_use_sort":	true,
 	"item_use_sw":	true,
@@ -2042,13 +2042,6 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
-			"id":	2001110,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
 			"id":	2001112,
 			"sw":	true,
 			"diyitem":	"",
@@ -2707,20 +2700,6 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
-			"id":	2001111,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001126,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
 			"id":	2001113,
 			"sw":	true,
 			"diyitem":	"",
@@ -2763,13 +2742,6 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
-			"id":	2001128,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
 			"id":	2001137,
 			"sw":	true,
 			"diyitem":	"",
@@ -2778,13 +2750,6 @@
 			"diyawaken":	""
 		}, {
 			"id":	2001140,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001139,
 			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -2861,13 +2826,6 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
-			"id":	2001154,
-			"sw":	false,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
 			"id":	2001156,
 			"sw":	false,
 			"diyitem":	"",
@@ -2904,13 +2862,6 @@
 			"diyawaken":	""
 		}, {
 			"id":	2001168,
-			"sw":	false,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001161,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -3015,13 +2966,6 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
-			"id":	2001187,
-			"sw":	false,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
 			"id":	2001194,
 			"sw":	false,
 			"diyitem":	"",
@@ -3037,13 +2981,6 @@
 			"diyawaken":	""
 		}, {
 			"id":	2001198,
-			"sw":	false,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001197,
 			"sw":	false,
 			"diyitem":	"",
 			"diyproperty":	"",
@@ -3256,9 +3193,7 @@
 		"[½£Ê¥]Áé»êÖ®ÈÐÃØ¼¼":	false,
 		"[½£Ê¥]ÍüÈ´(Ê®×ÖÖ®ÈÐ)":	false,
 		"[½£Ê¥]ÍüÈ´(Áé»êÖ®ÈÐ)":	false,
-		"[ÎäµÀ×ÚÊ¦]Á¬ÕÐ(1)":	false,
-		"[ÎäµÀ×ÚÊ¦]Á¬ÕÐ(2)":	false,
-		"[ÎäµÀ×ÚÊ¦]Á¬ÕÐ(3)":	false,
+		"[ÎäµÀ×ÚÊ¦]Á¬ÕÐ":	false,
 		"[¾ÞÐÇ]µç²¨Ç¿Õð":	false,
 		"[¾ÞÐÇ]µçÃùÖ§Ô®":	false,
 		"[¾ÞÐÇ]¹ÖÉùÑÝ×àÖ§Ô®":	false,

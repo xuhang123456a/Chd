@@ -91,6 +91,46 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"装备觉醒",
+		"tag":	5448,
+		"script":	"普洛菲司台",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"装备觉醒",
+		"tag":	21727,
+		"script":	"普洛菲司台(困难)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"装备觉醒",
+		"tag":	24627,
+		"script":	"霍普占卜室",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"装备觉醒",
+		"tag":	11324,
+		"script":	"霍普占卜室(困难)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"火山",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -127,26 +167,6 @@
 		"diyawaken":	"",
 		"tag":	19896,
 		"script":	"竞技场练习赛（全部任务）",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"装备觉醒",
-		"tag":	492,
-		"script":	"武林大会",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"装备觉醒",
-		"tag":	2996,
-		"script":	"傀儡牢狱",
 		"task":	0
 	}, {
 		"setcount":	0,

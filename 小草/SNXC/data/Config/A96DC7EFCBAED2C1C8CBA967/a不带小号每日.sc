@@ -171,6 +171,26 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	16828,
+		"script":	"无尽繁星大厅",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	42,
+		"script":	"洗刷刷！",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -185,8 +205,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	16828,
-		"script":	"无尽繁星大厅",
+		"tag":	492,
+		"script":	"精灵树桩",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -235,16 +255,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5觉醒",
-		"tag":	492,
-		"script":	"精灵树桩",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5觉醒",
 		"tag":	19719,
 		"script":	"生命之恩泰莱凯",
 		"task":	0
@@ -257,6 +267,36 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	3903,
 		"script":	"开启自动刷超能",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	27645,
+		"script":	"普洛菲司台",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	9742,
+		"script":	"霍普占卜室",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	27530,
+		"script":	"卡伊洛斯的时间",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -391,41 +431,11 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"存仓",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5觉醒",
-		"tag":	154,
-		"script":	"黄昏教堂(困难)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5觉醒",
-		"tag":	293,
-		"script":	"消失的星之歌(困难)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5觉醒",
-		"tag":	12383,
-		"script":	"生命之恩泰莱凯(困难)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	28146,
-		"script":	"大地的考验(困难)",
+		"diyawaken":	"",
+		"tag":	779,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]
