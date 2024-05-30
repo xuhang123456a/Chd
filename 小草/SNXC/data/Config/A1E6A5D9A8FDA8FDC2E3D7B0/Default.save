@@ -152,7 +152,7 @@
 	"skill_buff_pet_monster_sw":	true,
 	"skill_buff_pet_sw":	true,
 	"skill_buff_server":	false,
-	"skill_option_boss_judge":	false,
+	"skill_option_boss_judge":	true,
 	"skill_option_boss_number":	true,
 	"skill_option_combo_off":	false,
 	"skill_option_jump_off1":	true,
@@ -164,7 +164,7 @@
 	"skill_option_slide_off":	false,
 	"skill_option_sombra":	false,
 	"skill_option_stop_skill":	false,
-	"skill_option_stop_skill_all":	false,
+	"skill_option_stop_skill_all":	true,
 	"skill_shake_sw":	false,
 	"skill_silent_sw":	true,
 	"summon_automatic_zhs":	true,
@@ -1154,7 +1154,7 @@
 			"item":	""
 		}, {
 			"npc":	38,
-			"sw1":	true,
+			"sw1":	false,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -1219,7 +1219,7 @@
 			"item":	""
 		}, {
 			"npc":	54,
-			"sw1":	true,
+			"sw1":	false,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -1234,7 +1234,7 @@
 			"item":	""
 		}, {
 			"npc":	58,
-			"sw1":	true,
+			"sw1":	false,
 			"sw2":	false,
 			"item":	""
 		}],
@@ -4270,6 +4270,36 @@
 							"HP<=%":	"100"
 						}]
 				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"切换装备",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"在副本":	"珊瑚森林;"
+					}
+				}],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"切换副武器":	""
+					},
+					"judges":	[{
+							"在地图":	"珊瑚森林 2_30401;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"切换主武器":	""
+					},
+					"judges":	[{
+							"不在地图":	"珊瑚森林 2_30401;"
+						}]
+				}]
 		}],
 	"pet_build":	[],
 	"pet_sunmon_skill":	[{
@@ -4309,9 +4339,9 @@
 		"[风行刺客(匕首)]连招1":	false,
 		"[守护天使]连招":	false,
 		"[修行舞者]二连击":	false,
-		"[宝石星]连招(1)":	false,
-		"[宝石星]连招(2)":	false,
-		"[宝石星]连招(3)":	false,
+		"[宝石星]连招(1)":	true,
+		"[宝石星]连招(2)":	true,
+		"[宝石星]连招(3)":	true,
 		"[唤雨之灵]连招":	false,
 		"[术士]灵魂4":	false,
 		"[通用]魔免循环":	true,

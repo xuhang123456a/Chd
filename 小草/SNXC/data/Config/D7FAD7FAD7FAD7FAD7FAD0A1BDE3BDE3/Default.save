@@ -32,11 +32,11 @@
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
 	"automatic_explorer":	true,
-	"automatic_guild":	false,
+	"automatic_guild":	true,
 	"automatic_guildmoney":	true,
 	"automatic_master_2":	false,
 	"automatic_ml":	true,
-	"automatic_monter_book":	false,
+	"automatic_monter_book":	true,
 	"automatic_phb":	false,
 	"automatic_schedule":	true,
 	"automatic_skill_update_entrepot":	true,
@@ -44,10 +44,10 @@
 	"automatic_subjoin_cwzx":	true,
 	"guild_diplomacy_contract":	true,
 	"guild_diplomacy_only":	false,
-	"guild_tribute_sw":	false,
+	"guild_tribute_sw":	true,
 	"item_buff_indun":	false,
 	"item_buff_sw":	true,
-	"item_disassemble_item_sw":	false,
+	"item_disassemble_item_sw":	true,
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
@@ -66,7 +66,7 @@
 	"item_throw_3":	true,
 	"item_throw_3_sw":	true,
 	"item_throw_4_sw":	true,
-	"item_throw_lock_1":	false,
+	"item_throw_lock_1":	true,
 	"item_throw_pass_1":	false,
 	"item_throw_pass_2":	false,
 	"item_throw_pass_3":	false,
@@ -82,9 +82,9 @@
 	"main_mob_distance_change":	true,
 	"main_mob_distance_max_sw":	false,
 	"main_mob_distance_min_sw":	false,
-	"main_mob_external":	false,
-	"main_mob_friend_sw":	false,
-	"main_mob_jump":	false,
+	"main_mob_external":	true,
+	"main_mob_friend_sw":	true,
+	"main_mob_jump":	true,
 	"main_mob_location_sw":	false,
 	"main_mob_mineral":	false,
 	"main_mob_move":	false,
@@ -108,29 +108,29 @@
 	"msg_speak_sw":	false,
 	"other_debug":	false,
 	"other_passprint":	false,
-	"path_auto_script_door_sw":	false,
+	"path_auto_script_door_sw":	true,
 	"path_auto_script_showval_sw":	false,
 	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
 	"path_hide_effect_sw":	false,
 	"path_line_boss_sw":	false,
-	"path_line_deliver_sw":	false,
+	"path_line_deliver_sw":	true,
 	"path_line_exchange_back_sw":	false,
-	"path_line_exchange_sw":	false,
-	"path_line_itemtime_sw":	false,
+	"path_line_exchange_sw":	true,
+	"path_line_itemtime_sw":	true,
 	"path_line_name_sw":	false,
-	"path_line_settings_sw":	false,
+	"path_line_settings_sw":	true,
 	"path_line_team_sw":	true,
 	"path_script_picture_sw1":	false,
 	"path_script_picture_sw2":	false,
 	"path_script_picture_sw4":	false,
 	"path_script_picture_sw4-1":	false,
-	"path_subjoin_htyh":	false,
-	"path_subjoin_ksqp":	false,
+	"path_subjoin_htyh":	true,
+	"path_subjoin_ksqp":	true,
 	"path_subjoin_msxj":	true,
 	"path_subjoin_msxj_msg":	false,
 	"path_subjoin_pbds":	false,
-	"path_subjoin_tyjn":	false,
+	"path_subjoin_tyjn":	true,
 	"path_subjoin_xsyc":	false,
 	"path_subjoin_ycwj":	false,
 	"path_subjoin_zxyc":	false,
@@ -144,7 +144,7 @@
 	"run_log_file":	false,
 	"run_log_sw":	true,
 	"script_changemap":	false,
-	"script_diysw":	false,
+	"script_diysw":	true,
 	"script_jump":	true,
 	"skill_buff_no_monster":	true,
 	"skill_buff_online_sw":	false,
@@ -163,8 +163,8 @@
 	"skill_option_repeat":	false,
 	"skill_option_slide_off":	false,
 	"skill_option_sombra":	false,
-	"skill_option_stop_skill":	false,
-	"skill_option_stop_skill_all":	false,
+	"skill_option_stop_skill":	true,
+	"skill_option_stop_skill_all":	true,
 	"skill_shake_sw":	false,
 	"skill_silent_sw":	true,
 	"summon_automatic_zhs":	true,
@@ -193,7 +193,7 @@
 	"hotkey_start_mouse":	"",
 	"hotkey_start_playmouse":	"Ins",
 	"main_mob_attack_name":	"",
-	"main_mob_friend_name":	"",
+	"main_mob_friend_name":	"调查团工程员;",
 	"main_mob_other_name":	"",
 	"main_mob_trap_name":	"",
 	"path_down_hotkey":	"Down",
@@ -226,13 +226,13 @@
 	"item_throw_4_begin":	1,
 	"item_throw_4_end":	168,
 	"item_throw_time":	1,
-	"main_mob_bottom":	200,
+	"main_mob_bottom":	90,
 	"main_mob_distance_max":	30,
 	"main_mob_distance_min":	30,
 	"main_mob_location_l":	32,
 	"main_mob_location_r":	99999,
-	"main_mob_lr":	1600,
-	"main_mob_top":	180,
+	"main_mob_lr":	1200,
+	"main_mob_top":	120,
 	"main_mob_trap_x":	64,
 	"msg_speak_time":	10,
 	"team_follow_removing":	150,
@@ -269,15 +269,15 @@
 	"team_accept_allot":	2,
 	"btn_color_1":	16384000,
 	"btn_color_10":	16384000,
-	"btn_color_12":	0,
+	"btn_color_12":	16711680,
 	"btn_color_2":	16384000,
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
 	"btn_color_8":	16384000,
 	"server":	111,
 	"item_filter_1":	[170442041, 705012003, 170441790],
-	"item_filter_2":	[180134540, 190081001, 190081002, 165100501, 611110370, 611110380, 120143001, 60143001, 100143001, 430101712, 430101713, 300190028, 18126662, 18126661, 180134587, 180134585, 180134586, 180134968, 180134498, 180134336, 180134337, 190144078, 190144081, 190144079, 190144080, 190145711, 190145710, 190145709, 611111318, 743810105, 190144963, 190144965, 42081001, 180134325, 611121104, 611121106, 611110391, 190144590, 190144591, 190144592, 190144593, 190144594, 190171103, 190171104, 190197501, 23106103, 300111401],
-	"item_filter_3":	[190171103, 190171104, 190197501, 23106103, 300111401],
+	"item_filter_2":	[180134540, 190081001, 190081002, 165100501, 611110370, 611110380, 120143001, 60143001, 100143001, 430101712, 430101713, 300190028, 18126662, 18126661, 180134587, 180134585, 180134586, 180134968, 180134498, 180134336, 180134337, 190144078, 190144081, 190144079, 190144080, 190145711, 190145710, 190145709, 611111318, 743810105, 190144963, 190144965, 42081001, 180134325, 611121104, 611121106, 611110391, 190144590, 190144591, 190144592, 190144593, 190144594, 190171103, 190171104, 190197501, 23106103, 300111401, 82098501, 82098502, 82098503, 82098505, 82098504, 82098506, 82098507, 82098508, 82098509, 82098510, 82098511, 82098512, 82098513, 82098515, 82098514, 82098516, 82098517, 82098518, 82098519, 82098520, 82098521, 82098522, 68769029, 68769030, 68769031, 68774001, 68775001, 68700029, 68700030, 68700031, 16640201, 16640102, 16640101, 14250102, 15250001, 14250101, 737271723, 737271731, 737271722, 68100016, 75611101, 86440131, 401714321, 430714501, 430714502, 430714503, 430714504, 430714506, 430714507, 430714508, 430714509, 430714510, 430714511, 430714512, 430714520, 430714521, 430714522, 430714523, 430714524, 430714525, 430714526, 430714527, 430714528, 430714529, 430714530, 430718428, 7710001, 7710002, 7710003, 7710004, 7710005, 7710075, 7710074, 7710069, 7710009, 7710008, 7710007, 7710006, 80570119, 81171091, 802702522, 804702012, 805701172, 807701052, 10273501, 20673501, 30273501, 70273501, 90573501, 430710201, 430229001, 201401093],
+	"item_filter_3":	[190171103, 190171104, 190197501, 23106103, 300111401, 82098501, 82098502, 82098503, 82098504, 82098505, 82098507, 82098506, 82098508, 82098509, 82098510, 82098511, 82098512, 82098513, 82098514, 82098515, 82098516, 82098517, 82098518, 82098519, 82098520, 82098522, 82098521, 68769029, 68769030, 68775001, 68774001, 68769031, 68700029, 68700030, 68700031, 16640201, 16640102, 16640101, 15250001, 14250102, 14250101, 737271723, 737271731, 737271722, 68100016, 75611101, 86440131, 401714321, 430714501, 430714502, 430714503, 430714504, 430714506, 430714507, 430714508, 430714509, 430714510, 430714511, 430714512, 430714520, 430714521, 430714522, 430714523, 430714527, 430714526, 430714524, 430714525, 430714530, 430714529, 430714528, 430718428, 7710003, 7710002, 7710001, 7710004, 7710005, 7710074, 7710075, 7710006, 7710007, 7710008, 7710009, 7710069, 80570119, 81171091, 802702522, 804702012, 805701172, 807701052, 90573501, 70273501, 30273501, 20673501, 10273501, 430710201, 430229001, 201401093],
 	"item_filter_4":	[20200440, 20200447, 20200425, 160291180, 160291130],
 	"item_use_data":	[{
 			"sw":	true,
@@ -387,6 +387,168 @@
 				"[无]":	""
 			},
 			"item":	"初级SP潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级防御力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级魔法力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级HP潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级魔法抵抗力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级幸运值潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级力量潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级体力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级HP潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级体力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级幸运值潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级魔法抵抗力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级SP潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级魔法力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级防御力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级HP潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级力量潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"[无]":	""
+			},
+			"Judge2":	{
+				"SP<=%":	"90"
+			},
+			"item":	"小型法力药罐"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	"90"
+			},
+			"item":	"败家经验珠"
 		}],
 	"protec_data":	[{
 			"sw":	true,
@@ -447,55 +609,85 @@
 			"type":	"操作",
 			"name":	"召唤兽出战:卡勒迪安"
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"type":	"外交",
 			"name":	"艾利娅斯-小四",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间"]
+			"maps":	["★古代博物馆 外围_56400"],
+			"induns":	["空中战场"]
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"type":	"物品",
 			"name":	"经验值的秘药 500%(不可交易)",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙", "欧若拉庭院"]
+			"maps":	["★古代博物馆 外围_56400"],
+			"induns":	["空中战场"]
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"type":	"物品",
 			"name":	"回忆の沙漏",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间"]
+			"maps":	["★古代博物馆 外围_56400"],
+			"induns":	["空中战场"]
 		}, {
 			"sw":	false,
 			"type":	"物品",
 			"name":	"经验值糖浆",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间"]
+			"maps":	["★古代博物馆 外围_56400"],
+			"induns":	["空中战场"]
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"type":	"物品",
 			"name":	"小四的祝福(不可交易)",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间"]
+			"maps":	["★ 宝库洞穴2_70301"],
+			"induns":	["空中战场"]
 		}, {
 			"sw":	false,
 			"type":	"物品",
 			"name":	"百分考卷",
 			"maps":	[],
-			"induns":	["克洛诺斯的时间"]
+			"induns":	["空中战场"]
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"type":	"操作",
 			"name":	"课程:使用七彩玲珑",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙"]
+			"maps":	["★古代博物馆 外围_56400"],
+			"induns":	["空中战场"]
+		}, {
+			"sw":	false,
+			"type":	"物品",
+			"name":	"恶魔の小果实（电）",
+			"maps":	["★古代博物馆 外围_56400"],
+			"induns":	["空中战场"]
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"温泉蛋",
+			"induns":	["空中战场"]
+		}, {
+			"sw":	false,
+			"type":	"物品",
+			"name":	"高级温泉蛋"
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	2211103,
-			"name":	"火墙术",
+			"id":	2,
+			"name":	"强攻击",
 			"dmin":	0,
 			"dmax":	300,
-			"priority":	false,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"在地图":	"珊瑚森林 2_30401;"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1802409,
+			"name":	"[无限]阳炎爆破",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
@@ -504,24 +696,11 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2211003,
-			"name":	"火焰之舞",
+			"id":	2109201,
+			"name":	"陨石法阵",
 			"dmin":	0,
 			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	false,
-			"id":	2008003,
-			"name":	"阳炎爆破",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
@@ -530,11 +709,11 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2105001,
-			"name":	"石矛术",
+			"id":	2210003,
+			"name":	"炎火蔓延",
 			"dmin":	0,
 			"dmax":	300,
-			"priority":	false,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
@@ -543,19 +722,6 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2104001,
-			"name":	"地震",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	false,
 			"id":	2106001,
 			"name":	"天龙牙",
 			"dmin":	0,
@@ -569,21 +735,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2107002,
-			"name":	"风行天下",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	false,
-			"id":	2106002,
-			"name":	"真空弹",
+			"id":	2211001,
+			"name":	"咆哮地虫",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -608,6 +761,45 @@
 			"num":	0
 		}, {
 			"sw":	true,
+			"id":	2106002,
+			"name":	"真空弹",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	2107002,
+			"name":	"风行天下",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	2211002,
+			"name":	"烈风狂斩",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
 			"id":	2211006,
 			"name":	"极冻冰魂",
 			"dmin":	0,
@@ -621,8 +813,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2104104,
-			"name":	"冰原",
+			"id":	2008006,
+			"name":	"冰河冲击",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -634,21 +826,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2107006,
-			"name":	"寒冰刺",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	2,
-			"name":	"强攻击",
+			"id":	2211103,
+			"name":	"火墙术",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -661,9 +840,109 @@
 		}],
 	"skill_buff_data":	[],
 	"speak_data":	[],
-	"skill_hotkey_data":	[],
+	"skill_hotkey_data":	[{
+			"sw":	true,
+			"id":	2211003,
+			"name":	"火焰之舞",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	2105001,
+			"name":	"石矛术",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	2104001,
+			"name":	"地震",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	2107002,
+			"name":	"风行天下",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	2105002,
+			"name":	"多重风刃术",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	2211006,
+			"name":	"极冻冰魂",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	2104104,
+			"name":	"冰原",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	2107006,
+			"name":	"寒冰刺",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}],
 	"team_list_data":	[],
-	"script_point_data":	[],
+	"script_point_data":	[{
+			"type":	"转身&执行额外",
+			"x":	"3167",
+			"y":	"1423",
+			"pos1":	"右跑",
+			"pos2":	"左跑"
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"32",
+			"y":	"1455",
+			"pos1":	"左跑",
+			"pos2":	"右跑"
+		}, {
+			"type":	"上跳",
+			"x":	"579",
+			"y":	"1455",
+			"pos1":	"右跑",
+			"pos2":	"右跑"
+		}, {
+			"type":	"上二段跳",
+			"x":	"1500",
+			"y":	"1134",
+			"pos1":	"右跑",
+			"pos2":	"右跑"
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"3167",
+			"y":	"799",
+			"pos1":	"右跑",
+			"pos2":	"左跑"
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"1723",
+			"y":	"1151",
+			"pos1":	"左跑",
+			"pos2":	"右跑"
+		}],
 	"script_trigger_data":	[],
 	"summon_data":	[201901181, 201901182, 201901183, 201901184, 201901185, 201901186],
 	"line_monster_data":	[],
@@ -3297,6 +3576,17 @@
 			"execute":	{
 				"退出到角色":	""
 			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"无经验变化":	"10"
+			},
+			"judge":	[{
+					"在副本":	"空中战场;"
+				}],
+			"execute":	{
+				"使用物品":	"艾丽娅斯传送石"
+			}
 		}],
 	"diytrigger":	[{
 			"only_run":	true,
@@ -3363,8 +3653,53 @@
 							"拥有BUFF":	"活动_6000157"
 						}]
 				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"装备切换",
+			"judges":	[],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"切换副武器":	""
+					},
+					"judges":	[{
+							"在地图":	"珊瑚森林 2_30401;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"切换主武器":	""
+					},
+					"judges":	[{
+							"不在地图":	"珊瑚森林 2_30401;"
+						}]
+				}]
 		}],
-	"pet_build":	[],
+	"pet_build":	[{
+			"sw":	true,
+			"id":	43501028,
+			"name":	"自然萌"
+		}, {
+			"sw":	true,
+			"id":	43501029,
+			"name":	"给力娇"
+		}, {
+			"sw":	true,
+			"id":	43501019,
+			"name":	"魔"
+		}, {
+			"sw":	true,
+			"id":	43501031,
+			"name":	"皮山压顶"
+		}, {
+			"sw":	true,
+			"id":	43501032,
+			"name":	"皮皮亲亲"
+		}],
 	"pet_sunmon_skill":	[{
 			"sw":	true,
 			"skill":	2010001,
@@ -3415,6 +3750,234 @@
 			"sw":	true,
 			"vague":	true,
 			"name":	"索拉",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	true,
+			"name":	"英雄的天空",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的天使裁决",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的拉斐尔之护手",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的天使泪珠元素",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的天使之怒",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的天使献祭",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的龙之巨锤",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的黯之长矛",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的龙之锁链剑",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的追风之魔法卡牌",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的双色MG",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的天使圣弩",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的丘比特之弓",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的朗基努斯长枪",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的皇冠权杖",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的天使祈愿",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的双翼天使之剑",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的片翼天使之杖",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的天使泪珠(多属性)",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,

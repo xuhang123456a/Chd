@@ -1,0 +1,31 @@
+[{
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"经验套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	42,
+		"script":	"空中战场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	18468,
+		"script":	"火山珊瑚",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	6335,
+		"script":	"竞技场练习赛（低保任务）",
+		"task":	0
+	}]

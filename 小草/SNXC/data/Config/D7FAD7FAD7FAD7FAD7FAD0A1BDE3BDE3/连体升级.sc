@@ -1,12 +1,12 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15725,
-		"script":	"怪物大厦",
+		"tag":	3298,
+		"script":	"空中战场",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -15,7 +15,27 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	42,
+		"tag":	21727,
+		"script":	"火山珊瑚",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	14772,
+		"script":	"竞技场练习赛（低保任务）",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"存仓",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	11539,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]

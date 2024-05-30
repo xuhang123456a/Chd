@@ -185,6 +185,16 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	19867,
+		"script":	"竞技场练习赛（低保任务）",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
 		"tag":	42,
 		"script":	"洗刷刷！",
 		"task":	0
@@ -207,6 +217,16 @@
 		"diyawaken":	"5觉醒",
 		"tag":	492,
 		"script":	"精灵树桩",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	27349,
+		"script":	"自动强化拉尔沙之戒",
 		"task":	0
 	}, {
 		"setcount":	0,

@@ -61,6 +61,16 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22759,
+		"script":	"竞技场练习赛（低保任务）",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"存仓",
 		"diyproperty":	"",
 		"diyother":	"",

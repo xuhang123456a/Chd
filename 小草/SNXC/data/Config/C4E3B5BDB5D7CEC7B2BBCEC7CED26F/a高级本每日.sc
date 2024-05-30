@@ -119,7 +119,7 @@
 		"script":	"家族图腾(领取图腾)",
 		"task":	0
 	}, {
-		"setcount":	4,
+		"setcount":	3,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
@@ -127,6 +127,16 @@
 		"diyawaken":	"装备觉醒",
 		"tag":	18468,
 		"script":	"精灵树桩",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	26419,
+		"script":	"自动强化拉尔沙之戒",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -278,4 +288,124 @@
 		"tag":	19559,
 		"script":	"深渊之镜（困难）",
 		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	28704,
+		"script":	"联盟营地",
+		"task":	2003002
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	15142,
+		"script":	"探索心之休憩地",
+		"task":	2003018
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	25548,
+		"script":	"月华苑",
+		"task":	2001015
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	27645,
+		"script":	"索拉城斗兽场",
+		"task":	2001014
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	32663,
+		"script":	"水下培养皿",
+		"task":	100021
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	12317,
+		"script":	"世界之树",
+		"task":	100037
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	19265,
+		"script":	"星之摇篮",
+		"task":	100044
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	24371,
+		"script":	"宝石丛林",
+		"task":	100057
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	3549,
+		"script":	"不幸者的救赎(5)",
+		"task":	100092
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	19955,
+		"script":	"惩罚干扰修炼之人(2)",
+		"task":	100097
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	4967,
+		"script":	"沙之战场(3)",
+		"task":	100132
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	13932,
+		"script":	"灵气清澈之山(2)",
+		"task":	100141
 	}]
