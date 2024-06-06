@@ -5,21 +5,21 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	682005812,
+		"name":	"℃ベ裸装",
+		"autoscript":	"连体每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	439299703,
 		"name":	"→酷我音乐→",
 		"autoscript":	"温泉蛋",
 		"item":	"",
 		"item_other":	""
 	}, {
-		"index":	534598218,
-		"name":	"小姐姐",
+		"index":	139978468,
+		"name":	"能饮一杯无o",
 		"autoscript":	"连体升级",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	682005812,
-		"name":	"℃ベ裸装",
-		"autoscript":	"连体每日",
 		"item":	"存仓",
 		"item_other":	""
 	}, {

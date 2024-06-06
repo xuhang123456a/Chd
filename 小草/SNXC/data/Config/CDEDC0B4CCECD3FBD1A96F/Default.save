@@ -80,8 +80,6 @@
 	"main_mob_attack_sw":	false,
 	"main_mob_back":	false,
 	"main_mob_distance_change":	true,
-	"main_mob_distance_max_sw":	false,
-	"main_mob_distance_min_sw":	false,
 	"main_mob_external":	true,
 	"main_mob_friend_sw":	true,
 	"main_mob_jump":	false,
@@ -93,6 +91,7 @@
 	"main_mob_noattck_show":	false,
 	"main_mob_other_sw":	false,
 	"main_mob_trap_sw":	false,
+	"main_skill_distance_sw":	true,
 	"memory_debris_time":	true,
 	"mouse_rest":	true,
 	"mouse_time":	false,
@@ -108,8 +107,8 @@
 	"msg_speak_sw":	false,
 	"other_debug":	false,
 	"other_passprint":	false,
-	"path_auto_script_door_sw":	false,
-	"path_auto_script_showval_sw":	false,
+	"path_auto_script_door_sw":	true,
+	"path_auto_script_showval_sw":	true,
 	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
 	"path_hide_effect_sw":	false,
@@ -117,9 +116,9 @@
 	"path_line_deliver_sw":	true,
 	"path_line_exchange_back_sw":	false,
 	"path_line_exchange_sw":	true,
-	"path_line_itemtime_sw":	false,
+	"path_line_itemtime_sw":	true,
 	"path_line_name_sw":	false,
-	"path_line_settings_sw":	false,
+	"path_line_settings_sw":	true,
 	"path_line_team_sw":	true,
 	"path_script_picture_sw1":	false,
 	"path_script_picture_sw2":	false,
@@ -129,7 +128,7 @@
 	"path_subjoin_ksqp":	true,
 	"path_subjoin_msxj":	true,
 	"path_subjoin_msxj_msg":	false,
-	"path_subjoin_pbds":	false,
+	"path_subjoin_pbds":	true,
 	"path_subjoin_tyjn":	true,
 	"path_subjoin_xsyc":	false,
 	"path_subjoin_ycwj":	false,
@@ -178,12 +177,12 @@
 	"auto_end_item_val":	"",
 	"auto_end_lua_val":	"执行自动切换角色.lua",
 	"auto_load_team_val":	"",
-	"auto_set_diyitem":	"攻击套装",
-	"auto_team_dream_room_name":	"",
-	"auto_team_dream_room_namelist":	"",
+	"auto_set_diyitem":	"存仓",
+	"auto_team_dream_room_name":	"你到底吻不吻我o",
+	"auto_team_dream_room_namelist":	"10477164;满目星河是你\r11083254;你到底吻不吻我o\r9915450;微风♀\r9857891;致今生\r",
 	"auto_team_room_name":	"",
 	"auto_team_room_namelist":	"",
-	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;",
+	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;中级冒险家情报卷轴;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"Del",
@@ -193,7 +192,7 @@
 	"hotkey_start_mouse":	"",
 	"hotkey_start_playmouse":	"Ins",
 	"main_mob_attack_name":	"",
-	"main_mob_friend_name":	"调查团工程员;",
+	"main_mob_friend_name":	"蘑菇;",
 	"main_mob_other_name":	"",
 	"main_mob_trap_name":	"",
 	"path_down_hotkey":	"Down",
@@ -226,14 +225,14 @@
 	"item_throw_4_begin":	1,
 	"item_throw_4_end":	168,
 	"item_throw_time":	0,
-	"main_mob_bottom":	100,
-	"main_mob_distance_max":	30,
-	"main_mob_distance_min":	30,
+	"main_mob_bottom":	0,
 	"main_mob_location_l":	32,
 	"main_mob_location_r":	99999,
 	"main_mob_lr":	1000,
 	"main_mob_top":	120,
 	"main_mob_trap_x":	64,
+	"main_skill_distance_max":	100,
+	"main_skill_distance_min":	0,
 	"msg_speak_time":	10,
 	"team_follow_removing":	150,
 	"team_follow_x":	3000,
@@ -243,12 +242,12 @@
 	"auto_login_end_val":	0,
 	"auto_set_boss_hp_show":	0,
 	"auto_set_boss_hp_type":	0,
-	"automatic_zhs_time1":	3,
-	"automatic_zhs_time2":	3,
-	"automatic_zhs_time3":	3,
-	"automatic_zhs_time4":	3,
-	"automatic_zhs_time5":	3,
-	"automatic_zhs_time6":	3,
+	"automatic_zhs_time1":	6,
+	"automatic_zhs_time2":	6,
+	"automatic_zhs_time3":	6,
+	"automatic_zhs_time4":	6,
+	"automatic_zhs_time5":	6,
+	"automatic_zhs_time6":	6,
 	"automatic_zhs_time7":	0,
 	"config_system_type":	1,
 	"main_mob_trap_type":	0,
@@ -257,7 +256,7 @@
 	"revive_type":	2,
 	"skill_option_lr_val":	0,
 	"skill_option_platform_skill_v":	0,
-	"skill_option_sombra_val":	0,
+	"skill_option_sombra_val":	1,
 	"skill_silent_val":	0,
 	"summon_automatic_zhs_refresh1":	1,
 	"summon_automatic_zhs_refresh2":	1,
@@ -274,10 +273,10 @@
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
 	"btn_color_8":	16384000,
-	"server":	107,
+	"server":	111,
 	"item_filter_1":	[170442041, 705012003, 170441790],
-	"item_filter_2":	[180134540, 190081001, 190081002, 165100501, 611110370, 611110380, 120143001, 60143001, 100143001, 430101712, 430101713, 300190028, 18126662, 18126661, 180134587, 180134585, 180134586, 180134968, 180134498, 180134336, 180134337, 190144078, 190144081, 190144079, 190144080, 190145711, 190145710, 190145709, 611111318, 743810105, 190144963, 190144965, 42081001, 180134325, 611121104, 611121106, 611110391, 190144590, 190144591, 190144592, 190144593, 190144594, 300111401, 300111801, 300101801, 300113601, 300102201, 300121901, 300122101, 300118801, 611111534, 611111535, 611111570, 611111568, 611111569, 611111567, 611111566, 611111565, 611111564, 611111563, 611111562, 611111561, 611111560, 611111559, 611111558, 611111557, 611111556, 611111555, 611111554, 611111553, 611111552, 611111551, 611111550, 611111548, 611111549, 611111547, 611111546, 611111545, 611111544, 611111543, 611111542, 611111541, 611111540, 611111539, 611111536, 611111537, 611111538, 300108201, 300118401, 300101401, 300103401, 300107801, 300121601, 300124401, 300155001, 300107001, 300107401, 300114401, 23106103, 518101501, 430229001, 430710201, 10273501, 20673501, 30273501, 70273501, 90573501],
-	"item_filter_3":	[300111401, 300111801, 300101801, 300113601, 300102201, 300121901, 300122101, 300118801, 611111534, 611111535, 611111536, 611111537, 611111538, 611111539, 611111540, 611111541, 611111542, 611111543, 611111544, 611111545, 611111546, 611111547, 611111548, 611111549, 611111550, 611111551, 611111553, 611111552, 611111554, 611111555, 611111556, 611111557, 611111558, 611111559, 611111560, 611111561, 611111562, 611111563, 611111564, 611111565, 611111566, 611111567, 611111568, 611111569, 611111570, 300108201, 300118401, 300101401, 300103401, 300107801, 300121601, 300124401, 300155001, 300107001, 300107401, 300114401, 23106103, 518101501, 430229001, 430710201, 10273501, 90573501, 70273501, 30273501, 20673501],
+	"item_filter_2":	[180134540, 190081001, 190081002, 165100501, 611110370, 611110380, 120143001, 60143001, 100143001, 430101712, 430101713, 300190028, 18126662, 18126661, 180134587, 180134585, 180134586, 180134968, 180134498, 180134336, 180134337, 190144078, 190144081, 190144079, 190144080, 190145711, 190145710, 190145709, 611111318, 743810105, 190144963, 190144965, 42081001, 180134325, 611121104, 611121106, 611110391, 190144590, 190144591, 190144592, 190144593, 190144594, 300111401, 300111801, 300101801, 300113601, 300102201, 300121901, 300122101, 300118801, 611111534, 611111535, 611111570, 611111568, 611111569, 611111567, 611111566, 611111565, 611111564, 611111563, 611111562, 611111561, 611111560, 611111559, 611111558, 611111557, 611111556, 611111555, 611111554, 611111553, 611111552, 611111551, 611111550, 611111548, 611111549, 611111547, 611111546, 611111545, 611111544, 611111543, 611111542, 611111541, 611111540, 611111539, 611111536, 611111537, 611111538, 300108201, 300118401, 300101401, 300103401, 300107801, 300121601, 300124401, 300155001, 300107001, 300107401, 300114401, 23106103, 430229001, 430710201, 10273501, 20673501, 30273501, 70273501, 90573501, 201401093, 180134344, 190144164, 190144165, 190144166],
+	"item_filter_3":	[300111401, 300111801, 300101801, 300113601, 300102201, 300121901, 300122101, 300118801, 611111534, 611111535, 611111536, 611111537, 611111538, 611111539, 611111540, 611111541, 611111542, 611111543, 611111544, 611111545, 611111546, 611111547, 611111548, 611111549, 611111550, 611111551, 611111553, 611111552, 611111554, 611111555, 611111556, 611111557, 611111558, 611111559, 611111560, 611111561, 611111562, 611111563, 611111564, 611111565, 611111566, 611111567, 611111568, 611111569, 611111570, 300108201, 300118401, 300101401, 300103401, 300107801, 300121601, 300124401, 300155001, 300107001, 300107401, 300114401, 23106103, 430229001, 430710201, 10273501, 90573501, 70273501, 30273501, 20673501, 201401093, 180134344, 190144166, 190144165, 190144164],
 	"item_filter_4":	[20200440, 20200447, 20200425, 160291180, 160291130],
 	"item_use_data":	[{
 			"sw":	true,
@@ -378,6 +377,60 @@
 				"[无]":	""
 			},
 			"item":	"初级HP潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"败家经验珠"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级体力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级魔法抵抗力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级防御力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"超级败家经验珠"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"[称号书]宝莱坞征服者"
 		}],
 	"protec_data":	[{
 			"sw":	true,
@@ -441,19 +494,19 @@
 			"sw":	true,
 			"type":	"外交",
 			"name":	"艾利娅斯-小四",
-			"maps":	["练习斗室_93300", "★古代博物馆 外围_56400"],
+			"maps":	["★古代博物馆 3层_56700"],
 			"induns":	["怪物大厦", "空中战场"]
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"经验值的秘药 500%(不可交易)",
-			"maps":	["练习斗室_93300", "★古代博物馆 外围_56400"],
-			"induns":	["怪物大厦", "空中战场"]
+			"maps":	["★古代博物馆 3层_56700"],
+			"induns":	["里维拉市政府"]
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"type":	"物品",
 			"name":	"回忆の沙漏",
-			"maps":	["★古代博物馆 外围_56400"],
+			"maps":	["★古代博物馆 3层_56700"],
 			"induns":	["怪物大厦"]
 		}, {
 			"sw":	false,
@@ -465,7 +518,7 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"小四的祝福(不可交易)",
-			"maps":	["练习斗室_93300", "★ 宝库洞穴2_70301", "★古代博物馆 外围_56400"],
+			"maps":	["★古代博物馆 3层_56700"],
 			"induns":	["怪物大厦", "空中战场"]
 		}, {
 			"sw":	false,
@@ -477,25 +530,25 @@
 			"sw":	true,
 			"type":	"操作",
 			"name":	"课程:使用七彩玲珑",
-			"maps":	["练习斗室_93300", "★ 宝库洞穴2_70301", "★古代博物馆 外围_56400"],
+			"maps":	["★古代博物馆 3层_56700"],
 			"induns":	["怪物大厦", "空中战场"]
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"温泉蛋",
-			"maps":	["★ 宝库洞穴2_70301", "★古代博物馆 外围_56400"],
+			"maps":	["★古代博物馆 3层_56700"],
 			"induns":	["空中战场"]
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"恶魔の小果实（火）",
-			"maps":	["★ 宝库洞穴2_70301", "★古代博物馆 外围_56400"],
+			"maps":	["★古代博物馆 3层_56700"],
 			"induns":	["空中战场"]
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"高级温泉蛋",
-			"maps":	["★古代博物馆 外围_56400"],
+			"maps":	["★古代博物馆 3层_56700"],
 			"induns":	["空中战场"]
 		}],
 	"skill_attack_data":	[{
@@ -778,22 +831,10 @@
 		}],
 	"team_list_data":	[],
 	"script_point_data":	[{
-			"type":	"转身&执行额外",
-			"x":	"3167",
-			"y":	"1376",
+			"type":	"右三段跳",
+			"x":	"1151",
+			"y":	"1327",
 			"pos1":	"右跑",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"32",
-			"y":	"1376",
-			"pos1":	"左跑",
 			"pos2":	"右跑",
 			"judge":	{
 				"":	""
@@ -802,11 +843,11 @@
 				"":	""
 			}
 		}, {
-			"type":	"转身&执行额外",
-			"x":	"1930",
-			"y":	"1007",
+			"type":	"右三段跳",
+			"x":	"3519",
+			"y":	"1263",
 			"pos1":	"右跑",
-			"pos2":	"左跑",
+			"pos2":	"右跑",
 			"judge":	{
 				"":	""
 			},
@@ -814,10 +855,34 @@
 				"":	""
 			}
 		}, {
-			"type":	"上跳",
-			"x":	"1109",
-			"y":	"1008",
-			"pos1":	"左跑",
+			"type":	"右三段跳",
+			"x":	"8511",
+			"y":	"1327",
+			"pos1":	"右跑",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"右三段跳",
+			"x":	"12735",
+			"y":	"1327",
+			"pos1":	"右跑",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"右三段跳",
+			"x":	"11677",
+			"y":	"751",
+			"pos1":	"右跑",
 			"pos2":	"右跑",
 			"judge":	{
 				"":	""
@@ -827,8 +892,8 @@
 			}
 		}, {
 			"type":	"右跳",
-			"x":	"1753",
-			"y":	"703",
+			"x":	"16550",
+			"y":	"1135",
 			"pos1":	"右跑",
 			"pos2":	"右跑",
 			"judge":	{
@@ -838,22 +903,10 @@
 				"":	""
 			}
 		}, {
-			"type":	"右跳(助跑)",
-			"x":	"2476",
-			"y":	"367",
-			"pos1":	"右跑",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"2344",
-			"y":	"704",
-			"pos1":	"左跑",
+			"type":	"下爬梯子",
+			"x":	"17648",
+			"y":	"815",
+			"pos1":	"左&右[无]",
 			"pos2":	"右跑",
 			"judge":	{
 				"":	""
@@ -862,10 +915,34 @@
 				"":	""
 			}
 		}, {
-			"type":	"上跳",
-			"x":	"226",
-			"y":	"1376",
+			"type":	"右三段跳",
+			"x":	"15487",
+			"y":	"1135",
 			"pos1":	"右跑",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"右跳",
+			"x":	"17728",
+			"y":	"1327",
+			"pos1":	"右跑",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"模拟↓键",
+			"x":	"18552",
+			"y":	"1231",
+			"pos1":	"左&右[无]",
 			"pos2":	"右跑",
 			"judge":	{
 				"":	""
@@ -875,7 +952,7 @@
 			}
 		}],
 	"script_trigger_data":	[],
-	"summon_data":	[201901181, 201901182, 201901183, 201901184, 201901185, 201901186],
+	"summon_data":	[190145624, 190145625, 190148179],
 	"line_monster_data":	[],
 	"item_filter_pick_data_1":	[],
 	"item_filter_pick_data_2":	[{
@@ -906,7 +983,7 @@
 			"item":	""
 		}, {
 			"npc":	6,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -926,7 +1003,7 @@
 			"item":	""
 		}, {
 			"npc":	11,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -966,7 +1043,7 @@
 			"item":	""
 		}, {
 			"npc":	19,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -1126,6 +1203,13 @@
 			"item":	""
 		}],
 	"auto_card":	[{
+			"id":	90068,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
 			"id":	90065,
 			"num1":	0,
 			"num2":	0,
@@ -3066,55 +3150,6 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
-			"id":	2001052,
-			"sw":	false,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001046,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001047,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001053,
-			"sw":	false,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001048,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001049,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001050,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
 			"id":	2001113,
 			"sw":	true,
 			"diyitem":	"",
@@ -3620,7 +3655,39 @@
 						}]
 				}]
 		}],
-	"pet_build":	[],
+	"pet_build":	[{
+			"sw":	true,
+			"id":	43501028,
+			"name":	"自然萌"
+		}, {
+			"sw":	true,
+			"id":	43501029,
+			"name":	"给力娇"
+		}, {
+			"sw":	true,
+			"id":	43501017,
+			"name":	"佛"
+		}, {
+			"sw":	true,
+			"id":	43501018,
+			"name":	"圣"
+		}, {
+			"sw":	true,
+			"id":	43501019,
+			"name":	"魔"
+		}, {
+			"sw":	true,
+			"id":	43501030,
+			"name":	"皮皮打气"
+		}, {
+			"sw":	true,
+			"id":	43501031,
+			"name":	"皮山压顶"
+		}, {
+			"sw":	true,
+			"id":	43501032,
+			"name":	"皮皮亲亲"
+		}],
 	"pet_sunmon_skill":	[{
 			"sw":	true,
 			"skill":	2010001,
@@ -3682,42 +3749,6 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"英雄的天空之魔枪披风",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"英雄的天空鞋子（男）",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"英雄的天空鞋子（女）",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"英雄的神圣折扇",
 			"type1":	true,
 			"type2":	false,
@@ -3742,55 +3773,7 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"英雄的天空裙子（女）",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"封魔.魔音",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"英雄的天空手套（女）",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"英雄的天空之幻灵师披风",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"英雄的天空之次元守望者披风",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -3814,43 +3797,7 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"英雄的天空之梦魇披风",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"英雄的丘比特之弓",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"英雄的天空头盔（男）",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"英雄的天空头盔（女）",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -3898,66 +3845,6 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"英雄的天空之星芒披风",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"英雄的天空铠甲（男）",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"英雄的天空手套（男）",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"英雄的天空裤子（男）",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"英雄的天空之审判官披风",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"英雄的神圣指挥棒",
 			"type1":	true,
 			"type2":	false,
@@ -3994,18 +3881,6 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"英雄的天空之傀儡宗师披风",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"英雄的天使之击",
 			"type1":	true,
 			"type2":	false,
@@ -4029,8 +3904,404 @@
 			"filter5":	false
 		}, {
 			"sw":	true,
+			"vague":	true,
+			"name":	"英雄的天空",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
 			"vague":	false,
-			"name":	"英雄的天空之远古披风",
+			"name":	"英雄的天使泪珠(多属性)",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的龙之锁链剑",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的片翼天使之杖",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的天使之羽",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的天使之护",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的神圣飞燕剑",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的天使泪珠元素",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的天使之音",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的神圣武者拳刃",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的拉斐尔之护手",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的命运之门",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的神圣灵魂石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的天使之语",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的黯之长矛",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的天使献祭",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的神圣雨伞",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的双翼天使之剑",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的皇冠权杖",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的神圣十字圣剑",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的天使圣弩",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的神圣宝石锤",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄的朗基努斯长枪",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"傀儡的阴谋·黑月权杖",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"傀儡的阴谋·死亡演奏指挥棒",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"傀儡的阴谋·暗月魔晶护手",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英勇的守护·神圣锁链剑",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"傀儡的阴谋·穿梭轮环",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英勇的守护·无尽天边",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"傀儡的阴谋·侍魂黑狼玉",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"傀儡的阴谋·暗夜短剑",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英勇的守护·白诺斯扇",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英勇的守护·毁灭双枪",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"神秘实验室的风火结晶",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,

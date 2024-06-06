@@ -151,12 +151,12 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"掉落套装",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19170,
-		"script":	"保护春植园",
+		"tag":	22484,
+		"script":	"甜甜的糖果工坊",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -195,18 +195,18 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	42,
-		"script":	"洗刷刷！",
+		"tag":	26303,
+		"script":	"家族图腾(领取图腾)",
 		"task":	0
 	}, {
-		"setcount":	0,
+		"setcount":	3,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	9962,
-		"script":	"家族图腾(领取图腾)",
+		"diyawaken":	"5爆伤石",
+		"tag":	17372,
+		"script":	"时空之泉",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -391,52 +391,12 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"掉落套装",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15725,
-		"script":	"入侵太空农场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	11479,
-		"script":	"猫头鹰的神秘组织",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	29359,
-		"script":	"樱树湖历险",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	26963,
-		"script":	"被感染的哎哟城",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24465,
-		"script":	"金字塔的秘密",
+		"tag":	154,
+		"script":	"镜中世界（精英本）",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -457,5 +417,25 @@
 		"diyawaken":	"",
 		"tag":	779,
 		"script":	"执行自动切换角色",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	5098,
+		"script":	"艾乌加蒙剧场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	23987,
+		"script":	"深渊之镜",
 		"task":	0
 	}]

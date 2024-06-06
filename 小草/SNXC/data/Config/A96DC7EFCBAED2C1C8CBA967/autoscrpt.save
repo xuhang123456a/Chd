@@ -18,7 +18,7 @@
 		"tag":	4967,
 		"script":	"自动转换星座点数",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -29,7 +29,7 @@
 		"tag":	7712,
 		"script":	"领取家族工资",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -40,7 +40,7 @@
 		"tag":	31323,
 		"script":	"联盟营地",
 		"task":	2003002,
-		"scriptend":	30
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -51,7 +51,7 @@
 		"tag":	30334,
 		"script":	"探索心之休憩地",
 		"task":	2003018,
-		"scriptend":	30
+		"scriptend":	6
 	}, {
 		"setcount":	1,
 		"loadtime":	0,
@@ -62,7 +62,7 @@
 		"tag":	17674,
 		"script":	"月华苑",
 		"task":	2001015,
-		"scriptend":	30
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -73,7 +73,7 @@
 		"tag":	4665,
 		"script":	"索拉城斗兽场",
 		"task":	2001014,
-		"scriptend":	30
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -114,7 +114,7 @@
 		"tag":	32663,
 		"script":	"泡泡战舰",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	6
 	}, {
 		"setcount":	2,
 		"loadtime":	27525939,
@@ -125,7 +125,7 @@
 		"tag":	6869,
 		"script":	"泡泡战舰",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	6
 	}, {
 		"setcount":	3,
 		"loadtime":	-2116025188,
@@ -135,7 +135,8 @@
 		"diyawaken":	"5经验石",
 		"tag":	25548,
 		"script":	"泡泡战舰",
-		"task":	0
+		"task":	0,
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -146,7 +147,7 @@
 		"tag":	5706,
 		"script":	"克洛诺斯的时间",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -156,18 +157,19 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	23282,
 		"script":	"开启自动刷超能",
-		"task":	0
+		"task":	0,
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"掉落套装",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19170,
-		"script":	"保护春植园",
+		"tag":	22484,
+		"script":	"甜甜的糖果工坊",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -178,7 +180,7 @@
 		"tag":	8724,
 		"script":	"混乱世界",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -189,7 +191,7 @@
 		"tag":	16828,
 		"script":	"无尽繁星大厅",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -200,7 +202,7 @@
 		"tag":	19867,
 		"script":	"竞技场练习赛（低保任务）",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -208,20 +210,21 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	42,
-		"script":	"洗刷刷！",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	9962,
+		"tag":	26303,
 		"script":	"家族图腾(领取图腾)",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	6
+	}, {
+		"setcount":	3,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	17372,
+		"script":	"时空之泉",
+		"task":	0,
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -232,7 +235,7 @@
 		"tag":	492,
 		"script":	"精灵树桩",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -252,7 +255,8 @@
 		"diyawaken":	"5觉醒",
 		"tag":	11943,
 		"script":	"大地的考验",
-		"task":	0
+		"task":	0,
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -262,7 +266,8 @@
 		"diyawaken":	"5觉醒",
 		"tag":	14605,
 		"script":	"黑月的考验",
-		"task":	0
+		"task":	0,
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -272,7 +277,8 @@
 		"diyawaken":	"5觉醒",
 		"tag":	5437,
 		"script":	"黄昏教堂",
-		"task":	0
+		"task":	0,
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -406,52 +412,12 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"掉落套装",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15725,
-		"script":	"入侵太空农场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	11479,
-		"script":	"猫头鹰的神秘组织",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	29359,
-		"script":	"樱树湖历险",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	26963,
-		"script":	"被感染的哎哟城",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24465,
-		"script":	"金字塔的秘密",
+		"tag":	154,
+		"script":	"镜中世界（精英本）",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -476,14 +442,23 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	25668,
-		"script":	"花之路",
-		"task":	100032,
-		"scriptend":	30
+		"diyawaken":	"5觉醒",
+		"tag":	5098,
+		"script":	"艾乌加蒙剧场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	23987,
+		"script":	"深渊之镜",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -491,10 +466,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	1843,
-		"script":	"龙皇殿",
-		"task":	100047,
-		"scriptend":	30
+		"tag":	22467,
+		"script":	"太阳宫殿(超越)",
+		"task":	100018,
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -502,10 +477,32 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15891,
+		"tag":	18088,
+		"script":	"月之路",
+		"task":	100033,
+		"scriptend":	6
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	12044,
+		"script":	"秘密藏书库",
+		"task":	100038,
+		"scriptend":	6
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	29578,
 		"script":	"神圣教堂",
 		"task":	100053,
-		"scriptend":	30
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -513,10 +510,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19630,
-		"script":	"幻影毒雾沼泽",
-		"task":	100059,
-		"scriptend":	30
+		"tag":	14475,
+		"script":	"神圣教堂",
+		"task":	100054,
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -524,9 +521,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	13932,
-		"script":	"欧若拉奇妙物语(1)",
-		"task":	100077
+		"tag":	28521,
+		"script":	"保管异面不祥道具(3)",
+		"task":	100071,
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -534,9 +532,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	26309,
-		"script":	"巨人的黑暗痕迹(1)",
-		"task":	100081
+		"tag":	3738,
+		"script":	"欧若拉奇妙物语(3)",
+		"task":	100079,
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -544,9 +543,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16945,
-		"script":	"不幸者的救赎(2)",
-		"task":	100089
+		"tag":	1265,
+		"script":	"处理妨碍净化之人(2)",
+		"task":	100084,
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -554,9 +554,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	32440,
+		"tag":	8117,
 		"script":	"抗争者的资格",
-		"task":	100094
+		"task":	100094,
+		"scriptend":	6
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -564,17 +565,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	24627,
-		"script":	"惩罚干扰修炼之人(2)",
-		"task":	100097
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	11324,
-		"script":	"净化污染精灵的住所(1)",
-		"task":	100100
+		"tag":	20327,
+		"script":	"燥热键盘",
+		"task":	100133,
+		"scriptend":	6
 	}]

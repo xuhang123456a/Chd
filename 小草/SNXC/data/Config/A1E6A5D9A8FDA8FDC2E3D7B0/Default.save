@@ -80,8 +80,6 @@
 	"main_mob_attack_sw":	false,
 	"main_mob_back":	false,
 	"main_mob_distance_change":	true,
-	"main_mob_distance_max_sw":	false,
-	"main_mob_distance_min_sw":	false,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
 	"main_mob_jump":	false,
@@ -93,6 +91,7 @@
 	"main_mob_noattck_show":	false,
 	"main_mob_other_sw":	false,
 	"main_mob_trap_sw":	false,
+	"main_skill_distance_sw":	false,
 	"memory_debris_time":	true,
 	"mouse_rest":	true,
 	"mouse_time":	false,
@@ -227,13 +226,13 @@
 	"item_throw_4_end":	168,
 	"item_throw_time":	0,
 	"main_mob_bottom":	200,
-	"main_mob_distance_max":	30,
-	"main_mob_distance_min":	30,
 	"main_mob_location_l":	32,
 	"main_mob_location_r":	99999,
 	"main_mob_lr":	1600,
 	"main_mob_top":	180,
 	"main_mob_trap_x":	64,
+	"main_skill_distance_max":	350,
+	"main_skill_distance_min":	0,
 	"msg_speak_time":	10,
 	"team_follow_removing":	150,
 	"team_follow_x":	3000,
@@ -999,7 +998,7 @@
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
 			"npc":	1,
-			"sw1":	true,
+			"sw1":	false,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -1184,7 +1183,7 @@
 			"item":	""
 		}, {
 			"npc":	46,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -1239,6 +1238,13 @@
 			"item":	""
 		}],
 	"auto_card":	[{
+			"id":	90068,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
 			"id":	90065,
 			"num1":	0,
 			"num2":	0,
@@ -3173,55 +3179,6 @@
 			"diyawaken":	""
 		}, {
 			"id":	2001014,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001052,
-			"sw":	false,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001046,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001047,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001053,
-			"sw":	false,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001048,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001049,
-			"sw":	true,
-			"diyitem":	"",
-			"diyproperty":	"",
-			"diyother":	"",
-			"diyawaken":	""
-		}, {
-			"id":	2001050,
 			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
