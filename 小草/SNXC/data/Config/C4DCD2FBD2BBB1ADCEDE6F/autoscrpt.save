@@ -5,10 +5,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6335,
-		"script":	"地铁中枢",
+		"tag":	32210,
+		"script":	"里维拉市政府",
 		"task":	0,
-		"scriptend":	5
+		"scriptend":	8
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -26,10 +26,21 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	6335,
+		"script":	"地铁中枢",
+		"task":	0,
+		"scriptend":	8
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
 		"tag":	19073,
 		"script":	"火山珊瑚",
 		"task":	0,
-		"scriptend":	5
+		"scriptend":	8
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -40,7 +51,7 @@
 		"tag":	6271,
 		"script":	"竞技场练习赛（低保任务）",
 		"task":	0,
-		"scriptend":	5
+		"scriptend":	8
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

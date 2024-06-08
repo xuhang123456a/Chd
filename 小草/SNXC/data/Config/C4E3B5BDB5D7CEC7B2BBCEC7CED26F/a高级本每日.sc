@@ -40,7 +40,7 @@
 		"task":	0
 	}, {
 		"setcount":	2,
-		"loadtime":	-2119958528,
+		"loadtime":	27525120,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验副本",
@@ -50,7 +50,7 @@
 		"task":	0
 	}, {
 		"setcount":	3,
-		"loadtime":	-2092433408,
+		"loadtime":	-2116026368,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验副本",

@@ -5,8 +5,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6335,
-		"script":	"地铁中枢",
+		"tag":	32210,
+		"script":	"里维拉市政府",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -17,6 +17,16 @@
 		"diyawaken":	"",
 		"tag":	18468,
 		"script":	"空中战场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	6335,
+		"script":	"地铁中枢",
 		"task":	0
 	}, {
 		"setcount":	0,

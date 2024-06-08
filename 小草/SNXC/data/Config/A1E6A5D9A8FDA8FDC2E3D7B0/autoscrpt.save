@@ -8,7 +8,7 @@
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
 		"task":	0,
-		"scriptend":	5
+		"scriptend":	8
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -19,7 +19,7 @@
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
 		"task":	0,
-		"scriptend":	5
+		"scriptend":	8
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -30,7 +30,7 @@
 		"tag":	22387,
 		"script":	"探险家神殿(普通)",
 		"task":	0,
-		"scriptend":	5
+		"scriptend":	8
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -41,7 +41,7 @@
 		"tag":	29659,
 		"script":	"领取家族工资",
 		"task":	0,
-		"scriptend":	5
+		"scriptend":	8
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -52,7 +52,7 @@
 		"tag":	22705,
 		"script":	"火山珊瑚",
 		"task":	0,
-		"scriptend":	5
+		"scriptend":	8
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -63,7 +63,7 @@
 		"tag":	9931,
 		"script":	"索拉城斗兽场",
 		"task":	0,
-		"scriptend":	5
+		"scriptend":	8
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -74,7 +74,7 @@
 		"tag":	22759,
 		"script":	"竞技场练习赛（低保任务）",
 		"task":	0,
-		"scriptend":	5
+		"scriptend":	8
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -85,7 +85,7 @@
 		"tag":	13978,
 		"script":	"世界之树",
 		"task":	0,
-		"scriptend":	5
+		"scriptend":	8
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
