@@ -1,0 +1,16 @@
+{
+	"skill_attack_data":	[{
+			"sw":	true,
+			"id":	2,
+			"name":	"Ç¿¹¥»÷",
+			"dmin":	0,
+			"dmax":	100,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}]
+}

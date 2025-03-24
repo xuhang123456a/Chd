@@ -1,0 +1,185 @@
+[{
+	"only_run":	false,
+	"run_sleep":	1,
+	"sw":	true,
+	"name":	"经验本吃药",
+	"judges":	[{
+			"sw":	true,
+			"judge":	{
+				"在副本":	"珊瑚之歌;泡泡战舰;"
+			}
+		}],
+	"executes":	[{
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"小四的祝福(不可交易)"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"百分考卷"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"经验值的秘药 500%(不可交易)"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"回忆の沙漏"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"高级温泉蛋"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"温泉蛋"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"古籍·印记"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"羁绊之羽"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"经验值药丸"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"恶魔の小果实（电）"
+			},
+			"judges":	[]
+		}, {
+			"sw":	false,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"恶魔の小果实（火）"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"鳗鱼料理"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"鲤鱼料理"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"甜味饮料"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"辣鱼汤"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"短效150%经验丹(12小时)"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"领取课程戒指":	""
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"更换装备":	"强力戒指(3小时)"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"更换装备":	"强力戒指(12小时)"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"水蜜桃味全糖蜜果"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"更换称号":	"装模作样绿茶姐"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用技能":	"成长魔法"
+			},
+			"judges":	[]
+		}, {
+			"sw":	false,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"百分考卷"
+			},
+			"judges":	[{
+					"拥有BUFF":	"活动_6000157"
+				}]
+		}, {
+			"sw":	false,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"小四的祝福(不可交易)"
+			},
+			"judges":	[{
+					"拥有BUFF":	"活动_6000157"
+				}]
+		}]
+}]

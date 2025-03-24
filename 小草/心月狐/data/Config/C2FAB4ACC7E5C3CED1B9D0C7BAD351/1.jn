@@ -1,0 +1,29 @@
+{
+	"skill_attack_data":	[{
+			"sw":	true,
+			"id":	1803301,
+			"name":	"Ë«ÖØ´Ì",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803303,
+			"name":	"ÄëÑ¹",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}]
+}

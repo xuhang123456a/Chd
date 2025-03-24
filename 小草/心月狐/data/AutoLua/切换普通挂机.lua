@@ -1,0 +1,1 @@
+dlg_config_set("{\"config_system_type\":0}")

@@ -1,0 +1,47 @@
+[{
+	"only_run":	false,
+	"run_sleep":	1,
+	"sw":	false,
+	"name":	"吉他辅助技能",
+	"judges":	[{
+			"sw":	true,
+			"judge":	{
+				"在副本频道":	""
+			}
+		}, {
+			"sw":	true,
+			"judge":	{
+				"地图内有怪":	""
+			}
+		}],
+	"executes":	[{
+			"sw":	true,
+			"sleep":	"0",
+			"execute":	{
+				"使用技能":	"[特殊]巨星"
+			},
+			"judges":	[{
+					"搜索内有怪":	""
+				}]
+		}, {
+			"sw":	true,
+			"sleep":	"0",
+			"execute":	{
+				"使用技能":	"第六感"
+			},
+			"judges":	[{
+					"AP<=":	"300"
+				}]
+		}, {
+			"sw":	true,
+			"sleep":	"0",
+			"execute":	{
+				"使用技能":	"电波强震"
+			},
+			"judges":	[{
+					"AP>=":	"900"
+				}, {
+					"怪物数量>=":	"1"
+				}]
+		}]
+}]

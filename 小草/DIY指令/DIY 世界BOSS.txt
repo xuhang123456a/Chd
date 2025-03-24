@@ -1,0 +1,53 @@
+[{
+	"only_run":	false,
+	"run_sleep":	1,
+	"sw":	true,
+	"name":	"世界BOSS",
+	"judges":	[{
+			"sw":	true,
+			"judge":	{
+				"在地图":	"阿瓦伦 未知之处_100703;"
+			}
+		}, {
+			"sw":	true,
+			"judge":	{
+				"搜索内有首领":	""
+			}
+		}],
+	"executes":	[{
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"蓝草莓味全糖蜜果"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用技能":	"【生存本能】1段"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用技能":	"坚盾惩戒之钥"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"更换称号":	"破梦者"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"超越搭配":	"BOSS属性"
+			},
+			"judges":	[]
+		}]
+}]

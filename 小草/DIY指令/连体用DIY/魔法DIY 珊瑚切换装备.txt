@@ -1,0 +1,31 @@
+[{
+	"only_run":	false,
+	"run_sleep":	1,
+	"sw":	true,
+	"name":	"珊瑚切换装备",
+	"judges":	[{
+			"sw":	true,
+			"judge":	{
+				"在副本":	"珊瑚森林;"
+			}
+		}],
+	"executes":	[{
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"切换副武器":	""
+			},
+			"judges":	[{
+					"在地图":	"珊瑚森林 2_30401;"
+				}]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"切换主武器":	""
+			},
+			"judges":	[{
+					"不在地图":	"珊瑚森林 2_30401;"
+				}]
+		}]
+}]
