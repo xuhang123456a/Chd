@@ -18,7 +18,8 @@
 		"diyawaken":	"×°±¸¾õĞÑ",
 		"tag":	22471,
 		"script":	"Ä¦¿ËÉ³",
-		"task":	0
+		"task":	0,
+		"scriptend":	25
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

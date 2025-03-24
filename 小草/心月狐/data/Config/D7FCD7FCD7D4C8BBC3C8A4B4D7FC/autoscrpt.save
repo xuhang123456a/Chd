@@ -225,7 +225,8 @@
 		"diyawaken":	"战斗",
 		"tag":	9188,
 		"script":	"克洛诺斯的时间",
-		"task":	0
+		"task":	0,
+		"scriptend":	25
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
