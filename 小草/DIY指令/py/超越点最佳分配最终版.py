@@ -34,7 +34,7 @@ class CalculationThread(QThread):
         # 最大伤害、最小伤害、暴击伤害、武器属性力的最大值
         max_regular_attr = 1000
         # 最小伤害换最大伤害的最大值
-        max_min_to_max = 250
+        max_min_to_max = 138
         # 最终属性的最大值
         max_final_attr = 40
         # 超级武器属性力的最大值
@@ -50,13 +50,12 @@ class CalculationThread(QThread):
         final_max_effect = self.attr_values['final_max']
         super_attr_effect = self.attr_values['super_attr']
         
-        # 优化1: 计算每种属性的效益比，用于启发式搜索
-        # 效益比 = 效果值 / 第一点成本
-        final_crit_efficiency = final_crit_effect / 2  # 第一点成本为2
-        final_min_efficiency = final_min_effect / 2
-        final_max_efficiency = final_max_effect / 2
-        super_attr_efficiency = super_attr_effect / 10  # 第一点成本为10
-        
+        # 获取初始属性值
+        initial_max = self.attr_values.get('initial_max', 0)
+        initial_min = self.attr_values.get('initial_min', 0)
+        initial_crit = self.attr_values.get('initial_crit', 0)
+        initial_attr_power = self.attr_values.get('initial_attr_power', 0)
+
         # 根据效益比排序最终属性
         final_attrs = [
             (0, max_final_attr, final_crit_effect, final_attr_costs, 'final_crit'),
@@ -108,8 +107,8 @@ class CalculationThread(QThread):
                     attr_power = max_possible_regular - max_dmg - min_dmg - crit_dmg
                     
                     # 计算实际属性值
-                    actual_max_dmg = max_dmg * 1 + min_to_max * 10 + final_max_value
-                    actual_min_dmg = min_dmg * 1 - min_to_max * 5 + final_min_value
+                    actual_max_dmg = max_dmg * 1 + min_to_max * 10 + final_max_value + initial_max
+                    actual_min_dmg = min_dmg * 1 - min_to_max * 5 + final_min_value + initial_min
                     
                     # 如果最小伤害超过最大伤害，调整分配
                     if actual_min_dmg > actual_max_dmg:
@@ -120,11 +119,11 @@ class CalculationThread(QThread):
                         max_dmg += transfer_points
                         
                         # 重新计算实际值
-                        actual_max_dmg = max_dmg * 1 + min_to_max * 10 + final_max_value
-                        actual_min_dmg = min_dmg * 1 - min_to_max * 5 + final_min_value
+                        actual_max_dmg = max_dmg * 1 + min_to_max * 10 + final_max_value + initial_max
+                        actual_min_dmg = min_dmg * 1 - min_to_max * 5 + final_min_value + initial_min
                     
-                    actual_crit_dmg = crit_dmg * 1 + final_crit_value
-                    actual_attr_power = attr_power * 1 + super_attr_value
+                    actual_crit_dmg = crit_dmg * 1 + final_crit_value + initial_crit
+                    actual_attr_power = attr_power * 1 + super_attr_value + initial_attr_power
                     
                     # 计算伤害
                     damage = actual_attr_power * actual_crit_dmg * (actual_max_dmg + actual_min_dmg) / 2
@@ -164,15 +163,15 @@ class CalculationThread(QThread):
                             attr_power = remaining_after_crit // 3
                             
                             # 计算实际属性值
-                            actual_max_dmg = max_dmg * 1 + min_to_max * 10 + final_max_value
-                            actual_min_dmg = min_dmg * 1 - min_to_max * 5 + final_min_value
+                            actual_max_dmg = max_dmg * 1 + min_to_max * 10 + final_max_value + initial_max
+                            actual_min_dmg = min_dmg * 1 - min_to_max * 5 + final_min_value + initial_min
                             
                             # 跳过最小伤害超过最大伤害的无效组合
                             if actual_min_dmg > actual_max_dmg:
                                 continue
                             
-                            actual_crit_dmg = crit_dmg * 1 + final_crit_value
-                            actual_attr_power = attr_power * 1 + super_attr_value
+                            actual_crit_dmg = crit_dmg * 1 + final_crit_value + initial_crit
+                            actual_attr_power = attr_power * 1 + super_attr_value + initial_attr_power
                             
                             # 计算伤害
                             damage = actual_attr_power * actual_crit_dmg * (actual_max_dmg + actual_min_dmg) / 2
@@ -217,15 +216,15 @@ class CalculationThread(QThread):
                                 attr_power = remaining_after_crit // 3
                                 
                                 # 计算实际属性值
-                                actual_max_dmg = max_dmg * 1 + min_to_max * 10 + final_max_value
-                                actual_min_dmg = min_dmg * 1 - min_to_max * 5 + final_min_value
+                                actual_max_dmg = max_dmg * 1 + min_to_max * 10 + final_max_value + initial_max
+                                actual_min_dmg = min_dmg * 1 - min_to_max * 5 + final_min_value + initial_min
                                 
                                 # 跳过最小伤害超过最大伤害的无效组合
                                 if actual_min_dmg > actual_max_dmg:
                                     continue
                                 
-                                actual_crit_dmg = crit_dmg * 1 + final_crit_value
-                                actual_attr_power = attr_power * 1 + super_attr_value
+                                actual_crit_dmg = crit_dmg * 1 + final_crit_value + initial_crit
+                                actual_attr_power = attr_power * 1 + super_attr_value + initial_attr_power
                                 
                                 # 计算伤害
                                 damage = actual_attr_power * actual_crit_dmg * (actual_max_dmg + actual_min_dmg) / 2
@@ -327,41 +326,81 @@ class AttributeCalculator(QMainWindow):
         input_layout.addWidget(points_label, 0, 0)
         input_layout.addWidget(self.points_input, 0, 1)
         
+        # 添加人物初始属性设置
+        initial_attr_label = QLabel("人物初始属性设置:")
+        input_layout.addWidget(initial_attr_label, 1, 0, 1, 2)
+        
+        # 初始最大伤害
+        initial_max_label = QLabel("初始最大伤害(%):")
+        self.initial_max_input = QDoubleSpinBox()
+        self.initial_max_input.setRange(0, 100000)
+        self.initial_max_input.setValue(17884)
+        self.initial_max_input.setDecimals(0)
+        input_layout.addWidget(initial_max_label, 2, 0)
+        input_layout.addWidget(self.initial_max_input, 2, 1)
+        
+        # 初始最小伤害
+        initial_min_label = QLabel("初始最小伤害(%):")
+        self.initial_min_input = QDoubleSpinBox()
+        self.initial_min_input.setRange(0, 100000)
+        self.initial_min_input.setValue(13789 + 5000)
+        self.initial_min_input.setDecimals(0)
+        input_layout.addWidget(initial_min_label, 3, 0)
+        input_layout.addWidget(self.initial_min_input, 3, 1)
+        
+        # 初始暴击伤害
+        initial_crit_label = QLabel("初始暴击伤害(%):")
+        self.initial_crit_input = QDoubleSpinBox()
+        self.initial_crit_input.setRange(0, 100000)
+        self.initial_crit_input.setValue(31388)
+        self.initial_crit_input.setDecimals(0)
+        input_layout.addWidget(initial_crit_label, 4, 0)
+        input_layout.addWidget(self.initial_crit_input, 4, 1)
+        
+        # 初始武器属性力
+        initial_attr_power_label = QLabel("初始武器属性力:")
+        self.initial_attr_power_input = QDoubleSpinBox()
+        self.initial_attr_power_input.setRange(0, 1000000)
+        self.initial_attr_power_input.setValue(91316)
+        self.initial_attr_power_input.setDecimals(0)
+        input_layout.addWidget(initial_attr_power_label, 5, 0)
+        input_layout.addWidget(self.initial_attr_power_input, 5, 1)
+        
         # 属性效果值输入
         effect_label = QLabel("属性效果值设置:")
-        input_layout.addWidget(effect_label, 1, 0, 1, 2)
+        input_layout.addWidget(effect_label, 6, 0, 1, 2)
         
         # 最终暴击伤害效果
         final_crit_label = QLabel("最终暴击伤害效果(%):")
         self.final_crit_input = QDoubleSpinBox()
         self.final_crit_input.setRange(1, 1000)
-        self.final_crit_input.setValue(238)
-        input_layout.addWidget(final_crit_label, 2, 0)
-        input_layout.addWidget(self.final_crit_input, 2, 1)
+        self.final_crit_input.setValue(222)
+        input_layout.addWidget(final_crit_label, 7, 0)
+        input_layout.addWidget(self.final_crit_input, 7, 1)
         
         # 最终最小伤害效果
         final_min_label = QLabel("最终最小伤害效果(%):")
         self.final_min_input = QDoubleSpinBox()
         self.final_min_input.setRange(1, 1000)
-        self.final_min_input.setValue(169)
-        input_layout.addWidget(final_min_label, 3, 0)
-        input_layout.addWidget(self.final_min_input, 3, 1)
+        self.final_min_input.setValue(121)
+        input_layout.addWidget(final_min_label, 8, 0)
+        input_layout.addWidget(self.final_min_input, 8, 1)
         
         # 最终最大伤害效果
         final_max_label = QLabel("最终最大伤害效果(%):")
         self.final_max_input = QDoubleSpinBox()
         self.final_max_input.setRange(1, 1000)
-        self.final_max_input.setValue(166)
-        input_layout.addWidget(final_max_label, 4, 0)
-        input_layout.addWidget(self.final_max_input, 4, 1)
+        self.final_max_input.setValue(145)
+        input_layout.addWidget(final_max_label, 9, 0)
+        input_layout.addWidget(self.final_max_input, 9, 1)
         
         # 超级武器属性力效果
         super_attr_label = QLabel("超级武器属性力效果:")
         self.super_attr_input = QDoubleSpinBox()
         self.super_attr_input.setRange(1, 2000)
-        self.super_attr_input.setValue(764)
-        input_layout.addWidget(super_attr_label, 5, 0)
-        input_layout.addWidget(self.super_attr_input, 5, 1)
+        self.super_attr_input.setValue(777)
+        input_layout.addWidget(super_attr_label, 10, 0)
+        input_layout.addWidget(self.super_attr_input, 10, 1)
         
         # 计算按钮
         button_layout = QHBoxLayout()
@@ -372,7 +411,7 @@ class AttributeCalculator(QMainWindow):
         self.stop_button.setEnabled(False)
         button_layout.addWidget(self.calculate_button)
         button_layout.addWidget(self.stop_button)
-        input_layout.addLayout(button_layout, 6, 0, 1, 2)
+        input_layout.addLayout(button_layout, 11, 0, 1, 2)
         
         input_group.setLayout(input_layout)
         main_layout.addWidget(input_group)
@@ -437,11 +476,21 @@ class AttributeCalculator(QMainWindow):
             'final_crit': self.final_crit_input.value(),
             'final_min': self.final_min_input.value(),
             'final_max': self.final_max_input.value(),
-            'super_attr': self.super_attr_input.value()
+            'super_attr': self.super_attr_input.value(),
+            # 添加初始属性值
+            'initial_max': self.initial_max_input.value(),
+            'initial_min': self.initial_min_input.value(),
+            'initial_crit': self.initial_crit_input.value(),
+            'initial_attr_power': self.initial_attr_power_input.value()
         }
         
         self.result_text.clear()
         self.result_text.append(f"开始计算最佳分配方式，总点数: {total_points}...")
+        self.result_text.append(f"人物初始属性设置:")
+        self.result_text.append(f"- 初始最大伤害: {attr_values['initial_max']}%")
+        self.result_text.append(f"- 初始最小伤害: {attr_values['initial_min']}%")
+        self.result_text.append(f"- 初始暴击伤害: {attr_values['initial_crit']}%")
+        self.result_text.append(f"- 初始武器属性力: {attr_values['initial_attr_power']}")
         self.result_text.append(f"属性效果值设置:")
         self.result_text.append(f"- 最终暴击伤害: {attr_values['final_crit']}%")
         self.result_text.append(f"- 最终最小伤害: {attr_values['final_min']}%")
