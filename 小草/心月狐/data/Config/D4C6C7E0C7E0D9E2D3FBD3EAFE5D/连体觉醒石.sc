@@ -30,6 +30,16 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	2021,
+		"script":	"探险家神殿(史诗)",
+		"task":	0
+	}, {
+		"setcount":	0,
 		"loadtime":	-2100297728,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
@@ -93,16 +103,6 @@
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	17062,
-		"script":	"尼夫海姆站",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
 		"tag":	19955,
@@ -123,6 +123,16 @@
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	1193,
+		"script":	"埃吉尔遗迹",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
 		"diyawaken":	"5爆伤石",
 		"tag":	7568,
@@ -137,16 +147,6 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	24465,
 		"script":	"大地的考验",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	24954,
-		"script":	"黑月的考验",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -227,6 +227,36 @@
 		"diyawaken":	"战斗",
 		"tag":	17422,
 		"script":	"圣字教堂",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	6254,
+		"script":	"自动强化经验值觉醒石+3",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	7684,
+		"script":	"自动强化贯穿力觉醒石+3",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	12276,
+		"script":	"自动强化暴击伤害觉醒石+3",
 		"task":	0
 	}, {
 		"setcount":	0,

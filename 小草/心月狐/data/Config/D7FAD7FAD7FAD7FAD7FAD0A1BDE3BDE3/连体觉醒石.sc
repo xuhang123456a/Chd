@@ -20,6 +20,16 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	1805,
+		"script":	"探险家神殿(史诗)",
+		"task":	0
+	}, {
+		"setcount":	0,
 		"loadtime":	-2100297728,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
@@ -125,8 +135,8 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	24465,
-		"script":	"大地的考验",
+		"tag":	13804,
+		"script":	"埃吉尔遗迹",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -135,8 +145,8 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	24954,
-		"script":	"黑月的考验",
+		"tag":	24465,
+		"script":	"大地的考验",
 		"task":	0
 	}, {
 		"setcount":	0,

@@ -115,7 +115,7 @@
 	"path_auto_script_showval_sw":	true,
 	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
-	"path_hide_effect_sw":	true,
+	"path_hide_effect_sw":	false,
 	"path_line_boss_sw":	false,
 	"path_line_boss_word_sw":	false,
 	"path_line_deliver_sw":	true,
@@ -266,12 +266,12 @@
 	"automatic_zhs_time7":	6,
 	"config_system_type":	1,
 	"main_mob_trap_type":	0,
-	"path_hide_effect_type":	1,
+	"path_hide_effect_type":	0,
 	"path_script_picture_val2":	3,
 	"revive_type":	2,
 	"skill_option_lr_val":	0,
 	"skill_option_platform_skill_v":	0,
-	"skill_option_sombra_val":	1,
+	"skill_option_sombra_val":	0,
 	"skill_silent_val":	0,
 	"summon_automatic_zhs_refresh1":	1,
 	"summon_automatic_zhs_refresh2":	1,
@@ -482,6 +482,24 @@
 				"[无]":	""
 			},
 			"item":	"低级经验药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"活动时空血脉水晶"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"高级血脉水晶(可存仓)"
 		}],
 	"protec_data":	[{
 			"sw":	true,
