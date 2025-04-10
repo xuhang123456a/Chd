@@ -1,26 +1,6 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	9285,
-		"script":	"ÅµÄá¶ûÖ®Àá",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	14103,
-		"script":	"Ä¦¿ËÉ³",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"´æ²Ö",
 		"diyproperty":	"",
 		"diyother":	"",

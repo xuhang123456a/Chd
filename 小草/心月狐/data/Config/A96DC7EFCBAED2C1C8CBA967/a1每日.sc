@@ -31,16 +31,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	2107,
-		"script":	"¡¾î¿°íÀñºÐ¡¿¼Ò×åÊæ²¨Â³",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"ÕÙ»½ÊÞ",
@@ -77,16 +67,6 @@
 		"diyawaken":	"",
 		"tag":	20038,
 		"script":	"Ì½ÏÕ¼ÒÉñµî(ÆÕÍ¨)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	6559,
-		"script":	"Ì½ÏÕ¼ÒÉñµî(Ê·Ê«)",
 		"task":	0
 	}, {
 		"setcount":	0,

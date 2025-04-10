@@ -1,6 +1,17 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	31304,
+		"script":	"【彩虹向导】每日任务",
+		"task":	0,
+		"scriptend":	5
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -8,7 +19,7 @@
 		"tag":	31728,
 		"script":	"探险家神殿(史诗)",
 		"task":	0,
-		"scriptend":	22
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -19,7 +30,7 @@
 		"tag":	17043,
 		"script":	"兑换羁绊之石",
 		"task":	0,
-		"scriptend":	22
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -30,7 +41,7 @@
 		"tag":	19185,
 		"script":	"【羁绊礼盒】家族舒波鲁",
 		"task":	0,
-		"scriptend":	22
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -40,7 +51,8 @@
 		"diyawaken":	"",
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
-		"task":	0
+		"task":	0,
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -50,7 +62,8 @@
 		"diyawaken":	"",
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
-		"task":	0
+		"task":	0,
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -60,7 +73,8 @@
 		"diyawaken":	"",
 		"tag":	22387,
 		"script":	"探险家神殿(普通)",
-		"task":	0
+		"task":	0,
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -71,7 +85,7 @@
 		"tag":	29659,
 		"script":	"领取家族工资",
 		"task":	0,
-		"scriptend":	22
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -82,7 +96,7 @@
 		"tag":	25548,
 		"script":	"索拉城斗兽场",
 		"task":	0,
-		"scriptend":	22
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

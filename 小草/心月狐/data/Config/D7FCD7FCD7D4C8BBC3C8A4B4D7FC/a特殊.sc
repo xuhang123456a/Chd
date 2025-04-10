@@ -65,16 +65,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	2987,
-		"script":	"【羁绊礼盒】家族舒波鲁",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
 		"tag":	492,
 		"script":	"领取家族工资",
 		"task":	0

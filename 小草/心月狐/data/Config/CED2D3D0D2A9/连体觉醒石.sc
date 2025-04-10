@@ -15,16 +15,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	18913,
-		"script":	"【羁绊礼盒】家族舒波鲁",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
 		"tag":	4249,
 		"script":	"领取家族工资",
 		"task":	0
@@ -37,16 +27,6 @@
 		"diyawaken":	"",
 		"tag":	23315,
 		"script":	"火山珊瑚",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	14707,
-		"script":	"探险家神殿(史诗)",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -77,26 +57,6 @@
 		"diyawaken":	"",
 		"tag":	8345,
 		"script":	"探险家神殿(普通)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	2081,
-		"script":	"诺尼尔之泪",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	9889,
-		"script":	"摩克沙",
 		"task":	0
 	}, {
 		"setcount":	0,

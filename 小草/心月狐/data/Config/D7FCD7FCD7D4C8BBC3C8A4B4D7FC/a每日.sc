@@ -31,16 +31,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"战斗",
-		"tag":	25308,
-		"script":	"探险家神殿(史诗)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验本召唤兽",
@@ -337,16 +327,6 @@
 		"diyawaken":	"战斗",
 		"tag":	12383,
 		"script":	"阿科洛之棺",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"开启战魂",
-		"diyawaken":	"",
-		"tag":	5437,
-		"script":	"家族图腾(领取图腾)",
 		"task":	0
 	}, {
 		"setcount":	0,

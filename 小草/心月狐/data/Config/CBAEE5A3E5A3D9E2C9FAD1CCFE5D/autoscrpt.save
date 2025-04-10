@@ -1,22 +1,11 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"掉落套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	10769,
-		"script":	"【彩虹向导】每日任务",
-		"task":	0,
-		"scriptend":	21
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"存仓",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	6335,
-		"script":	"执行自动切换角色",
+		"tag":	1744,
+		"script":	"索拉城斗兽场",
 		"task":	0
 	}]

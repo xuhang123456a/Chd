@@ -45,16 +45,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6860,
-		"script":	"探险家神殿(史诗)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
 		"tag":	492,
 		"script":	"探险家神殿(英雄)",
 		"task":	0

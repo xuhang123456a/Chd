@@ -1031,16 +1031,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"战斗",
-		"tag":	28171,
-		"script":	"探险家神殿(史诗)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"掉落套装",
 		"diyproperty":	"",
 		"diyother":	"",

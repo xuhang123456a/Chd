@@ -47,6 +47,7 @@
 	"item_buff_check":	false,
 	"item_buff_indun":	false,
 	"item_buff_sw":	true,
+	"item_builtin_sw":	false,
 	"item_disassemble_item_sw":	true,
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
@@ -82,6 +83,8 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	true,
 	"main_mob_friend_sw":	false,
+	"main_mob_herbs":	false,
+	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	true,
 	"main_mob_mineral":	false,
@@ -105,14 +108,14 @@
 	"msg_log_sw5":	true,
 	"msg_log_sw6":	false,
 	"msg_speak_sw":	false,
-	"other_debug":	false,
 	"other_jumptype":	false,
 	"other_passprint":	false,
+	"other_top_window_switch":	false,
 	"path_auto_script_door_sw":	false,
 	"path_auto_script_showval_sw":	false,
 	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
-	"path_hide_effect_sw":	true,
+	"path_hide_effect_sw":	false,
 	"path_line_boss_sw":	false,
 	"path_line_boss_word_sw":	false,
 	"path_line_deliver_sw":	false,
@@ -144,7 +147,15 @@
 	"revive_sw1":	true,
 	"revive_sw2":	true,
 	"run_log_file":	false,
-	"run_log_sw":	true,
+	"run_log_sw1":	true,
+	"run_log_sw2":	true,
+	"run_log_sw3":	true,
+	"run_log_sw4":	true,
+	"run_log_sw5":	true,
+	"run_log_sw6":	true,
+	"run_log_sw7":	true,
+	"run_log_sw8":	true,
+	"run_log_sw99":	true,
 	"script_changemap":	true,
 	"script_diysw":	true,
 	"script_jump":	true,
@@ -203,7 +214,7 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	5,
+	"auto_load_wait_val":	10,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	2,
 	"auto_set_boss_hp_val":	99,
@@ -260,7 +271,7 @@
 	"revive_type":	2,
 	"skill_option_lr_val":	0,
 	"skill_option_platform_skill_v":	0,
-	"skill_option_sombra_val":	0,
+	"skill_option_sombra_val":	1,
 	"skill_silent_val":	0,
 	"summon_automatic_zhs_refresh1":	0,
 	"summon_automatic_zhs_refresh2":	0,
@@ -277,7 +288,7 @@
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
 	"btn_color_8":	16384000,
-	"server":	116,
+	"server":	111,
 	"item_filter_1":	[],
 	"item_filter_2":	[190144164, 190144165, 430710201, 180134344, 430229001],
 	"item_filter_3":	[190144164, 190144165, 430710201, 180134344, 430229001],
@@ -583,6 +594,19 @@
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
+			"id":	300,
+			"name":	"【生存本能】1段",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
 			"id":	3110145,
 			"name":	"第六感",
 			"dmin":	0,
@@ -596,8 +620,34 @@
 			"num":	0
 		}, {
 			"sw":	true,
+			"id":	3803607,
+			"name":	"【传奇】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
 			"id":	1211005,
 			"name":	"天破侠乱",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3813604,
+			"name":	"【觉醒II】",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -648,8 +698,21 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1109505,
-			"name":	"天霸凄皇斩",
+			"id":	1210005,
+			"name":	"乘天击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3820001,
+			"name":	"魔法球板",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -663,6 +726,19 @@
 			"sw":	true,
 			"id":	1105005,
 			"name":	"飞跃斩",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1109505,
+			"name":	"天霸凄皇斩",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -698,28 +774,8 @@
 			"speedx":	false,
 			"judge":	[],
 			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1210005,
-			"name":	"乘天击",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
 		}],
-	"skill_buff_data":	[{
-			"sw":	true,
-			"id":	5000911,
-			"name":	"[特殊]英雄_双手剑",
-			"judge":	[],
-			"sleep":	0,
-			"auto":	true
-		}],
+	"skill_buff_data":	[],
 	"speak_data":	[],
 	"skill_hotkey_data":	[{
 			"sw":	true,
@@ -2325,31 +2381,6 @@
 		}],
 	"diytrigger":	[{
 			"only_run":	false,
-			"run_sleep":	0,
-			"sw":	true,
-			"name":	"小四100",
-			"judges":	[],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"百分考卷"
-					},
-					"judges":	[{
-							"拥有BUFF":	"活动_6000157"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"小四的祝福(不可交易)"
-					},
-					"judges":	[{
-							"拥有BUFF":	"活动_6000157"
-						}]
-				}]
-		}, {
-			"only_run":	false,
 			"run_sleep":	1,
 			"sw":	true,
 			"name":	"自动使用潜力灵龛",
@@ -2704,7 +2735,7 @@
 					"sw":	true,
 					"sleep":	"0",
 					"execute":	{
-						"超越搭配":	"小怪属性"
+						"超越搭配":	"普通支配"
 					},
 					"judges":	[{
 							"地图内无首领":	""
@@ -2717,7 +2748,7 @@
 					"sw":	true,
 					"sleep":	"0",
 					"execute":	{
-						"超越搭配":	"BOSS属性"
+						"超越搭配":	"精锐支配"
 					},
 					"judges":	[{
 							"地图内有首领":	""
@@ -2728,10 +2759,229 @@
 					"sw":	true,
 					"sleep":	"0",
 					"execute":	{
-						"超越搭配":	"BOSS属性"
+						"超越搭配":	"精锐支配"
 					},
 					"judges":	[{
 							"地图内有怪":	"重力引流员;"
+						}]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"圣物生存钥匙特殊",
+			"judges":	[],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"宏指令":	"/使用技能 圣物技能"
+					},
+					"judges":	[{
+							"没有BUFF":	"龙猫坐像_13016169"
+						}, {
+							"没有BUFF":	"灼风之息_13016170"
+						}, {
+							"没有BUFF":	"狐狸珠_13016177"
+						}, {
+							"没有BUFF":	"玛阿特之眼_13016167"
+						}, {
+							"没有BUFF":	"圣物之力_81090001"
+						}, {
+							"搜索内有首领":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"宏指令":	"/使用技能 圣物技能"
+					},
+					"judges":	[{
+							"没有BUFF":	"龙猫坐像_13016169"
+						}, {
+							"没有BUFF":	"灼风之息_13016170"
+						}, {
+							"没有BUFF":	"狐狸珠_13016177"
+						}, {
+							"没有BUFF":	"玛阿特之眼_13016167"
+						}, {
+							"没有BUFF":	"圣物之力_81090001"
+						}, {
+							"怪物数量>=":	"7"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"【生存本能】1段"
+					},
+					"judges":	[{
+							"在副本":	"奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;"
+						}, {
+							"搜索内有首领":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"【生存本能】1段"
+					},
+					"judges":	[{
+							"不在副本":	"奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;阿特拉斯庭院;"
+						}, {
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"智者超载之钥"
+					},
+					"judges":	[{
+							"怪物数量>=":	"7"
+						}, {
+							"在副本":	"穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;水下培养皿·失魂寺;阿特拉斯庭院;埃吉尔遗迹;穿梭之都;时空之泉;流水回廊;未知森林;奈落·神树拉菲尔;奈落·蛇龙之巢;奈落·珊瑚之歌;奈落·冰淇淋庭院;奈落·破坏之城;奈落·冰封雪域;奈落·魔法学院主楼;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"智者超载之钥"
+					},
+					"judges":	[{
+							"搜索内有首领":	""
+						}, {
+							"不在副本":	"穆斯菲尔斯隧道;奈落·神树拉菲尔;奈落·魔法学院主楼;奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·蛇龙之巢;精灵树桩;埃吉尔遗迹;阿特拉斯庭院;无尽繁星大厅;"
+						}, {
+							"不在地图":	"阿瓦伦 未知之处_100703;尼夫海姆站1_108001;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"坚盾惩戒之钥"
+					},
+					"judges":	[{
+							"搜索内有怪":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"坚盾惩戒之钥"
+					},
+					"judges":	[{
+							"搜索内有首领":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"【生存本能】2段"
+					},
+					"judges":	[{
+							"在副本":	"奈落·神树拉菲尔;奈落·魔法学院主楼;奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;"
+						}, {
+							"搜索内有首领":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]神之使者"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]巨星"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]元素之灵"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]通灵领主"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]宝石星"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]唤雨之灵"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]演奏大师"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]次元守望者"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]剑圣"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]风行刺客_短剑"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]阿格尼"
+					},
+					"judges":	[{
+							"在副本频道":	""
 						}]
 				}]
 		}],

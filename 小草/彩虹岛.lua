@@ -1,4 +1,4 @@
-爱丽丝卡本情况：传奇1遗忘花园3卡本
+不要碰我肩膀 陌辰 我有药 云青青兮欲雨
 
 不打隧道 车站 大地 黑月 精灵 生命 
 超越点调整、领邮箱、兑换神殿币、看苏生、看土块、
@@ -97,6 +97,7 @@
 11089496;山有木兮卿有意
 9704292;草木皆兵
 10098693;ｖ天上白玉京＂
+19697254;什方
 
 ----------------------------老板id-------------------------------
 11094586;Yvonne丶
@@ -106,16 +107,16 @@ d的命运
 晚来天欲雪o CDEDC0B4CCECD3FBD1A96F
 小姐姐 D7FAD7FAD7FAD7FAD7FAD0A1BDE3BDE3
 云青青兮欲雨 D4C6C7E0C7E0D9E2D3FBD3EAFE5D
-酷狗音乐ā BFE1B9B7D2F4C0D6A8A1                   --觉醒材料
-℃ベ裸装 A1E6A5D9A8FDA8FDC2E3D7B0              
 能饮一杯无o C4DCD2FBD2BBB1ADCEDE6F               --天堂粗丝团
-→酷我音乐→ A1FABFE1CED2D2F4C0D6A1FA
-醉后不知天在水o D7EDBAF3B2BBD6AACCECD4DACBAE6F    --可存仓经验药水 灵魂碎片 梦境材料 
-满船清梦压星河Q C2FAB4ACC7E5C3CED1B9D0C7BAD351    --可存仓恢复药水 副本材料
-水澹澹兮生烟 CBAEE5A3E5A3D9E2C9FAD1CCFE5D      --回声
-终不似o D6D5B2BBCBC66F                          --人品时装 圣皇 内面 宠物口粮 神秘星能量 魔力养分 爱情礼盒
-少年游o C9D9C4EAD3CE6F                          --时装拼图 高级拼图 重置卷轴 神秘碎片 奈落相关材料
-最是人间留不住o D7EECAC7C8CBBCE4C1F4B2BBD7A16F   --称号书 矿石 丝团 家族材料 索拉币 猫粮骨头 植物养分
+醉后不知天在水o D7EDBAF3B2BBD6AACCECD4DACBAE6F    --可存仓经验药水
+满船清梦压星河Q C2FAB4ACC7E5C3CED1B9D0C7BAD351    --可存仓恢复药水
+酷狗音乐ā BFE1B9B7D2F4C0D6A8A1                   --觉醒材料 羁绊礼盒
+℃ベ裸装 A1E6A5D9A8FDA8FDC2E3D7B0              
+终不似o D6D5B2BBCBC66F                          --人品时装 宠物口粮 神秘星能量 魔力养分 爱情礼盒
+最是人间留不住o D7EECAC7C8CBBCE4C1F4B2BBD7A16F   --称号书|||矿石 丝团 家族材料 索拉币 猫粮骨头 植物养分 宠物新秀币
+→酷我音乐→ A1FABFE1CED2D2F4C0D6A1FA        --紫金 奈落下衣鞋 280探险家王者套 回声 圣皇 卡夫卡腕轮 垃圾时装|||定位仪|||圣杯|||副本材料
+水澹澹兮生烟 CBAEE5A3E5A3D9E2C9FAD1CCFE5D      --魔法时尚卡|||高收 灵魂碎片 梦境材料
+少年游o C9D9C4EAD3CE6F                          --时装拼图 高级拼图 超级拼图|||重置卷轴 神秘碎片 奈落相关材料
 
 你到底吻不吻我o C4E3B5BDB5D7CEC7B2BBCEC7CED26F
 来去荒芜 C0B4C8A5BBC4CEDF

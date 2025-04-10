@@ -876,7 +876,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"经验值 觉醒石+2",
 			"type1":	true,

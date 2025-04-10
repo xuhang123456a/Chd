@@ -4,11 +4,10 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	9285,
-		"script":	"诺尼尔之泪",
-		"task":	0,
-		"scriptend":	25
+		"diyawaken":	"5觉醒",
+		"tag":	24465,
+		"script":	"奈落之心(蛇龙之巢)",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -16,17 +15,17 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	1051,
-		"script":	"摩克沙",
+		"tag":	42,
+		"script":	"奈落之心(魔法学院主楼)",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"存仓",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	9162,
-		"script":	"执行自动切换角色",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	18468,
+		"script":	"奈落之心(神树拉菲尔)",
 		"task":	0
 	}]

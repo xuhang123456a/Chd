@@ -47,6 +47,7 @@
 	"item_buff_check":	false,
 	"item_buff_indun":	false,
 	"item_buff_sw":	true,
+	"item_builtin_sw":	false,
 	"item_disassemble_item_sw":	true,
 	"item_pick_3":	false,
 	"item_pick_filter_1":	true,
@@ -82,6 +83,8 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	true,
 	"main_mob_friend_sw":	true,
+	"main_mob_herbs":	false,
+	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
 	"main_mob_mineral":	false,
@@ -105,9 +108,9 @@
 	"msg_log_sw5":	true,
 	"msg_log_sw6":	true,
 	"msg_speak_sw":	false,
-	"other_debug":	false,
 	"other_jumptype":	false,
 	"other_passprint":	false,
+	"other_top_window_switch":	false,
 	"path_auto_script_door_sw":	true,
 	"path_auto_script_showval_sw":	true,
 	"path_down_hotkey_sw":	true,
@@ -144,7 +147,15 @@
 	"revive_sw1":	true,
 	"revive_sw2":	true,
 	"run_log_file":	false,
-	"run_log_sw":	true,
+	"run_log_sw1":	true,
+	"run_log_sw2":	true,
+	"run_log_sw3":	true,
+	"run_log_sw4":	true,
+	"run_log_sw5":	true,
+	"run_log_sw6":	true,
+	"run_log_sw7":	true,
+	"run_log_sw8":	true,
+	"run_log_sw99":	true,
 	"script_changemap":	true,
 	"script_diysw":	true,
 	"script_jump":	true,
@@ -277,7 +288,7 @@
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
 	"btn_color_8":	16384000,
-	"server":	116,
+	"server":	111,
 	"item_filter_1":	[],
 	"item_filter_2":	[300101801, 300101401, 300102201, 300103001, 300103401, 300107001, 300107401, 300107801, 300108201, 300111401, 300111801, 300113601, 300118401, 300118801, 300121601, 300121901, 300122101, 300155001, 190171104, 23106103, 190171103, 430229001, 190197501, 190197502, 518111002, 518111001, 10273501, 20673501, 30273501, 70273501, 90573501, 430710201, 201401093, 180134344, 190144166, 190144165, 190144164],
 	"item_filter_3":	[300101801, 300101401, 300102201, 300103001, 300103401, 300107001, 300107401, 300107801, 300108201, 300111401, 300111801, 300113601, 300118401, 300118801, 300121601, 300121901, 300122101, 300155001, 190171104, 23106103, 190171103, 430229001, 190197501, 190197502, 518111002, 518111001, 90573501, 70273501, 30273501, 10273501, 20673501, 430710201, 201401093, 180134344, 190144165, 190144164, 190144166],
@@ -515,21 +526,8 @@
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	1106101,
-			"name":	"光速斩",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1105004,
-			"name":	"横连斩",
+			"id":	1005028,
+			"name":	"三重奏",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -541,8 +539,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1107014,
-			"name":	"十字斩",
+			"id":	1000028,
+			"name":	"优雅乐章",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -554,8 +552,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1107004,
-			"name":	"死亡戳刺",
+			"id":	1001028,
+			"name":	"广阔乐章",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -567,8 +565,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1210014,
-			"name":	"盾牌充能",
+			"id":	1002028,
+			"name":	"庄严乐章",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -580,8 +578,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1106102,
-			"name":	"飞盾",
+			"id":	1003028,
+			"name":	"进行曲",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -593,21 +591,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1109304,
-			"name":	"重甲冲锋",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	2,
-			"name":	"强攻击",
+			"id":	1010028,
+			"name":	"器乐大师",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -623,47 +608,11 @@
 	"skill_hotkey_data":	[],
 	"team_list_data":	[],
 	"script_point_data":	[{
-			"type":	"转身&执行额外",
-			"x":	"1124",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
 			"type":	"模拟↑键",
-			"x":	"65",
-			"y":	"1375",
+			"x":	"1393",
+			"y":	"911",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"3691",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"2786",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"右跑",
 			"judge":	{
 				"":	""
 			},

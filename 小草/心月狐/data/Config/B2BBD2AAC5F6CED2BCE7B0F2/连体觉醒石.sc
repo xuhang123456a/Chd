@@ -21,16 +21,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	16806,
-		"script":	"¡¾î¿°íÀñºÐ¡¿¼Ò×åÊæ²¨Â³",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -57,16 +47,6 @@
 		"diyawaken":	"",
 		"tag":	1955,
 		"script":	"Ì½ÏÕ¼ÒÉñµî(Ó¢ÐÛ)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"´æ²Ö",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"×°±¸¾õÐÑ",
-		"tag":	9797,
-		"script":	"Ì½ÏÕ¼ÒÉñµî(Ê·Ê«)",
 		"task":	0
 	}, {
 		"setcount":	0,

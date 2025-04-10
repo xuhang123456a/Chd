@@ -1,8 +1,8 @@
 {
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	1105004,
-			"name":	"ºáÁ¬Õ¶",
+			"id":	1005028,
+			"name":	"ÈıÖØ×à",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -14,8 +14,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1107014,
-			"name":	"Ê®×ÖÕ¶",
+			"id":	1000028,
+			"name":	"ÓÅÑÅÀÖÕÂ",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -27,8 +27,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1107004,
-			"name":	"ËÀÍö´Á´Ì",
+			"id":	1001028,
+			"name":	"¹ãÀ«ÀÖÕÂ",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -40,8 +40,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1106101,
-			"name":	"¹âËÙÕ¶",
+			"id":	1002028,
+			"name":	"×¯ÑÏÀÖÕÂ",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -53,11 +53,11 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1210014,
-			"name":	"¶ÜÅÆ³äÄÜ",
+			"id":	1003028,
+			"name":	"½øĞĞÇú",
 			"dmin":	0,
 			"dmax":	300,
-			"priority":	true,
+			"priority":	false,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
@@ -66,34 +66,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1106102,
-			"name":	"·É¶Ü",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1109304,
-			"name":	"ÖØ¼×³å·æ",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	2,
-			"name":	"Ç¿¹¥»÷",
+			"id":	1010028,
+			"name":	"Æ÷ÀÖ´óÊ¦",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,

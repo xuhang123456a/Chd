@@ -13,7 +13,7 @@
 		"loadtime":	0,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"经验本召唤兽",
 		"diyawaken":	"5经验石",
 		"tag":	24371,
 		"script":	"珊瑚之歌",
