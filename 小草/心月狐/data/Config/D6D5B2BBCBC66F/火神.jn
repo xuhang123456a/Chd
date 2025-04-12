@@ -1,51 +1,36 @@
 {
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	6200102,
-			"name":	"[奈落]聚能冲击",
+			"id":	3606402,
+			"name":	"第六感",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
 			"intact":	false,
 			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"在副本":	"奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	301,
-			"name":	"【生存本能】2段",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"在副本":	"奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	300,
-			"name":	"【生存本能】1段",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	true,
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	3820001,
-			"name":	"魔法球板",
+			"id":	3606405,
+			"name":	"巨人统治者",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"搜索内有首领":	""
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1801312,
+			"name":	"锁魂地狱",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	true,
@@ -54,92 +39,36 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	5
+			"num":	0
 		}, {
 			"sw":	true,
-			"id":	3806807,
+			"id":	3806407,
 			"name":	"【传奇】",
 			"dmin":	0,
 			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	8
+		}, {
+			"sw":	true,
+			"id":	3816404,
+			"name":	"【觉醒II】",
+			"dmin":	0,
+			"dmax":	300,
 			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	5
-		}, {
-			"sw":	true,
-			"id":	1802318,
-			"name":	"三连斩",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802313,
-			"name":	"混乱",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	3816804,
-			"name":	"【觉醒II】",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1802307,
-			"name":	"锁链鞭挞",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"锁链刃>=":	"10"
-				}],
-			"num":	5
-		}, {
-			"sw":	true,
-			"id":	3606811,
-			"name":	"锁链冲撞",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"锁链刃<=":	"2"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	3806804,
+			"id":	3806404,
 			"name":	"【觉醒】",
 			"dmin":	0,
 			"dmax":	300,
@@ -152,8 +81,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802312,
-			"name":	"三连跳",
+			"id":	1802422,
+			"name":	"[无限]核心熔毁",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -165,8 +94,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802306,
-			"name":	"锁链爆发",
+			"id":	1801308,
+			"name":	"岩浆喷涌",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -178,8 +107,21 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802311,
-			"name":	"死亡印记",
+			"id":	3820001,
+			"name":	"魔法球板",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	8
+		}, {
+			"sw":	true,
+			"id":	1801303,
+			"name":	"巨神进击",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -191,23 +133,21 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802423,
-			"name":	"[无限]燎原火",
+			"id":	1801309,
+			"name":	"岩浆矛枪",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
-			"intact":	false,
+			"intact":	true,
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
-			"judge":	[{
-					"不在地图":	"★回忆之海2_86001;"
-				}],
+			"judge":	[],
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802310,
-			"name":	"致命一击",
+			"id":	1801315,
+			"name":	"巨神冲刺",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -219,8 +159,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802308,
-			"name":	"突刺",
+			"id":	1801305,
+			"name":	"火焰暴击",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -232,23 +172,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	62,
-			"name":	"卡利温剑术",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"在副本":	"世界之树;圣域之塔;火山超能场;珊瑚森林;被感染的哎呦城;金字塔的秘密;保护春植园;入侵太空农场;"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	62,
-			"name":	"卡利温剑术",
+			"id":	1801306,
+			"name":	"火焰射击",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -260,23 +185,21 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2,
-			"name":	"强攻击",
+			"id":	1801307,
+			"name":	"火焰爆闪",
 			"dmin":	0,
-			"dmax":	400,
+			"dmax":	300,
 			"priority":	false,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
-			"judge":	[{
-					"在地图":	"挑战！保护天使(EASY)*;挑战！保护天使(HARD)_88100;"
-				}],
+			"judge":	[],
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2,
-			"name":	"强攻击",
+			"id":	3816407,
+			"name":	"【传奇II】",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,

@@ -195,16 +195,6 @@
 		"diyproperty":	"",
 		"diyother":	"ÕÙ»½ÊŞ",
 		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	3903,
-		"script":	"ÉúÃüÖ®¶÷Ì©À³¿­",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	21696,
 		"script":	"°¬ÎÚ¼ÓÃÉ¾ç³¡",
 		"task":	0

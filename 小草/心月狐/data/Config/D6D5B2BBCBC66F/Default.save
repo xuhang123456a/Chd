@@ -264,7 +264,7 @@
 	"automatic_zhs_time5":	3,
 	"automatic_zhs_time6":	3,
 	"automatic_zhs_time7":	0,
-	"config_system_type":	0,
+	"config_system_type":	1,
 	"main_mob_trap_type":	0,
 	"path_hide_effect_type":	0,
 	"path_script_picture_val2":	3,
@@ -446,6 +446,33 @@
 				"[无]":	""
 			},
 			"item":	"[称号书]宝莱坞征服者"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"高级血脉水晶(可存仓)"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"高级时空血脉水晶"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"高级血脉水晶(绑定)"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
@@ -572,8 +599,8 @@
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	1005028,
-			"name":	"三重奏",
+			"id":	3606402,
+			"name":	"第六感",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -585,8 +612,62 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1000028,
-			"name":	"优雅乐章",
+			"id":	3606405,
+			"name":	"巨人统治者",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"搜索内有首领":	""
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1801312,
+			"name":	"锁魂地狱",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3806407,
+			"name":	"【传奇】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	8
+		}, {
+			"sw":	true,
+			"id":	3816404,
+			"name":	"【觉醒II】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3806404,
+			"name":	"【觉醒】",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -598,8 +679,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1001028,
-			"name":	"广阔乐章",
+			"id":	1802422,
+			"name":	"[无限]核心熔毁",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -611,8 +692,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1002028,
-			"name":	"庄严乐章",
+			"id":	1801308,
+			"name":	"岩浆喷涌",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -624,8 +705,99 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1003028,
-			"name":	"进行曲",
+			"id":	3820001,
+			"name":	"魔法球板",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	8
+		}, {
+			"sw":	true,
+			"id":	1801303,
+			"name":	"巨神进击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1801309,
+			"name":	"岩浆矛枪",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1801315,
+			"name":	"巨神冲刺",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1801305,
+			"name":	"火焰暴击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1801306,
+			"name":	"火焰射击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1801307,
+			"name":	"火焰爆闪",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3816407,
+			"name":	"【传奇II】",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -638,14 +810,108 @@
 		}],
 	"skill_buff_data":	[],
 	"speak_data":	[],
-	"skill_hotkey_data":	[],
+	"skill_hotkey_data":	[{
+			"sw":	true,
+			"id":	1801312,
+			"name":	"锁魂地狱",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1801308,
+			"name":	"岩浆喷涌",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1801303,
+			"name":	"巨神进击",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1801309,
+			"name":	"岩浆矛枪",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1801315,
+			"name":	"巨神冲刺",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1801305,
+			"name":	"火焰暴击",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1801306,
+			"name":	"火焰射击",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1801307,
+			"name":	"火焰爆闪",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}],
 	"team_list_data":	[],
 	"script_point_data":	[{
-			"type":	"上二段跳",
-			"x":	"273",
+			"type":	"转身&执行额外",
+			"x":	"3127",
 			"y":	"1391",
 			"pos1":	"左跑",
-			"pos2":	"右跑"
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"3726",
+			"y":	"1391",
+			"pos1":	"右跑",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"3447",
+			"y":	"1391",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"彩虹副本传送":	"空中战场"
+			}
 		}],
 	"script_trigger_data":	[],
 	"summon_data":	[190145624, 190145625, 201901181, 201901182, 201901183, 201901184, 201901185, 201901186, 201901187, 201901188, 201901189, 201901190, 201901191, 201901192, 201901193, 201901194, 201901195, 202401181, 202401182, 202401183, 202401184, 202401185, 202401186, 202401187, 202401188, 202401189, 202401190, 202401191, 202401192, 202401193, 202401194, 202401195],

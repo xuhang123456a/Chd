@@ -5,7 +5,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3801,
-		"script":	"收费经验图",
-		"task":	0
+		"tag":	4413,
+		"script":	"魔法修炼馆",
+		"task":	0,
+		"scriptend":	12
 	}]

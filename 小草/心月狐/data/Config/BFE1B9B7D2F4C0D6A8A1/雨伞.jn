@@ -1,120 +1,8 @@
 {
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	6200102,
-			"name":	"[ÄÎÂä]¾ÛÄÜ³å»÷",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"ÔÚ¸±±¾":	"ÄÎÂä¡¤±ù·âÑ©Óò;ÄÎÂä¡¤ÆÆ»µÖ®³Ç;ÄÎÂä¡¤±ùä¿ÁÜÍ¥Ôº;ÄÎÂä¡¤Éºº÷Ö®¸è;ÄÎÂä¡¤ÉßÁúÖ®³²;"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	301,
-			"name":	"¡¾Éú´æ±¾ÄÜ¡¿2¶Î",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"ÔÚ¸±±¾":	"ÄÎÂä¡¤±ù·âÑ©Óò;ÄÎÂä¡¤ÆÆ»µÖ®³Ç;ÄÎÂä¡¤±ùä¿ÁÜÍ¥Ôº;ÄÎÂä¡¤Éºº÷Ö®¸è;ÄÎÂä¡¤ÉßÁúÖ®³²;"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	300,
-			"name":	"¡¾Éú´æ±¾ÄÜ¡¿1¶Î",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	true,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	2,
-			"name":	"Ç¿¹¥»÷",
-			"dmin":	0,
-			"dmax":	400,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"ÔÚµØÍ¼":	"ÌôÕ½£¡±£»¤ÌìÊ¹(EASY)*;ÌôÕ½£¡±£»¤ÌìÊ¹(HARD)_88100;"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	62,
-			"name":	"¿¨ÀûÎÂ½£Êõ",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"ÔÚ¸±±¾":	"ÊÀ½çÖ®Ê÷;Ê¥ÓòÖ®Ëş;»ğÉ½³¬ÄÜ³¡;Éºº÷É­ÁÖ;±»¸ĞÈ¾µÄ°¥ßÏ³Ç;½ğ×ÖËşµÄÃØÃÜ;±£»¤´ºÖ²Ô°;ÈëÇÖÌ«¿ÕÅ©³¡;"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	3820001,
-			"name":	"Ä§·¨Çò°å",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	5
-		}, {
-			"sw":	true,
-			"id":	3806807,
-			"name":	"¡¾´«Ææ¡¿",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	5
-		}, {
-			"sw":	true,
-			"id":	1802318,
-			"name":	"ÈıÁ¬Õ¶",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1802313,
-			"name":	"»ìÂÒ",
+			"id":	3817507,
+			"name":	"¡¾´«ÆæII¡¿",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -126,12 +14,12 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	3816804,
+			"id":	3817504,
 			"name":	"¡¾¾õĞÑII¡¿",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
-			"intact":	true,
+			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
@@ -139,8 +27,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802307,
-			"name":	"ËøÁ´±ŞÌ¢",
+			"id":	3807507,
+			"name":	"¡¾´«Ææ¡¿",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -148,28 +36,11 @@
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
-			"judge":	[{
-					"ËøÁ´ÈĞ>=":	"10"
-				}],
-			"num":	5
-		}, {
-			"sw":	true,
-			"id":	3606811,
-			"name":	"ËøÁ´³å×²",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"ËøÁ´ÈĞ<=":	"2"
-				}],
+			"judge":	[],
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	3806804,
+			"id":	3807504,
 			"name":	"¡¾¾õĞÑ¡¿",
 			"dmin":	0,
 			"dmax":	300,
@@ -182,8 +53,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802312,
-			"name":	"ÈıÁ¬Ìø",
+			"id":	3820001,
+			"name":	"Ä§·¨Çò°å",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -195,8 +66,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802306,
-			"name":	"ËøÁ´±¬·¢",
+			"id":	1803704,
+			"name":	"Ë®Õ¨µ¯",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -208,8 +79,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802311,
-			"name":	"ËÀÍöÓ¡¼Ç",
+			"id":	1803700,
+			"name":	"»Ó»÷²¨",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -221,8 +92,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802423,
-			"name":	"[ÎŞÏŞ]ÁÇÔ­»ğ",
+			"id":	1803702,
+			"name":	"»ìãçäöÎĞ",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -234,8 +105,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802310,
-			"name":	"ÖÂÃüÒ»»÷",
+			"id":	1803705,
+			"name":	"¾ŞÀË",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -247,8 +118,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802308,
-			"name":	"Í»´Ì",
+			"id":	1803703,
+			"name":	"»¤ÉíË®",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -260,8 +131,47 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	62,
-			"name":	"¿¨ÀûÎÂ½£Êõ",
+			"id":	1803701,
+			"name":	"Í¶ÖÀÎäÆ÷",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803707,
+			"name":	"Ë®»÷",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803706,
+			"name":	"Ë®ÅÚ",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	2,
+			"name":	"Ç¿¹¥»÷",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,

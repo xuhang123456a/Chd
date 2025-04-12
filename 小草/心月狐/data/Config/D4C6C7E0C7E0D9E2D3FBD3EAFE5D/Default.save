@@ -142,7 +142,7 @@
 	"protect_skill_syncope_1":	true,
 	"protect_skill_syncope_2":	true,
 	"protect_sw":	true,
-	"revive_print":	true,
+	"revive_print":	false,
 	"revive_situ_buff":	true,
 	"revive_sw1":	true,
 	"revive_sw2":	true,
@@ -878,12 +878,12 @@
 			"item":	""
 		}, {
 			"npc":	41,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
 			"npc":	42,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -908,7 +908,7 @@
 			"item":	""
 		}, {
 			"npc":	48,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -943,17 +943,17 @@
 			"item":	""
 		}, {
 			"npc":	57,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
 			"npc":	58,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
 			"npc":	59,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}],

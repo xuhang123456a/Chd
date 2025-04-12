@@ -94,7 +94,7 @@
 	"main_mob_noattck_show":	false,
 	"main_mob_other_sw":	false,
 	"main_mob_trap_sw":	false,
-	"main_skill_distance_sw":	true,
+	"main_skill_distance_sw":	false,
 	"memory_debris_time":	true,
 	"mouse_rest":	true,
 	"mouse_time":	false,
@@ -697,11 +697,11 @@
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	3817507,
-			"name":	"¡¾´«ÆæII¡¿",
+			"id":	1803704,
+			"name":	"Ë®Õ¨µ¯",
 			"dmin":	0,
 			"dmax":	300,
-			"priority":	false,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
@@ -710,8 +710,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	3817504,
-			"name":	"¡¾¾õĞÑII¡¿",
+			"id":	1803701,
+			"name":	"Í¶ÖÀÎäÆ÷",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -727,20 +727,20 @@
 			"name":	"¡¾´«Ææ¡¿",
 			"dmin":	0,
 			"dmax":	300,
-			"priority":	false,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0
+			"num":	8
 		}, {
 			"sw":	true,
-			"id":	3807504,
-			"name":	"¡¾¾õĞÑ¡¿",
+			"id":	1803702,
+			"name":	"»ìãçäöÎĞ",
 			"dmin":	0,
 			"dmax":	300,
-			"priority":	false,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
@@ -759,14 +759,40 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0
+			"num":	8
 		}, {
 			"sw":	true,
-			"id":	1803704,
-			"name":	"Ë®Õ¨µ¯",
+			"id":	3817504,
+			"name":	"¡¾¾õĞÑII¡¿",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	1803705,
+			"name":	"¾ŞÀË",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803703,
+			"name":	"»¤ÉíË®",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
@@ -788,8 +814,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1803702,
-			"name":	"»ìãçäöÎĞ",
+			"id":	3807504,
+			"name":	"¡¾¾õĞÑ¡¿",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -798,11 +824,11 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0
+			"num":	5
 		}, {
 			"sw":	true,
-			"id":	1803705,
-			"name":	"¾ŞÀË",
+			"id":	3817507,
+			"name":	"¡¾´«ÆæII¡¿",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -811,33 +837,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1803703,
-			"name":	"»¤ÉíË®",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1803701,
-			"name":	"Í¶ÖÀÎäÆ÷",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
+			"num":	8
 		}, {
 			"sw":	true,
 			"id":	1803707,
@@ -866,8 +866,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2,
-			"name":	"Ç¿¹¥»÷",
+			"id":	3100160,
+			"name":	"µÚÁù¸Ğ",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -875,7 +875,9 @@
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
-			"judge":	[],
+			"judge":	[{
+					"AP<=":	"300"
+				}],
 			"num":	0
 		}],
 	"skill_buff_data":	[],
@@ -940,10 +942,10 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"×ªÉí&Ö´ĞĞ¶îÍâ",
-			"x":	"1124",
-			"y":	"1375",
-			"pos1":	"×ó&ÓÒ[ÎŞ]",
-			"pos2":	"×óÅÜ",
+			"x":	"3127",
+			"y":	"1391",
+			"pos1":	"×óÅÜ",
+			"pos2":	"ÓÒÅÜ",
 			"judge":	{
 				"":	""
 			},
@@ -951,10 +953,10 @@
 				"":	""
 			}
 		}, {
-			"type":	"Ä£Äâ¡ü¼ü",
-			"x":	"65",
-			"y":	"1375",
-			"pos1":	"×ó&ÓÒ[ÎŞ]",
+			"type":	"×ªÉí&Ö´ĞĞ¶îÍâ",
+			"x":	"3726",
+			"y":	"1391",
+			"pos1":	"ÓÒÅÜ",
 			"pos2":	"×óÅÜ",
 			"judge":	{
 				"":	""
@@ -964,27 +966,15 @@
 			}
 		}, {
 			"type":	"×ªÉí&Ö´ĞĞ¶îÍâ",
-			"x":	"3691",
-			"y":	"1375",
+			"x":	"3447",
+			"y":	"1391",
 			"pos1":	"×ó&ÓÒ[ÎŞ]",
 			"pos2":	"×óÅÜ",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"Ä£Äâ¡ü¼ü",
-			"x":	"2786",
-			"y":	"1375",
-			"pos1":	"×ó&ÓÒ[ÎŞ]",
-			"pos2":	"×óÅÜ",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
+				"²Êºç¸±±¾´«ËÍ":	"¿ÕÖĞÕ½³¡"
 			}
 		}],
 	"script_trigger_data":	[],
@@ -1107,7 +1097,7 @@
 			"item":	""
 		}, {
 			"npc":	26,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -1167,12 +1157,12 @@
 			"item":	""
 		}, {
 			"npc":	41,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
 			"npc":	42,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -1197,7 +1187,7 @@
 			"item":	""
 		}, {
 			"npc":	48,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -1232,17 +1222,17 @@
 			"item":	""
 		}, {
 			"npc":	57,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
 			"npc":	58,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
 			"npc":	59,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}],

@@ -84,6 +84,7 @@
 	"main_mob_external":	true,
 	"main_mob_friend_sw":	false,
 	"main_mob_herbs":	false,
+	"main_mob_indun":	false,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
 	"main_mob_mineral":	false,
@@ -109,6 +110,7 @@
 	"msg_speak_sw":	false,
 	"other_jumptype":	false,
 	"other_passprint":	false,
+	"other_top_window_switch":	false,
 	"path_auto_script_door_sw":	true,
 	"path_auto_script_showval_sw":	true,
 	"path_down_hotkey_sw":	true,
@@ -145,7 +147,15 @@
 	"revive_sw1":	true,
 	"revive_sw2":	false,
 	"run_log_file":	false,
-	"run_log_sw":	true,
+	"run_log_sw1":	true,
+	"run_log_sw2":	true,
+	"run_log_sw3":	true,
+	"run_log_sw4":	true,
+	"run_log_sw5":	true,
+	"run_log_sw6":	true,
+	"run_log_sw7":	true,
+	"run_log_sw8":	true,
+	"run_log_sw99":	true,
 	"script_changemap":	true,
 	"script_diysw":	true,
 	"script_jump":	true,
@@ -364,33 +374,6 @@
 				"[无]":	""
 			},
 			"item":	"超级败家经验珠"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"100"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"中级血脉水晶(绑定)"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"100"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"高级血脉水晶(绑定)"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"100"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"特级血脉水晶(绑定)"
 		}, {
 			"sw":	true,
 			"Judge1":	{

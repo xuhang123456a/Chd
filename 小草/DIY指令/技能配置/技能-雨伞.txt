@@ -1,8 +1,8 @@
 {
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	1802306,
-			"name":	"ËøÁ´±¬·¢",
+			"id":	1803704,
+			"name":	"æ°´ç‚¸å¼¹",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	true,
@@ -14,8 +14,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802204,
-			"name":	"ËøÁ´ĞıÎè",
+			"id":	1803701,
+			"name":	"æŠ•æ·æ­¦å™¨",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -27,8 +27,34 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802205,
-			"name":	"ËøÁ´ÖØ»÷",
+			"id":	3807507,
+			"name":	"ã€ä¼ å¥‡ã€‘",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	8
+		}, {
+			"sw":	true,
+			"id":	1803702,
+			"name":	"æ··æ²Œæ¼©æ¶¡",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3820001,
+			"name":	"é­”æ³•çƒæ¿",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -37,11 +63,50 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
+			"num":	8
+		}, {
+			"sw":	true,
+			"id":	3817504,
+			"name":	"ã€è§‰é†’IIã€‘",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	1803705,
+			"name":	"å·¨æµª",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	false,
-			"id":	1802308,
-			"name":	"Í»´Ì",
+			"sw":	true,
+			"id":	1803703,
+			"name":	"æŠ¤èº«æ°´",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803700,
+			"name":	"æŒ¥å‡»æ³¢",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -53,8 +118,34 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802310,
-			"name":	"ÖÂÃüÒ»»÷",
+			"id":	3807504,
+			"name":	"ã€è§‰é†’ã€‘",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	3817507,
+			"name":	"ã€ä¼ å¥‡IIã€‘",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	8
+		}, {
+			"sw":	true,
+			"id":	1803707,
+			"name":	"æ°´å‡»",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -66,8 +157,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802311,
-			"name":	"ËÀÍöÓ¡¼Ç",
+			"id":	1803706,
+			"name":	"æ°´ç‚®",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -79,8 +170,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802312,
-			"name":	"ÈıÁ¬Ìø",
+			"id":	3100160,
+			"name":	"ç¬¬å…­æ„Ÿ",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -88,59 +179,9 @@
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1802318,
-			"name":	"ÈıÁ¬Õ¶",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1802313,
-			"name":	"»ìÂÒ",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	62,
-			"name":	"¿¨ÀûÎÂ½£Êõ",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	2,
-			"name":	"Ç¿¹¥»÷",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
+			"judge":	[{
+					"AP<=":	"300"
+				}],
 			"num":	0
 		}]
 }

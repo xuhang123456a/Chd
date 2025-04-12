@@ -181,8 +181,8 @@
 	"skill_shake_sw":	true,
 	"skill_silent_sw":	true,
 	"summon_automatic_zhs":	true,
-	"team_accept_cmd_sw":	false,
-	"team_accept_sw":	false,
+	"team_accept_cmd_sw":	true,
+	"team_accept_sw":	true,
 	"team_follow_sw":	false,
 	"team_monitor_sw":	false,
 	"team_monitor_throw_sw":	false,
@@ -196,7 +196,7 @@
 	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"",
 	"auto_team_room_namelist":	"",
-	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;",
+	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;中级冒险家情报卷轴;高级冒险家情报卷轴;初级冒险家情报卷轴;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"Del",
@@ -211,7 +211,7 @@
 	"main_mob_trap_name":	"",
 	"path_down_hotkey":	"Down",
 	"store_items":	"",
-	"team_accept_cmd":	"",
+	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
 	"auto_load_wait_val":	5,
@@ -264,7 +264,7 @@
 	"automatic_zhs_time5":	3,
 	"automatic_zhs_time6":	3,
 	"automatic_zhs_time7":	0,
-	"config_system_type":	0,
+	"config_system_type":	1,
 	"main_mob_trap_type":	0,
 	"path_hide_effect_type":	1,
 	"path_script_picture_val2":	3,
@@ -512,8 +512,8 @@
 	"skill_hotkey_data":	[],
 	"team_list_data":	[],
 	"script_point_data":	[{
-			"type":	"上三段跳",
-			"x":	"32",
+			"type":	"转身&执行额外",
+			"x":	"3127",
 			"y":	"1391",
 			"pos1":	"左跑",
 			"pos2":	"右跑",
@@ -524,9 +524,9 @@
 				"":	""
 			}
 		}, {
-			"type":	"右跳(助跑)",
-			"x":	"2271",
-			"y":	"303",
+			"type":	"转身&执行额外",
+			"x":	"3726",
+			"y":	"1391",
 			"pos1":	"右跑",
 			"pos2":	"左跑",
 			"judge":	{
@@ -534,6 +534,18 @@
 			},
 			"execute":	{
 				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"3447",
+			"y":	"1391",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"彩虹副本传送":	"空中战场"
 			}
 		}],
 	"script_trigger_data":	[],

@@ -21,12 +21,12 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	23715,
-		"script":	"【羁绊礼盒】家族舒波鲁",
+		"diyawaken":	"5爆伤石",
+		"tag":	8705,
+		"script":	"探险家神殿(史诗)",
 		"task":	0
 	}, {
 		"setcount":	0,

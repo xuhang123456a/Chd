@@ -5,8 +5,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	31304,
-		"script":	"【彩虹向导】每日任务",
+		"tag":	17043,
+		"script":	"兑换羁绊之石",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -17,26 +17,6 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	31728,
 		"script":	"探险家神殿(史诗)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	17043,
-		"script":	"兑换羁绊之石",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	19185,
-		"script":	"【羁绊礼盒】家族舒波鲁",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -81,12 +61,12 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	25548,
-		"script":	"索拉城斗兽场",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	20309,
+		"script":	"深渊之镜",
 		"task":	0
 	}, {
 		"setcount":	0,
