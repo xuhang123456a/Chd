@@ -41,26 +41,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"5¾õĞÑ",
-		"tag":	42,
-		"script":	"ÉîÔ¨Ö®¾µ",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"5¾õĞÑ",
-		"tag":	18468,
-		"script":	"°¬ÎÚ¼ÓÃÉ¾ç³¡",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"ÕÙ»½ÊŞ",
@@ -77,6 +57,16 @@
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	11479,
 		"script":	"±ùÓü",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"ÕÙ»½ÊŞ",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	18586,
+		"script":	"ºÚÔÂµÄ¿¼Ñé",
 		"task":	0
 	}, {
 		"setcount":	0,

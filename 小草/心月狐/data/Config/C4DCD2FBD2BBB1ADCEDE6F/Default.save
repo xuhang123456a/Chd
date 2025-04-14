@@ -171,7 +171,7 @@
 	"skill_option_jump_off1":	true,
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	true,
-	"skill_option_lr_boss":	true,
+	"skill_option_lr_boss":	false,
 	"skill_option_platform_skill":	true,
 	"skill_option_repeat":	false,
 	"skill_option_slide_off":	false,
@@ -756,20 +756,8 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"3127",
-			"y":	"1391",
-			"pos1":	"左跑",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"3726",
-			"y":	"1391",
+			"x":	"5183",
+			"y":	"1375",
 			"pos1":	"右跑",
 			"pos2":	"左跑",
 			"judge":	{
@@ -779,16 +767,52 @@
 				"":	""
 			}
 		}, {
-			"type":	"转身&执行额外",
-			"x":	"3447",
-			"y":	"1391",
-			"pos1":	"左&右[无]",
+			"type":	"左跳",
+			"x":	"2976",
+			"y":	"1375",
+			"pos1":	"左跑",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"彩虹副本传送":	"空中战场"
+				"跳跃控制":	"100"
+			}
+		}, {
+			"type":	"上跳",
+			"x":	"32",
+			"y":	"1375",
+			"pos1":	"左跑",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"跳跃控制":	"400"
+			}
+		}, {
+			"type":	"上跳",
+			"x":	"392",
+			"y":	"991",
+			"pos1":	"右跑",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"跳跃控制":	"400"
+			}
+		}, {
+			"type":	"右跳",
+			"x":	"959",
+			"y":	"479",
+			"pos1":	"右跑",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"跳跃控制":	"100"
 			}
 		}],
 	"script_trigger_data":	[],
@@ -850,7 +874,7 @@
 			"item":	""
 		}, {
 			"npc":	6,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -870,7 +894,7 @@
 			"item":	""
 		}, {
 			"npc":	11,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -910,7 +934,7 @@
 			"item":	""
 		}, {
 			"npc":	19,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {

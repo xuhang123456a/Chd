@@ -1979,69 +1979,200 @@
 			}
 		}],
 	"diytrigger":	[{
-			"only_run":	true,
-			"run_sleep":	1,
-			"sw":	false,
-			"name":	"超越点",
-			"judges":	[],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"超越搭配":	"小怪"
-					},
-					"judges":	[{
-							"搜索内无首领":	""
-						}, {
-							"搜索内有怪":	""
-						}, {
-							"未中异常状态":	""
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"超越搭配":	"BOSS"
-					},
-					"judges":	[{
-							"搜索内有首领":	""
-						}, {
-							"未中异常状态":	""
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"超越搭配":	"全肉"
-					},
-					"judges":	[{
-							"中异常状态":	""
-						}]
-				}]
-		}, {
 			"only_run":	false,
-			"run_sleep":	0,
-			"sw":	false,
-			"name":	"小四100",
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"自动使用潜力灵龛",
 			"judges":	[],
 			"executes":	[{
 					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
-						"使用物品":	"百分考卷"
+						"使用物品":	"初级潜力灵龛"
 					},
-					"judges":	[{
-							"拥有BUFF":	"活动_6000157"
-						}]
+					"judges":	[]
 				}, {
 					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
-						"使用物品":	"小四的祝福(不可交易)"
+						"使用物品":	"初级HP潜力药水"
 					},
-					"judges":	[{
-							"拥有BUFF":	"活动_6000157"
-						}]
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级SP潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级力量潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级体力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级魔法力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级幸运值潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级防御力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级魔法抵抗力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级潜力灵龛"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级HP潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级SP潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级力量潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级体力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级魔法力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级幸运值潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级防御力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级魔法抵抗力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级潜力灵龛"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级HP潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级SP潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级力量潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级体力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级魔法力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级幸运值潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级防御力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级魔法抵抗力潜力药水"
+					},
+					"judges":	[]
 				}]
 		}],
 	"pet_build":	[{

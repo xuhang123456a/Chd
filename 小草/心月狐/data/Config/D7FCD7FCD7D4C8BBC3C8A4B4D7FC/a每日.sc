@@ -195,16 +195,6 @@
 		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
 		"diyawaken":	"战斗",
-		"tag":	24954,
-		"script":	"黑月的考验",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"强力召唤兽",
-		"diyawaken":	"战斗",
 		"tag":	25369,
 		"script":	"黄昏教堂",
 		"task":	0

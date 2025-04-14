@@ -1,22 +1,22 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	1843,
-		"script":	"星能之战（家族本）",
+		"diyawaken":	"战斗",
+		"tag":	17300,
+		"script":	"哈姆克公爵府",
 		"task":	0,
-		"scriptend":	12
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20486,
-		"script":	"退出组队",
+		"diyawaken":	"战斗",
+		"tag":	29033,
+		"script":	"圣字教堂",
 		"task":	0
 	}]
