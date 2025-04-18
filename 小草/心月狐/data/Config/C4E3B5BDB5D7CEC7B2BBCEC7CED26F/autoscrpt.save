@@ -1,25 +1,13 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	6968,
-		"script":	"黑月的考验",
-		"task":	0,
-		"scriptend":	14
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
 		"tag":	28118,
 		"script":	"【月活动每日】每日任务",
-		"task":	0,
-		"scriptend":	14
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -29,8 +17,7 @@
 		"diyawaken":	"",
 		"tag":	30413,
 		"script":	"【月活动签到】高级签到任务",
-		"task":	0,
-		"scriptend":	14
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -40,8 +27,7 @@
 		"diyawaken":	"",
 		"tag":	22928,
 		"script":	"【周挑战】领取苏生",
-		"task":	0,
-		"scriptend":	14
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -51,7 +37,8 @@
 		"diyawaken":	"装备觉醒",
 		"tag":	16126,
 		"script":	"自动打世界BOSS(21点)",
-		"task":	0
+		"task":	0,
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -62,7 +49,7 @@
 		"tag":	16513,
 		"script":	"领取家族工资",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -73,7 +60,7 @@
 		"tag":	8943,
 		"script":	"自动转换星座点数",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -84,7 +71,7 @@
 		"tag":	2718,
 		"script":	"探险家神殿(史诗)",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -95,7 +82,7 @@
 		"tag":	16414,
 		"script":	"探险家神殿(英雄)",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -106,7 +93,7 @@
 		"tag":	29169,
 		"script":	"探险家神殿(高级)",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -117,7 +104,7 @@
 		"tag":	901,
 		"script":	"探险家神殿(普通)",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -128,7 +115,7 @@
 		"tag":	4967,
 		"script":	"无尽繁星大厅",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -139,7 +126,7 @@
 		"tag":	18468,
 		"script":	"火山珊瑚",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -150,7 +137,7 @@
 		"tag":	6335,
 		"script":	"索拉城斗兽场",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -161,7 +148,7 @@
 		"tag":	2081,
 		"script":	"诺尼尔之泪",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -172,7 +159,7 @@
 		"tag":	9889,
 		"script":	"摩克沙",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -183,7 +170,7 @@
 		"tag":	20144,
 		"script":	"薇娅斯梦境",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -194,7 +181,7 @@
 		"tag":	9216,
 		"script":	"穆斯菲尔斯隧道",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -205,7 +192,7 @@
 		"tag":	19955,
 		"script":	"失魂寺",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -216,7 +203,7 @@
 		"tag":	11520,
 		"script":	"阿特拉斯庭院",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -227,7 +214,7 @@
 		"tag":	7568,
 		"script":	"群星宫殿",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -238,7 +225,7 @@
 		"tag":	24465,
 		"script":	"大地的考验",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -249,7 +236,7 @@
 		"tag":	25369,
 		"script":	"黄昏教堂",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -260,7 +247,7 @@
 		"tag":	6664,
 		"script":	"消失的星之歌",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -271,7 +258,7 @@
 		"tag":	18236,
 		"script":	"精灵树桩",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -292,7 +279,7 @@
 		"tag":	3903,
 		"script":	"生命之恩泰莱凯",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -303,7 +290,7 @@
 		"tag":	21696,
 		"script":	"艾乌加蒙剧场",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -314,7 +301,7 @@
 		"tag":	32309,
 		"script":	"深渊之镜",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -325,7 +312,7 @@
 		"tag":	12860,
 		"script":	"普洛菲司台",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -336,7 +323,7 @@
 		"tag":	42,
 		"script":	"霍普占卜室",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -347,7 +334,7 @@
 		"tag":	22227,
 		"script":	"卡伊洛斯的时间",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -358,7 +345,7 @@
 		"tag":	4223,
 		"script":	"炼狱阿兹雷尔",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -369,7 +356,7 @@
 		"tag":	20806,
 		"script":	"巴尼塔斯",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -380,7 +367,7 @@
 		"tag":	17170,
 		"script":	"哈姆克公爵府",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	18
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -390,8 +377,7 @@
 		"diyawaken":	"战斗",
 		"tag":	17422,
 		"script":	"圣字教堂",
-		"task":	0,
-		"scriptend":	14
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -401,8 +387,7 @@
 		"diyawaken":	"战斗",
 		"tag":	12383,
 		"script":	"阿科洛之棺",
-		"task":	0,
-		"scriptend":	14
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

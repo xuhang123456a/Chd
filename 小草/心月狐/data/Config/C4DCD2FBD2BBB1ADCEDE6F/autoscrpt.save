@@ -8,7 +8,7 @@
 		"tag":	32173,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	17
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -19,7 +19,7 @@
 		"tag":	12747,
 		"script":	"探险家神殿(史诗)",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	17
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -30,7 +30,7 @@
 		"tag":	14428,
 		"script":	"探险家神殿(英雄)",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	17
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -41,7 +41,7 @@
 		"tag":	15960,
 		"script":	"探险家神殿(高级)",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	17
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -52,7 +52,7 @@
 		"tag":	17593,
 		"script":	"探险家神殿(普通)",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	17
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -63,7 +63,7 @@
 		"tag":	42,
 		"script":	"深渊之镜",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	17
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -74,7 +74,7 @@
 		"tag":	18468,
 		"script":	"艾乌加蒙剧场",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	17
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -85,7 +85,7 @@
 		"tag":	26501,
 		"script":	"圣字教堂",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	17
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -96,7 +96,7 @@
 		"tag":	11479,
 		"script":	"冰狱",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	17
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

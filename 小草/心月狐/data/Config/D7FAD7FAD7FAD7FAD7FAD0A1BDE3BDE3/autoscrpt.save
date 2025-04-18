@@ -17,8 +17,7 @@
 		"diyawaken":	"",
 		"tag":	29659,
 		"script":	"领取家族工资",
-		"task":	0,
-		"scriptend":	14
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -28,8 +27,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	1805,
 		"script":	"探险家神殿(史诗)",
-		"task":	0,
-		"scriptend":	14
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -39,8 +37,7 @@
 		"diyawaken":	"",
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
-		"task":	0,
-		"scriptend":	14
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -50,8 +47,7 @@
 		"diyawaken":	"",
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
-		"task":	0,
-		"scriptend":	14
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -61,8 +57,7 @@
 		"diyawaken":	"",
 		"tag":	22387,
 		"script":	"探险家神殿(普通)",
-		"task":	0,
-		"scriptend":	14
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -72,40 +67,17 @@
 		"diyawaken":	"",
 		"tag":	13031,
 		"script":	"火山珊瑚",
-		"task":	0,
-		"scriptend":	14
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	23282,
-		"script":	"索拉城斗兽场",
-		"task":	0,
-		"scriptend":	14
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24784,
-		"script":	"自动强化拉尔沙之戒",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
 		"tag":	20144,
 		"script":	"薇娅斯梦境",
-		"task":	0,
-		"scriptend":	14
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -115,19 +87,17 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	17921,
 		"script":	"穆斯菲尔斯隧道",
-		"task":	0,
-		"scriptend":	14
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
 		"tag":	19955,
 		"script":	"失魂寺",
-		"task":	0,
-		"scriptend":	14
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -137,8 +107,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	11520,
 		"script":	"阿特拉斯庭院",
-		"task":	0,
-		"scriptend":	14
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -235,9 +204,49 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
+		"tag":	7956,
+		"script":	"卡伊洛斯的时间",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
 		"tag":	17422,
 		"script":	"圣字教堂",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	9364,
+		"script":	"哈姆克公爵府",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	11551,
+		"script":	"盟约圣地",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	23182,
+		"script":	"希列",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -248,6 +257,16 @@
 		"diyawaken":	"",
 		"tag":	22026,
 		"script":	"阿玛伦宝库",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23282,
+		"script":	"索拉城斗兽场",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -278,6 +297,16 @@
 		"diyawaken":	"",
 		"tag":	10134,
 		"script":	"自动强化暴击伤害觉醒石+3",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22281,
+		"script":	"【存】材料",
 		"task":	0
 	}, {
 		"setcount":	0,

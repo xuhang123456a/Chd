@@ -8,7 +8,7 @@
 		"tag":	11218,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	15
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -28,8 +28,7 @@
 		"diyawaken":	"",
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
-		"task":	0,
-		"scriptend":	13
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -59,7 +58,8 @@
 		"diyawaken":	"",
 		"tag":	29659,
 		"script":	"领取家族工资",
-		"task":	0
+		"task":	0,
+		"scriptend":	15
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

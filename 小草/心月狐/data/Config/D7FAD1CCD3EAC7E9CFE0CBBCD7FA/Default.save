@@ -110,6 +110,7 @@
 	"msg_speak_sw":	false,
 	"other_jumptype":	false,
 	"other_passprint":	false,
+	"other_top_window_switch":	false,
 	"path_auto_script_door_sw":	false,
 	"path_auto_script_showval_sw":	false,
 	"path_down_hotkey_sw":	true,

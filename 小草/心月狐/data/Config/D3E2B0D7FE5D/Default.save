@@ -175,7 +175,7 @@
 	"skill_option_platform_skill":	false,
 	"skill_option_repeat":	true,
 	"skill_option_slide_off":	false,
-	"skill_option_sombra":	false,
+	"skill_option_sombra":	true,
 	"skill_option_stop_skill":	false,
 	"skill_option_stop_skill_all":	false,
 	"skill_shake_sw":	true,
@@ -482,6 +482,19 @@
 			"hard":	false
 		}],
 	"skill_attack_data":	[{
+			"sw":	true,
+			"id":	1410004,
+			"name":	"姿态变换",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
 			"sw":	true,
 			"id":	60,
 			"name":	"影剑术第1章",
