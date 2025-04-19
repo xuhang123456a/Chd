@@ -52,6 +52,9 @@
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
+	"item_pick_filter_12":	true,
+	"item_pick_filter_13":	true,
+	"item_pick_filter_14":	false,
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
@@ -942,8 +945,20 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"×ªÉí&Ö´ĞĞ¶îÍâ",
-			"x":	"5183",
-			"y":	"1375",
+			"x":	"3127",
+			"y":	"1391",
+			"pos1":	"×óÅÜ",
+			"pos2":	"ÓÒÅÜ",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"×ªÉí&Ö´ĞĞ¶îÍâ",
+			"x":	"3726",
+			"y":	"1391",
 			"pos1":	"ÓÒÅÜ",
 			"pos2":	"×óÅÜ",
 			"judge":	{
@@ -953,52 +968,16 @@
 				"":	""
 			}
 		}, {
-			"type":	"×óÌø",
-			"x":	"2976",
-			"y":	"1375",
-			"pos1":	"×óÅÜ",
+			"type":	"×ªÉí&Ö´ĞĞ¶îÍâ",
+			"x":	"3447",
+			"y":	"1391",
+			"pos1":	"×ó&ÓÒ[ÎŞ]",
 			"pos2":	"×óÅÜ",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"ÌøÔ¾¿ØÖÆ":	"100"
-			}
-		}, {
-			"type":	"ÉÏÌø",
-			"x":	"32",
-			"y":	"1375",
-			"pos1":	"×óÅÜ",
-			"pos2":	"ÓÒÅÜ",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"ÌøÔ¾¿ØÖÆ":	"400"
-			}
-		}, {
-			"type":	"ÉÏÌø",
-			"x":	"392",
-			"y":	"991",
-			"pos1":	"ÓÒÅÜ",
-			"pos2":	"ÓÒÅÜ",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"ÌøÔ¾¿ØÖÆ":	"400"
-			}
-		}, {
-			"type":	"ÓÒÌø",
-			"x":	"959",
-			"y":	"479",
-			"pos1":	"ÓÒÅÜ",
-			"pos2":	"ÓÒÅÜ",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"ÌøÔ¾¿ØÖÆ":	"100"
+				"²Êºç¸±±¾´«ËÍ":	"¿ÕÖĞÕ½³¡"
 			}
 		}],
 	"script_trigger_data":	[],
@@ -4453,7 +4432,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"¹á´©Á¦ ¾õĞÑÊ¯",
 			"type1":	true,
@@ -4465,7 +4444,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"¹á´©Á¦ ¾õĞÑÊ¯+1",
 			"type1":	true,
@@ -4525,7 +4504,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"±©»÷ÉËº¦ ¾õĞÑÊ¯",
 			"type1":	true,
@@ -4537,7 +4516,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"±©»÷ÉËº¦ ¾õĞÑÊ¯+1",
 			"type1":	true,

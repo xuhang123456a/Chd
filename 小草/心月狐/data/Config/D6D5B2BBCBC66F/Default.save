@@ -52,6 +52,9 @@
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
+	"item_pick_filter_12":	true,
+	"item_pick_filter_13":	true,
+	"item_pick_filter_14":	false,
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
@@ -824,10 +827,10 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"1124",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"x":	"3127",
+			"y":	"1391",
+			"pos1":	"左跑",
+			"pos2":	"右跑",
 			"judge":	{
 				"":	""
 			},
@@ -835,10 +838,10 @@
 				"":	""
 			}
 		}, {
-			"type":	"模拟↑键",
-			"x":	"65",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
+			"type":	"转身&执行额外",
+			"x":	"3726",
+			"y":	"1391",
+			"pos1":	"右跑",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
@@ -848,27 +851,15 @@
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3691",
-			"y":	"1375",
+			"x":	"3447",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"2786",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
+				"彩虹副本传送":	"空中战场"
 			}
 		}],
 	"script_trigger_data":	[],
@@ -930,7 +921,7 @@
 			"item":	""
 		}, {
 			"npc":	6,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -950,7 +941,7 @@
 			"item":	""
 		}, {
 			"npc":	11,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -990,7 +981,7 @@
 			"item":	""
 		}, {
 			"npc":	19,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {

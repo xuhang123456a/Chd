@@ -7,8 +7,7 @@
 		"diyawaken":	"",
 		"tag":	17043,
 		"script":	"兑换羁绊之石",
-		"task":	0,
-		"scriptend":	15
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -18,8 +17,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	31728,
 		"script":	"探险家神殿(史诗)",
-		"task":	0,
-		"scriptend":	15
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -59,8 +57,7 @@
 		"diyawaken":	"",
 		"tag":	29659,
 		"script":	"领取家族工资",
-		"task":	0,
-		"scriptend":	15
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -70,8 +67,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	20309,
 		"script":	"深渊之镜",
-		"task":	0,
-		"scriptend":	15
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

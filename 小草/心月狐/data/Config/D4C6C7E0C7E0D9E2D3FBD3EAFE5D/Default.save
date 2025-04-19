@@ -86,11 +86,11 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	true,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	false,
+	"main_mob_herbs":	true,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	false,
+	"main_mob_mineral":	true,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
@@ -213,7 +213,7 @@
 	"main_mob_other_name":	"",
 	"main_mob_trap_name":	"",
 	"path_down_hotkey":	"Down",
-	"store_items":	"经验值的秘药 100%;经验值的秘药 200%;经验值的秘药 300%;经验值的秘药 800%;经验值的秘药 500%(不可交易);经验值的秘药 300%(不可交易);大红星;小四的祝福(不可交易);酬勤经验药水;恶魔の小果实（雾）;恶魔の小果实（火）;大型葡萄药丸;★ 大型葡萄药丸;★ 中型葡萄药丸;★ 小型葡萄药丸;抽奖王称号;低级血脉水晶(可存仓);中级血脉水晶(可存仓);高级血脉水晶(可存仓);活动时空血脉水晶;;;;;;;;;;;翠绿口香糖;虚实碎片;墨诺提的圣杯;;;;;;;;;;;;;;;;;;觉醒·黄金混沌箱子;高级召唤兽技能强化卷轴;小天使晶片;创意染色券;淘淘卡;淘淘卡兑换券;创意美发券;梦魇碎块;梦狱碎块;梦之放映机(不可交易);普通武器皮肤激活券;眼睛整容专家券;发型专家券;特殊发型券;特殊晒黑票券;特殊头发颜色券;特殊眼睛整形券;特殊彩色隐形眼镜券;神魔羁绊礼盒;罗马羁绊礼盒;玛雅羁绊礼盒;埃及羁绊礼盒;和风羁绊礼盒;深林羁绊礼盒;乡村羁绊礼盒;银河羁绊礼盒;中华羁绊礼盒;皇室羁绊礼盒;企鹅元芳的灵魂碎片;小天使的灵魂碎片;理查德·帕克的灵魂碎片;修仙噗噗的灵魂碎片;大大熊的灵魂碎片;舞扇忍者的灵魂碎片;蘑菇鸡的灵魂碎片;成年男仆的灵魂碎片;太极熊猫的灵魂碎片;幻蓝行者的灵魂碎片;双头波比的灵魂碎片;可爱猫女郎的灵魂碎片;中级潜力灵龛;初级潜力灵龛;【觉醒】之核;【觉醒II】之核;【传奇】之核;【传奇】之羽;【传奇II】之核;【传奇II】之羽;闪耀翅膀碎片;基沙拉钥匙;灵魂的夙愿;复合觉醒石随机包;弥修斯的愤怒;拉斐拉的羽毛装饰;伤痕之花;弥修斯的箱子;赫尔之戒碎片;银色原石;银色石板;神秘火苗(双刀);神秘火苗(双手剑);莱菲卡的红色珍宝;格莫瑞族女王的绿色珍宝;莱菲卡服饰兑换券;莱菲卡伤害皮肤装扮券(永久);随机称号卷轴(不可交易);彩虹标徽;;;;;;;白金锤子;;;;;;;;;甜蜜橙味全糖蜜果;紫葡萄味全糖蜜果;蓝草莓味全糖蜜果;红樱桃味全糖蜜果;青苹果味全糖蜜果;黄香蕉味全糖蜜果;;;;钓鱼王称号书;钓鱼之神称号书;钓鱼达人称号书;钓鱼高手称号书;;",
+	"store_items":	"经验值的秘药 100%;经验值的秘药 200%;经验值的秘药 300%;经验值的秘药 800%;大红星;酬勤经验药水;恶魔の小果实（雾）;恶魔の小果实（火）;低级血脉水晶(可存仓);中级血脉水晶(可存仓);高级血脉水晶(可存仓);活动时空血脉水晶;钓鱼王称号书;钓鱼之神称号书;钓鱼达人称号书;钓鱼高手称号书;翠绿口香糖;虚实碎片;圣字 武器攻击力 重洗卷轴;圣字 体力 重洗卷轴;试炼蝴蝶结;繁星药剂;高级召唤兽技能强化卷轴;小天使晶片;创意染色券;淘淘卡;淘淘卡兑换券;创意美发券;梦魇碎块;梦狱碎块;梦之放映机(不可交易);普通武器皮肤激活券;眼睛整容专家券;发型专家券;特殊发型券;特殊晒黑票券;特殊头发颜色券;特殊眼睛整形券;特殊彩色隐形眼镜券;中级潜力灵龛;初级潜力灵龛;彩虹标徽;春日小花朵;白金锤子;圣域圣神符文;圣域宝石 宝石魔法锤随机包;圣域宝石 重洗卷轴随机包;皮酷斯缝纫线板;闪耀翅膀碎片;基沙拉钥匙;灵魂的夙愿;复合觉醒石随机包;墨诺提的圣杯;弥修斯的愤怒;拉斐拉的羽毛装饰;伤痕之花;弥修斯的箱子;赫尔之戒碎片;银色原石;银色石板;神秘火苗(双刀);神秘火苗(双手剑);莱菲卡的红色珍宝;格莫瑞族女王的绿色珍宝;莱菲卡服饰兑换券;莱菲卡伤害皮肤装扮券(永久);",
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
@@ -666,9 +666,21 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"3127",
-			"y":	"1391",
-			"pos1":	"左跑",
+			"x":	"6140",
+			"y":	"1495",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"5804",
+			"y":	"1495",
+			"pos1":	"左&右[无]",
 			"pos2":	"右跑",
 			"judge":	{
 				"":	""
@@ -678,10 +690,34 @@
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3726",
-			"y":	"1391",
-			"pos1":	"右跑",
-			"pos2":	"左跑",
+			"x":	"1269",
+			"y":	"1456",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"上跳",
+			"x":	"5980",
+			"y":	"1495",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"跳跃控制":	"200"
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"5922",
+			"y":	"1295",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
 			"judge":	{
 				"":	""
 			},
@@ -690,15 +726,27 @@
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3447",
-			"y":	"1391",
+			"x":	"6031",
+			"y":	"1295",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"彩虹副本传送":	"空中战场"
+				"":	""
+			}
+		}, {
+			"type":	"模拟↑键",
+			"x":	"5986",
+			"y":	"1295",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
 			}
 		}],
 	"script_trigger_data":	[],
@@ -4166,8 +4214,8 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
+			"filter4":	true,
+			"filter5":	true
 		}, {
 			"sw":	true,
 			"vague":	false,
@@ -4190,8 +4238,8 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
+			"filter4":	true,
+			"filter5":	true
 		}, {
 			"sw":	true,
 			"vague":	false,
@@ -4213,7 +4261,7 @@
 			"type3":	false,
 			"filter1":	false,
 			"filter2":	false,
-			"filter3":	false,
+			"filter3":	true,
 			"filter4":	true,
 			"filter5":	true
 		}, {
@@ -4225,7 +4273,7 @@
 			"type3":	false,
 			"filter1":	false,
 			"filter2":	false,
-			"filter3":	false,
+			"filter3":	true,
 			"filter4":	true,
 			"filter5":	true
 		}, {
@@ -4237,7 +4285,7 @@
 			"type3":	false,
 			"filter1":	false,
 			"filter2":	false,
-			"filter3":	false,
+			"filter3":	true,
 			"filter4":	false,
 			"filter5":	false
 		}, {
@@ -4249,7 +4297,7 @@
 			"type3":	false,
 			"filter1":	false,
 			"filter2":	false,
-			"filter3":	false,
+			"filter3":	true,
 			"filter4":	true,
 			"filter5":	true
 		}, {
@@ -4261,7 +4309,7 @@
 			"type3":	false,
 			"filter1":	false,
 			"filter2":	false,
-			"filter3":	false,
+			"filter3":	true,
 			"filter4":	true,
 			"filter5":	true
 		}, {
@@ -4273,7 +4321,7 @@
 			"type3":	false,
 			"filter1":	false,
 			"filter2":	false,
-			"filter3":	false,
+			"filter3":	true,
 			"filter4":	false,
 			"filter5":	false
 		}, {
@@ -4285,7 +4333,7 @@
 			"type3":	false,
 			"filter1":	false,
 			"filter2":	false,
-			"filter3":	false,
+			"filter3":	true,
 			"filter4":	false,
 			"filter5":	false
 		}, {
@@ -4297,7 +4345,7 @@
 			"type3":	false,
 			"filter1":	false,
 			"filter2":	false,
-			"filter3":	false,
+			"filter3":	true,
 			"filter4":	true,
 			"filter5":	true
 		}, {
@@ -4309,7 +4357,7 @@
 			"type3":	false,
 			"filter1":	false,
 			"filter2":	false,
-			"filter3":	false,
+			"filter3":	true,
 			"filter4":	true,
 			"filter5":	true
 		}, {

@@ -52,6 +52,9 @@
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
+	"item_pick_filter_12":	true,
+	"item_pick_filter_13":	true,
+	"item_pick_filter_14":	false,
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
@@ -196,7 +199,7 @@
 	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"",
 	"auto_team_room_namelist":	"",
-	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;中级冒险家情报卷轴;高级冒险家情报卷轴;初级冒险家情报卷轴;",
+	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;中级冒险家情报卷轴;高级冒险家情报卷轴;初级冒险家情报卷轴;闪闪发光的宝箱;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"Del",
@@ -290,8 +293,8 @@
 	"btn_color_8":	16384000,
 	"server":	111,
 	"item_filter_1":	[],
-	"item_filter_2":	[518111002, 518111001],
-	"item_filter_3":	[518111001, 518111002],
+	"item_filter_2":	[518111002, 518111001, 170195348, 202301005, 20100008, 20100009, 20100011, 190160301, 190160401, 190160101, 20100010],
+	"item_filter_3":	[518111001, 518111002, 170195348, 20100010, 190160101, 190160401, 190160301, 20100011, 20100009, 20100008, 202301005],
 	"item_filter_4":	[],
 	"item_use_data":	[{
 			"sw":	true,
@@ -577,7 +580,7 @@
 			"item":	""
 		}, {
 			"npc":	6,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -597,7 +600,7 @@
 			"item":	""
 		}, {
 			"npc":	11,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -637,7 +640,7 @@
 			"item":	""
 		}, {
 			"npc":	19,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
