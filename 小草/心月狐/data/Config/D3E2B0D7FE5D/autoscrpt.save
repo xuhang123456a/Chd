@@ -7,7 +7,8 @@
 		"diyawaken":	"",
 		"tag":	11218,
 		"script":	"【彩虹向导】每日任务",
-		"task":	0
+		"task":	0,
+		"scriptend":	19
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -27,7 +28,8 @@
 		"diyawaken":	"",
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
-		"task":	0
+		"task":	0,
+		"scriptend":	19
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -37,7 +39,8 @@
 		"diyawaken":	"",
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
-		"task":	0
+		"task":	0,
+		"scriptend":	19
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -47,7 +50,8 @@
 		"diyawaken":	"",
 		"tag":	22387,
 		"script":	"探险家神殿(普通)",
-		"task":	0
+		"task":	0,
+		"scriptend":	19
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -57,7 +61,8 @@
 		"diyawaken":	"",
 		"tag":	29659,
 		"script":	"领取家族工资",
-		"task":	0
+		"task":	0,
+		"scriptend":	19
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

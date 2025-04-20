@@ -8,7 +8,7 @@
 		"tag":	24077,
 		"script":	"兑换羁绊之石",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	20
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -19,7 +19,7 @@
 		"tag":	4249,
 		"script":	"领取家族工资",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	20
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -30,7 +30,7 @@
 		"tag":	23315,
 		"script":	"火山珊瑚",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	20
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -41,7 +41,7 @@
 		"tag":	5131,
 		"script":	"探险家神殿(英雄)",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	20
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -52,7 +52,7 @@
 		"tag":	6813,
 		"script":	"探险家神殿(高级)",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	20
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -63,7 +63,7 @@
 		"tag":	8345,
 		"script":	"探险家神殿(普通)",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	20
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -74,7 +74,7 @@
 		"tag":	20144,
 		"script":	"薇娅斯梦境",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	20
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -85,7 +85,7 @@
 		"tag":	9216,
 		"script":	"穆斯菲尔斯隧道",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	20
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -96,7 +96,7 @@
 		"tag":	19955,
 		"script":	"失魂寺",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	20
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -107,7 +107,7 @@
 		"tag":	11520,
 		"script":	"阿特拉斯庭院",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	20
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -117,8 +117,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	7568,
 		"script":	"群星宫殿",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -128,8 +127,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	24465,
 		"script":	"大地的考验",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -139,8 +137,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	25369,
 		"script":	"黄昏教堂",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -150,8 +147,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	6664,
 		"script":	"消失的星之歌",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -161,8 +157,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	18236,
 		"script":	"精灵树桩",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -182,8 +177,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	3903,
 		"script":	"生命之恩泰莱凯",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -193,8 +187,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	21696,
 		"script":	"艾乌加蒙剧场",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -204,8 +197,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	32309,
 		"script":	"深渊之镜",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -215,8 +207,7 @@
 		"diyawaken":	"战斗",
 		"tag":	17422,
 		"script":	"圣字教堂",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -226,8 +217,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	1410,
 		"script":	"盟约圣地",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -237,8 +227,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	8289,
 		"script":	"希列",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -248,8 +237,7 @@
 		"diyawaken":	"",
 		"tag":	30768,
 		"script":	"自动强化经验值觉醒石+3",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -279,8 +267,7 @@
 		"diyawaken":	"",
 		"tag":	3993,
 		"script":	"竞技场练习赛（全部任务）",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

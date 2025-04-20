@@ -52,6 +52,9 @@
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
+	"item_pick_filter_12":	false,
+	"item_pick_filter_13":	false,
+	"item_pick_filter_14":	false,
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
@@ -411,132 +414,6 @@
 			},
 			"item":	"高级血脉水晶(绑定)"
 		}, {
-			"sw":	false,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"高级血脉水晶(可存仓)"
-		}, {
-			"sw":	false,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"中级血脉水晶(可存仓)"
-		}, {
-			"sw":	false,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"活动时空血脉水晶"
-		}, {
-			"sw":	false,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"低级血脉水晶(可存仓)"
-		}, {
-			"sw":	false,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶X"
-		}, {
-			"sw":	false,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶IX"
-		}, {
-			"sw":	false,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶VIII"
-		}, {
-			"sw":	false,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶VII"
-		}, {
-			"sw":	false,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶VI"
-		}, {
-			"sw":	false,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶V"
-		}, {
-			"sw":	false,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶IV"
-		}, {
-			"sw":	false,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶III"
-		}, {
-			"sw":	false,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶II"
-		}, {
-			"sw":	false,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶I"
-		}, {
 			"sw":	true,
 			"Judge1":	{
 				"HP<=%":	"111"
@@ -545,6 +422,15 @@
 				"[无]":	""
 			},
 			"item":	"高级经验药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"低级经验药水"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{

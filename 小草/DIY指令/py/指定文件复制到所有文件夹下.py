@@ -46,9 +46,10 @@ def delete_file_from_subfolders(file_name, target_folder):
 source_file = r'E:\Game\Chd\小草\心月狐\data\Config\A96DC7EFCBAED2C1C8CBA967\a所有本.sc'
 target_folder = r'E:\Game\Chd\小草\心月狐\data\Config'
 # 复制单个执行脚本到所有角色
-copy_file_to_subfolders(source_file, target_folder)
+# copy_file_to_subfolders(source_file, target_folder)
+
 # 删除所有角色的单个执行脚本
-file_name = '连体困难.sc'
+# file_name = '没300连体每日.sc'
 # delete_file_from_subfolders(file_name, target_folder)
 print("执行完毕")
 

@@ -5,9 +5,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	1843,
-		"script":	"星能之战（家族本）",
-		"task":	0
+		"tag":	11218,
+		"script":	"【彩虹向导】每日任务",
+		"task":	0,
+		"scriptend":	19
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -15,7 +16,61 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	20486,
-		"script":	"退出组队",
+		"tag":	20910,
+		"script":	"兑换羁绊之石",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	2307,
+		"script":	"探险家神殿(英雄)",
+		"task":	0,
+		"scriptend":	19
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	31674,
+		"script":	"探险家神殿(高级)",
+		"task":	0,
+		"scriptend":	19
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22387,
+		"script":	"探险家神殿(普通)",
+		"task":	0,
+		"scriptend":	19
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	29659,
+		"script":	"领取家族工资",
+		"task":	0,
+		"scriptend":	19
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"存仓",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	15458,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]
