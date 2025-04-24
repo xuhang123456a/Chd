@@ -7,8 +7,7 @@
 		"diyawaken":	"",
 		"tag":	29394,
 		"script":	"兑换羁绊之石",
-		"task":	0,
-		"scriptend":	25
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -18,8 +17,7 @@
 		"diyawaken":	"",
 		"tag":	29659,
 		"script":	"领取家族工资",
-		"task":	0,
-		"scriptend":	25
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -60,17 +58,6 @@
 		"tag":	22387,
 		"script":	"探险家神殿(普通)",
 		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	13031,
-		"script":	"火山珊瑚",
-		"task":	0,
-		"scriptend":	25
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -270,16 +257,6 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	23182,
 		"script":	"希列",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22026,
-		"script":	"阿玛伦宝库",
 		"task":	0
 	}, {
 		"setcount":	0,

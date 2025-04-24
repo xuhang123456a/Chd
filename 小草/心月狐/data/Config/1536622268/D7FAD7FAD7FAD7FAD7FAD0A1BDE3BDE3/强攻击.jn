@@ -1,0 +1,18 @@
+{
+	"skill_attack_data":	[{
+			"sw":	true,
+			"id":	2,
+			"name":	"强攻击",
+			"dmin":	0,
+			"dmax":	200,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"在地图":	"珊瑚森林 2_30401;"
+				}],
+			"num":	0
+		}]
+}

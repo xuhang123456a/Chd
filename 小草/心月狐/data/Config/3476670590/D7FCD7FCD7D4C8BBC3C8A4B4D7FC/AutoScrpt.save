@@ -94,7 +94,8 @@
 		"diyawaken":	"经验觉醒",
 		"tag":	28704,
 		"script":	"泡泡战舰",
-		"task":	0
+		"task":	0,
+		"scriptend":	25
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -114,7 +115,8 @@
 		"diyawaken":	"",
 		"tag":	19170,
 		"script":	"水晶洞穴图鉴",
-		"task":	0
+		"task":	0,
+		"scriptend":	25
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -124,7 +126,8 @@
 		"diyawaken":	"",
 		"tag":	8645,
 		"script":	"通天塔(定义)",
-		"task":	0
+		"task":	0,
+		"scriptend":	25
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -134,7 +137,8 @@
 		"diyawaken":	"",
 		"tag":	18319,
 		"script":	"混乱世界",
-		"task":	0
+		"task":	0,
+		"scriptend":	25
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -144,7 +148,8 @@
 		"diyawaken":	"",
 		"tag":	21727,
 		"script":	"火山珊瑚",
-		"task":	0
+		"task":	0,
+		"scriptend":	25
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

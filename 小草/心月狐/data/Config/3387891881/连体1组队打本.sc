@@ -1,12 +1,12 @@
 [{
-		"setcount":	1,
+		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	16782,
-		"script":	"阿特拉斯庭院(困难)",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	3060,
+		"script":	"进队长组",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -24,8 +24,8 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
-		"diyawaken":	"装备觉醒",
-		"tag":	19949,
+		"diyawaken":	"5爆伤石",
+		"tag":	12682,
 		"script":	"摩克沙",
 		"task":	0
 	}, {
