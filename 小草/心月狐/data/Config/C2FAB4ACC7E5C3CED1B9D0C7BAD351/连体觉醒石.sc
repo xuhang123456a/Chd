@@ -11,6 +11,26 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	15388,
+		"script":	"兑换羁绊之石",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	2633,
+		"script":	"领取家族工资",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -54,9 +74,19 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
-		"diyawaken":	"5觉醒",
-		"tag":	42,
-		"script":	"深渊之镜",
+		"diyawaken":	"5爆伤石",
+		"tag":	17511,
+		"script":	"薇娅斯梦境",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	7509,
+		"script":	"失魂寺",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -67,6 +97,16 @@
 		"diyawaken":	"5觉醒",
 		"tag":	18468,
 		"script":	"艾乌加蒙剧场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5觉醒",
+		"tag":	42,
+		"script":	"深渊之镜",
 		"task":	0
 	}, {
 		"setcount":	0,

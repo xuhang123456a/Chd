@@ -2,18 +2,36 @@
 		"index":	726217328,
 		"name":	"自然萌ご",
 		"autoscript":	"a特殊",
-		"item":	"",
+		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	726218968,
 		"name":	"自然萌ご",
 		"autoscript":	"a每日",
-		"item":	"",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	183632281,
+		"name":	"十八岁青春男高",
+		"autoscript":	"连体觉醒石",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	255670125,
+		"name":	"雪绒薄荷ご",
+		"autoscript":	"连体只打神殿",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	183635828,
+		"name":	"傻海我们走~",
+		"autoscript":	"连体只打神殿",
+		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	726221109,
 		"name":	"自然萌ご",
 		"autoscript":	"a图鉴",
-		"item":	"",
+		"item":	"存仓",
 		"item_other":	""
 	}]

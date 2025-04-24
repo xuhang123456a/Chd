@@ -20,16 +20,6 @@
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	23715,
-		"script":	"¡¾î¿°íÀñºÐ¡¿¼Ò×åÊæ²¨Â³",
-		"task":	0
-	}, {
-		"setcount":	0,
 		"loadtime":	-2100297728,
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",

@@ -8,7 +8,7 @@
 		"tag":	11218,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -18,8 +18,7 @@
 		"diyawaken":	"",
 		"tag":	20910,
 		"script":	"兑换羁绊之石",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -30,7 +29,7 @@
 		"tag":	2839,
 		"script":	"探险家神殿(史诗)",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -41,7 +40,7 @@
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -52,7 +51,7 @@
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -63,7 +62,7 @@
 		"tag":	22387,
 		"script":	"探险家神殿(普通)",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -74,7 +73,7 @@
 		"tag":	29659,
 		"script":	"领取家族工资",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -85,7 +84,7 @@
 		"tag":	42,
 		"script":	"深渊之镜",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -96,7 +95,7 @@
 		"tag":	18468,
 		"script":	"艾乌加蒙剧场",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -107,7 +106,7 @@
 		"tag":	26501,
 		"script":	"圣字教堂",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -118,7 +117,7 @@
 		"tag":	11479,
 		"script":	"冰狱",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -129,7 +128,7 @@
 		"tag":	26963,
 		"script":	"哈姆克公爵府",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -140,7 +139,7 @@
 		"tag":	25647,
 		"script":	"竞技场练习赛（全部任务）",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

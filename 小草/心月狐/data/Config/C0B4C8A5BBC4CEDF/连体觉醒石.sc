@@ -153,26 +153,6 @@
 		"loadtime":	0,
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	15357,
-		"script":	"¿ËÂåÅµË¹µÄÊ±¼ä",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5¾õĞÑ",
-		"tag":	4028,
-		"script":	"ĞÄÔàµÄ¼ÇÒä",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
 		"diyother":	"ÕÙ»½ÊŞ",
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	24465,
@@ -287,76 +267,6 @@
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	899,
 		"script":	"±ùÓü",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	11887,
-		"script":	"Ãµ¹åÍ¥Ôº",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24237,
-		"script":	"»ÃÖ®Ò¡Àº",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	13460,
-		"script":	"ÍüÈ´ºşÅÏ",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	26522,
-		"script":	"ĞéÎŞÖ®ĞÇ",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	7430,
-		"script":	"É½º£¹éĞæ",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	25949,
-		"script":	"ÃÎ¾³°ÂÄùÒÁÂ³",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	7674,
-		"script":	"Ä§Á¦·À¿Õ¶´",
 		"task":	0
 	}, {
 		"setcount":	0,

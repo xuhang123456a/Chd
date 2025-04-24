@@ -8,7 +8,7 @@
 		"tag":	11408,
 		"script":	"泡泡战舰",
 		"task":	0,
-		"scriptend":	20
+		"scriptend":	24
 	}, {
 		"setcount":	0,
 		"loadtime":	-2119958528,
@@ -28,8 +28,7 @@
 		"diyawaken":	"",
 		"tag":	20605,
 		"script":	"【月活动每日】每日任务",
-		"task":	0,
-		"scriptend":	20
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -39,8 +38,7 @@
 		"diyawaken":	"",
 		"tag":	25301,
 		"script":	"【月活动签到】高级签到任务",
-		"task":	0,
-		"scriptend":	20
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -50,8 +48,7 @@
 		"diyawaken":	"",
 		"tag":	7732,
 		"script":	"兑换羁绊之石",
-		"task":	0,
-		"scriptend":	20
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -71,8 +68,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	28488,
 		"script":	"探险家神殿(史诗)",
-		"task":	0,
-		"scriptend":	20
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -112,8 +108,7 @@
 		"diyawaken":	"",
 		"tag":	7712,
 		"script":	"领取家族工资",
-		"task":	0,
-		"scriptend":	20
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -123,8 +118,7 @@
 		"diyawaken":	"",
 		"tag":	4967,
 		"script":	"自动转换星座点数",
-		"task":	0,
-		"scriptend":	20
+		"task":	0
 	}, {
 		"setcount":	1,
 		"loadtime":	0,
@@ -134,8 +128,7 @@
 		"diyawaken":	"",
 		"tag":	21727,
 		"script":	"破坏之城",
-		"task":	0,
-		"scriptend":	20
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

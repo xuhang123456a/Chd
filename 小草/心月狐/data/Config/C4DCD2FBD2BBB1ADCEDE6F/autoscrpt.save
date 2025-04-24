@@ -8,7 +8,18 @@
 		"tag":	29394,
 		"script":	"兑换羁绊之石",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	7979,
+		"script":	"领取家族工资",
+		"task":	0,
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -19,7 +30,7 @@
 		"tag":	1805,
 		"script":	"探险家神殿(史诗)",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -30,7 +41,7 @@
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -41,7 +52,7 @@
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -52,7 +63,73 @@
 		"tag":	22387,
 		"script":	"探险家神殿(普通)",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	23091,
+		"script":	"薇娅斯梦境",
+		"task":	0,
+		"scriptend":	23
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	7467,
+		"script":	"失魂寺",
+		"task":	0,
+		"scriptend":	23
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5觉醒",
+		"tag":	2478,
+		"script":	"艾乌加蒙剧场",
+		"task":	0,
+		"scriptend":	23
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5觉醒",
+		"tag":	16049,
+		"script":	"深渊之镜",
+		"task":	0,
+		"scriptend":	23
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"战斗",
+		"tag":	5337,
+		"script":	"普洛菲司台",
+		"task":	0,
+		"scriptend":	23
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"战斗",
+		"tag":	7416,
+		"script":	"霍普占卜室",
+		"task":	0,
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -63,7 +140,7 @@
 		"tag":	7956,
 		"script":	"卡伊洛斯的时间",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -74,7 +151,7 @@
 		"tag":	17422,
 		"script":	"圣字教堂",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -85,7 +162,7 @@
 		"tag":	9364,
 		"script":	"哈姆克公爵府",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -96,7 +173,7 @@
 		"tag":	11551,
 		"script":	"盟约圣地",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -107,7 +184,7 @@
 		"tag":	23182,
 		"script":	"希列",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -118,7 +195,7 @@
 		"tag":	23282,
 		"script":	"索拉城斗兽场",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -128,7 +205,8 @@
 		"diyawaken":	"",
 		"tag":	6306,
 		"script":	"自动强化经验值觉醒石+3",
-		"task":	0
+		"task":	0,
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -159,7 +237,7 @@
 		"tag":	22281,
 		"script":	"【存】材料",
 		"task":	0,
-		"scriptend":	19
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -167,7 +245,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	10572,
+		"tag":	21361,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]

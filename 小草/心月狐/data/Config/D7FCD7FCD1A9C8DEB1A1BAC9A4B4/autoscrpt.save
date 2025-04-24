@@ -5,29 +5,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11665,
-		"script":	"魔力防空洞",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"战斗",
-		"tag":	14931,
-		"script":	"梦境奥涅伊鲁",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"战斗",
-		"tag":	4206,
-		"script":	"回声泉",
-		"task":	0
+		"tag":	11218,
+		"script":	"【彩虹向导】每日任务",
+		"task":	0,
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -35,39 +16,42 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	20736,
-		"script":	"炼狱阿兹雷尔",
+		"tag":	20910,
+		"script":	"兑换羁绊之石",
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	0,
+		"loadtime":	-2100297728,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	30675,
-		"script":	"破坏之城",
-		"task":	0
+		"tag":	2307,
+		"script":	"探险家神殿(英雄)",
+		"task":	0,
+		"scriptend":	23
 	}, {
 		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22789,
-		"script":	"魔法修炼馆",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
+		"loadtime":	-2100297728,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
-		"tag":	8745,
-		"script":	"盟约圣地",
-		"task":	0
+		"diyawaken":	"",
+		"tag":	31674,
+		"script":	"探险家神殿(高级)",
+		"task":	0,
+		"scriptend":	23
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22387,
+		"script":	"探险家神殿(普通)",
+		"task":	0,
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -75,57 +59,18 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19668,
-		"script":	"春植岛纪念馆",
-		"task":	0
+		"tag":	29659,
+		"script":	"领取家族工资",
+		"task":	0,
+		"scriptend":	23
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"存仓",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	30394,
-		"script":	"幻影毒雾沼泽",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	27701,
-		"script":	"神笔画卷",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	8557,
-		"script":	"卡夫卡剧场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	17913,
-		"script":	"王者野外",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	9859,
+		"tag":	15458,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]
