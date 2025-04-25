@@ -5,64 +5,49 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11218,
-		"script":	"【彩虹向导】每日任务",
-		"task":	0,
-		"scriptend":	23
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20910,
-		"script":	"兑换羁绊之石",
+		"tag":	3060,
+		"script":	"进队长组",
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	-2100297728,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	2307,
-		"script":	"探险家神殿(英雄)",
-		"task":	0,
-		"scriptend":	23
-	}, {
-		"setcount":	0,
-		"loadtime":	-2100297728,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31674,
-		"script":	"探险家神殿(高级)",
-		"task":	0,
-		"scriptend":	23
-	}, {
-		"setcount":	0,
-		"loadtime":	-2100297728,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22387,
-		"script":	"探险家神殿(普通)",
-		"task":	0,
-		"scriptend":	23
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	14539,
+		"script":	"丽西泰亚之门",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	29659,
-		"script":	"领取家族工资",
-		"task":	0,
-		"scriptend":	23
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	26733,
+		"script":	"蘑菇树沼泽",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	9285,
+		"script":	"诺尼尔之泪",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	12682,
+		"script":	"摩克沙",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -70,7 +55,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15458,
+		"tag":	9162,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]

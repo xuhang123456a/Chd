@@ -1,0 +1,12 @@
+[ 4-25 22:58: 5]:Module:E:\Game\�ʺ絺Online\LaTaleClient.exe+2B8543,eax=1DB20E50,ecx=1D290038,edx=1E25EFF0,edi=19E0B558,esi=19E0B580
+[ 4-25 22:58: 5]:Module: C:\Windows\System32\KERNEL32.DLL Function:BaseThreadInitThunk
+[ 4-25 22:58: 5]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 4-25 22:58: 5]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlCaptureContext
+[ 4-25 22:58:27]:Module:E:\Game\�ʺ絺Online\LaTaleClient.exe+1,eax=1,ecx=16BBC00,edx=16BBD44,edi=1DB590E8,esi=1DB59110
+[ 4-25 22:58:27]:Module: C:\Windows\System32\KERNEL32.DLL Function:BaseThreadInitThunk
+[ 4-25 22:58:27]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 4-25 22:58:27]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlCaptureContext
+[ 4-25 23:26:37]:RECV : 0BEBC589
+[ 4-25 23:26:38]:RECV : 0BEBC589
+[ 4-26  0: 2:43]:RECV : 0BEBC589
+[ 4-26  0:41:28]:RECV : 0BEBC589

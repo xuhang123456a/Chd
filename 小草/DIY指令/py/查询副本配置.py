@@ -5,15 +5,15 @@ import chardet
 # 指定目录路径
 xc_string = '心月狐'
 specified_directory = 'E:\Game\Chd\小草\\' + xc_string + \
-    '\data\Config\\'  # + 'A96DC7EFCBAED2C1C8CBA967'
+    '\data\Config\\1536622268'  # + 'A96DC7EFCBAED2C1C8CBA967'
 
 # 要替换的字符串和替换后的字符串
 needReplace = False
 old_strings = ['自动采集=开启']  # 替换为你要查找的字符串
 new_strings = ['自动采集=关闭']  # 替换为你想要的新字符串
 find_strings = [
-    '副本难度=简单',
-    '副本难度=普通',
+    # '副本难度=简单',
+    # '副本难度=普通',
     '副本难度=困难',
     # '自动采集=开启',
     # '自动挖矿=开启',

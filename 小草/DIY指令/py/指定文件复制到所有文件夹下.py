@@ -75,9 +75,8 @@ files_name = [
     'ec2f3ffd0aa8bc41.lua',
     'd7fab05005f7f667.lua',
 ]
-for file_name in files_name:
-    delete_file_from_subfolders(file_name, target_folder)
-# delete_file_from_subfolders(file_name, target_folder)
+# for file_name in files_name:
+#     delete_file_from_subfolders(file_name, target_folder)
 print("执行完毕")
 
 # 复制单个执行脚本到所有角色

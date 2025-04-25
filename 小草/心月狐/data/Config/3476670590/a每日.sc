@@ -113,6 +113,26 @@
 		"loadtime":	0,
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
+		"diyother":	"ÕÙ»½ÊÞ",
+		"diyawaken":	"Õ½¶·",
+		"tag":	16224,
+		"script":	"ÀöÎ÷Ì©ÑÇÖ®ÃÅ",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"ÕÙ»½ÊÞ",
+		"diyawaken":	"Õ½¶·",
+		"tag":	31073,
+		"script":	"Ä¢¹½Ê÷ÕÓÔó",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
 		"diyother":	"Ç¿Á¦ÕÙ»½ÊÞ",
 		"diyawaken":	"Õ½¶·",
 		"tag":	30918,
