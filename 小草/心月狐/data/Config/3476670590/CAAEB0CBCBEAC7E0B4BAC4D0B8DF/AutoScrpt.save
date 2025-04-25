@@ -40,7 +40,8 @@
 		"diyawaken":	"5¾õĞÑ",
 		"tag":	18468,
 		"script":	"°¬ÎÚ¼ÓÃÉ¾ç³¡",
-		"task":	0
+		"task":	0,
+		"scriptend":	25
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -50,7 +51,8 @@
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	26501,
 		"script":	"Ê¥×Ö½ÌÌÃ",
-		"task":	0
+		"task":	0,
+		"scriptend":	25
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -60,7 +62,8 @@
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	11479,
 		"script":	"±ùÓü",
-		"task":	0
+		"task":	0,
+		"scriptend":	25
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
