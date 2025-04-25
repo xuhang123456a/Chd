@@ -8,45 +8,52 @@ specified_directory = 'E:\Game\Chd\小草\\' + xc_string + \
     '\data\Config\\'  # + 'A96DC7EFCBAED2C1C8CBA967'
 
 # 要替换的字符串和替换后的字符串
-old_strings = ['自动挖矿=开启',]  # 替换为你要查找的字符串
-new_strings = ['自动挖矿=关闭']  # 替换为你想要的新字符串
+needReplace = False
+old_strings = ['自动采集=开启']  # 替换为你要查找的字符串
+new_strings = ['自动采集=关闭']  # 替换为你想要的新字符串
 find_strings = [
-    '自动采集=开启',
-    '自动挖矿=开启',
+    '副本难度=简单',
+    '副本难度=普通',
+    '副本难度=困难',
+    # '自动采集=开启',
+    # '自动挖矿=开启',
     # '开门就走=关闭',
-    # '带经验本=大号',
+    # '任务领取=关闭',
     # '拾取开关判断=不检测',
     # '拾取开关判断=默认',
+    # '拾取开关判断=队伍有人关拾取没人开启',
     # '不打苏尔特=开启',
     # '不打苏尔特=关闭',
-    # '拾取开关判断=队伍有人关拾取没人开启',
-    # '任务领取=关闭',
     # '退组进队长组=开启',
     # '送死流=全程送死',
-    # '占本混材料选择=(大号)BOSS等人'
+    # '组队模式=[打手]组队一起打'
     # '送死流=全程送死'
     # '自动吃减伤晚餐=开启'
+    # '带经验本=大号',
 ]
 name_strings = [
     ["﹎秋水伊人ゞ", "A96DC7EFCBAED2C1C8CBA967"],
-    ["℃ベ裸装", "A1E6A5D9A8FDA8FDC2E3D7B0"],
     ["晚来天欲雪o", "CDEDC0B4CCECD3FBD1A96F"],
-    ["能饮一杯无o", "C4DCD2FBD2BBB1ADCEDE6F"],
     ["小姐姐", "D7FAD7FAD7FAD7FAD7FAD0A1BDE3BDE3"],
+    ["云青青兮欲雨", "D4C6C7E0C7E0D9E2D3FBD3EAFE5D"],
+    ["℃ベ裸装", "A1E6A5D9A8FDA8FDC2E3D7B0"],
+    ["能饮一杯无o", "C4DCD2FBD2BBB1ADCEDE6F"],
     ["→酷我音乐→", "A1FABFE1CED2D2F4C0D6A1FA"],
     ["酷狗音乐ā", "BFE1B9B7D2F4C0D6A8A1"],
     ["醉后不知天在水o", "D7EDBAF3B2BBD6AACCECD4DACBAE6F"],
     ["满船清梦压星河Q", "C2FAB4ACC7E5C3CED1B9D0C7BAD351"],
-    ["云青青兮欲雨", "D4C6C7E0C7E0D9E2D3FBD3EAFE5D"],
     ["水澹澹兮生烟", "CBAEE5A3E5A3D9E2C9FAD1CCFE5D"],
     ["终不似o", 'D6D5B2BBCBC66F'],
     ["少年游o", "C9D9C4EAD3CE6F"],
+    ["最是人间留不住o", "D7EECAC7C8CBBCE4C1F4B2BBD7A16F"],
+
     ["你到底吻不吻我o", "C4E3B5BDB5D7CEC7B2BBCEC7CED26F"],
     ["来去荒芜", "C0B4C8A5BBC4CEDF"],
-    ["自然萌ご", "D7FCD7FCD7D4C8BBC3C8A4B4D7FC"],
-    ["不要碰我肩膀", "B2BBD2AAC5F6CED2BCE7B0F2"],
-    ["他不会等你了", "CBFBB2BBBBE1B5C8C4E3C1CB"],
     ["我有药", "CED2D3D0D2A9"],
+    ["不要碰我肩膀", "B2BBD2AAC5F6CED2BCE7B0F2"],
+
+    ["自然萌ご", "D7FCD7FCD7D4C8BBC3C8A4B4D7FC"],
+    ["他不会等你了", "CBFBB2BBBBE1B5C8C4E3C1CB"],
     ["雾云川", "CEEDD4C6B4A8"],
 ]
 
@@ -135,4 +142,4 @@ def checkFile(dir, needReplace):
                             print(f"写入文件 {file} 时发生错误: {e}")
 
 
-checkFile(specified_directory, False)
+checkFile(specified_directory, needReplace)

@@ -44,12 +44,39 @@ def delete_file_from_subfolders(file_name, target_folder):
 
 
 source_file = r'E:\Game\Chd\小草\心月狐\data\Config\A96DC7EFCBAED2C1C8CBA967\a所有本.sc'
-target_folder = r'E:\Game\Chd\小草\心月狐\data\Config'
+target_folder = r'E:\Game\Chd\小草\心月狐\data\Config\1536622268'
 # 复制单个执行脚本到所有角色
 # copy_file_to_subfolders(source_file, target_folder)
 
 # 删除所有角色的单个执行脚本
-# file_name = '没300连体每日.sc'
+files_name = [
+    '98f1b7e516ec6a9a.lua',
+    'ad8b2233fe127818.lua',
+    '2c38eeecd310a461.lua',
+    '6817b81e81d9dd09.lua',
+    '7c52c35a1e9a2478.lua',
+    'abe1b5494f70eb41.lua',
+    '72136dda73cbbb55.lua',
+    '997d65f152167b05.lua',
+    '84c3f59472b1198a.lua',
+    '149fd72a2c9d6dca.lua',
+    '21c2b37326c6c16e.lua',
+    '0bac2c53fd03a193.lua',
+    'a1b48ddb31437933.lua',
+    '539623a721c5a1bf.lua',
+    '9c07de0cd157fa84.lua',
+    'ad5ca3610bcd40ca.lua',
+    '7bf7d0bcaf88c40a.lua',
+    'f1c87ceee2180828.lua',
+    '1a8d682a22d4f1fb.lua',
+    'd2419586736b1169.lua',
+    '81fdab1ef3eab3af.lua',
+    '55bd9ba6bcd62afb.lua',
+    'ec2f3ffd0aa8bc41.lua',
+    'd7fab05005f7f667.lua',
+]
+for file_name in files_name:
+    delete_file_from_subfolders(file_name, target_folder)
 # delete_file_from_subfolders(file_name, target_folder)
 print("执行完毕")
 
