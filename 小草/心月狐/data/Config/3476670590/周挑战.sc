@@ -5,7 +5,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11401,
 		"script":	"周挑战（活动）",
 		"task":	0
 	}, {
@@ -15,7 +14,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	2,
 		"script":	"周挑战",
 		"task":	0
 	}]

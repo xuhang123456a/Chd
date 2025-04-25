@@ -5,8 +5,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	1843,
-		"script":	"星能之战（家族本）",
+		"tag":	15007,
+		"script":	"自动强化经验值觉醒石+3",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -15,17 +15,17 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	20486,
-		"script":	"退出组队",
+		"tag":	31102,
+		"script":	"自动强化贯穿力觉醒石+3",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
-		"tag":	6213,
-		"script":	"更换脚本列表1",
+		"diyawaken":	"",
+		"tag":	24394,
+		"script":	"自动强化暴击伤害觉醒石+3",
 		"task":	0
 	}]

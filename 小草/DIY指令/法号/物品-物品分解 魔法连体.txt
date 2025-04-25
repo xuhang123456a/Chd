@@ -321,7 +321,7 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
-			"filter4":	true,
+			"filter4":	false,
 			"filter5":	true
 		}, {
 			"sw":	true,
@@ -333,7 +333,7 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
-			"filter4":	true,
+			"filter4":	false,
 			"filter5":	true
 		}, {
 			"sw":	true,
@@ -345,7 +345,7 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
-			"filter4":	true,
+			"filter4":	false,
 			"filter5":	true
 		}, {
 			"sw":	true,
@@ -370,7 +370,7 @@
 			"filter2":	false,
 			"filter3":	false,
 			"filter4":	false,
-			"filter5":	true
+			"filter5":	false
 		}, {
 			"sw":	true,
 			"vague":	false,

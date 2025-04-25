@@ -7,8 +7,7 @@
 		"diyawaken":	"",
 		"tag":	19896,
 		"script":	"家族图腾(开启图腾)",
-		"task":	0,
-		"scriptend":	25
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -18,8 +17,7 @@
 		"diyawaken":	"",
 		"tag":	19719,
 		"script":	"家族图腾(领取图腾)",
-		"task":	0,
-		"scriptend":	25
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -29,8 +27,7 @@
 		"diyawaken":	"5觉醒",
 		"tag":	42,
 		"script":	"深渊之镜",
-		"task":	0,
-		"scriptend":	25
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -140,6 +137,5 @@
 		"diyawaken":	"",
 		"tag":	8638,
 		"script":	"索拉城斗兽场",
-		"task":	100004,
-		"scriptend":	25
+		"task":	100004
 	}]

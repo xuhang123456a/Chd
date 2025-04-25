@@ -5,7 +5,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19075,
+		"tag":	4967,
 		"script":	"[梦境]梦四（1法1盾2战）",
 		"task":	0
 	}, {
@@ -15,7 +15,17 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	22494,
+		"tag":	7377,
 		"script":	"[梦境]梦一（2-4人）",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	32636,
+		"script":	"[梦境]梦三（4法师）",
 		"task":	0
 	}]
