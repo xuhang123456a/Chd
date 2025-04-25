@@ -485,6 +485,33 @@
 				"[无]":	""
 			},
 			"item":	"混乱世界血脉水晶VIII"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶III"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶IV"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"高级血脉水晶(绑定)"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
