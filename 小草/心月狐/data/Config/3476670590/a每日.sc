@@ -71,16 +71,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	18319,
-		"script":	"»ìÂÒÊÀ½ç",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",

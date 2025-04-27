@@ -5,7 +5,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11218,
+		"tag":	27180,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0
 	}, {
@@ -25,8 +25,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	23715,
-		"script":	"【羁绊礼盒】家族舒波鲁",
+		"tag":	29659,
+		"script":	"领取家族工资",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -65,8 +65,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29659,
-		"script":	"领取家族工资",
+		"tag":	10502,
+		"script":	"【存】材料",
 		"task":	0
 	}, {
 		"setcount":	0,

@@ -1,6 +1,16 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	11841,
+		"script":	"自动打世界BOSS(21点)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -17,16 +27,6 @@
 		"diyawaken":	"",
 		"tag":	25301,
 		"script":	"【月活动签到】高级签到任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	11841,
-		"script":	"自动打世界BOSS(21点)",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -57,6 +57,36 @@
 		"diyawaken":	"",
 		"tag":	4967,
 		"script":	"自动转换星座点数",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	4028,
+		"script":	"心脏的记忆",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	15357,
+		"script":	"克洛诺斯的时间",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	32142,
+		"script":	"龙猫妹妹庭院",
 		"task":	0
 	}, {
 		"setcount":	1,
@@ -91,6 +121,16 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	6335,
+		"script":	"索拉城斗兽场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -107,16 +147,6 @@
 		"diyawaken":	"战斗",
 		"tag":	24493,
 		"script":	"炼狱阿兹雷尔",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	9216,
-		"script":	"穆斯菲尔斯隧道",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -155,8 +185,8 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	24465,
-		"script":	"大地的考验",
+		"tag":	25369,
+		"script":	"黄昏教堂",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -165,8 +195,118 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	25369,
-		"script":	"黄昏教堂",
+		"tag":	21696,
+		"script":	"艾乌加蒙剧场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	32309,
+		"script":	"深渊之镜",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	1773,
+		"script":	"通天塔(定义)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"战斗",
+		"tag":	12153,
+		"script":	"普洛菲司台",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"战斗",
+		"tag":	14396,
+		"script":	"霍普占卜室",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	19144,
+		"script":	"卡伊洛斯的时间",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	21081,
+		"script":	"哈姆克公爵府",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"战斗",
+		"tag":	17422,
+		"script":	"圣字教堂",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	30113,
+		"script":	"盟约圣地",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	3671,
+		"script":	"希列",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	9216,
+		"script":	"穆斯菲尔斯隧道",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	24465,
+		"script":	"大地的考验",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -211,66 +351,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	21696,
-		"script":	"艾乌加蒙剧场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	32309,
-		"script":	"深渊之镜",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	6335,
-		"script":	"索拉城斗兽场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	1773,
-		"script":	"通天塔(定义)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"战斗",
-		"tag":	17422,
-		"script":	"圣字教堂",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	899,
-		"script":	"冰狱",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -297,35 +377,5 @@
 		"diyawaken":	"",
 		"tag":	15725,
 		"script":	"自动强化暴击伤害觉醒石+3",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5觉醒",
-		"tag":	4028,
-		"script":	"心脏的记忆",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	15357,
-		"script":	"克洛诺斯的时间",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5觉醒",
-		"tag":	32142,
-		"script":	"龙猫妹妹庭院",
 		"task":	0
 	}]

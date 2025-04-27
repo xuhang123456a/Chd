@@ -111,12 +111,12 @@ def read_files_in_parallel(file1_path, file2_path):
     
     return paired_lines
 
-副本名字获取路径 = r"E:\Game\Chd\小草\心月狐\data\Config\3476670590\C9B5BAA3CED2C3C7D7DF7E\autoscrpt.save"
+副本名字获取路径 = r"E:\Game\Chd\小草\心月狐\data\Config\3476670590\D7FCD7FCD1A9C8DEC0B6DDAEA4B4\autoscrpt.save"
 副本名字路径 = r"E:\Game\Chd\小草\DIY指令\py\副本名字.lua"
 副本名字 = extract_bracketed_content(副本名字获取路径)
 write_to_file(副本名字, 副本名字路径)
 
-副本编码名字获取路径 = r'E:\Game\Chd\小草\心月狐\data\Config\3476670590\C9B5BAA3CED2C3C7D7DF7E'
+副本编码名字获取路径 = r'E:\Game\Chd\小草\心月狐\data\Config\3476670590\D7FCD7FCD1A9C8DEC0B6DDAEA4B4'
 副本编码名字路径 = r"E:\Game\Chd\小草\DIY指令\py\副本编码名字.lua"
 副本编码名字 =  list_lua_files_in_directory(副本编码名字获取路径)
 write_to_file(副本编码名字, 副本编码名字路径)

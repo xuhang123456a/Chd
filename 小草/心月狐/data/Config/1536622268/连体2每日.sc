@@ -1,26 +1,6 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	29394,
-		"script":	"兑换羁绊之石",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	29659,
-		"script":	"领取家族工资",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -145,16 +125,6 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	6664,
-		"script":	"消失的星之歌",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
 		"tag":	18236,
 		"script":	"精灵树桩",
 		"task":	0
@@ -167,16 +137,6 @@
 		"diyawaken":	"",
 		"tag":	14672,
 		"script":	"自动强化拉尔沙之戒",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	3903,
-		"script":	"生命之恩泰莱凯",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -277,16 +237,6 @@
 		"diyawaken":	"",
 		"tag":	23282,
 		"script":	"索拉城斗兽场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"强力召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	12496,
-		"script":	"炼狱阿兹雷尔",
 		"task":	0
 	}, {
 		"setcount":	0,

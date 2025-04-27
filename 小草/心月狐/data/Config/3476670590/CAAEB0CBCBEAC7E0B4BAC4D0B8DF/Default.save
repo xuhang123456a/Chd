@@ -86,11 +86,11 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	true,
+	"main_mob_herbs":	false,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	true,
+	"main_mob_mineral":	false,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
@@ -5537,7 +5537,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"¹á´©Á¦ ¾õÐÑÊ¯+1",
 			"type1":	true,
@@ -5549,7 +5549,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"¹á´©Á¦ ¾õÐÑÊ¯+2",
 			"type1":	true,
@@ -5585,7 +5585,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"¾­ÑéÖµ ¾õÐÑÊ¯+2",
 			"type1":	true,
@@ -5609,7 +5609,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"±©»÷ÉËº¦ ¾õÐÑÊ¯+1",
 			"type1":	true,
@@ -5621,7 +5621,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"±©»÷ÉËº¦ ¾õÐÑÊ¯+2",
 			"type1":	true,

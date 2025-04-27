@@ -51,16 +51,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	29659,
-		"script":	"领取家族工资",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"存仓",
 		"diyproperty":	"",
 		"diyother":	"",
