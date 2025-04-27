@@ -73,7 +73,8 @@
 		"diyawaken":	"",
 		"tag":	13031,
 		"script":	"火山珊瑚",
-		"task":	0
+		"task":	0,
+		"scriptend":	27
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -273,6 +274,16 @@
 		"diyawaken":	"",
 		"tag":	10134,
 		"script":	"自动强化暴击伤害觉醒石+3",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	6640,
+		"script":	"通天塔(定义)",
 		"task":	0
 	}, {
 		"setcount":	0,

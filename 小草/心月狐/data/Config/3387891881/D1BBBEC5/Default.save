@@ -833,6 +833,20 @@
 			"item":	""
 		}],
 	"auto_card":	[{
+			"id":	428,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	427,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
 			"id":	425,
 			"num1":	0,
 			"num2":	0,

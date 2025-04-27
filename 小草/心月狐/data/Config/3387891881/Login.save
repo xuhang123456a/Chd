@@ -89,6 +89,18 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	1015519453,
+		"name":	"心缩",
+		"autoscript":	"连体只打神殿",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1015512546,
+		"name":	"逾白⺌",
+		"autoscript":	"连体只打神殿",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	1015501921,
 		"name":	"烟雨情相思",
 		"autoscript":	"连体只打神殿",
@@ -101,20 +113,14 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	1015512546,
-		"name":	"逾白⺌",
-		"autoscript":	"连体只打神殿",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	1015519453,
-		"name":	"心缩",
-		"autoscript":	"连体只打神殿",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
 		"index":	1015522171,
 		"name":	"荼茶",
+		"autoscript":	"连体只打神殿",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	607273109,
+		"name":	"鸦九",
 		"autoscript":	"连体只打神殿",
 		"item":	"存仓",
 		"item_other":	""
