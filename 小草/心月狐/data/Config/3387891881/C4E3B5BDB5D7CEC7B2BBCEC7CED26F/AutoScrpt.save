@@ -7,7 +7,8 @@
 		"diyawaken":	"装备觉醒",
 		"tag":	16126,
 		"script":	"自动打世界BOSS(21点)",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -70,7 +71,8 @@
 		"diyawaken":	"装备觉醒",
 		"tag":	2718,
 		"script":	"探险家神殿(史诗)",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -80,7 +82,8 @@
 		"diyawaken":	"",
 		"tag":	16414,
 		"script":	"探险家神殿(英雄)",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -90,7 +93,8 @@
 		"diyawaken":	"",
 		"tag":	29169,
 		"script":	"探险家神殿(高级)",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -100,7 +104,8 @@
 		"diyawaken":	"",
 		"tag":	901,
 		"script":	"探险家神殿(普通)",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -110,7 +115,8 @@
 		"diyawaken":	"装备觉醒",
 		"tag":	4967,
 		"script":	"无尽繁星大厅",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -120,7 +126,8 @@
 		"diyawaken":	"",
 		"tag":	18468,
 		"script":	"火山珊瑚",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

@@ -1,5 +1,25 @@
 [{
 		"setcount":	0,
+		"loadtime":	-2112749568,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	3041,
+		"script":	"进队长组",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2064252928,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23777,
+		"script":	"退出组队",
+		"task":	0
+	}, {
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
