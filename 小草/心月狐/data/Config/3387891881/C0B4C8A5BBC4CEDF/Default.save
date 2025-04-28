@@ -54,7 +54,7 @@
 	"item_pick_filter_10":	true,
 	"item_pick_filter_12":	true,
 	"item_pick_filter_13":	true,
-	"item_pick_filter_14":	false,
+	"item_pick_filter_14":	true,
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
@@ -685,9 +685,9 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"5183",
+			"x":	"1124",
 			"y":	"1375",
-			"pos1":	"右跑",
+			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
@@ -696,52 +696,40 @@
 				"":	""
 			}
 		}, {
-			"type":	"左跳",
-			"x":	"2976",
+			"type":	"模拟↑键",
+			"x":	"65",
 			"y":	"1375",
-			"pos1":	"左跑",
+			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"跳跃控制":	"100"
+				"":	""
 			}
 		}, {
-			"type":	"上跳",
-			"x":	"32",
+			"type":	"转身&执行额外",
+			"x":	"3691",
 			"y":	"1375",
-			"pos1":	"左跑",
-			"pos2":	"右跑",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"跳跃控制":	"400"
+				"":	""
 			}
 		}, {
-			"type":	"上跳",
-			"x":	"392",
-			"y":	"991",
-			"pos1":	"右跑",
-			"pos2":	"右跑",
+			"type":	"模拟↑键",
+			"x":	"2786",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"跳跃控制":	"400"
-			}
-		}, {
-			"type":	"右跳",
-			"x":	"959",
-			"y":	"479",
-			"pos1":	"右跑",
-			"pos2":	"右跑",
-			"judge":	{
 				"":	""
-			},
-			"execute":	{
-				"跳跃控制":	"100"
 			}
 		}],
 	"script_trigger_data":	[],
@@ -4393,6 +4381,30 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
+			"name":	"次元守望者·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"剑圣·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
 			"name":	"巨星·超越符文",
 			"type1":	true,
 			"type2":	false,
@@ -4993,18 +5005,6 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"圣字 物理命中红色宝石",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"圣字 速度红色宝石",
 			"type1":	true,
 			"type2":	false,
@@ -5017,7 +5017,7 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"圣字 物理最小伤害红色宝石",
+			"name":	"圣字 物理命中红色宝石",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -5030,6 +5030,18 @@
 			"sw":	true,
 			"vague":	false,
 			"name":	"圣字 物理贯穿力红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 物理最小伤害红色宝石",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -5065,7 +5077,7 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"圣字 魔法最大伤害蓝色宝石",
+			"name":	"圣字 精锐怪物伤害蓝色宝石",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -5089,7 +5101,7 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"圣字 精锐怪物伤害蓝色宝石",
+			"name":	"圣字 魔法最小伤害蓝色宝石",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -5101,7 +5113,7 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"圣字 魔法最小伤害蓝色宝石",
+			"name":	"圣字 魔法最大伤害蓝色宝石",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -5146,6 +5158,42 @@
 			"filter3":	false,
 			"filter4":	false,
 			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"星海 减伤彩色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"星海 魔法最大伤害彩色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"星海 物理最大伤害彩色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	true
 		}, {
 			"sw":	true,
 			"vague":	true,
@@ -5233,30 +5281,6 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"暴击率 觉醒石+1",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"暴击率 觉醒石+2",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"经验值 觉醒石",
 			"type1":	true,
 			"type2":	false,
@@ -5329,18 +5353,6 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"利卡里亚胸针",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"回声披风",
 			"type1":	true,
 			"type2":	false,
@@ -5354,6 +5366,102 @@
 			"sw":	true,
 			"vague":	false,
 			"name":	"回声星朵",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"回声丝袜",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"回声耳环",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"回声眼镜",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"黄昏丝袜",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"黄昏脸饰",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"黄昏眼镜",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"利卡里亚胸针",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	false,
+			"vague":	false,
+			"name":	"玛俄图的诅咒之戒",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -5413,42 +5521,6 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"黄昏丝袜",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"黄昏脸饰",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"黄昏眼镜",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"智者·超越钥匙",
 			"type1":	true,
 			"type2":	false,
@@ -5494,18 +5566,6 @@
 			"filter3":	false,
 			"filter4":	true,
 			"filter5":	true
-		}, {
-			"sw":	false,
-			"vague":	false,
-			"name":	"玛俄图的诅咒之戒",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
 		}, {
 			"sw":	true,
 			"vague":	false,
@@ -5581,42 +5641,6 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"次元守望者·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"剑圣·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"群星共鸣印章",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	true,
-			"filter4":	true,
-			"filter5":	true
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"苏尔特超越符文",
 			"type1":	true,
 			"type2":	false,
@@ -5638,6 +5662,18 @@
 			"filter3":	false,
 			"filter4":	false,
 			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"群星共鸣印章",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	true,
+			"filter5":	true
 		}],
 	"chaosbranch":	[4001, 3001, 2001, 1001, 4003, 3003, 2003, 1003, 4002, 3002, 2002, 1002, 4016, 4012, 3012, 2012, 1012, 4011, 3011, 2011, 1011, 4015, 4004, 3004, 2004, 1004, 4005, 3005, 2005, 1005, 4017, 3017, 2017, 1017, 4018, 3018, 2018, 1018, 4019, 3019, 2019, 1019, 4020, 3020, 2020, 1020, 4006, 3006, 2006, 1006, 4007, 3007, 2007, 1007, 4008, 3008, 2008, 1008, 4009, 3009, 2009, 1009, 4014, 3014, 2014, 1014, 12026, 13026, 22026, 23026, 32026, 33026, 42026, 43026, 52026, 53026, 4010, 3010, 2010, 1010, 13025, 23025, 33025, 43025, 53025, 11025, 21025, 31025, 41025, 51025, 4023, 3023, 2023, 1023, 4024, 3024, 2024, 1024, 4013, 3013, 2013, 1013, 4022, 3022, 2022, 1022, 4021, 3021, 2021, 1021, 1026, 4028, 3028, 2028, 1028, 4027, 2025, 62026, 63026, 61025, 63025, 71025, 73025, 4034, 3034, 2034, 1034, 4030, 3030, 2030, 1030, 4029, 3029, 2029, 1029, 4033, 3033, 2033, 1033, 4032, 3032, 2032, 1032, 4031, 3031, 2031, 1031, 72026, 73026],
 	"autosystemscript":	[1, 2, 5, 6, 7, 8, 10, 14, 16],

@@ -1,6 +1,16 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"装备觉醒",
+		"tag":	16126,
+		"script":	"自动打世界BOSS(21点)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -27,16 +37,6 @@
 		"diyawaken":	"",
 		"tag":	22928,
 		"script":	"【周挑战】领取苏生",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"装备觉醒",
-		"tag":	16126,
-		"script":	"自动打世界BOSS(21点)",
 		"task":	0
 	}, {
 		"setcount":	0,

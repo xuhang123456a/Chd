@@ -52,6 +52,9 @@
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
+	"item_pick_filter_12":	true,
+	"item_pick_filter_13":	true,
+	"item_pick_filter_14":	false,
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
@@ -210,7 +213,7 @@
 	"main_mob_other_name":	"",
 	"main_mob_trap_name":	"",
 	"path_down_hotkey":	"Down",
-	"store_items":	"ĞŞÏÉàÛàÛµÄÁé»êËéÆ¬;´ó´óĞÜµÄÁé»êËéÆ¬;ÎèÉÈÈÌÕßµÄÁé»êËéÆ¬;Ä¢¹½¼¦µÄÁé»êËéÆ¬;À³·Æ¿¨ÉËº¦Æ¤·ô×°°çÈ¯(ÓÀ¾Ã);",
+	"store_items":	"",
 	"team_accept_cmd":	"",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
@@ -288,7 +291,7 @@
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
 	"btn_color_8":	16384000,
-	"server":	111,
+	"server":	112,
 	"item_filter_1":	[],
 	"item_filter_2":	[190160201, 190160301, 190160401, 190160501, 18090022, 18080020, 1941015],
 	"item_filter_3":	[190160501, 190160401, 190160301, 190160201, 18090022, 18080020, 1941015],
@@ -863,6 +866,20 @@
 			"item":	""
 		}],
 	"auto_card":	[{
+			"id":	428,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	427,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
 			"id":	425,
 			"num1":	0,
 			"num2":	0,

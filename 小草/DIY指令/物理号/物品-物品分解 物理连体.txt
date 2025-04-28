@@ -38,6 +38,30 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
+			"name":	"次元守望者·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"剑圣·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
 			"name":	"巨星·超越符文",
 			"type1":	true,
 			"type2":	false,
@@ -638,18 +662,6 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"圣字 物理命中红色宝石",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"圣字 速度红色宝石",
 			"type1":	true,
 			"type2":	false,
@@ -662,7 +674,7 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"圣字 物理最小伤害红色宝石",
+			"name":	"圣字 物理命中红色宝石",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -675,6 +687,18 @@
 			"sw":	true,
 			"vague":	false,
 			"name":	"圣字 物理贯穿力红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 物理最小伤害红色宝石",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -710,7 +734,7 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"圣字 魔法最大伤害蓝色宝石",
+			"name":	"圣字 精锐怪物伤害蓝色宝石",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -734,7 +758,7 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"圣字 精锐怪物伤害蓝色宝石",
+			"name":	"圣字 魔法最小伤害蓝色宝石",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -746,7 +770,7 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"圣字 魔法最小伤害蓝色宝石",
+			"name":	"圣字 魔法最大伤害蓝色宝石",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -791,6 +815,42 @@
 			"filter3":	false,
 			"filter4":	false,
 			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"星海 减伤彩色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"星海 魔法最大伤害彩色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"星海 物理最大伤害彩色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	true
 		}, {
 			"sw":	true,
 			"vague":	true,
@@ -878,30 +938,6 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"暴击率 觉醒石+1",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"暴击率 觉醒石+2",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"经验值 觉醒石",
 			"type1":	true,
 			"type2":	false,
@@ -974,18 +1010,6 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"利卡里亚胸针",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"回声披风",
 			"type1":	true,
 			"type2":	false,
@@ -999,6 +1023,102 @@
 			"sw":	true,
 			"vague":	false,
 			"name":	"回声星朵",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"回声丝袜",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"回声耳环",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"回声眼镜",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"黄昏丝袜",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"黄昏脸饰",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"黄昏眼镜",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"利卡里亚胸针",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	false,
+			"vague":	false,
+			"name":	"玛俄图的诅咒之戒",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -1058,42 +1178,6 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"黄昏丝袜",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"黄昏脸饰",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"黄昏眼镜",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"智者·超越钥匙",
 			"type1":	true,
 			"type2":	false,
@@ -1139,18 +1223,6 @@
 			"filter3":	false,
 			"filter4":	true,
 			"filter5":	true
-		}, {
-			"sw":	false,
-			"vague":	false,
-			"name":	"玛俄图的诅咒之戒",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
 		}, {
 			"sw":	true,
 			"vague":	false,
@@ -1226,42 +1298,6 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"次元守望者·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"剑圣·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"群星共鸣印章",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	true,
-			"filter4":	true,
-			"filter5":	true
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"苏尔特超越符文",
 			"type1":	true,
 			"type2":	false,
@@ -1283,5 +1319,17 @@
 			"filter3":	false,
 			"filter4":	false,
 			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"群星共鸣印章",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	true,
+			"filter5":	true
 		}]
 }

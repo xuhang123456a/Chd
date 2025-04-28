@@ -4,6 +4,16 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	12100,
+		"script":	"探险家神殿(史诗)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
 		"diyawaken":	"",
 		"tag":	17533,
 		"script":	"探险家神殿(英雄)",
@@ -34,7 +44,7 @@
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验本召唤兽",
-		"diyawaken":	"经验觉醒",
+		"diyawaken":	"5经验石",
 		"tag":	29359,
 		"script":	"珊瑚之歌",
 		"task":	0
@@ -44,7 +54,7 @@
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验本召唤兽",
-		"diyawaken":	"经验觉醒",
+		"diyawaken":	"5经验石",
 		"tag":	28704,
 		"script":	"泡泡战舰",
 		"task":	0
@@ -104,7 +114,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	16224,
 		"script":	"丽西泰亚之门",
 		"task":	0
@@ -114,7 +124,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	31073,
 		"script":	"蘑菇树沼泽",
 		"task":	0
@@ -124,7 +134,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	30918,
 		"script":	"诺尼尔之泪",
 		"task":	0
@@ -134,7 +144,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	25592,
 		"script":	"摩克沙",
 		"task":	0
@@ -144,7 +154,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	19993,
 		"script":	"薇娅斯梦境",
 		"task":	0
@@ -154,7 +164,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	9216,
 		"script":	"穆斯菲尔斯隧道",
 		"task":	0
@@ -164,7 +174,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	17062,
 		"script":	"尼夫海姆站",
 		"task":	0
@@ -174,7 +184,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	154,
 		"script":	"失魂寺",
 		"task":	0
@@ -184,7 +194,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	11520,
 		"script":	"阿特拉斯庭院",
 		"task":	0
@@ -193,8 +203,18 @@
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
+		"diyother":	"强力召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	26601,
+		"script":	"埃吉尔遗迹",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	24465,
 		"script":	"大地的考验",
 		"task":	0
@@ -204,7 +224,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	25369,
 		"script":	"黄昏教堂",
 		"task":	0
@@ -214,19 +234,9 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	6664,
 		"script":	"消失的星之歌",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"战斗",
-		"tag":	18236,
-		"script":	"精灵树桩",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -243,10 +253,20 @@
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"战斗",
-		"tag":	3903,
-		"script":	"生命之恩泰莱凯",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	25569,
+		"script":	"艾乌加蒙剧场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5觉醒",
+		"tag":	7192,
+		"script":	"深渊之镜",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -254,7 +274,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	12860,
 		"script":	"普洛菲司台",
 		"task":	0
@@ -264,7 +284,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	42,
 		"script":	"霍普占卜室",
 		"task":	0
@@ -274,7 +294,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	22227,
 		"script":	"卡伊洛斯的时间",
 		"task":	0
@@ -284,7 +304,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	4223,
 		"script":	"炼狱阿兹雷尔",
 		"task":	0
@@ -294,7 +314,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	20806,
 		"script":	"巴尼塔斯",
 		"task":	0
@@ -304,7 +324,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	18468,
 		"script":	"哈姆克公爵府",
 		"task":	0
@@ -314,7 +334,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	17422,
 		"script":	"圣字教堂",
 		"task":	0
@@ -324,7 +344,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	12383,
 		"script":	"阿科洛之棺",
 		"task":	0
@@ -334,7 +354,17 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
+		"tag":	4110,
+		"script":	"群星宫殿",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"强力召唤兽",
+		"diyawaken":	"5爆伤石",
 		"tag":	32392,
 		"script":	"时空之泉",
 		"task":	0
@@ -344,9 +374,29 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	5706,
 		"script":	"穿梭之都",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	19102,
+		"script":	"未知森林",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	3620,
+		"script":	"卡夫卡剧场",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -364,7 +414,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	20196,
 		"script":	"回声泉",
 		"task":	0
@@ -374,7 +424,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	899,
 		"script":	"冰狱",
 		"task":	0
@@ -384,7 +434,7 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	1410,
 		"script":	"盟约圣地",
 		"task":	0
@@ -394,57 +444,57 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	8289,
 		"script":	"希列",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5爆伤石",
 		"tag":	11887,
 		"script":	"玫瑰庭院",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5爆伤石",
 		"tag":	24237,
 		"script":	"幻之摇篮",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5爆伤石",
 		"tag":	13460,
 		"script":	"忘却湖畔",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5爆伤石",
 		"tag":	26522,
 		"script":	"虚无之星",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
+		"diyawaken":	"5爆伤石",
 		"tag":	7430,
 		"script":	"山海归墟",
 		"task":	0
@@ -454,9 +504,19 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
+		"diyawaken":	"5爆伤石",
 		"tag":	25949,
 		"script":	"梦境奥涅伊鲁",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	7674,
+		"script":	"魔力防空洞",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -465,8 +525,28 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	7674,
-		"script":	"魔力防空洞",
+		"tag":	15209,
+		"script":	"自动强化经验值觉醒石+6",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	6335,
+		"script":	"自动强化贯穿力觉醒石+6",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	26501,
+		"script":	"自动强化暴击伤害觉醒石+6",
 		"task":	0
 	}, {
 		"setcount":	0,

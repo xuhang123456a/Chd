@@ -28,4 +28,14 @@
 		"tag":	32636,
 		"script":	"[梦境]梦三（4法师）",
 		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	7199,
+		"script":	"[梦境]梦二（1法3战）",
+		"task":	0
 	}]
