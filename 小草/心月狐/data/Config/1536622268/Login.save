@@ -41,6 +41,12 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	14455515,
+		"name":	"终不似o",
+		"autoscript":	"连体(10)打黑月",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	7379625,
 		"name":	"晚来天欲雪o",
 		"autoscript":	"连体123每日必打本",
