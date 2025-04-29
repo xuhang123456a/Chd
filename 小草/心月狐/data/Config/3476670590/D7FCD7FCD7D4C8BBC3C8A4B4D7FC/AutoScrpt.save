@@ -445,7 +445,8 @@
 		"diyawaken":	"",
 		"tag":	16184,
 		"script":	"竞技场练习赛（全部任务）",
-		"task":	0
+		"task":	0,
+		"scriptend":	29
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -455,7 +456,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	20196,
 		"script":	"回声泉",
-		"task":	0
+		"task":	0,
+		"scriptend":	29
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -465,7 +467,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	899,
 		"script":	"冰狱",
-		"task":	0
+		"task":	0,
+		"scriptend":	29
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -475,7 +478,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	1410,
 		"script":	"盟约圣地",
-		"task":	0
+		"task":	0,
+		"scriptend":	29
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -603,7 +607,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17250,
+		"tag":	9783,
 		"script":	"索拉城斗兽场",
 		"task":	100002,
 		"scriptend":	29
@@ -614,7 +618,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17299,
+		"tag":	9836,
 		"script":	"超能者纪念馆",
 		"task":	100138,
 		"scriptend":	29

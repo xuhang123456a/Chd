@@ -1,0 +1,11 @@
+{
+	"folders": [],
+	"settings": {
+		"workbench.editor.showTabs": true,
+		"workbench.editor.scrollToSwitchTabs": false,
+		"workbench.editor.wrapTabs": true,
+		"workbench.editor.highlightModifiedTabs": false,
+		"workbench.editor.openSideBySideDirection": "down",
+		"workbench.editor.openPositioning": "last"
+	}
+}

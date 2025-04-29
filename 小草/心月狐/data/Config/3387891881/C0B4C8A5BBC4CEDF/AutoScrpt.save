@@ -139,7 +139,8 @@
 		"diyawaken":	"5±¨…À Ø",
 		"tag":	25369,
 		"script":	"ª∆ªËΩÃÃ√",
-		"task":	0
+		"task":	0,
+		"scriptend":	29
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
