@@ -45,10 +45,8 @@ def delete_file_from_subfolders(file_name, target_folder):
 
 source_file = r'E:\Game\Chd\小草\心月狐\data\Config\A96DC7EFCBAED2C1C8CBA967\a所有本.sc'
 target_folder = r'E:\Game\Chd\小草\心月狐\data\Config\1536622268'
-# 复制单个执行脚本到所有角色
-# copy_file_to_subfolders(source_file, target_folder)
 
-# 删除所有角色的单个执行脚本
+# 删除所有角色的执行脚本
 files_name = [
     '98f1b7e516ec6a9a.lua',
     'ad8b2233fe127818.lua',
@@ -77,14 +75,24 @@ files_name = [
 ]
 # for file_name in files_name:
 #     delete_file_from_subfolders(file_name, target_folder)
+
+# 复制执行脚本到所有角色
+files_name = [
+    #补给脚本设置 begin
+    '9d9b1392b8dbef0b.lua',
+    '44cbeb42cd4b1694.lua',
+    '44d490f43fe985aa.lua',
+    '45c1f04cedd8f18e.lua',
+    '846e21921f47d44a.lua',
+    'a5a29df1c82c5b20.lua',
+    'ee919f8838a9262c.lua',
+    #补给脚本设置 end
+]
+source_dir = 'E:\\Game\\Chd\\小草\\心月狐\\data\\Config\\1536622268\\CDEDC0B4CCECD3FBD1A96F\\'
+for file_name in files_name:
+    source_file = os.path.join(source_dir, file_name)
+    copy_file_to_subfolders(source_file, target_folder)
 print("执行完毕")
-
-# 复制单个执行脚本到所有角色
-# copy_file_to_subfolders('E:\Game\Chd\小草\心月狐\data\Config\D7FAD7FAD7FAD7FAD7FAD0A1BDE3BDE3\连体打泡泡.sc', 'E:\Game\Chd\小草\心月狐\data\Config')
-# print("执行完毕")
-
-# 复制某个脚本的配置（是否开门就走。。。）到所有角色
-# copy_file_to_subfolders('E:\Game\Chd\小草\心月狐\data\Config\A1E6A5D9A8FDA8FDC2E3D7B0\cda10ab13c9eff4c.lua', 'E:\Game\Chd\小草\心月狐\data\Config')
 
 # 秋水伊人搭配_装备搭配 = "E:\Game\Chd\小草\SNXC\data\Config\A96DC7EFCBAED2C1C8CBA967\diy.suit"
 # 裸装 = "E:\Game\Chd\小草\SNXC\data\Config\A1E6A5D9A8FDA8FDC2E3D7B0"

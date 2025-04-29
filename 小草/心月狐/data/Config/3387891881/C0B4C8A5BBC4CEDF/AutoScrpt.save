@@ -128,7 +128,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	11520,
 		"script":	"阿特拉斯庭院",
-		"task":	0
+		"task":	0,
+		"scriptend":	29
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
