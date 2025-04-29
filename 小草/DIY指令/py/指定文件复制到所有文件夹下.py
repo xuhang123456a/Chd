@@ -89,6 +89,7 @@ files_name = [
     #补给脚本设置 end
 ]
 source_dir = 'E:\\Game\\Chd\\小草\\心月狐\\data\\Config\\1536622268\\CDEDC0B4CCECD3FBD1A96F\\'
+target_folder = r'E:\Game\Chd\小草\心月狐\data\Config\1536622268'
 for file_name in files_name:
     source_file = os.path.join(source_dir, file_name)
     copy_file_to_subfolders(source_file, target_folder)
