@@ -94,7 +94,8 @@
 		"diyawaken":	"5觉醒",
 		"tag":	42,
 		"script":	"深渊之镜",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -104,7 +105,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	26501,
 		"script":	"圣字教堂",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -114,7 +116,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	11479,
 		"script":	"冰狱",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -124,7 +127,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	26963,
 		"script":	"哈姆克公爵府",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -134,7 +138,8 @@
 		"diyawaken":	"",
 		"tag":	24672,
 		"script":	"混乱世界",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

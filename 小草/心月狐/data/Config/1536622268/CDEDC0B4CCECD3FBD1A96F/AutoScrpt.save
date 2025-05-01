@@ -138,7 +138,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	21696,
 		"script":	"艾乌加蒙剧场",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -148,7 +149,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	32309,
 		"script":	"深渊之镜",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

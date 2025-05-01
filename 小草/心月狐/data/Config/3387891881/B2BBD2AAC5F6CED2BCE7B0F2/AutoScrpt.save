@@ -94,7 +94,8 @@
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	19955,
 		"script":	"Ê§»êËÂ",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
