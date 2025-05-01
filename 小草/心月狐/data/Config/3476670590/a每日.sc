@@ -1,6 +1,26 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	10035,
+		"script":	"【月活动每日】每日任务",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	12788,
+		"script":	"【月活动签到】高级签到任务",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -61,12 +81,12 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"掉落套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
-		"tag":	711,
-		"script":	"开启自动刷超能",
+		"diyawaken":	"",
+		"tag":	19170,
+		"script":	"水晶洞穴图鉴",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -75,8 +95,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19170,
-		"script":	"水晶洞穴图鉴",
+		"tag":	21177,
+		"script":	"通天塔(定义)",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -107,6 +127,26 @@
 		"diyawaken":	"",
 		"tag":	27828,
 		"script":	"索拉城斗兽场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	18298,
+		"script":	"克洛诺斯的时间",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	24421,
+		"script":	"心脏的记忆",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -347,16 +387,6 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	12383,
 		"script":	"阿科洛之棺",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"强力召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	4110,
-		"script":	"群星宫殿",
 		"task":	0
 	}, {
 		"setcount":	0,

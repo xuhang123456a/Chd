@@ -1,33 +1,14 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	27180,
-		"script":	"【彩虹向导】每日任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	29659,
-		"script":	"领取家族工资",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	10502,
-		"script":	"【存】材料",
-		"task":	0
+		"diyother":	"强力召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	1130,
+		"script":	"群星宫殿",
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

@@ -1,6 +1,6 @@
 [{
 		"setcount":	0,
-		"loadtime":	-2112749568,
+		"loadtime":	-2065235968,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -397,5 +397,15 @@
 		"diyawaken":	"",
 		"tag":	15725,
 		"script":	"自动强化暴击伤害觉醒石+3",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"存仓",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	20394,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]

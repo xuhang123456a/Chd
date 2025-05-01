@@ -496,21 +496,6 @@
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	1104013,
-			"name":	"小李飞刀",
-			"dmin":	0,
-			"dmax":	150,
-			"priority":	true,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[{
-					"在地图":	"回音雪地_1602;"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
 			"id":	1109003,
 			"name":	"三重杀",
 			"dmin":	0,

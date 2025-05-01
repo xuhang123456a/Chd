@@ -97,7 +97,7 @@
 	"main_mob_noattck_show":	false,
 	"main_mob_other_sw":	false,
 	"main_mob_trap_sw":	false,
-	"main_skill_distance_sw":	true,
+	"main_skill_distance_sw":	false,
 	"memory_debris_time":	true,
 	"mouse_rest":	true,
 	"mouse_time":	false,
@@ -115,7 +115,7 @@
 	"other_passprint":	false,
 	"other_top_window_switch":	false,
 	"path_auto_script_door_sw":	false,
-	"path_auto_script_showval_sw":	false,
+	"path_auto_script_showval_sw":	true,
 	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
 	"path_hide_effect_sw":	true,
@@ -184,8 +184,8 @@
 	"skill_shake_sw":	true,
 	"skill_silent_sw":	true,
 	"summon_automatic_zhs":	true,
-	"team_accept_cmd_sw":	false,
-	"team_accept_sw":	false,
+	"team_accept_cmd_sw":	true,
+	"team_accept_sw":	true,
 	"team_follow_sw":	false,
 	"team_monitor_sw":	false,
 	"team_monitor_throw_sw":	false,
@@ -214,7 +214,7 @@
 	"main_mob_trap_name":	"",
 	"path_down_hotkey":	"Down",
 	"store_items":	"",
-	"team_accept_cmd":	"",
+	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
 	"auto_load_wait_val":	5,
@@ -291,7 +291,7 @@
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
 	"btn_color_8":	16384000,
-	"server":	111,
+	"server":	107,
 	"item_filter_1":	[],
 	"item_filter_2":	[300111801, 300107401, 300108201, 300111401, 300101801, 300103401, 300124401, 300118801, 300125401, 300107801, 300107001, 300121901, 300122101],
 	"item_filter_3":	[300111801, 300107401, 300108201, 300111401, 300101801, 300103401, 300124401, 300118801, 300125401, 300107801, 300107001, 300121901, 300122101],
@@ -486,6 +486,136 @@
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
+			"id":	3605507,
+			"name":	"敌之领域",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3605510,
+			"name":	"激之领域",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3605513,
+			"name":	"武之领域",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3605603,
+			"name":	"极之领域",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3605605,
+			"name":	"唤之领域",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3605611,
+			"name":	"等价交换",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1414055,
+			"name":	"影刺",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1416055,
+			"name":	"影剑",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1417055,
+			"name":	"影舞",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1411056,
+			"name":	"影刃",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
 			"id":	60,
 			"name":	"影剑术第1章",
 			"dmin":	0,
@@ -517,10 +647,10 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"1124",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"x":	"3127",
+			"y":	"1391",
+			"pos1":	"左跑",
+			"pos2":	"右跑",
 			"judge":	{
 				"":	""
 			},
@@ -528,10 +658,10 @@
 				"":	""
 			}
 		}, {
-			"type":	"模拟↑键",
-			"x":	"65",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
+			"type":	"转身&执行额外",
+			"x":	"3726",
+			"y":	"1391",
+			"pos1":	"右跑",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
@@ -541,27 +671,15 @@
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3691",
-			"y":	"1375",
+			"x":	"3447",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"2786",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
+				"彩虹副本传送":	"空中战场"
 			}
 		}],
 	"script_trigger_data":	[],
