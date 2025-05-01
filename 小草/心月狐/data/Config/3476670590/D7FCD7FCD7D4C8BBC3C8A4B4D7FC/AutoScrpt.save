@@ -128,7 +128,8 @@
 		"diyawaken":	"",
 		"tag":	27701,
 		"script":	"Éñ±Ê»­¾í",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -138,7 +139,8 @@
 		"diyawaken":	"",
 		"tag":	8557,
 		"script":	"¿¨·ò¿¨¾ç³¡",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -158,5 +160,6 @@
 		"diyawaken":	"",
 		"tag":	9859,
 		"script":	"Ö´ÐÐ×Ô¶¯ÇÐ»»½ÇÉ«",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}]

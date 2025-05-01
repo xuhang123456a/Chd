@@ -128,7 +128,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	32309,
 		"script":	"深渊之镜",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -138,7 +139,8 @@
 		"diyawaken":	"",
 		"tag":	23282,
 		"script":	"索拉城斗兽场",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -178,7 +180,8 @@
 		"diyawaken":	"",
 		"tag":	22281,
 		"script":	"【存】材料",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
