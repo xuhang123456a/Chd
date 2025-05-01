@@ -1,11 +1,21 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	13446,
-		"script":	"影子之书",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	6376,
+		"script":	"失魂寺",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	3725,
+		"script":	"深渊之镜",
 		"task":	0
 	}]

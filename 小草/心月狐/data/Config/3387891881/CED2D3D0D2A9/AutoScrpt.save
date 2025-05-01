@@ -40,7 +40,8 @@
 		"diyawaken":	"",
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -50,7 +51,8 @@
 		"diyawaken":	"",
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -60,7 +62,8 @@
 		"diyawaken":	"",
 		"tag":	22387,
 		"script":	"探险家神殿(普通)",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -70,7 +73,8 @@
 		"diyawaken":	"",
 		"tag":	13031,
 		"script":	"火山珊瑚",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -80,7 +84,8 @@
 		"diyawaken":	"",
 		"tag":	23282,
 		"script":	"索拉城斗兽场",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -90,7 +95,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	20144,
 		"script":	"薇娅斯梦境",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -100,7 +106,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	17921,
 		"script":	"穆斯菲尔斯隧道",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -110,7 +117,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	19955,
 		"script":	"失魂寺",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -120,7 +128,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	11520,
 		"script":	"阿特拉斯庭院",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -130,7 +139,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	25369,
 		"script":	"黄昏教堂",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -140,7 +150,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	21696,
 		"script":	"艾乌加蒙剧场",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -150,7 +161,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	32309,
 		"script":	"深渊之镜",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -160,7 +172,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	12496,
 		"script":	"炼狱阿兹雷尔",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -200,7 +213,8 @@
 		"diyawaken":	"",
 		"tag":	22281,
 		"script":	"【存】材料",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
