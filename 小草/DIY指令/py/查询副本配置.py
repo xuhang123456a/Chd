@@ -53,8 +53,6 @@ name_strings = [
     # ["不要碰我肩膀", "B2BBD2AAC5F6CED2BCE7B0F2"],
 
     # ["自然萌ご", "D7FCD7FCD7D4C8BBC3C8A4B4D7FC"],
-    # ["他不会等你了", "CBFBB2BBBBE1B5C8C4E3C1CB"],
-    # ["雾云川", "CEEDD4C6B4A8"],
 ]
 
 

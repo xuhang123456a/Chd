@@ -54,6 +54,26 @@ file_path = r'E:\Game\Chd\小草\DIY指令\吉他号\搭配-装备搭配 魔法�
 json_content,encoding = read_json_file(file_path)
 target_path = r'E:\Game\Chd\小草\心月狐\data\Config\3476670590'
 target_files_path = [
+    # ["﹎秋水伊人ゞ", "A96DC7EFCBAED2C1C8CBA967"],
+    # ["晚来天欲雪o", "CDEDC0B4CCECD3FBD1A96F"],
+    # ["小姐姐", "D7FAD7FAD7FAD7FAD7FAD0A1BDE3BDE3"],
+    # ["云青青兮欲雨", "D4C6C7E0C7E0D9E2D3FBD3EAFE5D"],
+    # ["℃ベ裸装", "A1E6A5D9A8FDA8FDC2E3D7B0"],
+    # ["能饮一杯无o", "C4DCD2FBD2BBB1ADCEDE6F"],
+    # ["→酷我音乐→", "A1FABFE1CED2D2F4C0D6A1FA"],
+    # ["酷狗音乐ā", "BFE1B9B7D2F4C0D6A8A1"],
+    # ["醉后不知天在水o", "D7EDBAF3B2BBD6AACCECD4DACBAE6F"],
+    # ["满船清梦压星河Q", "C2FAB4ACC7E5C3CED1B9D0C7BAD351"],
+    # ["水澹澹兮生烟", "CBAEE5A3E5A3D9E2C9FAD1CCFE5D"],
+    # ["终不似o", 'D6D5B2BBCBC66F'],
+    # ["少年游o", "C9D9C4EAD3CE6F"],
+    # ["最是人间留不住o", "D7EECAC7C8CBBCE4C1F4B2BBD7A16F"],
+
+    # ["你到底吻不吻我o", "C4E3B5BDB5D7CEC7B2BBCEC7CED26F"],
+    # ["来去荒芜", "C0B4C8A5BBC4CEDF"],
+    # ["我有药", "CED2D3D0D2A9"],
+    # ["不要碰我肩膀", "B2BBD2AAC5F6CED2BCE7B0F2"],
+
     ["自然萌ご", "D7FCD7FCD7D4C8BBC3C8A4B4D7FC"],
     ["傻海我们走~", "C9B5BAA3CED2C3C7D7DF7E"],
     ["十八岁青春男高", "CAAEB0CBCBEAC7E0B4BAC4D0B8DF"],
