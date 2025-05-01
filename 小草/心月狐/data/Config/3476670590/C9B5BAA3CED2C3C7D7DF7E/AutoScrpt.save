@@ -8,7 +8,7 @@
 		"tag":	11218,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -29,7 +29,7 @@
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -40,7 +40,7 @@
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -51,7 +51,7 @@
 		"tag":	22387,
 		"script":	"探险家神殿(普通)",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -69,7 +69,97 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	22148,
-		"script":	"巨人的黑暗痕迹(2)",
-		"task":	100082
+		"tag":	23930,
+		"script":	"索拉城斗兽场",
+		"task":	100004
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	11573,
+		"script":	"影子之书",
+		"task":	100026
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	14062,
+		"script":	"星之摇篮",
+		"task":	100042
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	10123,
+		"script":	"魔石实验室",
+		"task":	100052
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	18025,
+		"script":	"宝石丛林",
+		"task":	100057
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	11558,
+		"script":	"处理妨碍净化之人(5)",
+		"task":	100087
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	26131,
+		"script":	"不幸者的救赎(2)",
+		"task":	100089
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	14610,
+		"script":	"不幸者的救赎(4)",
+		"task":	100091
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	9844,
+		"script":	"净化污染精灵的住所(2)",
+		"task":	100101
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	31887,
+		"script":	"灵气清澈之山(2)",
+		"task":	100141
 	}]

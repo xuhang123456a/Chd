@@ -47,14 +47,14 @@ name_strings = [
     ["少年游o", "C9D9C4EAD3CE6F"],
     ["最是人间留不住o", "D7EECAC7C8CBBCE4C1F4B2BBD7A16F"],
 
-    ["你到底吻不吻我o", "C4E3B5BDB5D7CEC7B2BBCEC7CED26F"],
-    ["来去荒芜", "C0B4C8A5BBC4CEDF"],
-    ["我有药", "CED2D3D0D2A9"],
-    ["不要碰我肩膀", "B2BBD2AAC5F6CED2BCE7B0F2"],
+    # ["你到底吻不吻我o", "C4E3B5BDB5D7CEC7B2BBCEC7CED26F"],
+    # ["来去荒芜", "C0B4C8A5BBC4CEDF"],
+    # ["我有药", "CED2D3D0D2A9"],
+    # ["不要碰我肩膀", "B2BBD2AAC5F6CED2BCE7B0F2"],
 
-    ["自然萌ご", "D7FCD7FCD7D4C8BBC3C8A4B4D7FC"],
-    ["他不会等你了", "CBFBB2BBBBE1B5C8C4E3C1CB"],
-    ["雾云川", "CEEDD4C6B4A8"],
+    # ["自然萌ご", "D7FCD7FCD7D4C8BBC3C8A4B4D7FC"],
+    # ["他不会等你了", "CBFBB2BBBBE1B5C8C4E3C1CB"],
+    # ["雾云川", "CEEDD4C6B4A8"],
 ]
 
 
