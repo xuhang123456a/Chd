@@ -94,19 +94,3 @@ for file_name in files_name:
     source_file = os.path.join(source_dir, file_name)
     copy_file_to_subfolders(source_file, target_folder)
 print("执行完毕")
-
-# 秋水伊人搭配_装备搭配 = "E:\Game\Chd\小草\SNXC\data\Config\A96DC7EFCBAED2C1C8CBA967\diy.suit"
-# 裸装 = "E:\Game\Chd\小草\SNXC\data\Config\A1E6A5D9A8FDA8FDC2E3D7B0"
-# 酷我音乐 = "E:\Game\Chd\小草\SNXC\data\Config\A1FABFE1CED2D2F4C0D6A1FA"
-# 酷狗音乐 = "E:\Game\Chd\小草\SNXC\data\Config\BFE1B9B7D2F4C0D6A8A1"
-# 满船清梦压星河 = "E:\Game\Chd\小草\SNXC\data\Config\C2FAB4ACC7E5C3CED1B9D0C7BAD351"
-# 能饮一杯无o = "E:\Game\Chd\小草\SNXC\data\Config\C4DCD2FBD2BBB1ADCEDE6F"
-# 水澹澹兮生烟 = "E:\Game\Chd\小草\SNXC\data\Config\CBAEE5A3E5A3D9E2C9FAD1CCFE5D"
-# 晚来天欲雪o = "E:\Game\Chd\小草\SNXC\data\Config\CDEDC0B4CCECD3FBD1A96F"
-# copy_file_to_folder(秋水伊人搭配_装备搭配, 裸装)
-# copy_file_to_folder(秋水伊人搭配_装备搭配, 酷我音乐)
-# copy_file_to_folder(秋水伊人搭配_装备搭配, 酷狗音乐)
-# copy_file_to_folder(秋水伊人搭配_装备搭配, 满船清梦压星河)
-# copy_file_to_folder(秋水伊人搭配_装备搭配, 能饮一杯无o)
-# copy_file_to_folder(秋水伊人搭配_装备搭配, 水澹澹兮生烟)
-# copy_file_to_folder(秋水伊人搭配_装备搭配, 晚来天欲雪o)

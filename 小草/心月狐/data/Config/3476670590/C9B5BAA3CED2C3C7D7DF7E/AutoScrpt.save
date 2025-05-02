@@ -8,7 +8,7 @@
 		"tag":	11218,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0,
-		"scriptend":	1
+		"scriptend":	2
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -28,8 +28,7 @@
 		"diyawaken":	"",
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
-		"task":	0,
-		"scriptend":	1
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -39,8 +38,7 @@
 		"diyawaken":	"",
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
-		"task":	0,
-		"scriptend":	1
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -50,8 +48,7 @@
 		"diyawaken":	"",
 		"tag":	22387,
 		"script":	"探险家神殿(普通)",
-		"task":	0,
-		"scriptend":	1
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -69,49 +66,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	23930,
+		"tag":	27107,
 		"script":	"索拉城斗兽场",
 		"task":	100004
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	11573,
-		"script":	"影子之书",
-		"task":	100026
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	14062,
-		"script":	"星之摇篮",
-		"task":	100042
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	10123,
-		"script":	"魔石实验室",
-		"task":	100052
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	18025,
-		"script":	"宝石丛林",
-		"task":	100057
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -119,7 +76,57 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11558,
+		"tag":	6516,
+		"script":	"水下培养皿",
+		"task":	100021
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	10231,
+		"script":	"花之路",
+		"task":	100032
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	29295,
+		"script":	"月之路",
+		"task":	100033
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	19612,
+		"script":	"世界之树",
+		"task":	100035
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	11824,
+		"script":	"欧若拉奇妙物语(3)",
+		"task":	100079
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	32104,
 		"script":	"处理妨碍净化之人(5)",
 		"task":	100087
 	}, {
@@ -129,29 +136,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	26131,
-		"script":	"不幸者的救赎(2)",
-		"task":	100089
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	14610,
-		"script":	"不幸者的救赎(4)",
-		"task":	100091
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	9844,
-		"script":	"净化污染精灵的住所(2)",
-		"task":	100101
+		"tag":	14774,
+		"script":	"净化污染精灵的住所(5)",
+		"task":	100104
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -159,7 +146,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	31887,
-		"script":	"灵气清澈之山(2)",
-		"task":	100141
+		"tag":	16746,
+		"script":	"拥有特殊记忆的动物(1)",
+		"task":	100149
 	}]

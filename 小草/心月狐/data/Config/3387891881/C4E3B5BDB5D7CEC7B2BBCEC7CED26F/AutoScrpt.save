@@ -1,51 +1,33 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5觉醒",
-		"tag":	24465,
-		"script":	"奈落之心(蛇龙之巢)",
-		"task":	0
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	25886,
+		"script":	"【彩虹向导】每日任务",
+		"task":	0,
+		"scriptend":	3
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"经验套装",
+		"diyproperty":	"",
+		"diyother":	"经验本召唤兽",
+		"diyawaken":	"5经验石",
+		"tag":	24371,
+		"script":	"珊瑚之歌",
+		"task":	0,
+		"scriptend":	3
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"存仓",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5觉醒",
-		"tag":	29359,
-		"script":	"奈落之心(冰淇淋庭院)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5觉醒",
-		"tag":	26963,
-		"script":	"奈落之心(破坏之城)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	42,
-		"script":	"奈落之心(魔法学院主楼)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	18468,
-		"script":	"奈落之心(神树拉菲尔)",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	16652,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]
