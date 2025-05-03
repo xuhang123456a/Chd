@@ -1,23 +1,67 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	13355,
+		"script":	"丽西泰亚之门",
+		"task":	0,
+		"scriptend":	3
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	30652,
+		"script":	"蘑菇树沼泽",
+		"task":	0,
+		"scriptend":	3
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	9285,
+		"script":	"诺尼尔之泪",
+		"task":	0,
+		"scriptend":	3
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	12682,
+		"script":	"摩克沙",
+		"task":	0,
+		"scriptend":	3
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"装备副本",
+		"diyawaken":	"",
+		"tag":	2024,
+		"script":	"未知森林",
+		"task":	0,
+		"scriptend":	3
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	25886,
-		"script":	"【彩虹向导】每日任务",
-		"task":	0,
-		"scriptend":	3
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"经验套装",
-		"diyproperty":	"",
-		"diyother":	"经验本召唤兽",
-		"diyawaken":	"5经验石",
-		"tag":	24371,
-		"script":	"珊瑚之歌",
+		"tag":	19534,
+		"script":	"【存】材料",
 		"task":	0,
 		"scriptend":	3
 	}, {
@@ -27,7 +71,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16652,
+		"tag":	9162,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]
