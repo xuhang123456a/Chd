@@ -142,7 +142,7 @@
 	"protect_skill_syncope_1":	true,
 	"protect_skill_syncope_2":	true,
 	"protect_sw":	true,
-	"revive_print":	true,
+	"revive_print":	false,
 	"revive_situ_buff":	true,
 	"revive_sw1":	true,
 	"revive_sw2":	true,
