@@ -619,8 +619,7 @@
 		"diyawaken":	"",
 		"tag":	6335,
 		"script":	"自动强化贯穿力觉醒石+6",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

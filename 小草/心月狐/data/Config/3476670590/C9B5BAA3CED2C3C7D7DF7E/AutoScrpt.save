@@ -7,7 +7,8 @@
 		"diyawaken":	"",
 		"tag":	11218,
 		"script":	"【彩虹向导】每日任务",
-		"task":	0
+		"task":	0,
+		"scriptend":	3
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -27,7 +28,8 @@
 		"diyawaken":	"",
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
-		"task":	0
+		"task":	0,
+		"scriptend":	3
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -37,7 +39,8 @@
 		"diyawaken":	"",
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
-		"task":	0
+		"task":	0,
+		"scriptend":	3
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -47,7 +50,8 @@
 		"diyawaken":	"",
 		"tag":	22387,
 		"script":	"探险家神殿(普通)",
-		"task":	0
+		"task":	0,
+		"scriptend":	3
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -125,7 +129,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	23652,
+		"tag":	29981,
 		"script":	"处理妨碍净化之人(2)",
 		"task":	100084
 	}, {
@@ -135,7 +139,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	23704,
+		"tag":	12652,
 		"script":	"不幸者的救赎(2)",
 		"task":	100089
 	}, {
@@ -145,7 +149,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	23753,
+		"tag":	18083,
 		"script":	"奈落之屋",
 		"task":	100139
 	}, {
@@ -155,7 +159,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	23805,
+		"tag":	32068,
 		"script":	"拥有特殊记忆的动物(3)",
 		"task":	100151
 	}]
