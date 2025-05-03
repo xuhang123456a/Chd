@@ -7,8 +7,7 @@
 		"diyawaken":	"",
 		"tag":	11218,
 		"script":	"【彩虹向导】每日任务",
-		"task":	0,
-		"scriptend":	2
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -66,19 +65,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	27107,
-		"script":	"索拉城斗兽场",
-		"task":	100004
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	6516,
-		"script":	"水下培养皿",
-		"task":	100021
+		"tag":	28698,
+		"script":	"里维拉市政府",
+		"task":	100012
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -86,9 +75,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	10231,
-		"script":	"花之路",
-		"task":	100032
+		"tag":	31464,
+		"script":	"冰淇淋庭院",
+		"task":	100025
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -96,9 +85,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29295,
-		"script":	"月之路",
-		"task":	100033
+		"tag":	28321,
+		"script":	"梦之路",
+		"task":	100034
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -106,39 +95,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19612,
+		"tag":	15157,
 		"script":	"世界之树",
-		"task":	100035
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	11824,
-		"script":	"欧若拉奇妙物语(3)",
-		"task":	100079
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	32104,
-		"script":	"处理妨碍净化之人(5)",
-		"task":	100087
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	14774,
-		"script":	"净化污染精灵的住所(5)",
-		"task":	100104
+		"task":	100037
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -146,7 +105,57 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16746,
-		"script":	"拥有特殊记忆的动物(1)",
-		"task":	100149
+		"tag":	11762,
+		"script":	"遗忘花园",
+		"task":	100040
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23600,
+		"script":	"幻影毒雾沼泽",
+		"task":	100059
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23652,
+		"script":	"处理妨碍净化之人(2)",
+		"task":	100084
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23704,
+		"script":	"不幸者的救赎(2)",
+		"task":	100089
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23753,
+		"script":	"奈落之屋",
+		"task":	100139
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23805,
+		"script":	"拥有特殊记忆的动物(3)",
+		"task":	100151
 	}]
