@@ -33,25 +33,32 @@ def copy_file_to_subfolders(source_file, target_folder):
 
 def delete_file_from_subfolders(file_name, target_folder):
     for root, dirs, files in os.walk(target_folder):
+        # print(f"当前正在遍历的目录: {root}")
+        # print(f"该目录下的子目录: {dirs}")
+        # print(f"该目录下的文件: {files}")
+        # print("-" * 50)
         for file in files:
             # 检查文件大小是否为 0 字节
-            file_path = os.path.join(root, file)
             # 分割文件路径，获取扩展名
-            root, extension = os.path.splitext(file_name)
-            if extension == '.lua' and os.path.isfile(file_path):
-                if os.path.getsize(file_path) == 0:
+            _, extension = os.path.splitext(file)
+            #删除空文件
+            if extension == '.lua':
+                file_path = os.path.join(root, file)
+                if os.path.isfile(file_path) and os.path.getsize(file_path) == 0:
                     os.remove(file_path)
                     print(f"空文件 {file_path} 已删除。")
-                if file == file_name:
-                    try:
-                        os.remove(file_path)
-                        print(f"文件 {file_path} 已删除。")
-                    except Exception as e:
-                        print(f"删除文件 {file_path} 时出错: {e}")
+            #删除指定文件
+            if file == file_name:
+                file_path = os.path.join(root, file)
+                try:
+                    os.remove(file_path)
+                    print(f"文件 {file_path} 已删除。")
+                except Exception as e:
+                    print(f"删除文件 {file_path} 时出错: {e}")
 
 
 # 删除所有角色的执行脚本
-target_folder = r'E:\Game\Chd\小草\心月狐\data\Config\3387891881'
+target_folder = r'E:\Game\Chd\小草\心月狐\data\Config\1536622268'
 files_name = [
     '98f1b7e516ec6a9a.lua',
     'ad8b2233fe127818.lua',
