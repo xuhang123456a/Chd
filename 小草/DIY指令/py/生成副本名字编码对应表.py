@@ -3,16 +3,6 @@ import chardet
 import re # 正则表达式
 from datetime import datetime
 
-# 从十六进制字符串到中文字符串
-def exchange_str_to_word(hex_str):
-    try:
-        gbk_bytes = bytes.fromhex(hex_str)
-        decoded_str = gbk_bytes.decode('gbk')
-        return decoded_str
-        print("解码结果:", decoded_str)
-    except UnicodeDecodeError:
-        print("解码失败：存在非 GBK 编码字符！")
-
 # 读取文本文件然后将[]包裹起来的部分解析为中文
 def extract_bracketed_content(file_path):
     bracketed_lines = []

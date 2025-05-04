@@ -34,19 +34,24 @@ def copy_file_to_subfolders(source_file, target_folder):
 def delete_file_from_subfolders(file_name, target_folder):
     for root, dirs, files in os.walk(target_folder):
         for file in files:
-            if file == file_name:
-                file_path = os.path.join(root, file)
-                try:
+            # 检查文件大小是否为 0 字节
+            file_path = os.path.join(root, file)
+            # 分割文件路径，获取扩展名
+            root, extension = os.path.splitext(file_name)
+            if extension == '.lua' and os.path.isfile(file_path):
+                if os.path.getsize(file_path) == 0:
                     os.remove(file_path)
-                    print(f"文件 {file_path} 已删除。")
-                except Exception as e:
-                    print(f"删除文件 {file_path} 时出错: {e}")
+                    print(f"空文件 {file_path} 已删除。")
+                if file == file_name:
+                    try:
+                        os.remove(file_path)
+                        print(f"文件 {file_path} 已删除。")
+                    except Exception as e:
+                        print(f"删除文件 {file_path} 时出错: {e}")
 
-
-source_file = r'E:\Game\Chd\小草\心月狐\data\Config\A96DC7EFCBAED2C1C8CBA967\a所有本.sc'
-target_folder = r'E:\Game\Chd\小草\心月狐\data\Config\1536622268'
 
 # 删除所有角色的执行脚本
+target_folder = r'E:\Game\Chd\小草\心月狐\data\Config\3387891881'
 files_name = [
     '98f1b7e516ec6a9a.lua',
     'ad8b2233fe127818.lua',
@@ -73,8 +78,10 @@ files_name = [
     'ec2f3ffd0aa8bc41.lua',
     'd7fab05005f7f667.lua',
 ]
-# for file_name in files_name:
-#     delete_file_from_subfolders(file_name, target_folder)
+for file_name in files_name:
+    delete_file_from_subfolders(file_name, target_folder)
+
+print("执行完毕")
 
 # 复制执行脚本到所有角色
 files_name = [
@@ -88,9 +95,10 @@ files_name = [
     'ee919f8838a9262c.lua',
     #补给脚本设置 end
 ]
-source_dir = 'E:\\Game\\Chd\\小草\\心月狐\\data\\Config\\1536622268\\CDEDC0B4CCECD3FBD1A96F\\'
-target_folder = r'E:\Game\Chd\小草\心月狐\data\Config\1536622268'
-for file_name in files_name:
-    source_file = os.path.join(source_dir, file_name)
-    copy_file_to_subfolders(source_file, target_folder)
-print("执行完毕")
+# source_file = r'E:\Game\Chd\小草\心月狐\data\Config\A96DC7EFCBAED2C1C8CBA967\a所有本.sc'
+# source_dir = 'E:\\Game\\Chd\\小草\\心月狐\\data\\Config\\1536622268\\CDEDC0B4CCECD3FBD1A96F\\'
+# target_folder = r'E:\Game\Chd\小草\心月狐\data\Config\1536622268'
+# for file_name in files_name:
+#     source_file = os.path.join(source_dir, file_name)
+#     copy_file_to_subfolders(source_file, target_folder)
+# print("执行完毕")

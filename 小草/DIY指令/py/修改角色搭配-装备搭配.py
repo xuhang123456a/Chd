@@ -84,7 +84,7 @@ target_files_path = [
     # ["莫吵","3387891881\\C4AAB3B3"],
     # ["无心梦","3387891881\\CEDED0C4C3CE"],
 
-    ["自然萌ご", "3476670590\\D7FCD7FCD7D4C8BBC3C8A4B4D7FC"],
+    # ["自然萌ご", "3476670590\\D7FCD7FCD7D4C8BBC3C8A4B4D7FC"],
     ["十八岁青春男高", "3476670590\\CAAEB0CBCBEAC7E0B4BAC4D0B8DF"],
     ["雪绒薄荷ご", "3476670590\\D7FCD7FCD1A9C8DEB1A1BAC9A4B4"],
     ["傻海我们走~", "3476670590\\C9B5BAA3CED2C3C7D7DF7E"],
@@ -98,9 +98,9 @@ for target_file_path in target_files_path:
     target_file_path = os.path.join(target_path, target_file_path[1])
     target_file_path = os.path.join(target_file_path, 'Config.save')
     target_json_content, encoding = read_json_file(target_file_path)
-    # if json_content and encoding:
-    #     # 修改 JSON 数据
-    #     modified_json = modify_json_data(json_content,target_json_content, example_modification)
-    #     if modified_json:
-    #         # 保存修改后的 JSON 文件
-    #         save_json_file(target_file_path, modified_json, 'gbk')
+    if json_content and encoding:
+        # 修改 JSON 数据
+        modified_json = modify_json_data(json_content,target_json_content, example_modification)
+        if modified_json:
+            # 保存修改后的 JSON 文件
+            save_json_file(target_file_path, modified_json, 'gbk')

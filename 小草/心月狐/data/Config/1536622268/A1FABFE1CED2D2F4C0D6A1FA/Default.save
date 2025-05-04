@@ -915,8 +915,8 @@
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
 			"npc":	1,
-			"sw1":	true,
-			"sw2":	true,
+			"sw1":	false,
+			"sw2":	false,
 			"item":	"ÉñÄ§î¿°íÀñºÐ"
 		}, {
 			"npc":	2,
