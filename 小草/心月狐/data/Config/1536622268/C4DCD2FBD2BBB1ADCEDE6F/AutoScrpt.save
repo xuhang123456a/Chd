@@ -29,7 +29,8 @@
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	30652,
 		"script":	"Ä¢¹½Ê÷ÕÓÔó",
-		"task":	0
+		"task":	0,
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -79,5 +80,85 @@
 		"diyawaken":	"",
 		"tag":	9162,
 		"script":	"Ö´ĞĞ×Ô¶¯ÇĞ»»½ÇÉ«",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"ÕÙ»½ÊŞ",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	16891,
+		"script":	"°£¼ª¶ûÒÅ¼£",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	10757,
+		"script":	"ÉñÊ÷À­·Æ¶û",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"ÕÙ»½ÊŞ",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	25760,
+		"script":	"°¢ÌØÀ­Ë¹Í¥Ôº",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"ÕÙ»½ÊŞ",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	11514,
+		"script":	"Äá·òº£Ä·Õ¾",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30141,
+		"script":	"Éñ±Ê»­¾í",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	1160,
+		"script":	"ÍüÈ´ºşÅÏ",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	5841,
+		"script":	"ÄÎÂäÖ®Îİ",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	2606,
+		"script":	"ÁúÖ®Ï¿¹È",
 		"task":	0
 	}]

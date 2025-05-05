@@ -42,11 +42,11 @@ def delete_file_from_subfolders(file_name, target_folder):
             # 分割文件路径，获取扩展名
             _, extension = os.path.splitext(file)
             #删除空文件
-            if extension == '.lua':
-                file_path = os.path.join(root, file)
-                if os.path.isfile(file_path) and os.path.getsize(file_path) == 0:
-                    os.remove(file_path)
-                    print(f"空文件 {file_path} 已删除。")
+            # if extension == '.lua':
+            #     file_path = os.path.join(root, file)
+            #     if os.path.isfile(file_path) and os.path.getsize(file_path) == 0:
+            #         os.remove(file_path)
+            #         print(f"空文件 {file_path} 已删除。")
             #删除指定文件
             if file == file_name:
                 file_path = os.path.join(root, file)
@@ -84,28 +84,41 @@ files_name = [
     '55bd9ba6bcd62afb.lua',
     'ec2f3ffd0aa8bc41.lua',
     'd7fab05005f7f667.lua',
+    '77f0318eca3011b3.lua',
+    'd71ff61274354c69.lua',
+    'fa682fc33781a2f7.lua',
 ]
-for file_name in files_name:
-    delete_file_from_subfolders(file_name, target_folder)
-
-print("执行完毕")
+# for file_name in files_name:
+#     delete_file_from_subfolders(file_name, target_folder)
+# print("执行完毕")
 
 # 复制执行脚本到所有角色
 files_name = [
     #补给脚本设置 begin
-    '9d9b1392b8dbef0b.lua',
-    '44cbeb42cd4b1694.lua',
-    '44d490f43fe985aa.lua',
-    '45c1f04cedd8f18e.lua',
-    '846e21921f47d44a.lua',
-    'a5a29df1c82c5b20.lua',
-    'ee919f8838a9262c.lua',
+    # '9d9b1392b8dbef0b.lua',
+    # '44cbeb42cd4b1694.lua',
+    # '44d490f43fe985aa.lua',
+    # '45c1f04cedd8f18e.lua',
+    # '846e21921f47d44a.lua',
+    # 'a5a29df1c82c5b20.lua',
+    # 'ee919f8838a9262c.lua',
     #补给脚本设置 end
+
+    '14bcb0915711d136.lua',#遗迹
+    '4f686063e7f76556.lua',#神树
+    '74b04b62710052ab.lua',#尼夫
+    '54cbda403ac1e8ef.lua',#庭院
+    '3884d4a499b541a9.lua',#神笔
+    'b24d2a7bcca5b4a6.lua',#忘却
+    '98fdd49c1dc42339.lua',#奈落之屋
+    'e2baaba053baf0cd.lua',#龙之峡谷
 ]
-# source_file = r'E:\Game\Chd\小草\心月狐\data\Config\A96DC7EFCBAED2C1C8CBA967\a所有本.sc'
-# source_dir = 'E:\\Game\\Chd\\小草\\心月狐\\data\\Config\\1536622268\\CDEDC0B4CCECD3FBD1A96F\\'
-# target_folder = r'E:\Game\Chd\小草\心月狐\data\Config\1536622268'
-# for file_name in files_name:
-#     source_file = os.path.join(source_dir, file_name)
-#     copy_file_to_subfolders(source_file, target_folder)
-# print("执行完毕")
+filter_name = [
+
+]
+source_dir = 'E:\\Game\\Chd\\小草\\心月狐\\data\\Config\\1536622268\\C4DCD2FBD2BBB1ADCEDE6F\\'
+target_folder = r'E:\Game\Chd\小草\心月狐\data\Config\1536622268'
+for file_name in files_name:
+    source_file = os.path.join(source_dir, file_name)
+    copy_file_to_subfolders(source_file, target_folder)
+print("执行完毕")

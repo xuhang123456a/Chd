@@ -488,7 +488,8 @@
 		"diyawaken":	"5±¨…À Ø",
 		"tag":	20196,
 		"script":	"ªÿ…˘»™",
-		"task":	0
+		"task":	0,
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -498,7 +499,8 @@
 		"diyawaken":	"5±¨…À Ø",
 		"tag":	899,
 		"script":	"±˘”¸",
-		"task":	0
+		"task":	0,
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -508,7 +510,8 @@
 		"diyawaken":	"5±¨…À Ø",
 		"tag":	1410,
 		"script":	"√À‘º •µÿ",
-		"task":	0
+		"task":	0,
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -518,7 +521,8 @@
 		"diyawaken":	"5±¨…À Ø",
 		"tag":	8289,
 		"script":	"œ£¡–",
-		"task":	0
+		"task":	0,
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -528,7 +532,8 @@
 		"diyawaken":	"5±¨…À Ø",
 		"tag":	11887,
 		"script":	"√µπÂÕ•‘∫",
-		"task":	0
+		"task":	0,
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -538,7 +543,8 @@
 		"diyawaken":	"5±¨…À Ø",
 		"tag":	24237,
 		"script":	"ª√÷Æ“°¿∫",
-		"task":	0
+		"task":	0,
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
