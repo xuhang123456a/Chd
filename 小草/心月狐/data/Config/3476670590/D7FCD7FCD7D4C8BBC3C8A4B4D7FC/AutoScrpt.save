@@ -554,7 +554,8 @@
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	13460,
 		"script":	"ÍüÈ´ºşÅÏ",
-		"task":	0
+		"task":	0,
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -564,7 +565,8 @@
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	26522,
 		"script":	"ĞéÎŞÖ®ĞÇ",
-		"task":	0
+		"task":	0,
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -574,7 +576,8 @@
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	7430,
 		"script":	"É½º£¹éĞæ",
-		"task":	0
+		"task":	0,
+		"scriptend":	5
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

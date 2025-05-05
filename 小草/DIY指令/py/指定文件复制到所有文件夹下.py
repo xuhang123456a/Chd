@@ -112,6 +112,7 @@ files_name = [
     'b24d2a7bcca5b4a6.lua',#忘却
     '98fdd49c1dc42339.lua',#奈落之屋
     'e2baaba053baf0cd.lua',#龙之峡谷
+    '73806cea1164a8b8.lua',#神秘殿堂
 ]
 filter_name = [
 
