@@ -2,7 +2,7 @@
 	"only_run":	false,
 	"run_sleep":	1,
 	"sw":	false,
-	"name":	"吉他辅助技能",
+	"name":	"职业辅助技能",
 	"judges":	[{
 			"sw":	true,
 			"judge":	{
