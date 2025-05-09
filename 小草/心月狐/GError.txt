@@ -1,0 +1,9 @@
+[ 5- 8 11:27:10]:Module:E:\Game\�ʺ絺Online\LaTaleClient.exe+58D86C,eax=1D47EDE0,ecx=405D6568,edx=30070023,edi=7,esi=405D6568
+[ 5- 8 11:27:10]:Module: C:\Windows\System32\KERNEL32.DLL Function:BaseThreadInitThunk
+[ 5- 8 11:27:10]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 5- 8 11:27:10]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 5- 9  0: 9:22]:RECV : 0BEBC589
+[ 5- 9  0:18:38]:RECV : 0BEBC589
+[ 5- 9 10:27:39]:RECV : 0BEBC589
+[ 5- 9 10:34:37]:RECV : 0BEBC589
+[ 5- 9 11:12:45]:RECV : 0BEBC589

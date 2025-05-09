@@ -8,7 +8,7 @@
 		"tag":	11218,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0,
-		"scriptend":	4
+		"scriptend":	9
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -49,6 +49,17 @@
 		"tag":	22387,
 		"script":	"探险家神殿(普通)",
 		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	3761,
+		"script":	"竞技场练习赛（低保任务）",
+		"task":	0,
+		"scriptend":	9
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

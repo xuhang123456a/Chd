@@ -5,16 +5,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29394,
-		"script":	"兑换羁绊之石",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
 		"tag":	29659,
 		"script":	"领取家族工资",
 		"task":	0
@@ -81,6 +71,16 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	29394,
+		"script":	"兑换羁绊之石",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
@@ -115,16 +115,6 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	25369,
-		"script":	"黄昏教堂",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
 		"tag":	21696,
 		"script":	"艾乌加蒙剧场",
 		"task":	0
@@ -137,16 +127,6 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	32309,
 		"script":	"深渊之镜",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"强力召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	12496,
-		"script":	"炼狱阿兹雷尔",
 		"task":	0
 	}, {
 		"setcount":	0,
