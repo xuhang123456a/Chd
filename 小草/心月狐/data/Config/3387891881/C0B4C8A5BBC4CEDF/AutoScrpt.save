@@ -8,7 +8,7 @@
 		"tag":	29659,
 		"script":	"领取家族工资",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -19,7 +19,7 @@
 		"tag":	1805,
 		"script":	"探险家神殿(史诗)",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -30,7 +30,7 @@
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -41,7 +41,7 @@
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -52,7 +52,7 @@
 		"tag":	22387,
 		"script":	"探险家神殿(普通)",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -63,7 +63,7 @@
 		"tag":	13031,
 		"script":	"火山珊瑚",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -74,7 +74,7 @@
 		"tag":	23282,
 		"script":	"索拉城斗兽场",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -85,7 +85,7 @@
 		"tag":	29394,
 		"script":	"兑换羁绊之石",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -96,7 +96,7 @@
 		"tag":	20144,
 		"script":	"薇娅斯梦境",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -107,7 +107,7 @@
 		"tag":	17921,
 		"script":	"穆斯菲尔斯隧道",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -118,7 +118,7 @@
 		"tag":	19955,
 		"script":	"失魂寺",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -129,7 +129,7 @@
 		"tag":	21696,
 		"script":	"艾乌加蒙剧场",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -140,7 +140,7 @@
 		"tag":	32309,
 		"script":	"深渊之镜",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -181,7 +181,7 @@
 		"tag":	22281,
 		"script":	"【存】材料",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

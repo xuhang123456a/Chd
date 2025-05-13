@@ -1,6 +1,7 @@
 import os
 import glob
 import chardet
+from pathlib import Path
 
 # 指定目录路径
 specified_directory = r'E:\Game\Chd\小草\心月狐\data\Config\1536622268'
@@ -10,6 +11,7 @@ needReplace = False
 old_strings = ['自动采集=开启']  # 替换为你要查找的字符串
 new_strings = ['自动采集=关闭']  # 替换为你想要的新字符串
 find_strings = [
+    '笨笨龙'
     # '副本难度=简单',
     # '副本难度=普通',
     # '副本难度=困难',
@@ -21,7 +23,7 @@ find_strings = [
     # '拾取开关判断=默认',
     # '拾取开关判断=队伍有人关拾取没人开启',
     # '不打苏尔特=开启',
-    '不打苏尔特=关闭',
+    # '不打苏尔特=关闭',
     # '退组进队长组=开启',
     # '送死流=关闭',
     # '送死流=全程送死',

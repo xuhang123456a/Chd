@@ -8,7 +8,7 @@
 		"tag":	11218,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -29,7 +29,7 @@
 		"tag":	24631,
 		"script":	"探险家神殿(史诗)",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -70,7 +70,7 @@
 		"tag":	29659,
 		"script":	"领取家族工资",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -81,7 +81,7 @@
 		"tag":	18468,
 		"script":	"艾乌加蒙剧场",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -92,7 +92,7 @@
 		"tag":	42,
 		"script":	"深渊之镜",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -103,7 +103,7 @@
 		"tag":	26501,
 		"script":	"圣字教堂",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -114,7 +114,7 @@
 		"tag":	11479,
 		"script":	"冰狱",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -125,7 +125,7 @@
 		"tag":	26963,
 		"script":	"哈姆克公爵府",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -136,7 +136,7 @@
 		"tag":	24672,
 		"script":	"混乱世界",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -147,7 +147,7 @@
 		"tag":	31532,
 		"script":	"竞技场练习赛（全部任务）",
 		"task":	0,
-		"scriptend":	9
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
