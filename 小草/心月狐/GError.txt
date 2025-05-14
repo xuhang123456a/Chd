@@ -107,3 +107,14 @@
 [ 5-13  0:28:40]:RECV : 0BEBC589
 [ 5-13 10:36:27]:RECV : 0BEBC589
 [ 5-13 18: 2:31]:RECV : 0BEBC589
+[ 5-14  0:19:27]:RECV : 0BEBC589
+[ 5-14  0:36:41]:RECV : 0BEBC589
+[ 5-14  8:23:29]:Module:E:\Game\�ʺ絺Online\LaTaleClient.exe+58E1DC,eax=1D19EDD0,ecx=467BAC68,edx=30070023,edi=5,esi=467BAC68
+[ 5-14  8:23:29]:Module: C:\Windows\System32\KERNEL32.DLL Function:BaseThreadInitThunk
+[ 5-14  8:23:29]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 5-14  8:23:29]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 5-14 16:28: 0]:Module:E:\Game\�ʺ絺Online\LaTaleClient.exe+1CBA70,eax=0,ecx=0,edx=0,edi=9060578,esi=1049140
+[ 5-14 16:28: 0]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlAllocateHeap
+[ 5-14 16:28: 0]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlAllocateHeap
+[ 5-14 16:28: 0]:Module: C:\Windows\System32\KERNELBASE.dll Function:GetTickCount
+[ 5-14 16:28: 0]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlAllocateHeap

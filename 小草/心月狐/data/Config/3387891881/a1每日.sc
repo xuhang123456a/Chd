@@ -325,16 +325,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"Õ½¶·",
-		"tag":	20806,
-		"script":	"°ÍÄáËşË¹",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"Õ½¶·",
 		"tag":	17170,
 		"script":	"¹şÄ·¿Ë¹«¾ô¸®",
 		"task":	0
@@ -347,36 +337,6 @@
 		"diyawaken":	"Õ½¶·",
 		"tag":	17422,
 		"script":	"Ê¥×Ö½ÌÌÃ",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"Õ½¶·",
-		"tag":	12383,
-		"script":	"°¢¿ÆÂåÖ®¹×",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	20196,
-		"script":	"»ØÉùÈª",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	899,
-		"script":	"±ùÓü",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -397,56 +357,6 @@
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	8289,
 		"script":	"Ï£ÁĞ",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	11887,
-		"script":	"Ãµ¹åÍ¥Ôº",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24237,
-		"script":	"»ÃÖ®Ò¡Àº",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	7430,
-		"script":	"É½º£¹éĞæ",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	25949,
-		"script":	"ÃÎ¾³°ÂÄùÒÁÂ³",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	7674,
-		"script":	"Ä§Á¦·À¿Õ¶´",
 		"task":	0
 	}, {
 		"setcount":	0,

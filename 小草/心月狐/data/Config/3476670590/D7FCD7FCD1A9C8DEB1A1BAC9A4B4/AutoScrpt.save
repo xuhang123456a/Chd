@@ -8,7 +8,7 @@
 		"tag":	11218,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -59,7 +59,7 @@
 		"tag":	32585,
 		"script":	"竞技场练习赛（全部任务）",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

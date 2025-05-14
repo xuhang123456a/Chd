@@ -8,7 +8,7 @@
 		"tag":	31120,
 		"script":	"µØÌúÖĞÊà",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -19,7 +19,7 @@
 		"tag":	29214,
 		"script":	"ÃÎÖ®Â·",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -30,7 +30,7 @@
 		"tag":	17171,
 		"script":	"ÔÂÖ®Â·",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -41,7 +41,7 @@
 		"tag":	11665,
 		"script":	"Ä§Á¦·À¿Õ¶´",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -52,7 +52,7 @@
 		"tag":	14931,
 		"script":	"ÃÎ¾³°ÂÄùÒÁÂ³",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -63,7 +63,7 @@
 		"tag":	4206,
 		"script":	"»ØÉùÈª",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -74,7 +74,7 @@
 		"tag":	20736,
 		"script":	"Á¶Óü°¢×ÈÀ×¶û",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -84,8 +84,7 @@
 		"diyawaken":	"",
 		"tag":	30675,
 		"script":	"ÆÆ»µÖ®³Ç",
-		"task":	0,
-		"scriptend":	13
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -95,8 +94,7 @@
 		"diyawaken":	"Õ½¶·",
 		"tag":	8745,
 		"script":	"ÃËÔ¼Ê¥µØ",
-		"task":	0,
-		"scriptend":	13
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -106,8 +104,7 @@
 		"diyawaken":	"",
 		"tag":	19668,
 		"script":	"´ºÖ²µº¼ÍÄî¹İ",
-		"task":	0,
-		"scriptend":	13
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -117,8 +114,7 @@
 		"diyawaken":	"",
 		"tag":	30394,
 		"script":	"»ÃÓ°¶¾ÎíÕÓÔó",
-		"task":	0,
-		"scriptend":	13
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -128,8 +124,7 @@
 		"diyawaken":	"",
 		"tag":	27701,
 		"script":	"Éñ±Ê»­¾í",
-		"task":	0,
-		"scriptend":	13
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -139,8 +134,7 @@
 		"diyawaken":	"",
 		"tag":	8557,
 		"script":	"¿¨·ò¿¨¾ç³¡",
-		"task":	0,
-		"scriptend":	13
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -160,6 +154,5 @@
 		"diyawaken":	"",
 		"tag":	9859,
 		"script":	"Ö´ĞĞ×Ô¶¯ÇĞ»»½ÇÉ«",
-		"task":	0,
-		"scriptend":	13
+		"task":	0
 	}]
