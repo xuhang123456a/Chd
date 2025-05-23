@@ -269,7 +269,7 @@
 	"automatic_zhs_time7":	0,
 	"config_system_type":	1,
 	"main_mob_trap_type":	0,
-	"path_hide_effect_type":	1,
+	"path_hide_effect_type":	0,
 	"path_script_picture_val2":	3,
 	"revive_type":	2,
 	"skill_option_lr_val":	0,
@@ -765,64 +765,16 @@
 	"skill_hotkey_data":	[],
 	"team_list_data":	[],
 	"script_point_data":	[{
-			"type":	"×ªÉí&Ö´ĞĞ¶îÍâ",
-			"x":	"5183",
-			"y":	"1375",
-			"pos1":	"ÓÒÅÜ",
-			"pos2":	"×óÅÜ",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"×óÌø",
-			"x":	"2976",
-			"y":	"1375",
-			"pos1":	"×óÅÜ",
-			"pos2":	"×óÅÜ",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"ÌøÔ¾¿ØÖÆ":	"100"
-			}
-		}, {
-			"type":	"ÉÏÌø",
-			"x":	"32",
-			"y":	"1375",
-			"pos1":	"×óÅÜ",
+			"type":	"Ä£Äâ¡ü¼ü",
+			"x":	"1393",
+			"y":	"911",
+			"pos1":	"×ó&ÓÒ[ÎŞ]",
 			"pos2":	"ÓÒÅÜ",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"ÌøÔ¾¿ØÖÆ":	"400"
-			}
-		}, {
-			"type":	"ÉÏÌø",
-			"x":	"392",
-			"y":	"991",
-			"pos1":	"ÓÒÅÜ",
-			"pos2":	"ÓÒÅÜ",
-			"judge":	{
 				"":	""
-			},
-			"execute":	{
-				"ÌøÔ¾¿ØÖÆ":	"400"
-			}
-		}, {
-			"type":	"ÓÒÌø",
-			"x":	"959",
-			"y":	"479",
-			"pos1":	"ÓÒÅÜ",
-			"pos2":	"ÓÒÅÜ",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"ÌøÔ¾¿ØÖÆ":	"100"
 			}
 		}],
 	"script_trigger_data":	[],

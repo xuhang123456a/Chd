@@ -8,7 +8,7 @@
 		"tag":	11218,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	22
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -18,8 +18,7 @@
 		"diyawaken":	"",
 		"tag":	20910,
 		"script":	"兑换羁绊之石",
-		"task":	0,
-		"scriptend":	14
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -29,7 +28,8 @@
 		"diyawaken":	"",
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
-		"task":	0
+		"task":	0,
+		"scriptend":	22
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -39,7 +39,8 @@
 		"diyawaken":	"",
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
-		"task":	0
+		"task":	0,
+		"scriptend":	22
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -49,7 +50,8 @@
 		"diyawaken":	"",
 		"tag":	22387,
 		"script":	"探险家神殿(普通)",
-		"task":	0
+		"task":	0,
+		"scriptend":	22
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -60,7 +62,7 @@
 		"tag":	32585,
 		"script":	"竞技场练习赛（全部任务）",
 		"task":	0,
-		"scriptend":	14
+		"scriptend":	22
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
