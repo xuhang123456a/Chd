@@ -405,16 +405,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	19102,
-		"script":	"未知森林",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
 		"tag":	3620,
 		"script":	"卡夫卡剧场",
 		"task":	0

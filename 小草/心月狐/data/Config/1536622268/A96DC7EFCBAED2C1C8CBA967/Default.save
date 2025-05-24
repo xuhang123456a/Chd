@@ -4403,7 +4403,7 @@
 		}, {
 			"only_run":	false,
 			"run_sleep":	1,
-			"sw":	false,
+			"sw":	true,
 			"name":	"Ê¥ÎïÉú´æÔ¿³×ÌØÊâ",
 			"judges":	[],
 			"executes":	[{

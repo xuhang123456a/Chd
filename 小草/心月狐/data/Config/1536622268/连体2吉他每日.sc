@@ -21,6 +21,16 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23892,
+		"script":	"自动转换星座点数",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -167,26 +177,6 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	17422,
 		"script":	"圣字教堂",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	11551,
-		"script":	"盟约圣地",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	23182,
-		"script":	"希列",
 		"task":	0
 	}, {
 		"setcount":	0,
