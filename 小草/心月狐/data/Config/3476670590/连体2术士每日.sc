@@ -63,6 +63,16 @@
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
+		"diyother":	"强力召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	27452,
+		"script":	"失魂寺",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5觉醒",
 		"tag":	18468,
@@ -81,6 +91,46 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	23268,
+		"script":	"普洛菲司台",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	26789,
+		"script":	"霍普占卜室",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	5196,
+		"script":	"卡伊洛斯的时间",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	26963,
+		"script":	"哈姆克公爵府",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
@@ -94,19 +144,19 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	11479,
-		"script":	"冰狱",
+		"diyawaken":	"战斗",
+		"tag":	27849,
+		"script":	"盟约圣地",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
+		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	26963,
-		"script":	"哈姆克公爵府",
+		"tag":	29687,
+		"script":	"希列",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -123,20 +173,20 @@
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"关闭战魂",
 		"diyawaken":	"",
-		"tag":	20192,
-		"script":	"自动培养血脉战魂",
+		"tag":	31532,
+		"script":	"竞技场练习赛（全部任务）",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
-		"diyother":	"关闭战魂",
+		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	31532,
-		"script":	"竞技场练习赛（全部任务）",
+		"tag":	20192,
+		"script":	"自动培养血脉战魂",
 		"task":	0
 	}, {
 		"setcount":	0,

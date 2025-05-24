@@ -51,16 +51,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	21716,
-		"script":	"探险家神殿(普通)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验本召唤兽",

@@ -148,7 +148,7 @@
 	"revive_print":	false,
 	"revive_situ_buff":	true,
 	"revive_sw1":	true,
-	"revive_sw2":	true,
+	"revive_sw2":	false,
 	"run_log_file":	false,
 	"run_log_sw1":	true,
 	"run_log_sw2":	true,
@@ -1065,10 +1065,10 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"1124",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"x":	"3127",
+			"y":	"1391",
+			"pos1":	"左跑",
+			"pos2":	"右跑",
 			"judge":	{
 				"":	""
 			},
@@ -1076,10 +1076,10 @@
 				"":	""
 			}
 		}, {
-			"type":	"模拟↑键",
-			"x":	"65",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
+			"type":	"转身&执行额外",
+			"x":	"3726",
+			"y":	"1391",
+			"pos1":	"右跑",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
@@ -1089,27 +1089,15 @@
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3691",
-			"y":	"1375",
+			"x":	"3447",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"2786",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
+				"彩虹副本传送":	"空中战场"
 			}
 		}],
 	"script_trigger_data":	[],
@@ -4415,7 +4403,7 @@
 		}, {
 			"only_run":	false,
 			"run_sleep":	1,
-			"sw":	true,
+			"sw":	false,
 			"name":	"圣物生存钥匙特殊",
 			"judges":	[],
 			"executes":	[{

@@ -2,16 +2,28 @@ import os
 import glob
 import chardet
 from pathlib import Path
+from colorama import init, Fore, Back, Style
+# 初始化 colorama，确保在 Windows 上也能正常显示颜色
+init(autoreset=True)  # 自动重置颜色
+
+def colored_log(message, color=Fore.RESET):
+    """带颜色的日志打印函数"""
+    print(f"{color}{message}")
+
+def colored_bg_log(message, color=Back.RED):
+    print(color + f"{message}")
+
+print(Style.RESET_ALL)  # 手动重置所有样式
 
 # 指定目录路径
-specified_directory = r'E:\Game\Chd\小草\心月狐\data\Config\1536622268'
+# specified_directory = r'E:\Game\Chd\小草\心月狐\data\Config\1536622268'
+specified_directory = r'E:\Game\Chd\小草\心月狐\data\Config'
 
 # 要替换的字符串和替换后的字符串
 needReplace = False
 old_strings = ['自动采集=开启']  # 替换为你要查找的字符串
 new_strings = ['自动采集=关闭']  # 替换为你想要的新字符串
 find_strings = [
-    '笨笨龙'
     # '副本难度=简单',
     # '副本难度=普通',
     # '副本难度=困难',
@@ -26,7 +38,7 @@ find_strings = [
     # '不打苏尔特=关闭',
     # '退组进队长组=开启',
     # '送死流=关闭',
-    # '送死流=全程送死',
+    '送死流=全程送死',
     # '组队模式=关闭'
     # '组队模式=[打手]组队一起打'
     # '自动吃减伤晚餐=开启'
@@ -144,7 +156,10 @@ def checkFile(dir, needReplace):
 
                     # print(f"文件 {file} 副本 {str2} 角色 {str1} 中有 {find_string} 字符串")
                     index = index + 1
-                    print(f"{index:<5}{str2:<20} {str3:<16} {str1:<10} |||---{find_string}")
+                    if str2 == '丽西泰亚之门' or str2 == '蘑菇树沼泽':
+                        colored_bg_log(f"{index:<5}{str2:<20} {str3:<16} {str1:<10} |||---{find_string}")
+                    else:
+                        print(f"{index:<5}{str2:<20} {str3:<16} {str1:<10} |||---{find_string}")
 
                     if needReplace:
                         # 替换字符串
