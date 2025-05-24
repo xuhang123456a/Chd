@@ -85,7 +85,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	21177,
+		"tag":	15873,
 		"script":	"通天塔(定义)",
 		"task":	0
 	}, {
