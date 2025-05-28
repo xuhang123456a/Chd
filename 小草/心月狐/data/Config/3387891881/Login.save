@@ -149,18 +149,6 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	162670890,
-		"name":	"莫吵",
-		"autoscript":	"连体13神射每日",
-		"item":	"",
-		"item_other":	""
-	}, {
-		"index":	162672718,
-		"name":	"无心梦",
-		"autoscript":	"连体14吉他每日",
-		"item":	"",
-		"item_other":	""
-	}, {
 		"index":	777750109,
 		"name":	"你到底吻不吻我o",
 		"autoscript":	"a1每日",

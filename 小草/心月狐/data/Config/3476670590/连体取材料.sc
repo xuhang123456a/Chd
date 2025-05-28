@@ -1,14 +1,13 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15366,
-		"script":	"黑月的考验",
-		"task":	0,
-		"scriptend":	29
+		"tag":	7525,
+		"script":	"【彩虹向导】每日任务",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -16,10 +15,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	2498,
-		"script":	"退出组队",
-		"task":	0,
-		"scriptend":	29
+		"tag":	11454,
+		"script":	"【取】材料",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -27,7 +25,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	27173,
+		"tag":	19771,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]

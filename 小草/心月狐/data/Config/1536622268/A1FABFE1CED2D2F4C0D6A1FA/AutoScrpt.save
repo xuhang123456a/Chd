@@ -8,7 +8,7 @@
 		"tag":	8278,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0,
-		"scriptend":	27
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -19,7 +19,7 @@
 		"tag":	1805,
 		"script":	"探险家神殿(史诗)",
 		"task":	0,
-		"scriptend":	27
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -30,7 +30,7 @@
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
 		"task":	0,
-		"scriptend":	27
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -41,7 +41,7 @@
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
 		"task":	0,
-		"scriptend":	27
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -52,7 +52,7 @@
 		"tag":	20144,
 		"script":	"薇娅斯梦境",
 		"task":	0,
-		"scriptend":	27
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -63,7 +63,7 @@
 		"tag":	19955,
 		"script":	"失魂寺",
 		"task":	0,
-		"scriptend":	27
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -74,7 +74,7 @@
 		"tag":	21696,
 		"script":	"艾乌加蒙剧场",
 		"task":	0,
-		"scriptend":	27
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -85,7 +85,7 @@
 		"tag":	32309,
 		"script":	"深渊之镜",
 		"task":	0,
-		"scriptend":	27
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -106,7 +106,7 @@
 		"tag":	8298,
 		"script":	"自动强化贯穿力觉醒石+3",
 		"task":	0,
-		"scriptend":	27
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -117,7 +117,7 @@
 		"tag":	10134,
 		"script":	"自动强化暴击伤害觉醒石+3",
 		"task":	0,
-		"scriptend":	27
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -128,7 +128,7 @@
 		"tag":	22281,
 		"script":	"【存】材料",
 		"task":	0,
-		"scriptend":	27
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

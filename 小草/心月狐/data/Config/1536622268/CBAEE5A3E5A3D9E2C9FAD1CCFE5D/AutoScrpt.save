@@ -29,7 +29,8 @@
 		"diyawaken":	"",
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -39,7 +40,8 @@
 		"diyawaken":	"",
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -59,7 +61,8 @@
 		"diyawaken":	"",
 		"tag":	17659,
 		"script":	"【取】材料",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
