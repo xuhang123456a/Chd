@@ -7,7 +7,8 @@
 		"diyawaken":	"",
 		"tag":	27180,
 		"script":	"【彩虹向导】每日任务",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -17,7 +18,8 @@
 		"diyawaken":	"",
 		"tag":	29659,
 		"script":	"领取家族工资",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,

@@ -150,7 +150,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	7956,
 		"script":	"卡伊洛斯的时间",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -160,7 +161,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	9364,
 		"script":	"哈姆克公爵府",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -170,7 +172,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	17422,
 		"script":	"圣字教堂",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -210,7 +213,8 @@
 		"diyawaken":	"",
 		"tag":	6640,
 		"script":	"通天塔(定义)",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -220,7 +224,8 @@
 		"diyawaken":	"",
 		"tag":	28952,
 		"script":	"【存】材料",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
