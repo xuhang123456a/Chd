@@ -51,6 +51,7 @@ def example_modification(data, target_data):
     return target_data
 
 file_path = r'E:\Game\Chd\小草\DIY指令\吉他号\搭配-装备搭配 魔法主职连体.txt'
+# file_path = r'E:\Game\Chd\小草\DIY指令\环号\搭配-装备搭配 物理主职连体.txt'
 json_content,encoding = read_json_file(file_path)
 target_path = r'E:\Game\Chd\小草\心月狐\data\Config'
 target_files_path = [

@@ -291,7 +291,7 @@
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
 	"btn_color_8":	16384000,
-	"server":	111,
+	"server":	106,
 	"item_filter_1":	[],
 	"item_filter_2":	[],
 	"item_filter_3":	[],
@@ -503,6 +503,15 @@
 				"[无]":	""
 			},
 			"item":	"联盟家族经验点支援包"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"高级血脉水晶(绑定)"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{

@@ -561,7 +561,7 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"´æ²Ö",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",

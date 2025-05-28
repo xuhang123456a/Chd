@@ -161,16 +161,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24672,
-		"script":	"混乱世界",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"关闭战魂",
@@ -187,6 +177,16 @@
 		"diyawaken":	"",
 		"tag":	20192,
 		"script":	"自动培养血脉战魂",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	12256,
+		"script":	"【存】材料",
 		"task":	0
 	}, {
 		"setcount":	0,
