@@ -1,6 +1,8 @@
 *.zip
 *.rar
 *.dmp
+**/AutoScrpt.save
+**/autoScrpt.save
 
 攻略/恒记浏览器插件
 小草/SNXC/Log
