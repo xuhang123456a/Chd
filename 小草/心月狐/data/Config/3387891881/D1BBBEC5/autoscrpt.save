@@ -8,7 +8,7 @@
 		"tag":	26109,
 		"script":	"【取】材料",
 		"task":	0,
-		"scriptend":	28
+		"scriptend":	31
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -19,7 +19,7 @@
 		"tag":	27180,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0,
-		"scriptend":	28
+		"scriptend":	31
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -40,7 +40,7 @@
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
 		"task":	0,
-		"scriptend":	28
+		"scriptend":	31
 	}, {
 		"setcount":	0,
 		"loadtime":	-2100297728,
@@ -51,7 +51,7 @@
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
 		"task":	0,
-		"scriptend":	28
+		"scriptend":	31
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

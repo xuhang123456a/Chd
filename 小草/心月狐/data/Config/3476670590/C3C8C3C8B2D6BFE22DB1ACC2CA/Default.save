@@ -52,6 +52,9 @@
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
+	"item_pick_filter_12":	true,
+	"item_pick_filter_13":	false,
+	"item_pick_filter_14":	true,
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
@@ -288,7 +291,7 @@
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
 	"btn_color_8":	16384000,
-	"server":	118,
+	"server":	111,
 	"item_filter_1":	[],
 	"item_filter_2":	[],
 	"item_filter_3":	[],
@@ -741,6 +744,20 @@
 			"item":	""
 		}],
 	"auto_card":	[{
+			"id":	428,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	427,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
 			"id":	425,
 			"num1":	0,
 			"num2":	0,
