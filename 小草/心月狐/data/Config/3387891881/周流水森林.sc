@@ -1,19 +1,9 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"¹¥»÷¹Å±®",
-		"diyproperty":	"",
-		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	42,
-		"script":	"Á÷Ë®»ØÀÈ",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"ÕÙ»½ÊŞ",
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	18468,
 		"script":	"Î´ÖªÉ­ÁÖ",

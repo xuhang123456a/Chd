@@ -114,14 +114,14 @@
 	"other_jumptype":	false,
 	"other_passprint":	false,
 	"other_top_window_switch":	false,
-	"path_auto_script_door_sw":	true,
+	"path_auto_script_door_sw":	false,
 	"path_auto_script_showval_sw":	true,
 	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
-	"path_hide_effect_sw":	false,
+	"path_hide_effect_sw":	true,
 	"path_line_boss_sw":	false,
 	"path_line_boss_word_sw":	false,
-	"path_line_deliver_sw":	false,
+	"path_line_deliver_sw":	true,
 	"path_line_exchange_back_sw":	false,
 	"path_line_exchange_sw":	true,
 	"path_line_itemtime_sw":	true,
@@ -177,7 +177,7 @@
 	"skill_option_lr_boss":	true,
 	"skill_option_platform_skill":	true,
 	"skill_option_repeat":	false,
-	"skill_option_slide_off":	false,
+	"skill_option_slide_off":	true,
 	"skill_option_sombra":	false,
 	"skill_option_stop_skill":	false,
 	"skill_option_stop_skill_all":	false,
@@ -291,7 +291,7 @@
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
 	"btn_color_8":	16384000,
-	"server":	113,
+	"server":	102,
 	"item_filter_1":	[],
 	"item_filter_2":	[10273501, 20673501, 30273501, 70273501, 90573501, 190160101, 190160201, 190160301, 190160401, 190160501, 18090022, 190147330, 190147329, 300101401, 300101801, 300102201, 300102601, 300103001, 300103401, 300107001, 300107401, 300107801, 300108201, 300109801, 300110201, 300111401, 300111801, 300113601, 300116201, 300118001, 300118401, 300121601, 300118801, 300121801, 300121901, 300122001, 300122101, 300124401, 300125401, 300125801, 70504301, 70504303, 70504304, 70504308, 70505301, 70505303, 70505304, 70505306, 70505311, 31810002, 186217384, 18080020, 8710018, 70504306, 70505307, 70504307, 70505312, 70505308, 70504311, 8710016, 190190313, 13000176, 20100010, 20100011, 20100009, 20100008, 190197501, 430160202, 190147764, 9910016, 705012001, 705012005, 705012007, 705012002, 705012000, 705012006, 70505310, 70505305, 70504312, 70505309, 70505313, 70505302, 190147541, 190147537, 199147961, 202301004, 190147976, 190148076, 190148075, 71000002, 19032530, 868811029, 70504309, 70504310, 19032533, 19032532, 180135174, 180135161, 180135160, 71000004],
 	"item_filter_3":	[90573501, 70273501, 30273501, 20673501, 10273501, 190160501, 190160401, 190160301, 190160201, 190160101, 18090022, 190147330, 190147329, 70504301, 70504303, 70504304, 70504308, 70505301, 70505303, 70505304, 70505306, 70505311, 31810002, 186217384, 18080020, 8710018, 70504306, 70505307, 70504307, 70505312, 70505308, 70504311, 8710016, 190190313, 13000176, 20100010, 20100011, 20100009, 20100008, 190197501, 430160202, 190147764, 9910016, 705012002, 705012007, 705012005, 705012001, 705012006, 705012000, 70505310, 70505305, 70504312, 70505309, 70505313, 70505302, 190147541, 190147537, 199147961, 71000002, 202301004, 190148075, 190148076, 190147976, 19032530, 868811029, 70504309, 70504310, 19032533, 19032532, 71000004],
@@ -651,65 +651,7 @@
 	"protec_data":	[],
 	"protec_recover_data":	{
 	},
-	"item_buff_data":	[{
-			"sw":	true,
-			"type":	"操作",
-			"name":	"翅膀技[神·圣灵之拥]",
-			"maps":	[],
-			"induns":	["泡泡战舰", "珊瑚之歌"],
-			"hard":	false
-		}, {
-			"sw":	true,
-			"type":	"操作",
-			"name":	"翅膀技[魔·冥界之翼]",
-			"maps":	[],
-			"induns":	["泡泡战舰", "珊瑚之歌"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:龙猫理查",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "泡泡战舰"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:尤里亚",
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:缇尔沃特",
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:贝尔特利切",
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:伊雷泽",
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:卡勒迪安",
-			"hard":	false
-		}, {
-			"sw":	true,
-			"type":	"操作",
-			"name":	"课程:使用七彩玲珑",
-			"induns":	["珊瑚之歌"],
-			"hard":	false
-		}, {
-			"sw":	true,
-			"type":	"外交",
-			"name":	"艾利娅斯-小四",
-			"induns":	["珊瑚之歌"],
-			"hard":	false
-		}],
+	"item_buff_data":	[],
 	"skill_attack_data":	[{
 			"sw":	true,
 			"id":	300,
@@ -895,67 +837,11 @@
 		}],
 	"skill_buff_data":	[],
 	"speak_data":	[],
-	"skill_hotkey_data":	[{
-			"sw":	true,
-			"id":	1106018,
-			"name":	"凤凰箭",
-			"judge":	[],
-			"hotkey":	"A",
-			"fast":	false,
-			"complete":	false
-		}, {
-			"sw":	true,
-			"id":	1109908,
-			"name":	"爆裂箭",
-			"judge":	[],
-			"hotkey":	"A",
-			"fast":	false,
-			"complete":	false
-		}, {
-			"sw":	true,
-			"id":	1105008,
-			"name":	"暴雨箭",
-			"judge":	[],
-			"hotkey":	"A",
-			"fast":	false,
-			"complete":	false
-		}, {
-			"sw":	true,
-			"id":	1210008,
-			"name":	"隐箭陷阱",
-			"judge":	[],
-			"hotkey":	"A",
-			"fast":	false,
-			"complete":	false
-		}, {
-			"sw":	true,
-			"id":	1108008,
-			"name":	"闪耀箭",
-			"judge":	[],
-			"hotkey":	"A",
-			"fast":	false,
-			"complete":	false
-		}, {
-			"sw":	true,
-			"id":	1104018,
-			"name":	"多重箭",
-			"judge":	[],
-			"hotkey":	"A",
-			"fast":	false,
-			"complete":	false
-		}, {
-			"sw":	true,
-			"id":	1006038,
-			"name":	"箭矢之击",
-			"judge":	[],
-			"hotkey":	"A",
-			"fast":	false,
-			"complete":	false
-		}],
+	"skill_hotkey_data":	[],
 	"team_list_data":	[],
 	"script_point_data":	[],
 	"script_trigger_data":	[],
-	"summon_data":	[190145624, 190145625, 201901181, 201901182, 201901183, 201901184, 201901185, 201901186, 201901187, 201901188, 201901189, 201901190, 201901191, 201901192, 201901193, 201901194, 201901195, 202401181, 202401182, 202401183, 202401184, 202401185, 202401186, 202401187, 202401188, 202401189, 202401190, 202401191, 202401192, 202401193, 202401194, 202401195],
+	"summon_data":	[190145625, 190148179, 202401183, 202401186],
 	"line_monster_data":	[],
 	"item_filter_pick_data_1":	[],
 	"item_filter_pick_data_2":	[],
@@ -2475,32 +2361,6 @@
 			"only_run":	false,
 			"run_sleep":	1,
 			"sw":	true,
-			"name":	"切换装备",
-			"judges":	[{
-					"sw":	true,
-					"judge":	{
-						"在地图":	"回音雪地_1602;"
-					}
-				}],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换装备":	"祈福同心+9"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换装备":	"强力戒指(3小时)"
-					},
-					"judges":	[]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	true,
 			"name":	"连体称号切换",
 			"judges":	[],
 			"executes":	[{
@@ -3460,305 +3320,6 @@
 			"only_run":	false,
 			"run_sleep":	1,
 			"sw":	true,
-			"name":	"困难庭院",
-			"judges":	[{
-					"sw":	true,
-					"judge":	{
-						"在副本":	"阿特拉斯庭院;"
-					}
-				}, {
-					"sw":	true,
-					"judge":	{
-						"在困难副本":	""
-					}
-				}],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·蛮荒"
-					},
-					"judges":	[{
-							"地图内有首领":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·远古"
-					},
-					"judges":	[]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·暴怒"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·壁垒"
-					},
-					"judges":	[{
-							"地图内有首领":	""
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换称号":	"装模作样绿茶姐"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"蓝草莓味全糖蜜果"
-					},
-					"judges":	[{
-							"地图内有首领":	""
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"紫葡萄味全糖蜜果"
-					},
-					"judges":	[{
-							"地图内有首领":	""
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"优先技能":	"【生存本能】1段"
-					},
-					"judges":	[{
-							"不在地图":	"阿特拉斯庭院 8_106108;阿特拉斯庭院 7_106107;阿特拉斯庭院 6_106106;阿特拉斯庭院 5_106105;阿特拉斯庭院 4_106104;阿特拉斯庭院 3_106103;"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"优先技能":	"【生存本能】2段"
-					},
-					"judges":	[{
-							"在地图":	"阿特拉斯庭院 8_106108"
-						}, {
-							"首领血条数<=":	"90"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"拉兰大道的晚餐·过去的真理"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"哈密瓜味全糖蜜果"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"拉皮德的铁盾药剂"
-					},
-					"judges":	[]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	true,
-			"name":	"经验本吃药",
-			"judges":	[{
-					"sw":	true,
-					"judge":	{
-						"在副本":	"珊瑚之歌;泡泡战舰;"
-					}
-				}],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"小四的祝福(不可交易)"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"百分考卷"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"经验值的秘药 500%(不可交易)"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"回忆の沙漏"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"高级温泉蛋"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"温泉蛋"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·印记"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"羁绊之羽"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"经验值药丸"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"恶魔の小果实（电）"
-					},
-					"judges":	[]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"恶魔の小果实（火）"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"鳗鱼料理"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"鲤鱼料理"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"甜味饮料"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"辣鱼汤"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"短效150%经验丹(12小时)"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"领取课程戒指":	""
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换装备":	"强力戒指(3小时)"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换装备":	"强力戒指(12小时)"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"水蜜桃味全糖蜜果"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换称号":	"装模作样绿茶姐"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用技能":	"成长魔法"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"百分考卷"
-					},
-					"judges":	[{
-							"拥有BUFF":	"活动_6000157"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"小四的祝福(不可交易)"
-					},
-					"judges":	[{
-							"拥有BUFF":	"活动_6000157"
-						}]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	true,
 			"name":	"圣物生存钥匙特殊",
 			"judges":	[],
 			"executes":	[{
@@ -4578,7 +4139,7 @@
 		}],
 	"dress_text":	[],
 	"diy_skill":	{
-		"[英雄(刀)]连招":	false,
+		"[英雄(刀)]连招":	true,
 		"[英雄(枪)]连招":	false,
 		"[剑圣]十字之刃秘技":	true,
 		"[剑圣]剑圣双修乘天刷灵魂":	false,
@@ -4593,7 +4154,7 @@
 		"[风行刺客(匕首)]边缘优化(1)":	true,
 		"[风行刺客(匕首)]边缘优化(2)":	true,
 		"[守护天使]连招":	false,
-		"[修行舞者]二连击":	false,
+		"[修行舞者]二连击":	true,
 		"[宝石星]连招(1)":	false,
 		"[宝石星]连招(2)":	false,
 		"[宝石星]连招(3)":	false,

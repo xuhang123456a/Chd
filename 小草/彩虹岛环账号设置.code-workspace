@@ -1,7 +1,7 @@
 {
 	"folders": [],
 	"settings": {
-		"workbench.editor.showTabs": true,
+		"workbench.editor.showTabs": "multiple",
 		"workbench.editor.scrollToSwitchTabs": false,
 		"workbench.editor.wrapTabs": true,
 		"workbench.editor.highlightModifiedTabs": false,

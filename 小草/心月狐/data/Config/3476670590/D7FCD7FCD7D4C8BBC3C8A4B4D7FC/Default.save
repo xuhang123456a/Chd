@@ -86,7 +86,7 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	true,
+	"main_mob_herbs":	false,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
@@ -967,9 +967,9 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"×ªÉí&Ö´ĞĞ¶îÍâ",
-			"x":	"5183",
+			"x":	"1124",
 			"y":	"1375",
-			"pos1":	"ÓÒÅÜ",
+			"pos1":	"×ó&ÓÒ[ÎŞ]",
 			"pos2":	"×óÅÜ",
 			"judge":	{
 				"":	""
@@ -978,52 +978,40 @@
 				"":	""
 			}
 		}, {
-			"type":	"×óÌø",
-			"x":	"2976",
+			"type":	"Ä£Äâ¡ü¼ü",
+			"x":	"65",
 			"y":	"1375",
-			"pos1":	"×óÅÜ",
+			"pos1":	"×ó&ÓÒ[ÎŞ]",
 			"pos2":	"×óÅÜ",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"ÌøÔ¾¿ØÖÆ":	"100"
+				"":	""
 			}
 		}, {
-			"type":	"ÉÏÌø",
-			"x":	"32",
+			"type":	"×ªÉí&Ö´ĞĞ¶îÍâ",
+			"x":	"3691",
 			"y":	"1375",
-			"pos1":	"×óÅÜ",
-			"pos2":	"ÓÒÅÜ",
+			"pos1":	"×ó&ÓÒ[ÎŞ]",
+			"pos2":	"×óÅÜ",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"ÌøÔ¾¿ØÖÆ":	"400"
+				"":	""
 			}
 		}, {
-			"type":	"ÉÏÌø",
-			"x":	"392",
-			"y":	"991",
-			"pos1":	"ÓÒÅÜ",
-			"pos2":	"ÓÒÅÜ",
+			"type":	"Ä£Äâ¡ü¼ü",
+			"x":	"2786",
+			"y":	"1375",
+			"pos1":	"×ó&ÓÒ[ÎŞ]",
+			"pos2":	"×óÅÜ",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"ÌøÔ¾¿ØÖÆ":	"400"
-			}
-		}, {
-			"type":	"ÓÒÌø",
-			"x":	"959",
-			"y":	"479",
-			"pos1":	"ÓÒÅÜ",
-			"pos2":	"ÓÒÅÜ",
-			"judge":	{
 				"":	""
-			},
-			"execute":	{
-				"ÌøÔ¾¿ØÖÆ":	"100"
 			}
 		}],
 	"script_trigger_data":	[],
