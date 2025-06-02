@@ -5,21 +5,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	27180,
+		"tag":	8278,
 		"script":	"【彩虹向导】每日任务",
-		"task":	0,
-		"scriptend":	3
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20910,
-		"script":	"兑换羁绊之石",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -27,28 +15,28 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	3889,
-		"script":	"探险家神殿(史诗)",
+		"tag":	19966,
+		"script":	"未知森林",
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	-2100297728,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	2307,
-		"script":	"探险家神殿(英雄)",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	21349,
+		"script":	"艾乌加蒙剧场",
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	-2100297728,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31674,
-		"script":	"探险家神殿(高级)",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	314,
+		"script":	"深渊之镜",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -57,10 +45,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	10502,
+		"tag":	22281,
 		"script":	"【存】材料",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -68,7 +55,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15458,
+		"tag":	21361,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]
