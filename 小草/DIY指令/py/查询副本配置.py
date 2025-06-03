@@ -59,7 +59,7 @@ def checkFile(dir, needReplace):
 
             try:
                 # 读取文件内容
-                with open(file, 'r', encoding=encoding, errors='replace') as f:
+                with open(file, 'r', encoding='utf-8', errors='replace') as f:
                     content = f.read()
             except Exception as e:
                 print(f"读取文件 {file} 时发生错误: {e}")

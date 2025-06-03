@@ -21,11 +21,11 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"存仓",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"战斗",
-		"tag":	13509,
-		"script":	"更换脚本列表1",
+		"diyawaken":	"",
+		"tag":	4090,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]

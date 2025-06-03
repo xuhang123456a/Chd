@@ -20,7 +20,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	-2100297728,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -30,23 +30,13 @@
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	-2100297728,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	-2100297728,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22387,
-		"script":	"探险家神殿(普通)",
 		"task":	0
 	}, {
 		"setcount":	0,

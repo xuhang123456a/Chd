@@ -30,7 +30,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	-2100297728,
+		"loadtime":	47185920,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -40,7 +40,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	-2100297728,
+		"loadtime":	47185920,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -197,5 +197,15 @@
 		"diyawaken":	"",
 		"tag":	15458,
 		"script":	"执行自动切换角色",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	17602,
+		"script":	"更换配置文件",
 		"task":	0
 	}]
