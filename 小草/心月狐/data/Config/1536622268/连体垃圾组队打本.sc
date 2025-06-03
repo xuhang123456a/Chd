@@ -13,16 +13,6 @@
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	19966,
-		"script":	"未知森林",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
 		"tag":	21349,
@@ -37,6 +27,16 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	314,
 		"script":	"深渊之镜",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	19966,
+		"script":	"未知森林",
 		"task":	0
 	}, {
 		"setcount":	0,
