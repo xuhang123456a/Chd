@@ -5,16 +5,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29394,
-		"script":	"兑换羁绊之石",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
 		"tag":	29659,
 		"script":	"领取家族工资",
 		"task":	0
@@ -51,12 +41,22 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"掉落套装",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	20144,
-		"script":	"薇娅斯梦境",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23282,
+		"script":	"索拉城斗兽场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	29394,
+		"script":	"兑换羁绊之石",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -85,16 +85,6 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	13804,
-		"script":	"埃吉尔遗迹",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
 		"tag":	21696,
 		"script":	"艾乌加蒙剧场",
 		"task":	0
@@ -111,12 +101,32 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"掉落套装",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	23282,
-		"script":	"索拉城斗兽场",
+		"diyawaken":	"战斗",
+		"tag":	32145,
+		"script":	"卡伊洛斯的时间",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	6163,
+		"script":	"盟约圣地",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	7747,
+		"script":	"希列",
 		"task":	0
 	}, {
 		"setcount":	0,

@@ -5,8 +5,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29659,
-		"script":	"领取家族工资",
+		"tag":	18759,
+		"script":	"【彩虹向导】每日任务",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -45,18 +45,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	13031,
-		"script":	"火山珊瑚",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	23282,
-		"script":	"索拉城斗兽场",
+		"tag":	29659,
+		"script":	"领取家族工资",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -75,26 +65,6 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	20144,
-		"script":	"薇娅斯梦境",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	17921,
-		"script":	"穆斯菲尔斯隧道",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
 		"tag":	19955,
 		"script":	"失魂寺",
 		"task":	0
@@ -103,20 +73,30 @@
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	21696,
-		"script":	"艾乌加蒙剧场",
+		"diyother":	"",
+		"diyawaken":	"战斗",
+		"tag":	32145,
+		"script":	"卡伊洛斯的时间",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
+		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	32309,
-		"script":	"深渊之镜",
+		"tag":	6163,
+		"script":	"盟约圣地",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	7747,
+		"script":	"希列",
 		"task":	0
 	}, {
 		"setcount":	0,

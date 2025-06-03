@@ -115,19 +115,13 @@
 	}, {
 		"index":	672459437,
 		"name":	"来去荒芜",
-		"autoscript":	"连体123每日必打本",
+		"autoscript":	"连体(123)每日",
 		"item":	"存仓",
 		"item_other":	"神·圣灵之拥;魔·冥界之翼;LA-smile-笑脸(男)T恤;LA逐梦系列-夏の阳光(男)帽子;LA逐梦系列-夏の阳光(男)下衣;空灵披风·SPA队长;法老王的闪耀耳环;法老王的巨型宝石戒指;"
 	}, {
-		"index":	607273109,
-		"name":	"鸦九",
-		"autoscript":	"连体12锁链每日",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
 		"index":	-2073924234,
 		"name":	"我有药",
-		"autoscript":	"连体3风行每日",
+		"autoscript":	"连体(123)每日",
 		"item":	"存仓",
 		"item_other":	"神·圣灵之拥;魔·冥界之翼;LA-smile-笑脸(男)T恤;LA逐梦系列-夏の阳光(男)帽子;LA逐梦系列-夏の阳光(男)下衣;空灵披风·SPA队长;法老王的闪耀耳环;法老王的巨型宝石戒指;"
 	}, {
@@ -137,27 +131,57 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	777750109,
+		"index":	691667625,
+		"name":	"莫吵",
+		"autoscript":	"连体13神射每日",
+		"item":	"",
+		"item_other":	""
+	}, {
+		"index":	691643984,
+		"name":	"无心梦",
+		"autoscript":	"连体14吉他每日",
+		"item":	"",
+		"item_other":	""
+	}, {
+		"index":	691177468,
 		"name":	"你到底吻不吻我o",
 		"autoscript":	"a1每日",
 		"item":	"存仓",
-		"item_other":	"神·圣灵之拥;魔·冥界之翼;LA-smile-笑脸(男)T恤;LA逐梦系列-夏の阳光(男)帽子;LA逐梦系列-夏の阳光(男)下衣;空灵披风·SPA队长;法老王的巨型宝石戒指;法老王的闪耀耳环;;"
+		"item_other":	""
 	}, {
 		"index":	1015519453,
 		"name":	"心缩",
-		"autoscript":	"连体只打神殿",
+		"autoscript":	"连体(5-10)每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	607273109,
+		"name":	"鸦九",
+		"autoscript":	"连体(5-10)每日",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	1015505890,
 		"name":	"乙骨犹太",
-		"autoscript":	"连体只打神殿",
+		"autoscript":	"连体(5-10)每日",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	1015522171,
 		"name":	"荼茶",
-		"autoscript":	"连体只打神殿",
+		"autoscript":	"连体(5-10)每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1015498234,
+		"name":	"陌辰",
+		"autoscript":	"连体(5-10)每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1015515453,
+		"name":	"惊觉⺌",
+		"autoscript":	"连体(5-10)每日",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -167,21 +191,15 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	1015498234,
-		"name":	"陌辰",
-		"autoscript":	"连体567每日必打本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	1015515453,
-		"name":	"惊觉⺌",
-		"autoscript":	"连体567每日必打本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
 		"index":	1015512546,
 		"name":	"逾白⺌",
 		"autoscript":	"连体只打神殿",
 		"item":	"存仓",
 		"item_other":	""
+	}, {
+		"index":	777750109,
+		"name":	"你到底吻不吻我o",
+		"autoscript":	"a1每日",
+		"item":	"存仓",
+		"item_other":	"神·圣灵之拥;魔·冥界之翼;LA-smile-笑脸(男)T恤;LA逐梦系列-夏の阳光(男)帽子;LA逐梦系列-夏の阳光(男)下衣;空灵披风·SPA队长;法老王的巨型宝石戒指;法老王的闪耀耳环;;"
 	}]
