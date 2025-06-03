@@ -5,7 +5,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	26809,
+		"tag":	8278,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0
 	}, {
@@ -37,26 +37,6 @@
 		"diyawaken":	"",
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	29659,
-		"script":	"领取家族工资",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	29394,
-		"script":	"兑换羁绊之石",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -101,56 +81,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"战斗",
-		"tag":	22609,
-		"script":	"霍普占卜室",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"战斗",
-		"tag":	17771,
-		"script":	"普洛菲司台",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	7956,
-		"script":	"卡伊洛斯的时间",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	9364,
-		"script":	"哈姆克公爵府",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	17422,
-		"script":	"圣字教堂",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -181,12 +111,12 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"掉落套装",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6640,
-		"script":	"通天塔(定义)",
+		"tag":	19085,
+		"script":	"自动培养血脉战魂",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -195,7 +125,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	28952,
+		"tag":	22281,
 		"script":	"【存】材料",
 		"task":	0
 	}, {
@@ -205,7 +135,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29004,
+		"tag":	21361,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]
