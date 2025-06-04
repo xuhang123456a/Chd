@@ -45,16 +45,6 @@
 		"diyproperty":	"",
 		"diyother":	"ÕÙ»½ÊŞ",
 		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	20144,
-		"script":	"Ş±æ«Ë¹ÃÎ¾³",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	19955,
 		"script":	"Ê§»êËÂ",
 		"task":	0

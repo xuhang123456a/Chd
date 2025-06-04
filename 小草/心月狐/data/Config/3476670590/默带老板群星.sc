@@ -21,11 +21,11 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"存仓",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	4090,
-		"script":	"执行自动切换角色",
+		"tag":	4760,
+		"script":	"更换脚本列表3",
 		"task":	0
 	}]

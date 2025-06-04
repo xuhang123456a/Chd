@@ -5,43 +5,42 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17920,
+		"tag":	18759,
 		"script":	"【彩虹向导】每日任务",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
+		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	28555,
-		"script":	"艾乌加蒙剧场",
+		"tag":	1805,
+		"script":	"探险家神殿(史诗)",
 		"task":	0,
-		"scriptend":	3
+		"scriptend":	4
 	}, {
 		"setcount":	0,
-		"loadtime":	0,
+		"loadtime":	-2100297728,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	13796,
-		"script":	"深渊之镜",
-		"task":	0,
-		"scriptend":	3
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"装备副本",
+		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	2024,
-		"script":	"未知森林",
+		"tag":	2307,
+		"script":	"探险家神殿(英雄)",
 		"task":	0,
-		"scriptend":	3
+		"scriptend":	4
+	}, {
+		"setcount":	0,
+		"loadtime":	-2100297728,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	31674,
+		"script":	"探险家神殿(高级)",
+		"task":	0,
+		"scriptend":	4
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -49,10 +48,105 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19534,
+		"tag":	29659,
+		"script":	"领取家族工资",
+		"task":	0,
+		"scriptend":	4
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	29394,
+		"script":	"兑换羁绊之石",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	19955,
+		"script":	"失魂寺",
+		"task":	0,
+		"scriptend":	4
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"战斗",
+		"tag":	32145,
+		"script":	"卡伊洛斯的时间",
+		"task":	0,
+		"scriptend":	4
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	6163,
+		"script":	"盟约圣地",
+		"task":	0,
+		"scriptend":	4
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	7747,
+		"script":	"希列",
+		"task":	0,
+		"scriptend":	4
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	6306,
+		"script":	"自动强化经验值觉醒石+3",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	8298,
+		"script":	"自动强化贯穿力觉醒石+3",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	10134,
+		"script":	"自动强化暴击伤害觉醒石+3",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22281,
 		"script":	"【存】材料",
 		"task":	0,
-		"scriptend":	3
+		"scriptend":	4
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -60,7 +154,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9162,
+		"tag":	21361,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]
