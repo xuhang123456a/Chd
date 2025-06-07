@@ -131,6 +131,12 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	691177468,
+		"name":	"你到底吻不吻我o",
+		"autoscript":	"a1每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	1015498234,
 		"name":	"陌辰",
 		"autoscript":	"连体(5-10)每日",
@@ -146,12 +152,6 @@
 		"index":	1015519453,
 		"name":	"心缩",
 		"autoscript":	"连体(5-10)每日",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	691177468,
-		"name":	"你到底吻不吻我o",
-		"autoscript":	"a1每日",
 		"item":	"存仓",
 		"item_other":	""
 	}, {

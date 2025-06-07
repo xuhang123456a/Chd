@@ -8,7 +8,7 @@
 		"tag":	17920,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0,
-		"scriptend":	4
+		"scriptend":	7
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -19,7 +19,7 @@
 		"tag":	28555,
 		"script":	"艾乌加蒙剧场",
 		"task":	0,
-		"scriptend":	4
+		"scriptend":	7
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -30,7 +30,7 @@
 		"tag":	13796,
 		"script":	"深渊之镜",
 		"task":	0,
-		"scriptend":	4
+		"scriptend":	7
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -41,7 +41,7 @@
 		"tag":	2024,
 		"script":	"未知森林",
 		"task":	0,
-		"scriptend":	4
+		"scriptend":	7
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -52,7 +52,7 @@
 		"tag":	19534,
 		"script":	"【存】材料",
 		"task":	0,
-		"scriptend":	4
+		"scriptend":	7
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
