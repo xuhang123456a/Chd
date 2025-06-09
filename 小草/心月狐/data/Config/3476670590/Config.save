@@ -123,11 +123,11 @@
 					"type":	"外交",
 					"name":	"艾利娅斯-小四"
 				}, {
-					"sw":	false,
+					"sw":	true,
 					"type":	"操作",
 					"name":	"翅膀技[神·圣灵之拥]"
 				}, {
-					"sw":	false,
+					"sw":	true,
 					"type":	"操作",
 					"name":	"翅膀技[魔·冥界之翼]"
 				}, {

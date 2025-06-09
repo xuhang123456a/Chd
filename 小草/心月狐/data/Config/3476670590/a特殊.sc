@@ -49,7 +49,7 @@
 		"script":	"领取家族工资",
 		"task":	0
 	}, {
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",

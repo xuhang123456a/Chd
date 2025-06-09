@@ -213,7 +213,7 @@
 	"main_mob_other_name":	"",
 	"main_mob_trap_name":	"",
 	"path_down_hotkey":	"Down",
-	"store_items":	"橙黄龙珠;蔚蓝龙珠;多彩龙珠;王者腕轮;神秘碎片;高级召唤兽技能强化卷轴;全塘蜜果礼盒;复合觉醒石随机包;",
+	"store_items":	"橙黄龙珠;蔚蓝龙珠;多彩龙珠;王者腕轮;神秘碎片;高级召唤兽技能强化卷轴;全塘蜜果礼盒;复合觉醒石随机包;圣字之火;圣字泛红圣遗物;圣字泛黄圣遗物;圣字泛蓝圣遗物;巴巴托斯的特制炸弹;米凯尔拉的花朵装饰;米凯尔拉的羽毛;翠绿口香糖;文明残页;水晶流砂;文明能量球;繁星药剂;卡伊洛斯的标徽;时之花;时之羽;巴巴托斯的长剑锯齿;文明水晶;自旋星盘;",
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"航·次元守望者;",
@@ -1070,7 +1070,7 @@
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
 			"npc":	1,
-			"sw1":	true,
+			"sw1":	false,
 			"sw2":	true,
 			"item":	"神魔羁绊礼盒"
 		}, {
@@ -1090,7 +1090,7 @@
 			"item":	""
 		}, {
 			"npc":	6,
-			"sw1":	true,
+			"sw1":	false,
 			"sw2":	true,
 			"item":	"深林羁绊礼盒"
 		}, {
@@ -1110,7 +1110,7 @@
 			"item":	""
 		}, {
 			"npc":	11,
-			"sw1":	true,
+			"sw1":	false,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -1150,7 +1150,7 @@
 			"item":	""
 		}, {
 			"npc":	19,
-			"sw1":	true,
+			"sw1":	false,
 			"sw2":	true,
 			"item":	"罗马羁绊礼盒"
 		}, {
@@ -1235,12 +1235,12 @@
 			"item":	""
 		}, {
 			"npc":	41,
-			"sw1":	true,
+			"sw1":	false,
 			"sw2":	false,
 			"item":	"赠送所有可提交物品"
 		}, {
 			"npc":	42,
-			"sw1":	true,
+			"sw1":	false,
 			"sw2":	false,
 			"item":	"赠送所有可提交物品"
 		}, {
@@ -1255,7 +1255,7 @@
 			"item":	""
 		}, {
 			"npc":	46,
-			"sw1":	true,
+			"sw1":	false,
 			"sw2":	true,
 			"item":	"赠送所有可提交物品"
 		}, {
@@ -1265,7 +1265,7 @@
 			"item":	"赠送所有可提交物品"
 		}, {
 			"npc":	48,
-			"sw1":	true,
+			"sw1":	false,
 			"sw2":	true,
 			"item":	"玛雅羁绊礼盒"
 		}, {
@@ -1300,7 +1300,7 @@
 			"item":	"赠送所有可提交物品"
 		}, {
 			"npc":	57,
-			"sw1":	true,
+			"sw1":	false,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -1310,7 +1310,7 @@
 			"item":	""
 		}, {
 			"npc":	59,
-			"sw1":	true,
+			"sw1":	false,
 			"sw2":	false,
 			"item":	""
 		}],

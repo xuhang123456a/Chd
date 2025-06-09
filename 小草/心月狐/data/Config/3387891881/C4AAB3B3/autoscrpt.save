@@ -7,8 +7,7 @@
 		"diyawaken":	"",
 		"tag":	1771,
 		"script":	"【彩虹向导】每日任务",
-		"task":	0,
-		"scriptend":	6
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

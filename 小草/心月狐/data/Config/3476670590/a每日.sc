@@ -49,13 +49,23 @@
 		"script":	"探险家神殿(高级)",
 		"task":	0
 	}, {
-		"setcount":	0,
-		"loadtime":	0,
+		"setcount":	2,
+		"loadtime":	-2119958528,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验本召唤兽",
 		"diyawaken":	"5经验石",
 		"tag":	29359,
+		"script":	"珊瑚之歌",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2092433408,
+		"diyitem":	"经验套装",
+		"diyproperty":	"",
+		"diyother":	"经验本召唤兽",
+		"diyawaken":	"5经验石",
+		"tag":	21293,
 		"script":	"珊瑚之歌",
 		"task":	0
 	}, {
@@ -117,26 +127,6 @@
 		"diyawaken":	"",
 		"tag":	27828,
 		"script":	"索拉城斗兽场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	18298,
-		"script":	"克洛诺斯的时间",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	24421,
-		"script":	"心脏的记忆",
 		"task":	0
 	}, {
 		"setcount":	0,

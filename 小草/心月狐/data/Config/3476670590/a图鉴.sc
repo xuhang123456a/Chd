@@ -1,12 +1,12 @@
 [{
 		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
+		"loadtime":	-2092433408,
+		"diyitem":	"经验套装",
 		"diyproperty":	"",
-		"diyother":	"关闭战魂",
-		"diyawaken":	"",
-		"tag":	31120,
-		"script":	"地铁中枢",
+		"diyother":	"经验本召唤兽",
+		"diyawaken":	"经验觉醒",
+		"tag":	19956,
+		"script":	"珊瑚之歌",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -111,16 +111,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	7054,
-		"script":	"魔法修炼馆",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -137,16 +127,6 @@
 		"diyawaken":	"",
 		"tag":	3624,
 		"script":	"炼狱阿兹雷尔",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	12391,
-		"script":	"春植岛纪念馆",
 		"task":	0
 	}, {
 		"setcount":	0,

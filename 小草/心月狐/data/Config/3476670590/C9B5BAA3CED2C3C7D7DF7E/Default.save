@@ -213,7 +213,7 @@
 	"main_mob_other_name":	"",
 	"main_mob_trap_name":	"",
 	"path_down_hotkey":	"Down",
-	"store_items":	"混乱世界血脉水晶I;混乱世界血脉水晶II;混乱世界血脉水晶III;混乱世界血脉水晶IV;混乱世界血脉水晶V;混乱世界血脉水晶VI;混乱世界血脉水晶VII;混乱世界血脉水晶VIII;混乱世界血脉水晶IX;混乱世界血脉水晶X;低级血脉水晶(可存仓);中级血脉水晶(可存仓);高级血脉水晶(可存仓);活动时空血脉水晶;",
+	"store_items":	"",
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"航·次元守望者;",
