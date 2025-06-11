@@ -10,6 +10,26 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"loadtime":	-2090467328,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"战斗",
+		"tag":	10248,
+		"script":	"克洛诺斯的时间",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	-2090467328,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"战斗",
+		"tag":	13667,
+		"script":	"心脏的记忆",
+		"task":	0
+	}, {
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
@@ -227,96 +247,6 @@
 		"diyawaken":	"",
 		"tag":	20085,
 		"script":	"王者野外",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31071,
-		"script":	"lv.1000【阿德立卡】野图任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	194,
-		"script":	"lv.1200【山海】野图任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	2029,
-		"script":	"lv.1200【莫洛斯】野图任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	6927,
-		"script":	"lv.1500【比武区】野图任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	9021,
-		"script":	"lv.1500【泼波斯】野图任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	10908,
-		"script":	"lv.2000【底波拉雪原】野图任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	4467,
-		"script":	"lv.2000【克罗索斯】野图任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	8755,
-		"script":	"lv.2200【阿瓦伦】野图任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	10998,
-		"script":	"lv.2600【艾耶岛】野图任务",
 		"task":	0
 	}, {
 		"setcount":	0,

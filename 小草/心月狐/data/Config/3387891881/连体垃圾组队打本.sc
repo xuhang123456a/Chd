@@ -5,8 +5,48 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17920,
+		"tag":	8278,
 		"script":	"【彩虹向导】每日任务",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	1805,
+		"script":	"探险家神殿(史诗)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	2307,
+		"script":	"探险家神殿(英雄)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	31674,
+		"script":	"探险家神殿(高级)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	18033,
+		"script":	"混乱世界",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -15,7 +55,7 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	28555,
+		"tag":	21349,
 		"script":	"艾乌加蒙剧场",
 		"task":	0
 	}, {
@@ -25,7 +65,7 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	13796,
+		"tag":	314,
 		"script":	"深渊之镜",
 		"task":	0
 	}, {
@@ -33,9 +73,19 @@
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"装备副本",
-		"diyawaken":	"",
-		"tag":	2024,
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	19955,
+		"script":	"失魂寺",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	19966,
 		"script":	"未知森林",
 		"task":	0
 	}, {
@@ -45,7 +95,47 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19534,
+		"tag":	6306,
+		"script":	"自动强化经验值觉醒石+3",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	8298,
+		"script":	"自动强化贯穿力觉醒石+3",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	10134,
+		"script":	"自动强化暴击伤害觉醒石+3",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	17664,
+		"script":	"自动培养血脉战魂",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	1259,
 		"script":	"【存】材料",
 		"task":	0
 	}, {
@@ -55,7 +145,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9162,
+		"tag":	1311,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]

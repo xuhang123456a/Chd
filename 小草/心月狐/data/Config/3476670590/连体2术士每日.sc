@@ -198,14 +198,4 @@
 		"tag":	15458,
 		"script":	"执行自动切换角色",
 		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	17602,
-		"script":	"更换配置文件",
-		"task":	0
 	}]
