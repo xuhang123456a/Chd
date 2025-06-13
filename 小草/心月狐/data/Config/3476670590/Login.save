@@ -5,6 +5,12 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	1400103953,
+		"name":	"自然萌ご",
+		"autoscript":	"连体强力组队打本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	726218968,
 		"name":	"自然萌ご",
 		"autoscript":	"a每日",
