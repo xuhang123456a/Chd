@@ -194,6 +194,26 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	15357,
+		"script":	"克洛诺斯的时间",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5觉醒",
+		"tag":	4028,
+		"script":	"心脏的记忆",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
 		"diyawaken":	"战斗",
 		"tag":	12860,
 		"script":	"普洛菲司台",
@@ -267,26 +287,6 @@
 		"diyawaken":	"",
 		"tag":	26963,
 		"script":	"自动强化暴击伤害觉醒石+3",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	15357,
-		"script":	"克洛诺斯的时间",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5觉醒",
-		"tag":	4028,
-		"script":	"心脏的记忆",
 		"task":	0
 	}, {
 		"setcount":	0,
