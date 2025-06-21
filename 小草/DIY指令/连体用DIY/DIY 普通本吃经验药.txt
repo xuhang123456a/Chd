@@ -1,0 +1,80 @@
+[{
+	"only_run":	false,
+	"run_sleep":	1,
+	"sw":	true,
+	"name":	"普通本吃经验药",
+	"judges":	[{
+			"sw":	true,
+			"judge":	{
+				"在副本频道":	""
+			}
+		}],
+	"executes":	[{
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"小四的祝福(不可交易)"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"百分考卷"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"经验值的秘药 500%(不可交易)"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"短效150%经验丹(12小时)"
+			},
+			"judges":	[]
+		}, {
+			"sw":	false,
+			"sleep":	"1",
+			"execute":	{
+				"领取课程戒指":	""
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"更换装备":	"强力戒指(3小时)"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"更换装备":	"强力戒指(12小时)"
+			},
+			"judges":	[]
+		}, {
+			"sw":	false,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"百分考卷"
+			},
+			"judges":	[{
+					"拥有BUFF":	"活动_6000157"
+				}]
+		}, {
+			"sw":	false,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"小四的祝福(不可交易)"
+			},
+			"judges":	[{
+					"拥有BUFF":	"活动_6000157"
+				}]
+		}]
+}]
