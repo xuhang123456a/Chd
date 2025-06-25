@@ -215,26 +215,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"战斗",
-		"tag":	12860,
-		"script":	"普洛菲司台",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"战斗",
-		"tag":	42,
-		"script":	"霍普占卜室",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"战斗",
 		"tag":	22227,
 		"script":	"卡伊洛斯的时间",
 		"task":	0

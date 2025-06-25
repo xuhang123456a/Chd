@@ -98,4 +98,14 @@
 		"tag":	5923,
 		"script":	"lv.2600¡¾°¬Ò®µº¡¿Ò°Í¼ÈÎÎñ",
 		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"´æ²Ö",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	25220,
+		"script":	"Ö´ÐÐ×Ô¶¯ÇÐ»»½ÇÉ«",
+		"task":	0
 	}]

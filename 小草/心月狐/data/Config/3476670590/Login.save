@@ -52,4 +52,10 @@
 		"autoscript":	"连体做任务",
 		"item":	"存仓",
 		"item_other":	""
+	}, {
+		"index":	631169156,
+		"name":	"自然萌ご",
+		"autoscript":	"",
+		"item":	"存仓",
+		"item_other":	""
 	}]

@@ -118,7 +118,7 @@
 	"path_auto_script_showval_sw":	true,
 	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
-	"path_hide_effect_sw":	true,
+	"path_hide_effect_sw":	false,
 	"path_line_boss_sw":	false,
 	"path_line_boss_word_sw":	false,
 	"path_line_deliver_sw":	false,
@@ -291,10 +291,10 @@
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
 	"btn_color_8":	16384000,
-	"server":	116,
+	"server":	111,
 	"item_filter_1":	[180135115, 180135116, 180135131, 180135132, 16000106, 180135117, 180135136, 180135137, 180135138, 180135118, 180135119, 180135120, 180135121, 180135133, 180135134, 180135135, 180135124, 180135125, 180135123, 180135122],
-	"item_filter_2":	[518111002, 518111001, 170195348, 202301005, 20100008, 20100009, 20100011, 190160301, 190160401, 190160101, 20100010, 82973612, 70505313, 430437027, 430437028, 190160201, 190160501, 20200115, 18090022, 18080020],
-	"item_filter_3":	[518111001, 518111002, 170195348, 20100010, 190160101, 190160401, 190160301, 20100011, 20100009, 20100008, 202301005, 82973612, 70505313, 430437027, 430437028, 190160201, 190160501, 20200115, 18090022, 18080020],
+	"item_filter_2":	[518111002, 518111001, 170195348, 202301005, 20100008, 20100009, 20100011, 190160301, 190160401, 190160101, 20100010, 82973612, 70505313, 430437027, 430437028, 190160201, 190160501, 20200115, 18090022, 18080020, 71000002],
+	"item_filter_3":	[518111001, 518111002, 170195348, 20100010, 190160101, 190160401, 190160301, 20100011, 20100009, 20100008, 202301005, 82973612, 70505313, 430437027, 430437028, 190160201, 190160501, 20200115, 18090022, 18080020, 71000002],
 	"item_filter_4":	[],
 	"item_use_data":	[{
 			"sw":	true,
@@ -539,12 +539,12 @@
 			"hard":	false
 		}],
 	"skill_attack_data":	[{
-			"sw":	false,
-			"id":	1803807,
-			"name":	"大脚怪",
+			"sw":	true,
+			"id":	1803704,
+			"name":	"水炸弹",
 			"dmin":	0,
 			"dmax":	300,
-			"priority":	false,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
@@ -552,9 +552,9 @@
 			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	false,
-			"id":	1803805,
-			"name":	"旋转之戒",
+			"sw":	true,
+			"id":	1803701,
+			"name":	"投掷武器",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -566,8 +566,86 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1803802,
-			"name":	"升刃",
+			"id":	3807507,
+			"name":	"【传奇】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	8
+		}, {
+			"sw":	true,
+			"id":	1803702,
+			"name":	"混沌漩涡",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3820001,
+			"name":	"魔法球板",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	8
+		}, {
+			"sw":	true,
+			"id":	3817504,
+			"name":	"【觉醒II】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	1803705,
+			"name":	"巨浪",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803703,
+			"name":	"护身水",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803700,
+			"name":	"挥击波",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -579,8 +657,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1803801,
-			"name":	"环斩",
+			"id":	3807504,
+			"name":	"【觉醒】",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -589,9 +667,77 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	3817507,
+			"name":	"【传奇II】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	8
+		}, {
+			"sw":	true,
+			"id":	1803707,
+			"name":	"水击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803706,
+			"name":	"水炮",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3100160,
+			"name":	"第六感",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"AP<=":	"300"
+				}],
 			"num":	0
 		}],
-	"skill_buff_data":	[],
+	"skill_buff_data":	[{
+			"sw":	true,
+			"id":	2507534,
+			"name":	"特殊能力恢复",
+			"judge":	[],
+			"sleep":	0,
+			"auto":	true
+		}, {
+			"sw":	true,
+			"id":	3007501,
+			"name":	"唤雨之灵的祝福",
+			"judge":	[],
+			"sleep":	0,
+			"auto":	true
+		}],
 	"speak_data":	[],
 	"skill_hotkey_data":	[],
 	"team_list_data":	[],
@@ -3475,6 +3621,60 @@
 					},
 					"judges":	[]
 				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	0,
+			"sw":	true,
+			"name":	"超越点切换",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"在副本频道":	""
+					}
+				}],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"超越搭配":	"BOSS属性"
+					},
+					"judges":	[{
+							"地图内有怪":	"变异的亡语收割者;突变鬼武士;重力引流员;"
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"超越搭配":	"异常状态防御"
+					},
+					"judges":	[{
+							"中异常状态":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"超越搭配":	"小怪属性"
+					},
+					"judges":	[{
+							"地图内无首领":	""
+						}, {
+							"未中异常状态":	""
+						}, {
+							"搜索内无怪":	"重力引流员;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"超越搭配":	"BOSS属性"
+					},
+					"judges":	[{
+							"地图内有首领":	""
+						}, {
+							"未中异常状态":	""
+						}]
+				}]
 		}],
 	"pet_build":	[{
 			"sw":	true,
@@ -4560,6 +4760,36 @@
 		}],
 	"chaosbranch":	[4001, 3001, 2001, 1001, 4003, 3003, 2003, 1003, 4002, 3002, 2002, 1002, 4016, 4012, 3012, 2012, 1012, 4011, 3011, 2011, 1011, 4015, 4004, 3004, 2004, 1004, 4005, 3005, 2005, 1005, 4022, 3022, 2022, 1022, 4021, 3021, 2021, 1021, 4017, 3017, 2017, 1017, 4018, 3018, 2018, 1018, 4019, 3019, 2019, 1019, 4020, 3020, 2020, 1020, 4006, 3006, 2006, 1006, 4007, 3007, 2007, 1007, 4008, 3008, 2008, 1008, 4009, 3009, 2009, 1009, 4014, 3014, 2014, 1014, 12026, 13026, 22026, 23026, 32026, 33026, 42026, 43026, 52026, 53026, 4010, 3010, 2010, 1010, 13025, 23025, 33025, 43025, 53025, 11025, 21025, 31025, 41025, 51025, 4023, 3023, 2023, 1023, 4024, 3024, 2024, 1024, 4013, 3013, 2013, 1013, 1026, 4028, 3028, 2028, 1028, 1033, 2033, 3033, 4033, 1029, 2029, 3029, 4029, 1030, 2030, 3030, 4030, 1031, 2031, 3031, 4031, 1032, 2032, 3032, 4032, 63025, 73025, 61025, 71025, 1034, 2034, 3034, 4034, 2025, 62026, 63026, 72026, 73026, 4027],
 	"autosystemscript":	[1, 2, 5, 6, 7, 8, 10, 13, 16],
-	"shak_skill":	[],
+	"shak_skill":	[{
+			"sw":	true,
+			"id":	1803702,
+			"name":	"混沌漩涡",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	1803705,
+			"name":	"巨浪",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	1803703,
+			"name":	"护身水",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	1803708,
+			"name":	"突击",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	1803709,
+			"name":	"后撤步",
+			"reverse":	true
+		}, {
+			"sw":	true,
+			"id":	3120075,
+			"name":	"向后传送",
+			"reverse":	true
+		}],
 	"opacity":	100
 }

@@ -50,8 +50,8 @@ def example_modification(data, target_data):
         target_data['diysuit_item'] = data
     return target_data
 
-# file_path = r'E:\Game\Chd\小草\DIY指令\吉他号\搭配-装备搭配 魔法主职连体.txt'
-file_path = r'E:\Game\Chd\小草\DIY指令\环号\搭配-装备搭配 物理主职连体.txt'
+file_path = r'E:\Game\Chd\小草\DIY指令\吉他号\搭配-装备搭配 魔法主职连体.txt'
+# file_path = r'E:\Game\Chd\小草\DIY指令\环号\搭配-装备搭配 物理主职连体.txt'
 json_content,encoding = read_json_file(file_path)
 target_path = r'E:\Game\Chd\小草\心月狐\data\Config'
 target_files_path = [
@@ -70,30 +70,30 @@ target_files_path = [
     # ["水澹澹兮生烟", "1536622268\\CBAEE5A3E5A3D9E2C9FAD1CCFE5D"],
     # ["少年游o", "1536622268\\C9D9C4EAD3CE6F"],
 
-    ["你到底吻不吻我o", "3387891881\\C4E3B5BDB5D7CEC7B2BBCEC7CED26F"],
-    ["来去荒芜", "3387891881\\C0B4C8A5BBC4CEDF"],
-    ["我有药", "3387891881\\CED2D3D0D2A9"],
-    ["不要碰我肩膀", "3387891881\\B2BBD2AAC5F6CED2BCE7B0F2"],
-    ["陌辰","3387891881\\C4B0B3BD"],
-    ["惊觉","3387891881\\BEAABEF5FE5D"],
-    ["心缩","3387891881\\D0C4CBF5"],
-    ["逾白","3387891881\\D3E2B0D7FE5D"],
-    ["烟雨情相思","3387891881\\D7FAD1CCD3EAC7E9CFE0CBBCD7FA"],
-    ["乙骨犹太","3387891881\\D2D2B9C7D3CCCCAB"],
-    ["荼茶","3387891881\\DDB1B2E8"],
-    ["鸦九","3387891881\\D1BBBEC5"],
-    ["莫吵","3387891881\\C4AAB3B3"],
-    ["无心梦","3387891881\\CEDED0C4C3CE"],
+    # ["你到底吻不吻我o", "3387891881\\C4E3B5BDB5D7CEC7B2BBCEC7CED26F"],
+    # ["来去荒芜", "3387891881\\C0B4C8A5BBC4CEDF"],
+    # ["我有药", "3387891881\\CED2D3D0D2A9"],
+    # ["不要碰我肩膀", "3387891881\\B2BBD2AAC5F6CED2BCE7B0F2"],
+    # ["陌辰","3387891881\\C4B0B3BD"],
+    # ["惊觉","3387891881\\BEAABEF5FE5D"],
+    # ["心缩","3387891881\\D0C4CBF5"],
+    # ["逾白","3387891881\\D3E2B0D7FE5D"],
+    # ["烟雨情相思","3387891881\\D7FAD1CCD3EAC7E9CFE0CBBCD7FA"],
+    # ["乙骨犹太","3387891881\\D2D2B9C7D3CCCCAB"],
+    # ["荼茶","3387891881\\DDB1B2E8"],
+    # ["鸦九","3387891881\\D1BBBEC5"],
+    # ["莫吵","3387891881\\C4AAB3B3"],
+    # ["无心梦","3387891881\\CEDED0C4C3CE"],
 
     # ["自然萌ご", "3476670590\\D7FCD7FCD7D4C8BBC3C8A4B4D7FC"],
-    # ["十八岁青春男高", "3476670590\\CAAEB0CBCBEAC7E0B4BAC4D0B8DF"],
-    # ["雪绒薄荷ご", "3476670590\\D7FCD7FCD1A9C8DEB1A1BAC9A4B4"],
-    # ["傻海我们走~", "3476670590\\C9B5BAA3CED2C3C7D7DF7E"],
-    # ["BaLl,", "3476670590\\42614C6C2C"],
-    # ["萌萌仓库-格挡","3476670590\\C3C8C3C8B2D6BFE22DB8F1B5B2"],
-    # ["萌萌仓库-爆率","3476670590\\C3C8C3C8B2D6BFE22DB1ACC2CA"],
-    # ["芝士羊绒ご","3476670590\\D7FCD7FCD6A5CABFD1F2C8DEA4B4"],
-    # ["雪绒蓝莓ご","3476670590\\D7FCD7FCD1A9C8DEC0B6DDAEA4B4"],
+    ["十八岁青春男高", "3476670590\\CAAEB0CBCBEAC7E0B4BAC4D0B8DF"],
+    ["雪绒薄荷ご", "3476670590\\D7FCD7FCD1A9C8DEB1A1BAC9A4B4"],
+    ["傻海我们走~", "3476670590\\C9B5BAA3CED2C3C7D7DF7E"],
+    ["BaLl,", "3476670590\\42614C6C2C"],
+    ["萌萌仓库-格挡","3476670590\\C3C8C3C8B2D6BFE22DB8F1B5B2"],
+    ["萌萌仓库-爆率","3476670590\\C3C8C3C8B2D6BFE22DB1ACC2CA"],
+    ["芝士羊绒ご","3476670590\\D7FCD7FCD6A5CABFD1F2C8DEA4B4"],
+    ["雪绒蓝莓ご","3476670590\\D7FCD7FCD1A9C8DEC0B6DDAEA4B4"],
 ]
 for target_file_path in target_files_path:
     target_file_path = os.path.join(target_path, target_file_path[1])
