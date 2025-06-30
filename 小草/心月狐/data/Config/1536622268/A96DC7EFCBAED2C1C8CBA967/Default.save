@@ -8,7 +8,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_login_end":	false,
 	"auto_reward_open_sw":	true,
@@ -4848,6 +4848,42 @@
 					},
 					"judges":	[{
 							"在副本":	"黑月的考验;"
+						}]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	false,
+			"name":	"切胸针",
+			"judges":	[],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"更换装备":	"扬卡什胸针+4"
+					},
+					"judges":	[{
+							"拥有BUFF":	"充能_88232992"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"更换装备":	"利卡里亚之双生胸针"
+					},
+					"judges":	[{
+							"拥有BUFF":	"充能_88230050"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"更换装备":	"利卡里亚之双生胸针"
+					},
+					"judges":	[{
+							"没有BUFF":	"充能_88220050"
+						}, {
+							"没有BUFF":	"充能_88232992"
 						}]
 				}]
 		}],

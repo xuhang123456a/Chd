@@ -5,6 +5,26 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	322,
+		"script":	"【月活动每日】每日任务",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	2719,
+		"script":	"【月活动签到】高级签到任务",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
 		"tag":	4108,
 		"script":	"【月活动】领取苏生",
 		"task":	0
@@ -17,6 +37,16 @@
 		"diyawaken":	"",
 		"tag":	26619,
 		"script":	"【周挑战】领取苏生",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"强力召唤兽",
+		"diyawaken":	"",
+		"tag":	4935,
+		"script":	"无尽繁星大厅",
 		"task":	0
 	}, {
 		"setcount":	0,
