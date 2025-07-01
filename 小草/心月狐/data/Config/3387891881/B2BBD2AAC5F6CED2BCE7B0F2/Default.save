@@ -4,7 +4,6 @@
 	"auto_end_item":	false,
 	"auto_end_lua":	false,
 	"auto_end_plan":	false,
-	"auto_end_team":	false,
 	"auto_load_change":	false,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
@@ -181,6 +180,7 @@
 	"skill_option_sombra":	false,
 	"skill_option_stop_skill":	false,
 	"skill_option_stop_skill_all":	true,
+	"skill_option_storage":	false,
 	"skill_shake_sw":	true,
 	"skill_silent_sw":	true,
 	"summon_automatic_zhs":	true,
@@ -275,6 +275,7 @@
 	"skill_option_lr_val":	0,
 	"skill_option_platform_skill_v":	1,
 	"skill_option_sombra_val":	1,
+	"skill_option_storage_val":	0,
 	"skill_silent_val":	0,
 	"summon_automatic_zhs_refresh1":	0,
 	"summon_automatic_zhs_refresh2":	0,
@@ -291,7 +292,7 @@
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
 	"btn_color_8":	16384000,
-	"server":	111,
+	"server":	109,
 	"item_filter_1":	[],
 	"item_filter_2":	[430710201, 180134344, 20100010, 20100011, 20100009, 20100008, 190160101, 190160201, 190160301, 190160401, 190160501, 190147329, 190147330, 70504304, 70504311, 70505311, 70504307, 70505307, 70505304, 70505303, 70504301, 70504308, 70504303, 70505306, 70505312, 70505301, 20200115, 430437028, 8710018, 190147764, 70505308, 70505305, 70505313, 70505309, 70505310, 13000176, 71000002, 71000004, 70505302, 70504309, 70504312, 70504306, 70504310, 430437027, 186217384, 170195348, 18090022, 430160208, 430160202, 430160108, 430160205, 430160102, 430160206, 430160106, 430160105, 202301005],
 	"item_filter_3":	[430710201, 180134344, 20100008, 20100009, 20100011, 20100010, 190160501, 190160401, 190160301, 190160201, 190160101, 190147329, 190147330, 70504304, 70504311, 70505311, 70504307, 70505307, 70505304, 70505303, 70504301, 70504308, 70504303, 70505306, 70505312, 70505301, 20200115, 8710018, 190147764, 70505308, 70505305, 70505313, 70505309, 70505310, 13000176, 71000002, 71000004, 70505302, 70504309, 70504312, 70504306, 70504310, 430160102, 430160205, 430160108, 430160202, 430160208, 430160206, 430160106, 430160105, 202301005],
@@ -1036,6 +1037,11 @@
 			"sw2":	false,
 			"item":	""
 		}, {
+			"npc":	20,
+			"sw1":	false,
+			"sw2":	false,
+			"item":	""
+		}, {
 			"npc":	6,
 			"sw1":	true,
 			"sw2":	false,
@@ -1052,6 +1058,11 @@
 			"item":	""
 		}, {
 			"npc":	9,
+			"sw1":	false,
+			"sw2":	false,
+			"item":	""
+		}, {
+			"npc":	5,
 			"sw1":	false,
 			"sw2":	false,
 			"item":	""
@@ -1117,6 +1128,11 @@
 			"item":	""
 		}, {
 			"npc":	24,
+			"sw1":	false,
+			"sw2":	false,
+			"item":	""
+		}, {
+			"npc":	35,
 			"sw1":	false,
 			"sw2":	false,
 			"item":	""
@@ -1261,7 +1277,33 @@
 			"sw2":	false,
 			"item":	""
 		}],
+	"lua_script":	{
+		"据点战助手":	false,
+		"一键兑换英雄金币":	false,
+		"自动叠加背包物品":	false,
+		"自动使用经验珠":	false,
+		"自动使用梦灵碎片":	false,
+		"自动使用潜力药水":	false,
+		"自动使用任务物品":	false,
+		"自动使用通天塔箱子":	false,
+		"自动使用消耗物品":	false,
+		"自动使用血脉水晶":	false
+	},
 	"auto_card":	[{
+			"id":	4350,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	434,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
 			"id":	428,
 			"num1":	0,
 			"num2":	0,
@@ -1311,13 +1353,6 @@
 			"item2":	false,
 			"item3":	false
 		}, {
-			"id":	90077,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
 			"id":	90074,
 			"num1":	0,
 			"num2":	0,
@@ -1333,20 +1368,6 @@
 			"item3":	false
 		}, {
 			"id":	402,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	90068,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	90065,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
@@ -1389,13 +1410,6 @@
 			"item3":	false
 		}, {
 			"id":	383,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	5180,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
@@ -1451,13 +1465,6 @@
 			"item2":	false,
 			"item3":	false
 		}, {
-			"id":	374,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
 			"id":	8930,
 			"num1":	0,
 			"num2":	0,
@@ -1507,20 +1514,6 @@
 			"item2":	false,
 			"item3":	false
 		}, {
-			"id":	8880,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	8860,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
 			"id":	349,
 			"num1":	0,
 			"num2":	0,
@@ -1529,13 +1522,6 @@
 			"item3":	false
 		}, {
 			"id":	348,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	8850,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
@@ -1557,13 +1543,6 @@
 			"item3":	false
 		}, {
 			"id":	8760,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	8830,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
@@ -1668,34 +1647,6 @@
 			"item2":	false,
 			"item3":	false
 		}, {
-			"id":	19868,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	19866,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	278,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	277,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
 			"id":	274,
 			"num1":	0,
 			"num2":	0,
@@ -1732,6 +1683,97 @@
 			"item3":	false
 		}, {
 			"id":	265,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	90077,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	90068,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	90065,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	5180,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	374,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	8880,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	8860,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	8850,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	8830,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	19868,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	19866,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	278,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	277,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
@@ -2645,7 +2687,7 @@
 					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
-						"更换称号":	"玫瑰守护者"
+						"更换称号":	"心灵净化者"
 					},
 					"judges":	[{
 							"在副本频道":	""
@@ -3948,9 +3990,7 @@
 						"状态物品":	"哈密瓜味全糖蜜果"
 					},
 					"judges":	[{
-							"在副本":	"时空之泉;埃吉尔遗迹;诺尼尔之泪;摩克沙;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;"
-						}, {
-							"没有BUFF":	"家族·冰魔图腾_63020219"
+							"在副本":	"时空之泉;埃吉尔遗迹;诺尼尔之泪;摩克沙;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;普累罗麻;残缺边界;丽西泰亚之门;蘑菇树沼泽;"
 						}]
 				}, {
 					"sw":	true,

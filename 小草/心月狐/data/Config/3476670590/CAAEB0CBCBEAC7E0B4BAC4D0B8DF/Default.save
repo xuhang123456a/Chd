@@ -4,11 +4,10 @@
 	"auto_end_item":	false,
 	"auto_end_lua":	false,
 	"auto_end_plan":	true,
-	"auto_end_team":	false,
 	"auto_load_change":	false,
 	"auto_load_task":	false,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_login_end":	false,
 	"auto_reward_open_sw":	true,
@@ -181,6 +180,7 @@
 	"skill_option_sombra":	false,
 	"skill_option_stop_skill":	true,
 	"skill_option_stop_skill_all":	true,
+	"skill_option_storage":	false,
 	"skill_shake_sw":	false,
 	"skill_silent_sw":	true,
 	"summon_automatic_zhs":	true,
@@ -275,6 +275,7 @@
 	"skill_option_lr_val":	0,
 	"skill_option_platform_skill_v":	1,
 	"skill_option_sombra_val":	0,
+	"skill_option_storage_val":	0,
 	"skill_silent_val":	0,
 	"summon_automatic_zhs_refresh1":	1,
 	"summon_automatic_zhs_refresh2":	1,
@@ -1089,6 +1090,11 @@
 			"sw2":	false,
 			"item":	""
 		}, {
+			"npc":	20,
+			"sw1":	false,
+			"sw2":	false,
+			"item":	""
+		}, {
 			"npc":	6,
 			"sw1":	true,
 			"sw2":	true,
@@ -1105,6 +1111,11 @@
 			"item":	""
 		}, {
 			"npc":	9,
+			"sw1":	false,
+			"sw2":	false,
+			"item":	""
+		}, {
+			"npc":	5,
 			"sw1":	false,
 			"sw2":	false,
 			"item":	""
@@ -1170,6 +1181,11 @@
 			"item":	""
 		}, {
 			"npc":	24,
+			"sw1":	false,
+			"sw2":	false,
+			"item":	""
+		}, {
+			"npc":	35,
 			"sw1":	false,
 			"sw2":	false,
 			"item":	""
@@ -1314,7 +1330,33 @@
 			"sw2":	false,
 			"item":	""
 		}],
+	"lua_script":	{
+		"据点战助手":	false,
+		"一键兑换英雄金币":	false,
+		"自动叠加背包物品":	false,
+		"自动使用经验珠":	false,
+		"自动使用梦灵碎片":	false,
+		"自动使用潜力药水":	false,
+		"自动使用任务物品":	false,
+		"自动使用通天塔箱子":	false,
+		"自动使用消耗物品":	false,
+		"自动使用血脉水晶":	false
+	},
 	"auto_card":	[{
+			"id":	4350,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	434,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
 			"id":	428,
 			"num1":	0,
 			"num2":	0,
@@ -1364,13 +1406,6 @@
 			"item2":	false,
 			"item3":	false
 		}, {
-			"id":	90077,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
 			"id":	90074,
 			"num1":	0,
 			"num2":	0,
@@ -1388,20 +1423,6 @@
 			"id":	402,
 			"num1":	3,
 			"num2":	3,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	90068,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	90065,
-			"num1":	0,
-			"num2":	0,
 			"item1":	false,
 			"item2":	false,
 			"item3":	false
@@ -1443,13 +1464,6 @@
 		}, {
 			"id":	383,
 			"num1":	3,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	5180,
-			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
@@ -1504,13 +1518,6 @@
 			"item2":	false,
 			"item3":	false
 		}, {
-			"id":	374,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
 			"id":	8930,
 			"num1":	9,
 			"num2":	3,
@@ -1560,20 +1567,6 @@
 			"item2":	false,
 			"item3":	false
 		}, {
-			"id":	8880,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	8860,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
 			"id":	349,
 			"num1":	0,
 			"num2":	0,
@@ -1582,13 +1575,6 @@
 			"item3":	false
 		}, {
 			"id":	348,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	8850,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
@@ -1611,13 +1597,6 @@
 		}, {
 			"id":	8760,
 			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	8830,
-			"num1":	5,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
@@ -1721,34 +1700,6 @@
 			"item2":	false,
 			"item3":	false
 		}, {
-			"id":	19868,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	19866,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	278,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	277,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
 			"id":	274,
 			"num1":	0,
 			"num2":	0,
@@ -1785,6 +1736,97 @@
 			"item3":	false
 		}, {
 			"id":	265,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	90077,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	90068,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	90065,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	5180,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	374,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	8880,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	8860,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	8850,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	8830,
+			"num1":	5,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	19868,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	19866,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	278,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false
+		}, {
+			"id":	277,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
