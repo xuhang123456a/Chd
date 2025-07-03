@@ -1,31 +1,7 @@
 import os
 import json
-from src.utils.tools import read_json_file, save_json_file
+from src.utils.tools import read_json_file, save_json_file, modify_json_data
 
-def modify_json_data(json_content, target_json_content, modification_func):
-    try:
-        # 解析 JSON 数据
-        data = json.loads(json_content)
-        target_data = json.loads(target_json_content)
-        # 调用修改函数
-        modified_data = modification_func(data,target_data)
-        # 生成修改后的 JSON 字符串，保留缩进
-        modified_json = json.dumps(modified_data, indent='\t', ensure_ascii=False)
-        return modified_json
-    except json.JSONDecodeError as e:
-        print(f"解析 JSON 数据时出现错误: {e}")
-        return None
-
-
-# 示例修改函数，将 "name" 字段的值修改为 "New Name"
-def diysuit_modification(data, target_data):
-    if 'diysuit_item' in target_data:
-        target_data['diysuit_item'] = data
-    return target_data
-
-file_path = r'E:\Game\Chd\小草\DIY指令\吉他号\搭配-装备搭配 魔法主职连体.txt'
-# file_path = r'E:\Game\Chd\小草\DIY指令\环号\搭配-装备搭配 物理主职连体.txt'
-json_content = read_json_file(file_path)
 target_path = r'E:\Game\Chd\小草\心月狐\data\Config'
 target_files_path = [
     # ["﹎秋水伊人ゞ", "1536622268\\A96DC7EFCBAED2C1C8CBA967"],
@@ -60,21 +36,22 @@ target_files_path = [
 
     # ["自然萌ご", "3476670590\\D7FCD7FCD7D4C8BBC3C8A4B4D7FC"],
     ["十八岁青春男高", "3476670590\\CAAEB0CBCBEAC7E0B4BAC4D0B8DF"],
-    ["雪绒薄荷ご", "3476670590\\D7FCD7FCD1A9C8DEB1A1BAC9A4B4"],
-    ["傻海我们走~", "3476670590\\C9B5BAA3CED2C3C7D7DF7E"],
-    ["BaLl,", "3476670590\\42614C6C2C"],
-    ["萌萌仓库-格挡","3476670590\\C3C8C3C8B2D6BFE22DB8F1B5B2"],
-    ["萌萌仓库-爆率","3476670590\\C3C8C3C8B2D6BFE22DB1ACC2CA"],
-    ["芝士羊绒ご","3476670590\\D7FCD7FCD6A5CABFD1F2C8DEA4B4"],
-    ["雪绒蓝莓ご","3476670590\\D7FCD7FCD1A9C8DEC0B6DDAEA4B4"],
+    # ["雪绒薄荷ご", "3476670590\\D7FCD7FCD1A9C8DEB1A1BAC9A4B4"],
+    # ["傻海我们走~", "3476670590\\C9B5BAA3CED2C3C7D7DF7E"],
+    # ["BaLl,", "3476670590\\42614C6C2C"],
+    # ["萌萌仓库-格挡","3476670590\\C3C8C3C8B2D6BFE22DB8F1B5B2"],
+    # ["萌萌仓库-爆率","3476670590\\C3C8C3C8B2D6BFE22DB1ACC2CA"],
+    # ["芝士羊绒ご","3476670590\\D7FCD7FCD6A5CABFD1F2C8DEA4B4"],
+    # ["雪绒蓝莓ご","3476670590\\D7FCD7FCD1A9C8DEC0B6DDAEA4B4"],
 ]
 for target_file_path in target_files_path:
     target_file_path = os.path.join(target_path, target_file_path[1])
-    target_file_path = os.path.join(target_file_path, 'Config.save')
+    target_file_path = os.path.join(target_file_path, 'Default.save')
     target_json_content = read_json_file(target_file_path)
-    if json_content:
-        # 修改 JSON 数据
-        modified_json = modify_json_data(json_content,target_json_content, diysuit_modification)
-        if modified_json:
-            # 保存修改后的 JSON 文件
-            save_json_file(target_file_path, modified_json, 'gbk')
+    # 修改 JSON 数据
+    key = "auto_card_collect_sw"
+    new_value = 123123
+    modified_json = modify_json_data(target_json_content, key, new_value)
+    if modified_json:
+        # 保存修改后的 JSON 文件
+        save_json_file(target_file_path, modified_json, 'gbk')

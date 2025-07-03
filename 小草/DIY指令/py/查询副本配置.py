@@ -8,19 +8,19 @@ from src.utils.log import colored_bg_log
 # 获取脚本所在目录
 script_dir = Path(__file__).parent.resolve()
 # 指定目录路径
-# specified_directory = script_dir.parent.parent / "心月狐" / "data" / "Config" / "1536622268"
-specified_directory = script_dir.parent.parent / "心月狐" / "data" / "Config" 
+specified_directory = script_dir.parent.parent / "心月狐" / "data" / "Config" / "3476670590"
+# specified_directory = script_dir.parent.parent / "心月狐" / "data" / "Config" 
 
 # 要替换的字符串和替换后的字符串
-needReplace = False
-old_strings = ['自动采集=开启']  # 替换为你要查找的字符串
-new_strings = ['自动采集=关闭']  # 替换为你想要的新字符串
+needReplace = True
+old_strings = ['是否采集=开启']  # 替换为你要查找的字符串
+new_strings = ['是否采集=关闭']  # 替换为你想要的新字符串
 find_strings = [
-    '副本难度=简单',
+    # '副本难度=简单',
     # '副本难度=普通',
     # '副本难度=困难',
-    # '自动采集=开启',
-    # '自动挖矿=开启',
+    '是否采集=开启',
+    # '是否挖矿=开启',
     # '开门就走=关闭',
     # '任务领取=关闭',
     # '拾取开关判断=不检测',
@@ -59,7 +59,7 @@ def checkFile(dir, needReplace):
 
             try:
                 # 读取文件内容
-                with open(file, 'r', encoding='utf-8', errors='replace') as f:
+                with open(file, 'r', encoding='gbk', errors='surrogateescape') as f:
                     content = f.read()
             except Exception as e:
                 print(f"读取文件 {file} 时发生错误: {e}")
@@ -93,7 +93,7 @@ def checkFile(dir, needReplace):
 
                         # 将替换后的内容写回文件
                         try:
-                            with open(file, 'w', encoding='gbk', errors='replace') as f:
+                            with open(file, 'w', encoding='gbk', errors='surrogateescape') as f:
                                 f.write(content)
                         except Exception as e:
                             print(f"写入文件 {file} 时发生错误: {e}")
