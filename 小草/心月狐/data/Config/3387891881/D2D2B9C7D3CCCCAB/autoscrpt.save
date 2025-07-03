@@ -7,7 +7,8 @@
 		"diyawaken":	"",
 		"tag":	8278,
 		"script":	"【彩虹向导】每日任务",
-		"task":	0
+		"task":	0,
+		"scriptend":	2
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -17,7 +18,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	1805,
 		"script":	"探险家神殿(史诗)",
-		"task":	0
+		"task":	0,
+		"scriptend":	2
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -27,7 +29,8 @@
 		"diyawaken":	"",
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
-		"task":	0
+		"task":	0,
+		"scriptend":	2
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -37,7 +40,8 @@
 		"diyawaken":	"",
 		"tag":	31674,
 		"script":	"探险家神殿(高级)",
-		"task":	0
+		"task":	0,
+		"scriptend":	2
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -47,7 +51,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	18033,
 		"script":	"混乱世界",
-		"task":	0
+		"task":	0,
+		"scriptend":	2
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -57,7 +62,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	21349,
 		"script":	"艾乌加蒙剧场",
-		"task":	0
+		"task":	0,
+		"scriptend":	2
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -67,7 +73,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	314,
 		"script":	"深渊之镜",
-		"task":	0
+		"task":	0,
+		"scriptend":	2
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -77,7 +84,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	19955,
 		"script":	"失魂寺",
-		"task":	0
+		"task":	0,
+		"scriptend":	2
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -87,7 +95,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	19966,
 		"script":	"未知森林",
-		"task":	0
+		"task":	0,
+		"scriptend":	2
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -117,26 +126,6 @@
 		"diyawaken":	"",
 		"tag":	10134,
 		"script":	"自动强化暴击伤害觉醒石+3",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	17664,
-		"script":	"自动培养血脉战魂",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	1259,
-		"script":	"【存】材料",
 		"task":	0
 	}, {
 		"setcount":	0,
