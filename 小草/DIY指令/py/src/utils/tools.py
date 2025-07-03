@@ -55,7 +55,7 @@ def save_json_file(file_path, content, encoding):
     try:
         with open(file_path, 'w', encoding=encoding, errors='surrogateescape') as file:
             file.write(content)
-        print("文件保存成功。")
+        print(f"文件保存成功。 {file_path}")
     except Exception as e:
         print(f"保存文件时出现错误: {e}")
 
@@ -120,6 +120,9 @@ def modify_json_data(content, key, new_value):
         print("无法确定值的结束位置")
         return False
     
+    # 获取原始值的字符串
+    original_value_str = content[value_start:value_end]
+
     # 将新值转换为 JSON 字符串表示
     if isinstance(new_value, str):
         # 手动处理字符串转义
@@ -130,10 +133,16 @@ def modify_json_data(content, key, new_value):
         import json
         new_value_str = json.dumps(new_value, ensure_ascii=False)
     
+    # 比较新旧值是否相同
+    if original_value_str == new_value_str:
+        print(f"新值与旧值相同，不进行修改")
+        return False
+
     # 替换值部分，保留其他内容不变
     modified_content = (
         content[:value_start] +
         new_value_str +
         content[value_end:]
     )
+    print(f"将键 '{key}' 的值修改为: {original_value_str} =====> {new_value}")
     return modified_content
