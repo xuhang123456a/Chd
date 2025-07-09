@@ -5,7 +5,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11573,
+		"tag":	10236,
 		"script":	"家族图腾(开启图腾)",
 		"task":	0
 	}, {
@@ -15,7 +15,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29533,
+		"tag":	12277,
 		"script":	"家族图腾(领取图腾)",
 		"task":	0
 	}, {
@@ -67,6 +67,16 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	19966,
 		"script":	"未知森林",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	16437,
+		"script":	"退出组队",
 		"task":	0
 	}, {
 		"setcount":	0,

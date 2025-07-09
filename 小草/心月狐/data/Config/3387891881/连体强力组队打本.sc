@@ -5,7 +5,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	10879,
+		"tag":	5737,
 		"script":	"家族图腾(开启图腾)",
 		"task":	0
 	}, {
@@ -15,7 +15,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15114,
+		"tag":	9209,
 		"script":	"家族图腾(领取图腾)",
 		"task":	0
 	}, {
@@ -67,6 +67,16 @@
 		"diyawaken":	"",
 		"tag":	2024,
 		"script":	"未知森林",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	15037,
+		"script":	"退出组队",
 		"task":	0
 	}, {
 		"setcount":	0,

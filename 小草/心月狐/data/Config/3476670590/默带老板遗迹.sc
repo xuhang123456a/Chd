@@ -4,9 +4,29 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	1562,
+		"script":	"阿特拉斯庭院",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"强力召唤兽",
 		"diyawaken":	"战斗",
 		"tag":	9690,
 		"script":	"埃吉尔遗迹",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"强力召唤兽",
+		"diyawaken":	"战斗",
+		"tag":	32698,
+		"script":	"黑月的考验",
 		"task":	0
 	}, {
 		"setcount":	0,

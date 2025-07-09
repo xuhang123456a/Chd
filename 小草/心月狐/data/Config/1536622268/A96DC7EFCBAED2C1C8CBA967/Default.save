@@ -96,7 +96,7 @@
 	"main_mob_noattck_show":	false,
 	"main_mob_other_sw":	false,
 	"main_mob_trap_sw":	false,
-	"main_skill_distance_sw":	true,
+	"main_skill_distance_sw":	false,
 	"memory_debris_time":	true,
 	"mouse_rest":	true,
 	"mouse_time":	false,
@@ -139,7 +139,7 @@
 	"path_subjoin_pbds":	true,
 	"path_subjoin_tyjn":	true,
 	"path_subjoin_xsyc":	false,
-	"path_subjoin_ycwj":	true,
+	"path_subjoin_ycwj":	false,
 	"path_subjoin_zxyc":	false,
 	"protect_skill_syncope_1":	true,
 	"protect_skill_syncope_2":	false,
@@ -641,7 +641,7 @@
 			"hard":	false
 		}],
 	"skill_attack_data":	[{
-			"sw":	true,
+			"sw":	false,
 			"id":	3606015,
 			"name":	"甲骨文",
 			"dmin":	0,
@@ -656,7 +656,7 @@
 				}, {
 					"搜索内无首领":	""
 				}, {
-					"在副本":	"珊瑚之歌;泡泡战舰;克洛诺斯的时间;龙猫妹妹庭院;魔法学院主楼;怪物树山山谷;"
+					"在副本":	"珊瑚之歌;泡泡战舰;"
 				}],
 			"num":	0
 		}, {
@@ -2771,7 +2771,7 @@
 				"更改自动脚本":	"带老板群星"
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -2780,7 +2780,7 @@
 				"使用物品":	"艾丽娅斯传送石"
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -2789,7 +2789,7 @@
 				"挂机控制":	"0"
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"指定时间":	"00:06"
 			},
@@ -2798,7 +2798,7 @@
 				"退出到角色":	""
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},
@@ -2807,7 +2807,7 @@
 				"更改自动脚本":	"连体珊瑚1"
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},

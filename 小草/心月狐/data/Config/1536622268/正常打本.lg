@@ -17,33 +17,21 @@
 		"item":	"存仓",
 		"item_other":	"神炼的多面头戴;上位蛇年小王子帽子;魔法的精粹者徽章+13;魔·冥界之翼;神·圣灵之拥;龙晶[青鸾];祈福同心+9;法老王的巨型宝石戒指;法老王的闪耀耳环;;"
 	}, {
-		"index":	14455515,
-		"name":	"终不似o",
-		"autoscript":	"连体(10)火神彩蛋",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	186239718,
-		"name":	"最是人间留不住o",
-		"autoscript":	"连体(11)黑影彩蛋",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
 		"index":	427835125,
 		"name":	"﹎秋水伊人ゞ",
-		"autoscript":	"连体强力组队打本",
+		"autoscript":	"连体刷试炼石",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	427839328,
 		"name":	"晚来天欲雪o",
-		"autoscript":	"连体强力组队打本",
+		"autoscript":	"连体刷试炼石",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	427840937,
 		"name":	"小姐姐",
-		"autoscript":	"连体强力组队打本",
+		"autoscript":	"连体刷试炼石",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -65,6 +53,30 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	608116562,
+		"name":	"醉后不知天在水o",
+		"autoscript":	"连体强力组队打本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	439299703,
+		"name":	"→酷我音乐→",
+		"autoscript":	"连体强力组队打本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	608130390,
+		"name":	"酷狗音乐ā",
+		"autoscript":	"连体强力组队打本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	87124890,
+		"name":	"醉后不知天在水o",
+		"autoscript":	"连体垃圾组队打本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	381616375,
 		"name":	"﹎秋水伊人ゞ",
 		"autoscript":	"连体泡泡1",
@@ -83,23 +95,23 @@
 		"item":	"存仓",
 		"item_other":	"神炼的多面头戴;上位蛇年小王子帽子;魔法的精粹者徽章+13;魔·冥界之翼;神·圣灵之拥;龙晶[青鸾];祈福同心+9;法老王的巨型宝石戒指;法老王的闪耀耳环;;"
 	}, {
-		"index":	608116562,
-		"name":	"醉后不知天在水o",
-		"autoscript":	"连体垃圾组队打本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
 		"index":	608122921,
 		"name":	"→酷我音乐→",
 		"autoscript":	"连体垃圾组队打本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	608130390,
+		"index":	171954453,
 		"name":	"酷狗音乐ā",
 		"autoscript":	"连体垃圾组队打本",
 		"item":	"存仓",
 		"item_other":	""
+	}, {
+		"index":	682015765,
+		"name":	"﹎秋水伊人ゞ",
+		"autoscript":	"连体1半神每日",
+		"item":	"存仓",
+		"item_other":	"神炼的多面头戴;上位蛇年小王子帽子;魔法的精粹者徽章+13;魔·冥界之翼;神·圣灵之拥;龙晶[青鸾];祈福同心+9;法老王的巨型宝石戒指;法老王的闪耀耳环;;"
 	}, {
 		"index":	608147578,
 		"name":	"℃ベ裸装",
@@ -109,6 +121,12 @@
 	}, {
 		"index":	339526953,
 		"name":	"终不似o",
+		"autoscript":	"连体垃圾组队打本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1352459796,
+		"name":	"最是人间留不住o",
 		"autoscript":	"连体垃圾组队打本",
 		"item":	"存仓",
 		"item_other":	""
@@ -143,6 +161,12 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	373406484,
+		"name":	"酷狗音乐ā",
+		"autoscript":	"连体(56789)每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	339512750,
 		"name":	"满船清梦压星河Q",
 		"autoscript":	"连体(56789)每日",
@@ -155,24 +179,6 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	682015765,
-		"name":	"﹎秋水伊人ゞ",
-		"autoscript":	"连体1半神每日",
-		"item":	"存仓",
-		"item_other":	"神炼的多面头戴;上位蛇年小王子帽子;魔法的精粹者徽章+13;魔·冥界之翼;神·圣灵之拥;龙晶[青鸾];祈福同心+9;法老王的巨型宝石戒指;法老王的闪耀耳环;;"
-	}, {
-		"index":	439299703,
-		"name":	"→酷我音乐→",
-		"autoscript":	"连体(56789)每日",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	373406484,
-		"name":	"酷狗音乐ā",
-		"autoscript":	"连体9雨伞每日",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
 		"index":	339507218,
 		"name":	"醉后不知天在水o",
 		"autoscript":	"连体(56789)每日",
@@ -181,13 +187,7 @@
 	}, {
 		"index":	356376734,
 		"name":	"℃ベ裸装",
-		"autoscript":	"连体(12)宝石星每日",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	619172125,
-		"name":	"最是人间留不住o",
-		"autoscript":	"连体(11)黑影每日",
+		"autoscript":	"连体(56789)每日",
 		"item":	"存仓",
 		"item_other":	""
 	}, {

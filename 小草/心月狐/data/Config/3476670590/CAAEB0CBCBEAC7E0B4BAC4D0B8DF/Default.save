@@ -1072,8 +1072,8 @@
 	"guild_diplomacy":	[{
 			"npc":	1,
 			"sw1":	false,
-			"sw2":	true,
-			"item":	"神魔羁绊礼盒"
+			"sw2":	false,
+			"item":	""
 		}, {
 			"npc":	2,
 			"sw1":	false,
@@ -1082,8 +1082,8 @@
 		}, {
 			"npc":	3,
 			"sw1":	false,
-			"sw2":	true,
-			"item":	"赠送所有可提交物品"
+			"sw2":	false,
+			"item":	""
 		}, {
 			"npc":	4,
 			"sw1":	false,
@@ -1096,14 +1096,14 @@
 			"item":	""
 		}, {
 			"npc":	6,
-			"sw1":	true,
-			"sw2":	true,
-			"item":	"深林羁绊礼盒"
+			"sw1":	false,
+			"sw2":	false,
+			"item":	""
 		}, {
 			"npc":	7,
 			"sw1":	false,
 			"sw2":	false,
-			"item":	"赠送所有可提交物品"
+			"item":	""
 		}, {
 			"npc":	8,
 			"sw1":	false,
@@ -1121,14 +1121,14 @@
 			"item":	""
 		}, {
 			"npc":	11,
-			"sw1":	true,
+			"sw1":	false,
 			"sw2":	false,
 			"item":	""
 		}, {
 			"npc":	12,
 			"sw1":	false,
-			"sw2":	true,
-			"item":	"赠送所有可提交物品"
+			"sw2":	false,
+			"item":	""
 		}, {
 			"npc":	13,
 			"sw1":	false,
@@ -1143,7 +1143,7 @@
 			"npc":	40,
 			"sw1":	false,
 			"sw2":	false,
-			"item":	"赠送所有可提交物品"
+			"item":	""
 		}, {
 			"npc":	16,
 			"sw1":	false,
@@ -1161,9 +1161,9 @@
 			"item":	""
 		}, {
 			"npc":	19,
-			"sw1":	true,
-			"sw2":	true,
-			"item":	"罗马羁绊礼盒"
+			"sw1":	false,
+			"sw2":	false,
+			"item":	""
 		}, {
 			"npc":	21,
 			"sw1":	false,
@@ -1172,8 +1172,8 @@
 		}, {
 			"npc":	22,
 			"sw1":	false,
-			"sw2":	true,
-			"item":	"和风羁绊礼盒"
+			"sw2":	false,
+			"item":	""
 		}, {
 			"npc":	23,
 			"sw1":	false,
@@ -1192,13 +1192,13 @@
 		}, {
 			"npc":	26,
 			"sw1":	false,
-			"sw2":	true,
-			"item":	"埃及羁绊礼盒"
+			"sw2":	false,
+			"item":	""
 		}, {
 			"npc":	27,
 			"sw1":	false,
 			"sw2":	false,
-			"item":	"赠送所有可提交物品"
+			"item":	""
 		}, {
 			"npc":	28,
 			"sw1":	false,
@@ -1253,12 +1253,12 @@
 			"npc":	41,
 			"sw1":	false,
 			"sw2":	false,
-			"item":	"赠送所有可提交物品"
+			"item":	""
 		}, {
 			"npc":	42,
 			"sw1":	false,
 			"sw2":	false,
-			"item":	"赠送所有可提交物品"
+			"item":	""
 		}, {
 			"npc":	43,
 			"sw1":	false,
@@ -1272,18 +1272,18 @@
 		}, {
 			"npc":	46,
 			"sw1":	false,
-			"sw2":	true,
-			"item":	"赠送所有可提交物品"
+			"sw2":	false,
+			"item":	""
 		}, {
 			"npc":	47,
 			"sw1":	false,
-			"sw2":	true,
-			"item":	"赠送所有可提交物品"
+			"sw2":	false,
+			"item":	""
 		}, {
 			"npc":	48,
 			"sw1":	false,
-			"sw2":	true,
-			"item":	"玛雅羁绊礼盒"
+			"sw2":	false,
+			"item":	""
 		}, {
 			"npc":	49,
 			"sw1":	false,
@@ -1312,8 +1312,8 @@
 		}, {
 			"npc":	56,
 			"sw1":	false,
-			"sw2":	true,
-			"item":	"赠送所有可提交物品"
+			"sw2":	false,
+			"item":	""
 		}, {
 			"npc":	57,
 			"sw1":	false,

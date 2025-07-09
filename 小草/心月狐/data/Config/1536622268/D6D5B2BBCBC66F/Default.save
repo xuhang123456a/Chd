@@ -593,19 +593,6 @@
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	3606402,
-			"name":	"第六感",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
 			"id":	3606405,
 			"name":	"巨人统治者",
 			"dmin":	0,
@@ -802,7 +789,14 @@
 			"judge":	[],
 			"num":	0
 		}],
-	"skill_buff_data":	[],
+	"skill_buff_data":	[{
+			"sw":	false,
+			"id":	3606402,
+			"name":	"第六感",
+			"judge":	[],
+			"sleep":	0,
+			"auto":	true
+		}],
 	"speak_data":	[],
 	"skill_hotkey_data":	[{
 			"sw":	true,
@@ -4182,67 +4176,6 @@
 					"judges":	[{
 							"在副本":	""
 						}]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	false,
-			"name":	"彩蛋boss",
-			"judges":	[{
-					"sw":	true,
-					"judge":	{
-						"在地图":	"最终考验_105010;"
-					}
-				}],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·蛮荒"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·壁垒"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"哈密瓜味全糖蜜果"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"蓝草莓味全糖蜜果"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"紫葡萄味全糖蜜果"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用技能":	"【生存本能】1段"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"西红柿色拉"
-					},
-					"judges":	[]
 				}]
 		}],
 	"pet_build":	[{
