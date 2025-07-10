@@ -1,0 +1,37 @@
+[{
+	"only_run":	false,
+	"run_sleep":	1,
+	"sw":	false,
+	"name":	"切胸针",
+	"judges":	[],
+	"executes":	[{
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"更换装备":	"扬卡什胸针+4"
+			},
+			"judges":	[{
+					"拥有BUFF":	"充能_88232992"
+				}]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"更换装备":	"利卡里亚之双生胸针"
+			},
+			"judges":	[{
+					"拥有BUFF":	"充能_88230050"
+				}]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"更换装备":	"利卡里亚之双生胸针"
+			},
+			"judges":	[{
+					"没有BUFF":	"充能_88220050"
+				}, {
+					"没有BUFF":	"充能_88232992"
+				}]
+		}]
+}]

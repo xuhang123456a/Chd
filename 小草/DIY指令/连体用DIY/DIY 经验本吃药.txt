@@ -87,6 +87,13 @@
 			},
 			"judges":	[]
 		}, {
+			"sw":	false,
+			"sleep":	"1",
+			"execute":	{
+				"状态物品":	"恶魔の小果实（雾）"
+			},
+			"judges":	[]
+		}, {
 			"sw":	true,
 			"sleep":	"1",
 			"execute":	{
@@ -164,7 +171,7 @@
 			},
 			"judges":	[]
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"sleep":	"1",
 			"execute":	{
 				"使用物品":	"百分考卷"
@@ -173,7 +180,7 @@
 					"拥有BUFF":	"活动_6000157"
 				}]
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"sleep":	"1",
 			"execute":	{
 				"使用物品":	"小四的祝福(不可交易)"

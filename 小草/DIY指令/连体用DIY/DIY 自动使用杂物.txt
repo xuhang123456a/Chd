@@ -6,7 +6,7 @@
 	"judges":	[{
 			"sw":	true,
 			"judge":	{
-				"不在地图":	"贝罗斯城市_200;"
+				"不在地图":	"贝罗斯城市_200;奈落城_40200;"
 			}
 		}, {
 			"sw":	true,
@@ -15,7 +15,7 @@
 			}
 		}],
 	"executes":	[{
-			"sw":	false,
+			"sw":	true,
 			"sleep":	"1",
 			"execute":	{
 				"使用物品":	"全塘蜜果礼盒"
@@ -929,6 +929,104 @@
 			"sleep":	"1",
 			"execute":	{
 				"使用物品":	"幸运小福袋"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"变异泰伊姆斯31-40名礼包"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"变异泰伊姆斯41-50名礼包"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"蛇影噗噗的招魂盒"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"蛇影噗噗的通灵卷轴"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"龙猫舟礼包"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"龙猫舟招魂盒"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"铁锤的招魂盒"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"冶炼礼包"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"风精灵王的心意"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"风精灵王的礼物"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"风精灵王的豪礼"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"风精灵王的馈赠"
+			},
+			"judges":	[]
+		}, {
+			"sw":	false,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"努特的招魂盒"
+			},
+			"judges":	[]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用物品":	"超越图鉴包★"
 			},
 			"judges":	[]
 		}]
