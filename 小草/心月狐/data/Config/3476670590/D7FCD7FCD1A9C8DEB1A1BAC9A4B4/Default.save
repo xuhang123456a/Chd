@@ -173,7 +173,7 @@
 	"skill_option_jump_off1":	true,
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	true,
-	"skill_option_lr_boss":	false,
+	"skill_option_lr_boss":	true,
 	"skill_option_platform_skill":	false,
 	"skill_option_repeat":	true,
 	"skill_option_slide_off":	false,
@@ -3913,6 +3913,7 @@
 		}],
 	"dress_text":	[],
 	"diy_skill":	{
+		"[辉耀剑神]完美纳刀":	false,
 		"[英雄(刀)]连招":	false,
 		"[英雄(枪)]连招":	false,
 		"[剑圣]十字之刃秘技":	false,

@@ -7,8 +7,7 @@
 		"diyawaken":	"",
 		"tag":	5737,
 		"script":	"家族图腾(开启图腾)",
-		"task":	0,
-		"scriptend":	9
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -18,8 +17,7 @@
 		"diyawaken":	"",
 		"tag":	9209,
 		"script":	"家族图腾(领取图腾)",
-		"task":	0,
-		"scriptend":	9
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -29,8 +27,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	13355,
 		"script":	"丽西泰亚之门",
-		"task":	0,
-		"scriptend":	9
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -40,8 +37,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	30652,
 		"script":	"蘑菇树沼泽",
-		"task":	0,
-		"scriptend":	9
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -51,8 +47,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	9285,
 		"script":	"诺尼尔之泪",
-		"task":	0,
-		"scriptend":	9
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -62,8 +57,7 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	12682,
 		"script":	"摩克沙",
-		"task":	0,
-		"scriptend":	9
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -73,8 +67,7 @@
 		"diyawaken":	"",
 		"tag":	2024,
 		"script":	"未知森林",
-		"task":	0,
-		"scriptend":	9
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -84,8 +77,7 @@
 		"diyawaken":	"",
 		"tag":	15037,
 		"script":	"退出组队",
-		"task":	0,
-		"scriptend":	9
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -95,8 +87,7 @@
 		"diyawaken":	"",
 		"tag":	19534,
 		"script":	"【存】材料",
-		"task":	0,
-		"scriptend":	9
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

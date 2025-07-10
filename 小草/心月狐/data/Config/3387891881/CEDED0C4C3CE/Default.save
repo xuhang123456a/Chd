@@ -292,7 +292,7 @@
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
 	"btn_color_8":	16384000,
-	"server":	111,
+	"server":	113,
 	"item_filter_1":	[],
 	"item_filter_2":	[],
 	"item_filter_3":	[],
@@ -2469,6 +2469,7 @@
 		}],
 	"dress_text":	[],
 	"diy_skill":	{
+		"[辉耀剑神]完美纳刀":	false,
 		"[英雄(刀)]连招":	false,
 		"[英雄(枪)]连招":	false,
 		"[剑圣]十字之刃秘技":	false,

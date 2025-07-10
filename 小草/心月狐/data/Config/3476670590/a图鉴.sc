@@ -85,28 +85,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	26055,
-		"script":	"神秘殿堂(困难)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
 		"tag":	18381,
 		"script":	"神圣教堂",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20422,
-		"script":	"神圣教堂(困难)",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -217,16 +197,6 @@
 		"diyawaken":	"战斗",
 		"tag":	23054,
 		"script":	"大地的考验",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"强力召唤兽",
-		"diyawaken":	"战斗",
-		"tag":	5798,
-		"script":	"阿特拉斯庭院",
 		"task":	0
 	}, {
 		"setcount":	0,

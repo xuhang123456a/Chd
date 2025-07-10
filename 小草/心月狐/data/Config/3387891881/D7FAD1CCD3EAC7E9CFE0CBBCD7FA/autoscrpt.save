@@ -51,7 +51,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	19966,
 		"script":	"未知森林",
-		"task":	0
+		"task":	0,
+		"scriptend":	9
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -91,7 +92,8 @@
 		"diyawaken":	"",
 		"tag":	17664,
 		"script":	"自动培养血脉战魂",
-		"task":	0
+		"task":	0,
+		"scriptend":	9
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -101,15 +103,6 @@
 		"diyawaken":	"",
 		"tag":	1259,
 		"script":	"【存】材料",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"存仓",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	1311,
-		"script":	"执行自动切换角色",
-		"task":	0
+		"task":	0,
+		"scriptend":	9
 	}]

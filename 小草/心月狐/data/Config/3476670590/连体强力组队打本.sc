@@ -5,18 +5,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11573,
-		"script":	"家族图腾(开启图腾)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	29533,
-		"script":	"家族图腾(领取图腾)",
+		"tag":	27234,
+		"script":	"进队长组",
 		"task":	0
 	}, {
 		"setcount":	0,

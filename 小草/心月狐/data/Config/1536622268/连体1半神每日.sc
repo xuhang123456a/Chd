@@ -149,16 +149,6 @@
 		"script":	"克洛诺斯的时间",
 		"task":	0
 	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5觉醒",
-		"tag":	32142,
-		"script":	"龙猫妹妹庭院",
-		"task":	0
-	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
