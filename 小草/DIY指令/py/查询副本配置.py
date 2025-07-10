@@ -12,7 +12,7 @@ specified_directory = script_dir.parent.parent / "心月狐" / "data" / "Config"
 # specified_directory = script_dir.parent.parent / "心月狐" / "data" / "Config" 
 
 # 要替换的字符串和替换后的字符串
-needReplace = True
+needReplace = False
 old_strings = ['是否采集=开启']  # 替换为你要查找的字符串
 new_strings = ['是否采集=关闭']  # 替换为你想要的新字符串
 find_strings = [

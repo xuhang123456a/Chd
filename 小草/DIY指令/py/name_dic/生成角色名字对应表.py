@@ -1,5 +1,4 @@
 import os
-import myfunction
 import glob
 from pathlib import Path
 
@@ -11,7 +10,7 @@ character_gbk_names = []
 # 写入新的文件中
 def write_to_file(lines, output_file_path):
     try:
-        with open(output_file_path, 'w', encoding='utf-8') as output_file:
+        with open(output_file_path, 'w', encoding='utf-8', errors='surrogateescape') as output_file:
             for line in lines:
                 output_file.write(line + '\n')  # 每行末尾添加换行符
     except Exception as e:
@@ -37,11 +36,10 @@ def checkFile(dir):
                 character_names.append(file_name)
                 character_gbk_names.append(parent_folder)
 
-
-script_dir = myfunction.script_dir
-配置路径 = script_dir.parent.parent / "心月狐" / "data" / "Config" 
-角色名字保存路径 = script_dir / "name_dic" / "角色名字.lua"
-角色编码名字保存路径 = script_dir / "name_dic" / "角色编码名字.lua"
+script_dir = Path(__file__).parent.resolve()
+配置路径 = script_dir.parent.parent.parent / "心月狐" / "data" / "Config" 
+角色名字保存路径 = script_dir / "角色名字.lua"
+角色编码名字保存路径 = script_dir / "角色编码名字.lua"
 checkFile(配置路径)
 write_to_file(character_names, 角色名字保存路径)
 write_to_file(character_gbk_names, 角色编码名字保存路径)
