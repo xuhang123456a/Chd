@@ -1,13 +1,19 @@
 [{
 		"index":	247150375,
 		"name":	"大火火",
-		"autoscript":	"黑月",
+		"autoscript":	"困难每日",
 		"item":	"连体存取",
 		"item_other":	""
 	}, {
 		"index":	247152531,
 		"name":	"雾云川",
-		"autoscript":	"每日",
+		"autoscript":	"困难每日",
+		"item":	"连体存取",
+		"item_other":	""
+	}, {
+		"index":	345420468,
+		"name":	"独步天丅",
+		"autoscript":	"困难每日",
 		"item":	"连体存取",
 		"item_other":	""
 	}]

@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_login_end":	false,
 	"auto_reward_open_sw":	true,
@@ -85,11 +85,11 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	true,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	true,
+	"main_mob_herbs":	false,
 	"main_mob_indun":	true,
 	"main_mob_jump":	true,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	true,
+	"main_mob_mineral":	false,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
@@ -217,11 +217,11 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	10,
+	"auto_load_wait_val":	15,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	10,
 	"auto_set_boss_hp_val":	99,
-	"auto_set_boss_team_val":	10,
+	"auto_set_boss_team_val":	5,
 	"auto_set_deliver_time_val":	15,
 	"auto_set_fly_val":	5,
 	"auto_set_revive_val":	10,
@@ -3843,13 +3843,17 @@
 							"在地图":	"阿特拉斯庭院 6_106106;阿特拉斯庭院 8_106108;阿特拉斯庭院 1_106101;"
 						}]
 				}, {
-					"sw":	false,
+					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"古籍·壁垒"
 					},
 					"judges":	[{
-							"在副本":	""
+							"在副本":	"普累罗麻;"
+						}, {
+							"没有BUFF":	"家族·冰魔图腾_63020018"
+						}, {
+							"地图内有首领":	""
 						}]
 				}, {
 					"sw":	true,
@@ -3868,6 +3872,8 @@
 					},
 					"judges":	[{
 							"在副本":	"时空之泉;埃吉尔遗迹;诺尼尔之泪;摩克沙;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;丽西泰亚之门;蘑菇树沼泽;"
+						}, {
+							"没有BUFF":	"家族·冰魔图腾_63020219"
 						}]
 				}, {
 					"sw":	true,
@@ -3885,7 +3891,7 @@
 						"状态物品":	"哈密瓜味全糖蜜果"
 					},
 					"judges":	[{
-							"在副本":	"时空之泉;埃吉尔遗迹;诺尼尔之泪;摩克沙;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;丽西泰亚之门;蘑菇树沼泽;"
+							"在副本":	"时空之泉;埃吉尔遗迹;诺尼尔之泪;摩克沙;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;丽西泰亚之门;蘑菇树沼泽;普累罗麻;残缺边界;"
 						}]
 				}, {
 					"sw":	true,
@@ -3894,9 +3900,7 @@
 						"状态物品":	"紫葡萄味全糖蜜果"
 					},
 					"judges":	[{
-							"在地图":	"埃吉尔遗迹 6_106206;"
-						}, {
-							"在困难副本":	""
+							"在地图":	"普累罗麻10_110110;普累罗麻6_110106;残缺边界6_110006;"
 						}]
 				}, {
 					"sw":	false,
@@ -3932,7 +3936,7 @@
 						"状态物品":	"青苹果味全糖蜜果"
 					},
 					"judges":	[{
-							"在副本":	"埃吉尔遗迹;"
+							"在副本":	"普累罗麻;残缺边界;"
 						}]
 				}, {
 					"sw":	false,
@@ -3944,13 +3948,13 @@
 							"在地图":	""
 						}]
 				}, {
-					"sw":	false,
+					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"蓝草莓味全糖蜜果"
 					},
 					"judges":	[{
-							"在副本":	""
+							"在副本":	"普累罗麻;残缺边界;"
 						}]
 				}, {
 					"sw":	false,
