@@ -5,18 +5,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	5737,
-		"script":	"家族图腾(开启图腾)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	9209,
-		"script":	"家族图腾(领取图腾)",
+		"tag":	21261,
+		"script":	"进队长组",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -63,7 +53,7 @@
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"装备副本",
+		"diyother":	"",
 		"diyawaken":	"",
 		"tag":	2024,
 		"script":	"未知森林",

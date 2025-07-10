@@ -14,7 +14,7 @@
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"×°±¸¾õĞÑ",
+		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	13714,
 		"script":	"ÆÕÀÛÂŞÂé",
 		"task":	0
@@ -24,7 +24,7 @@
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"×°±¸¾õĞÑ",
+		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	15245,
 		"script":	"²ĞÈ±±ß½ç",
 		"task":	0

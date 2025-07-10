@@ -19,19 +19,19 @@
 	}, {
 		"index":	427835125,
 		"name":	"﹎秋水伊人ゞ",
-		"autoscript":	"连体刷试炼石",
+		"autoscript":	"连体强力组队打本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	427839328,
 		"name":	"晚来天欲雪o",
-		"autoscript":	"连体刷试炼石",
+		"autoscript":	"连体强力组队打本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	427840937,
 		"name":	"小姐姐",
-		"autoscript":	"连体刷试炼石",
+		"autoscript":	"连体强力组队打本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -43,6 +43,12 @@
 	}, {
 		"index":	533294640,
 		"name":	"满船清梦压星河Q",
+		"autoscript":	"连体强力组队打本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	533312625,
+		"name":	"能饮一杯无o",
 		"autoscript":	"连体强力组队打本",
 		"item":	"存仓",
 		"item_other":	""
@@ -64,12 +70,6 @@
 		"autoscript":	"连体泡泡3",
 		"item":	"存仓",
 		"item_other":	"神炼的多面头戴;上位蛇年小王子帽子;魔法的精粹者徽章+13;魔·冥界之翼;神·圣灵之拥;龙晶[青鸾];祈福同心+9;法老王的巨型宝石戒指;法老王的闪耀耳环;;"
-	}, {
-		"index":	533312625,
-		"name":	"能饮一杯无o",
-		"autoscript":	"连体强力组队打本",
-		"item":	"存仓",
-		"item_other":	""
 	}, {
 		"index":	608116562,
 		"name":	"醉后不知天在水o",

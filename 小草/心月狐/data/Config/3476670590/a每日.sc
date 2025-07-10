@@ -453,7 +453,7 @@
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"关闭战魂",
 		"diyawaken":	"5爆伤石",
 		"tag":	7674,
 		"script":	"魔力防空洞",

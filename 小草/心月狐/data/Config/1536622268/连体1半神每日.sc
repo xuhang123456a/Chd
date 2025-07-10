@@ -103,7 +103,7 @@
 		"loadtime":	0,
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
-		"diyother":	"ÕÙ»½ÊŞ",
+		"diyother":	"",
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	16828,
 		"script":	"ÎŞ¾¡·±ĞÇ´óÌü",

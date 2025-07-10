@@ -19,19 +19,19 @@
 	}, {
 		"index":	427962781,
 		"name":	"你到底吻不吻我o",
-		"autoscript":	"连体刷试炼石",
+		"autoscript":	"连体强力组队打本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	427964875,
 		"name":	"来去荒芜",
-		"autoscript":	"连体刷试炼石",
+		"autoscript":	"连体强力组队打本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	427969000,
 		"name":	"不要碰我肩膀",
-		"autoscript":	"连体刷试炼石",
+		"autoscript":	"连体强力组队打本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -43,6 +43,12 @@
 	}, {
 		"index":	533377609,
 		"name":	"陌辰",
+		"autoscript":	"连体强力组队打本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	427967281,
+		"name":	"我有药",
 		"autoscript":	"连体强力组队打本",
 		"item":	"存仓",
 		"item_other":	""
@@ -64,12 +70,6 @@
 		"autoscript":	"连体泡泡3",
 		"item":	"存仓",
 		"item_other":	"神·圣灵之拥;魔·冥界之翼;LA-smile-笑脸(男)T恤;LA逐梦系列-夏の阳光(男)帽子;LA逐梦系列-夏の阳光(男)下衣;空灵披风·SPA队长;法老王的闪耀耳环;法老王的巨型宝石戒指;"
-	}, {
-		"index":	427967281,
-		"name":	"我有药",
-		"autoscript":	"连体强力组队打本",
-		"item":	"存仓",
-		"item_other":	""
 	}, {
 		"index":	533373000,
 		"name":	"惊觉⺌",
