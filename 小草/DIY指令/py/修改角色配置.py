@@ -4,11 +4,11 @@ from src.utils.tools import read_json_file, save_json_file, modify_json_data
 
 target_path = r'E:\Game\Chd\小草\心月狐\data\Config'
 target_files_path = [
-    ["﹎秋水伊人ゞ", "1536622268\\A96DC7EFCBAED2C1C8CBA967"],
-    ["晚来天欲雪o", "1536622268\\CDEDC0B4CCECD3FBD1A96F"],
+    # ["﹎秋水伊人ゞ", "1536622268\\A96DC7EFCBAED2C1C8CBA967"],
+    # ["晚来天欲雪o", "1536622268\\CDEDC0B4CCECD3FBD1A96F"],
     # ["小姐姐", "1536622268\\D7FAD7FAD7FAD7FAD7FAD0A1BDE3BDE3"],
     # ["云青青兮欲雨", "1536622268\\D4C6C7E0C7E0D9E2D3FBD3EAFE5D"],
-    ["满船清梦压星河Q", "1536622268\\C2FAB4ACC7E5C3CED1B9D0C7BAD351"],
+    # ["满船清梦压星河Q", "1536622268\\C2FAB4ACC7E5C3CED1B9D0C7BAD351"],
     # ["能饮一杯无o", "1536622268\\C4DCD2FBD2BBB1ADCEDE6F"],
     # ["醉后不知天在水o", "1536622268\\D7EDBAF3B2BBD6AACCECD4DACBAE6F"],
     # ["→酷我音乐→", "1536622268\\A1FABFE1CED2D2F4C0D6A1FA"],
@@ -43,6 +43,15 @@ target_files_path = [
     # ["萌萌仓库-爆率","3476670590\\C3C8C3C8B2D6BFE22DB1ACC2CA"],
     # ["芝士羊绒ご","3476670590\\D7FCD7FCD6A5CABFD1F2C8DEA4B4"],
     # ["雪绒蓝莓ご","3476670590\\D7FCD7FCD1A9C8DEC0B6DDAEA4B4"],
+
+    ["龙卷风摧毁停車场", "C1FABEEDB7E7B4DDBBD9CDA3DC87B3A1"]
+    ["玫瑰花的梦", "C3B5B9E5BBA8B5C4C3CE"]
+    ["弥猫深巷離人心", "C3D6C3A8C9EECFEFD7FCEB78C8CBD0C4"]
+    ["秋意也泛舟", "C7EFD2E2D2B2B7BAD6DB"]
+    ["若惊鸿一梦", "C8F4BEAABAE8D2BBC3CE"]
+    ["山有木兮卿有意", "C9BDD3D0C4BED9E2D7FCC7E4D3D0D2E2"]
+    ["诉萌", "CBDFC3C8"]
+    ["糯米Nomi", "D7FCC5B4C3D7D7FC4E6F6D69D7FC"]
 ]
 for target_file_path in target_files_path:
     target_file_path = os.path.join(target_path, target_file_path[1])

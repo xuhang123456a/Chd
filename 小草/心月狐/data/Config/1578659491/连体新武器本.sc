@@ -14,7 +14,7 @@
 		"diyitem":	"破防（守护）",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"元素战斗",
+		"diyawaken":	"",
 		"tag":	14925,
 		"script":	"普累罗麻",
 		"task":	0
@@ -24,7 +24,7 @@
 		"diyitem":	"破防（守护）",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"元素战斗",
+		"diyawaken":	"",
 		"tag":	16813,
 		"script":	"残缺边界",
 		"task":	0
