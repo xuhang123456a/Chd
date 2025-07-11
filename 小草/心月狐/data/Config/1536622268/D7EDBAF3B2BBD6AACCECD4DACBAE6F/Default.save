@@ -875,7 +875,16 @@
 			"judge":	[],
 			"num":	0
 		}],
-	"skill_buff_data":	[],
+	"skill_buff_data":	[{
+			"sw":	true,
+			"id":	3176191,
+			"name":	"守护圣印",
+			"judge":	[{
+					"没有BUFF":	"守护圣印_31761911"
+				}],
+			"sleep":	0,
+			"auto":	true
+		}],
 	"speak_data":	[],
 	"skill_hotkey_data":	[{
 			"sw":	true,
@@ -2537,34 +2546,6 @@
 			}
 		}],
 	"diytrigger":	[{
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	true,
-			"name":	"吉他辅助技能",
-			"judges":	[{
-					"sw":	true,
-					"judge":	{
-						"在副本频道":	""
-					}
-				}],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"使用技能":	"守护圣印"
-					},
-					"judges":	[{
-							"没有BUFF":	"守护圣印_31761911"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"使用技能":	"[特殊]守护天使"
-					},
-					"judges":	[]
-				}]
-		}, {
 			"only_run":	false,
 			"run_sleep":	0,
 			"sw":	true,

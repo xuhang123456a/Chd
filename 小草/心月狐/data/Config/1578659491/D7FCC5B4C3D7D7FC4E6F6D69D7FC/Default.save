@@ -2497,31 +2497,6 @@
 				}]
 		}, {
 			"only_run":	false,
-			"run_sleep":	0,
-			"sw":	false,
-			"name":	"小四100",
-			"judges":	[],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"百分考卷"
-					},
-					"judges":	[{
-							"拥有BUFF":	"活动_6000157"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"小四的祝福(不可交易)"
-					},
-					"judges":	[{
-							"拥有BUFF":	"活动_6000157"
-						}]
-				}]
-		}, {
-			"only_run":	false,
 			"run_sleep":	1,
 			"sw":	true,
 			"name":	"圣物生存钥匙特殊",

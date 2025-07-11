@@ -53,6 +53,12 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	533373000,
+		"name":	"惊觉⺌",
+		"autoscript":	"连体强力组队打本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	656795656,
 		"name":	"你到底吻不吻我o",
 		"autoscript":	"连体泡泡1",
@@ -70,12 +76,6 @@
 		"autoscript":	"连体泡泡3",
 		"item":	"存仓",
 		"item_other":	"神·圣灵之拥;魔·冥界之翼;LA-smile-笑脸(男)T恤;LA逐梦系列-夏の阳光(男)帽子;LA逐梦系列-夏の阳光(男)下衣;空灵披风·SPA队长;法老王的闪耀耳环;法老王的巨型宝石戒指;"
-	}, {
-		"index":	533373000,
-		"name":	"惊觉⺌",
-		"autoscript":	"连体强力组队打本",
-		"item":	"存仓",
-		"item_other":	""
 	}, {
 		"index":	661152265,
 		"name":	"乙骨犹太",
@@ -149,6 +149,12 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	607273109,
+		"name":	"鸦九",
+		"autoscript":	"连体(5-10)每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	1015498234,
 		"name":	"陌辰",
 		"autoscript":	"连体(5-10)每日",
@@ -163,12 +169,6 @@
 	}, {
 		"index":	1015505890,
 		"name":	"乙骨犹太",
-		"autoscript":	"连体(5-10)每日",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	607273109,
-		"name":	"鸦九",
 		"autoscript":	"连体(5-10)每日",
 		"item":	"存仓",
 		"item_other":	""
