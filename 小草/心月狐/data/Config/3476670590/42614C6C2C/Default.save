@@ -140,7 +140,7 @@
 	"path_subjoin_tyjn":	true,
 	"path_subjoin_xsyc":	false,
 	"path_subjoin_ycwj":	false,
-	"path_subjoin_zxyc":	false,
+	"path_subjoin_zxyc":	true,
 	"protect_skill_syncope_1":	true,
 	"protect_skill_syncope_2":	false,
 	"protect_sw":	true,

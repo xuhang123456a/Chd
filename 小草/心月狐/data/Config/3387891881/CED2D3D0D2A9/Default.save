@@ -96,7 +96,7 @@
 	"main_mob_noattck_show":	false,
 	"main_mob_other_sw":	false,
 	"main_mob_trap_sw":	false,
-	"main_skill_distance_sw":	false,
+	"main_skill_distance_sw":	true,
 	"memory_debris_time":	true,
 	"mouse_rest":	true,
 	"mouse_time":	false,
@@ -217,11 +217,11 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	10,
+	"auto_load_wait_val":	15,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	10,
 	"auto_set_boss_hp_val":	99,
-	"auto_set_boss_team_val":	10,
+	"auto_set_boss_team_val":	5,
 	"auto_set_deliver_time_val":	15,
 	"auto_set_fly_val":	5,
 	"auto_set_revive_val":	10,
@@ -248,7 +248,7 @@
 	"main_mob_lr":	1600,
 	"main_mob_top":	180,
 	"main_mob_trap_x":	64,
-	"main_skill_distance_max":	350,
+	"main_skill_distance_max":	300,
 	"main_skill_distance_min":	0,
 	"msg_speak_time":	10,
 	"team_follow_removing":	150,
@@ -789,7 +789,13 @@
 			"complete":	false
 		}],
 	"team_list_data":	[],
-	"script_point_data":	[],
+	"script_point_data":	[{
+			"type":	"转身&执行额外",
+			"x":	"2955",
+			"y":	"1791",
+			"pos1":	"左&右[无]",
+			"pos2":	"左&右[无]"
+		}],
 	"script_trigger_data":	[],
 	"summon_data":	[190148179, 202401183, 202401186, 202401189],
 	"line_monster_data":	[],
@@ -4612,13 +4618,13 @@
 							"在副本":	"普累罗麻;残缺边界;"
 						}]
 				}, {
-					"sw":	false,
+					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"蓝草莓味全糖蜜果"
 					},
 					"judges":	[{
-							"在地图":	""
+							"在地图":	"残缺边界6_110006;"
 						}]
 				}, {
 					"sw":	true,
@@ -4627,7 +4633,7 @@
 						"状态物品":	"蓝草莓味全糖蜜果"
 					},
 					"judges":	[{
-							"在副本":	"普累罗麻;残缺边界;"
+							"在副本":	"普累罗麻;"
 						}]
 				}, {
 					"sw":	false,

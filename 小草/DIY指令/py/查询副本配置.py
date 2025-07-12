@@ -8,8 +8,8 @@ from src.utils.log import colored_bg_log
 # 获取脚本所在目录
 script_dir = Path(__file__).parent.resolve()
 # 指定目录路径
-specified_directory = script_dir.parent.parent / "心月狐" / "data" / "Config" / "3476670590"
-# specified_directory = script_dir.parent.parent / "心月狐" / "data" / "Config" 
+# specified_directory = script_dir.parent.parent / "心月狐" / "data" / "Config" / "3476670590"
+specified_directory = script_dir.parent.parent / "心月狐" / "data" / "Config" 
 
 # 要替换的字符串和替换后的字符串
 needReplace = False
@@ -19,11 +19,11 @@ find_strings = [
     # '副本难度=简单',
     # '副本难度=普通',
     # '副本难度=困难',
-    '是否采集=开启',
+    # '是否采集=开启',
     # '是否挖矿=开启',
     # '开门就走=关闭',
     # '任务领取=关闭',
-    # '拾取开关判断=不检测',
+    '拾取开关判断=不检测',
     # '拾取开关判断=默认',
     # '拾取开关判断=队伍有人关拾取没人开启',
     # '不打苏尔特=开启',
