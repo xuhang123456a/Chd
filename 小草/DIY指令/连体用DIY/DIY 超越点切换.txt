@@ -4,13 +4,13 @@
 	"sw":	true,
 	"name":	"超越点切换",
 	"judges":	[{
-			"sw":	true,
+			"sw":	false,
 			"judge":	{
 				"在副本频道":	""
 			}
 		}],
 	"executes":	[{
-			"sw":	true,
+			"sw":	false,
 			"sleep":	"0",
 			"execute":	{
 				"超越搭配":	"异常状态防御"

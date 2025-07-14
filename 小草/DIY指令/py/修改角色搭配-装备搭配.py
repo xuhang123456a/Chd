@@ -1,5 +1,7 @@
 import os
 import json
+import os
+from pathlib import Path
 from src.utils.tools import read_json_file, save_json_file
 
 def modify_json_data(json_content, target_json_content, modification_func):
@@ -23,10 +25,11 @@ def diysuit_modification(data, target_data):
         target_data['diysuit_item'] = data
     return target_data
 
-file_path = r'E:\Game\Chd\小草\DIY指令\吉他号\搭配-装备搭配 魔法主职连体.txt'
-# file_path = r'E:\Game\Chd\小草\DIY指令\环号\搭配-装备搭配 物理主职连体.txt'
+# 获取脚本所在目录
+script_dir = Path(__file__).parent.resolve()
+file_path = script_dir / "搭配-装备搭配.txt"
 json_content = read_json_file(file_path)
-target_path = r'E:\Game\Chd\小草\心月狐\data\Config'
+target_path = script_dir.parent.parent / "心月狐" / "data" / "Config" 
 target_files_path = [
     # ["﹎秋水伊人ゞ", "1536622268\\A96DC7EFCBAED2C1C8CBA967"],
     # ["晚来天欲雪o", "1536622268\\CDEDC0B4CCECD3FBD1A96F"],

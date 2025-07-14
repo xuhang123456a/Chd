@@ -85,11 +85,11 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	true,
+	"main_mob_herbs":	false,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	true,
+	"main_mob_mineral":	false,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
@@ -946,9 +946,21 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"3127",
-			"y":	"1391",
-			"pos1":	"左跑",
+			"x":	"6140",
+			"y":	"1495",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"5804",
+			"y":	"1495",
+			"pos1":	"左&右[无]",
 			"pos2":	"右跑",
 			"judge":	{
 				"":	""
@@ -958,10 +970,34 @@
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3726",
-			"y":	"1391",
-			"pos1":	"右跑",
-			"pos2":	"左跑",
+			"x":	"1269",
+			"y":	"1456",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"上跳",
+			"x":	"5980",
+			"y":	"1495",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"跳跃控制":	"200"
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"5922",
+			"y":	"1295",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
 			"judge":	{
 				"":	""
 			},
@@ -970,15 +1006,27 @@
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3447",
-			"y":	"1391",
+			"x":	"6031",
+			"y":	"1295",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"彩虹副本传送":	"空中战场"
+				"":	""
+			}
+		}, {
+			"type":	"模拟↑键",
+			"x":	"5986",
+			"y":	"1295",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
 			}
 		}],
 	"script_trigger_data":	[],
