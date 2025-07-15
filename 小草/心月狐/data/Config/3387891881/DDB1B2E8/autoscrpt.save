@@ -7,7 +7,8 @@
 		"diyawaken":	"5±¨…À Ø",
 		"tag":	15245,
 		"script":	"≤–»±±ﬂΩÁ",
-		"task":	0
+		"task":	0,
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -17,7 +18,8 @@
 		"diyawaken":	"",
 		"tag":	19534,
 		"script":	"°æ¥Ê°ø≤ƒ¡œ",
-		"task":	0
+		"task":	0,
+		"scriptend":	14
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

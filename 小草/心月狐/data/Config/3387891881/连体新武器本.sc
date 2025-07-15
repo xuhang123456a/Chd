@@ -1,16 +1,6 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	19110,
-		"script":	"进队长组",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
@@ -51,11 +41,11 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"存仓",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9162,
-		"script":	"执行自动切换角色",
+		"tag":	14659,
+		"script":	"自动培养血脉战魂",
 		"task":	0
 	}]

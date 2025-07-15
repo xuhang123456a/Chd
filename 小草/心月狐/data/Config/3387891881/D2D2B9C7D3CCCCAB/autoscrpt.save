@@ -5,19 +5,59 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	4967,
-		"script":	"[梦境]梦四（1法1盾2战）",
+		"tag":	21261,
+		"script":	"进队长组",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	15
+	}, {
+		"setcount":	2,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	13355,
+		"script":	"丽西泰亚之门",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	30652,
+		"script":	"蘑菇树沼泽",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	9285,
+		"script":	"诺尼尔之泪",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	12682,
+		"script":	"摩克沙",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	7377,
-		"script":	"[梦境]梦一（2-4人）",
+		"tag":	2024,
+		"script":	"未知森林",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -26,8 +66,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	32636,
-		"script":	"[梦境]梦三（4法师）",
+		"tag":	15037,
+		"script":	"退出组队",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -36,7 +76,17 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11117,
-		"script":	"[梦境]梦二（1法3战）",
+		"tag":	19534,
+		"script":	"【存】材料",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"存仓",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	9162,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]

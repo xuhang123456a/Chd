@@ -96,7 +96,7 @@
 	"main_mob_noattck_show":	false,
 	"main_mob_other_sw":	false,
 	"main_mob_trap_sw":	false,
-	"main_skill_distance_sw":	false,
+	"main_skill_distance_sw":	true,
 	"memory_debris_time":	true,
 	"mouse_rest":	true,
 	"mouse_time":	false,
@@ -217,7 +217,7 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	10,
+	"auto_load_wait_val":	15,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	10,
 	"auto_set_boss_hp_val":	50,
@@ -248,7 +248,7 @@
 	"main_mob_lr":	1200,
 	"main_mob_top":	180,
 	"main_mob_trap_x":	64,
-	"main_skill_distance_max":	350,
+	"main_skill_distance_max":	300,
 	"main_skill_distance_min":	0,
 	"msg_speak_time":	10,
 	"team_follow_removing":	150,
@@ -2391,145 +2391,6 @@
 					"judges":	[{
 							"地图内有怪":	"重力引流员;"
 						}]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	true,
-			"name":	"奈落吃药",
-			"judges":	[{
-					"sw":	true,
-					"judge":	{
-						"在副本":	"奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;奈落·神树拉菲尔;奈落·魔法学院主楼;"
-					}
-				}],
-			"executes":	[{
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"拉皮德的魔能合剂"
-					},
-					"judges":	[{
-							"没有BUFF":	"速效药剂:进攻型_9487019"
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·秩序"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"哈密瓜味全糖蜜果"
-					},
-					"judges":	[]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·坚固"
-					},
-					"judges":	[{
-							"地图内有首领":	""
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"紫葡萄味全糖蜜果"
-					},
-					"judges":	[{
-							"地图内有首领":	""
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"青苹果味全糖蜜果"
-					},
-					"judges":	[]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·壁垒"
-					},
-					"judges":	[{
-							"地图内有首领":	""
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"优先技能":	"[奈落]聚能冲击"
-					},
-					"judges":	[{
-							"搜索内有怪":	""
-						}]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	true,
-			"name":	"世界BOSS",
-			"judges":	[{
-					"sw":	true,
-					"judge":	{
-						"在地图":	"阿瓦伦 未知之处_100703;"
-					}
-				}, {
-					"sw":	true,
-					"judge":	{
-						"地图内有首领":	""
-					}
-				}],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"状态物品":	"青苹果味全糖蜜果"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"使用技能":	"【生存本能】1段"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"更换称号":	"魔尊领域掌握者"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"超越搭配":	"BOSS属性"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"使用技能":	"智者超载之钥"
-					},
-					"judges":	[{
-							"首领HP百分比<=":	"50"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"使用技能":	"[特殊]神之使者"
-					},
-					"judges":	[]
 				}]
 		}, {
 			"only_run":	false,
