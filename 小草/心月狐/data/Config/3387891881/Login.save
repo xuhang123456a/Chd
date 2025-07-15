@@ -89,14 +89,14 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	1015515453,
-		"name":	"惊觉⺌",
+		"index":	171971515,
+		"name":	"乙骨犹太",
 		"autoscript":	"连体垃圾组队打本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	171971515,
-		"name":	"乙骨犹太",
+		"index":	1015515453,
+		"name":	"惊觉⺌",
 		"autoscript":	"连体垃圾组队打本",
 		"item":	"存仓",
 		"item_other":	""

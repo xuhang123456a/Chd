@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_login_end":	false,
 	"auto_reward_open_sw":	true,
@@ -85,11 +85,11 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	true,
+	"main_mob_herbs":	false,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	true,
+	"main_mob_mineral":	false,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
@@ -946,9 +946,9 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"×ªÉí&Ö´ĞĞ¶îÍâ",
-			"x":	"1124",
+			"x":	"5183",
 			"y":	"1375",
-			"pos1":	"×ó&ÓÒ[ÎŞ]",
+			"pos1":	"ÓÒÅÜ",
 			"pos2":	"×óÅÜ",
 			"judge":	{
 				"":	""
@@ -957,40 +957,52 @@
 				"":	""
 			}
 		}, {
-			"type":	"Ä£Äâ¡ü¼ü",
-			"x":	"65",
+			"type":	"×óÌø",
+			"x":	"2976",
 			"y":	"1375",
-			"pos1":	"×ó&ÓÒ[ÎŞ]",
+			"pos1":	"×óÅÜ",
 			"pos2":	"×óÅÜ",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"ÌøÔ¾¿ØÖÆ":	"100"
 			}
 		}, {
-			"type":	"×ªÉí&Ö´ĞĞ¶îÍâ",
-			"x":	"3691",
+			"type":	"ÉÏÌø",
+			"x":	"32",
 			"y":	"1375",
-			"pos1":	"×ó&ÓÒ[ÎŞ]",
-			"pos2":	"×óÅÜ",
+			"pos1":	"×óÅÜ",
+			"pos2":	"ÓÒÅÜ",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"ÌøÔ¾¿ØÖÆ":	"400"
 			}
 		}, {
-			"type":	"Ä£Äâ¡ü¼ü",
-			"x":	"2786",
-			"y":	"1375",
-			"pos1":	"×ó&ÓÒ[ÎŞ]",
-			"pos2":	"×óÅÜ",
+			"type":	"ÉÏÌø",
+			"x":	"392",
+			"y":	"991",
+			"pos1":	"ÓÒÅÜ",
+			"pos2":	"ÓÒÅÜ",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
+				"ÌøÔ¾¿ØÖÆ":	"400"
+			}
+		}, {
+			"type":	"ÓÒÌø",
+			"x":	"959",
+			"y":	"479",
+			"pos1":	"ÓÒÅÜ",
+			"pos2":	"ÓÒÅÜ",
+			"judge":	{
 				"":	""
+			},
+			"execute":	{
+				"ÌøÔ¾¿ØÖÆ":	"100"
 			}
 		}],
 	"script_trigger_data":	[],
