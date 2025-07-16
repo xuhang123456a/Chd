@@ -127,7 +127,7 @@
 	"path_line_name_sw":	false,
 	"path_line_settings_sw":	false,
 	"path_line_team_sw":	true,
-	"path_line_transm_sw":	true,
+	"path_line_transm_sw":	false,
 	"path_script_picture_sw1":	false,
 	"path_script_picture_sw2":	false,
 	"path_script_picture_sw4":	false,

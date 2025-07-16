@@ -1,0 +1,748 @@
+---------------------------------------------------术士须知------------------------------------------
+1.手镯使用红色灵魂手镯
+2.以下技能组必须要匹配对应加点和觉醒（群相册自寻）
+3.需要添加DIY指令匹配技能组（代码在最下面）
+4.技能导入方法（技能-导入技能）     
+   DIY导入方法（指令-DIY指令-导入当前分组） 复制以下代码即可{}括号里面的
+5.需要翅膀拼图打狂野的可以购买商城的恶魔之力技能拼图，需要打前置拼图
+（手镯+8觉醒+1拼图+1印章+1）
+（印章完美技能狂野+蛇龙）
+6.关于有人会闪魂的问题一般有3个问题
+（没怪一直闪-检查血脉天赋是否激活）
+（跳跃 爬梯子 有怪频繁闪-导入buff冲突删掉重新导入）
+（boss闪魂-在技能设置里面关闭boss忽略技能条件选项） 
+7.所有技能组里面的传奇觉醒技能 自己按需修改目标数（*看自己坦度和技能等级*）
+8.骨折技能为（迅捷灵魂 灵魂冲锋 向后传送 蓝色灵魂Ⅲ）
+9.竞技场模式单独设置技能顺序 （灵魂变化转蓝-灵魂4-灵魂3-巨人-狂野）不需要其他任何其他操作
+============================分界线================================
+{
+	"skill_attack_data":	[{
+			"sw":	true,
+			"id":	32500029,
+			"name":	"智者超载之钥",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"在副本":	"水下培养皿·失魂寺;阿特拉斯庭院;埃吉尔遗迹;穿梭之都;时空之泉;大地的考验;黑月的考验;黄昏教堂;消失的星之歌;精灵树桩;生命之恩泰莱凯;流水回廊;诺尼尔之泪;摩克沙;群星宫殿;尼夫海姆站;穆斯菲尔斯隧道;薇娅斯梦境;探险家神殿;星之伊甸;奈落·蛇龙之巢;奈落·珊瑚之歌;奈落·冰淇淋庭院;奈落·破坏之城;奈落·冰封雪域;奈落·魔法学院主楼;奈落·神树拉菲尔;艾乌加蒙剧场;深渊之镜;普洛菲司台;霍普占卜室;克洛诺斯的时间;卡伊洛斯的时间;炼狱阿兹雷尔;巴尼塔斯;"
+				}],
+			"num":	5
+		}, {
+			"sw":	false,
+			"id":	1211033,
+			"name":	"灵魂冲锋",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	true,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"拥有BUFF":	"无视击退_14023004"
+				}, {
+					"地图内有首领":	""
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	6200104,
+			"name":	"[奈落]定点打击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1210038,
+			"name":	"灵魂变化",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"没有BUFF":	"黑色灵魂_14021885"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3213403,
+			"name":	"黑暗之影",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	300,
+			"name":	"【生存本能】1段",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	66,
+			"name":	"圣物技能",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"没有BUFF":	"龙猫坐像_13016169\n"
+				}, {
+					"没有BUFF":	"灼风之息_13016170\\n"
+				}, {
+					"没有BUFF":	"狐狸珠_13016177\\n"
+				}, {
+					"没有BUFF":	"玛阿特之眼_13016167\\n"
+				}, {
+					"没有BUFF":	"圣物之力_81090001"
+				}, {
+					"搜索内有首领":	""
+				}],
+			"num":	0
+		}, {
+			"sw":	false,
+			"id":	5000920,
+			"name":	"[特殊]通灵领主",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3103410,
+			"name":	"第六感",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3820001,
+			"name":	"魔法球板",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	8003211,
+			"name":	"红色灵魂",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3804507,
+			"name":	"【传奇】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	10
+		}, {
+			"sw":	false,
+			"id":	1210036,
+			"name":	"灵魂大师IV",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"拥有BUFF":	"黑色灵魂_14021885"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1103033,
+			"name":	"灵魂大师III",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"拥有BUFF":	"黑色灵魂_14021885"
+				}, {
+					"没有BUFF":	"无视击退_14023004"
+				}, {
+					"技能冷却中":	"红色灵魂"
+				}, {
+					"技能非冷却":	"灵魂变化"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1102033,
+			"name":	"灵魂大师II",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"拥有BUFF":	"黑色灵魂_14021885"
+				}, {
+					"没有BUFF":	"无视击退_14023004"
+				}, {
+					"技能冷却中":	"红色灵魂"
+				}, {
+					"技能非冷却":	"灵魂变化"
+				}],
+			"num":	0
+		}, {
+			"sw":	false,
+			"id":	1101033,
+			"name":	"灵魂大师I",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"拥有BUFF":	"黑色灵魂_14021885"
+				}, {
+					"没有BUFF":	"无视击退_14023004"
+				}, {
+					"AP>=":	"350"
+				}],
+			"num":	0
+		}, {
+			"sw":	false,
+			"id":	1106033,
+			"name":	"巨人灵魂",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	true,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"搜索内无首领":	""
+				}],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	1802416,
+			"name":	"[无限]龙焰",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	false,
+			"id":	3814504,
+			"name":	"【觉醒II】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	1100033,
+			"name":	"狂野灵魂",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	false,
+			"id":	240,
+			"name":	"技能快捷栏3-9",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}]
+}
+
+======================分界线========================================
+（锁黑逻辑-蛇龙强化灵魂变化使用后概率+30% 会被红色灵魂顶掉  在使用红色灵魂霸体后概率buff会消失
+此diy可以优先刷新概率buff且强制切换为黑色灵魂形态 ）
+锁黑指令---复制包括 括号里的所有代码
+
+[{
+	"only_run":	false,
+	"run_sleep":	1,
+	"sw":	true,
+	"name":	"黑",
+	"judges":	[],
+	"executes":	[{
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用技能":	"灵魂变化"
+			},
+			"judges":	[{
+					"没有BUFF":	"黑色灵魂_14021885"
+				}]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用技能":	"灵魂变化"
+			},
+			"judges":	[{
+					"没有BUFF":	"灵魂精通_34501101"
+				}]
+		}]
+}]
+==================================下面有惊喜====================================
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                           （隐藏背击流技能组）
+
+1.推荐背击常驻200+ 且圣物专属石3个以上。
+2.DIY选择锁黑（在最下面）。
+3.技能加点灵魂123技能点满 灵魂4一点即可（有秘宝点满也行）其他不变。
+4.小草特殊技能设置（首领怪忽视技能条件设置）一定不能开，设置如下↓
+   √（通用）攻击方向优先数量多方向
+   √（通用）强制先攻击首领怪方向
+   √（通用）首领怪忽略技能怪数数量
+   x（通用）首领怪忽略技能设置条件
+   x（通用）强制多段技能完整释放
+   √（术士）灵魂4-术士灵魂4禁用黑魂
+5.觉醒树加点（狂野-蛇龙-生存-灵魂冲锋-ap获取-魂1下-魂2上-魂3）
+=============================↓技能组↓=====================================
+{
+	"skill_attack_data":	[{
+			"sw":	true,
+			"id":	32500029,
+			"name":	"智者超载之钥",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	32500019,
+			"name":	"坚盾惩戒之钥",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1211033,
+			"name":	"灵魂冲锋",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	true,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"拥有BUFF":	"无视击退_14023004"
+				}, {
+					"搜索内有首领":	""
+				}, {
+					"拥有BUFF":	"圣物之力_81090001"
+				}],
+			"num":	0
+		}, {
+			"sw":	false,
+			"id":	1211033,
+			"name":	"灵魂冲锋",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	true,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"拥有BUFF":	"护盾_13025335"
+				}, {
+					"搜索内有首领":	""
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1211033,
+			"name":	"灵魂冲锋",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	true,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"拥有BUFF":	"护盾_14021900"
+				}, {
+					"搜索内有首领":	""
+				}, {
+					"拥有BUFF":	"圣物之力_81090001"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	6200104,
+			"name":	"[奈落]定点打击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1210038,
+			"name":	"灵魂变化",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"拥有BUFF":	"蓝色灵魂_14021884"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3213403,
+			"name":	"黑暗之影",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"HP<=%":	"50"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	300,
+			"name":	"【生存本能】1段",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	66,
+			"name":	"圣物技能",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"没有BUFF":	"圣物之力_81090001"
+				}, {
+					"搜索内有首领":	""
+				}],
+			"num":	0
+		}, {
+			"sw":	false,
+			"id":	5000920,
+			"name":	"[特殊]通灵领主",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3103410,
+			"name":	"第六感",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	8003211,
+			"name":	"红色灵魂",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3820001,
+			"name":	"魔法球板",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	3804507,
+			"name":	"【传奇】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	1802416,
+			"name":	"[无限]龙焰",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1210036,
+			"name":	"灵魂大师IV",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	1103033,
+			"name":	"灵魂大师III",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"没有BUFF":	"无视击退_81002697"
+				}, {
+					"没有BUFF":	"无视击退_21020656"
+				}, {
+					"没有BUFF":	"无视击退_14023004"
+				}],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	1102033,
+			"name":	"灵魂大师II",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"没有BUFF":	"无视击退_81002697"
+				}, {
+					"没有BUFF":	"无视击退_21020656"
+				}, {
+					"没有BUFF":	"无视击退_14023004"
+				}],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	1101033,
+			"name":	"灵魂大师I",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"没有BUFF":	"无视击退_81002697"
+				}, {
+					"没有BUFF":	"无视击退_21020656"
+				}, {
+					"没有BUFF":	"无视击退_14023004"
+				}],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	1100033,
+			"name":	"狂野灵魂",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}]
+}
+==============================↓锁黑↓================================
+[{
+	"only_run":	false,
+	"run_sleep":	1,
+	"sw":	true,
+	"name":	"黑",
+	"judges":	[],
+	"executes":	[{
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用技能":	"灵魂变化"
+			},
+			"judges":	[{
+					"没有BUFF":	"黑色灵魂_14021885"
+				}]
+		}, {
+			"sw":	true,
+			"sleep":	"1",
+			"execute":	{
+				"使用技能":	"灵魂变化"
+			},
+			"judges":	[{
+					"没有BUFF":	"灵魂精通_34501101"
+				}]
+		}]
+}]

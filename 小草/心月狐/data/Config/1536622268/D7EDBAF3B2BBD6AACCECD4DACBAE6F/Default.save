@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_login_end":	false,
 	"auto_reward_open_sw":	true,
@@ -946,8 +946,20 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"5183",
-			"y":	"1375",
+			"x":	"3127",
+			"y":	"1391",
+			"pos1":	"左跑",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"3726",
+			"y":	"1391",
 			"pos1":	"右跑",
 			"pos2":	"左跑",
 			"judge":	{
@@ -957,52 +969,16 @@
 				"":	""
 			}
 		}, {
-			"type":	"左跳",
-			"x":	"2976",
-			"y":	"1375",
-			"pos1":	"左跑",
+			"type":	"转身&执行额外",
+			"x":	"3447",
+			"y":	"1391",
+			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"跳跃控制":	"100"
-			}
-		}, {
-			"type":	"上跳",
-			"x":	"32",
-			"y":	"1375",
-			"pos1":	"左跑",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"跳跃控制":	"400"
-			}
-		}, {
-			"type":	"上跳",
-			"x":	"392",
-			"y":	"991",
-			"pos1":	"右跑",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"跳跃控制":	"400"
-			}
-		}, {
-			"type":	"右跳",
-			"x":	"959",
-			"y":	"479",
-			"pos1":	"右跑",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"跳跃控制":	"100"
+				"彩虹副本传送":	"空中战场"
 			}
 		}],
 	"script_trigger_data":	[],

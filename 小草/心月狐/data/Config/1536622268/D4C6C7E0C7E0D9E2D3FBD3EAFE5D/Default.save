@@ -85,11 +85,11 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	true,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	true,
+	"main_mob_herbs":	false,
 	"main_mob_indun":	true,
 	"main_mob_jump":	true,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	true,
+	"main_mob_mineral":	false,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
@@ -536,21 +536,25 @@
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	8003211,
-			"name":	"红色灵魂",
+			"id":	1211033,
+			"name":	"灵魂冲锋",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
 			"intact":	false,
-			"alone":	false,
+			"alone":	true,
 			"reverse":	false,
 			"speedx":	false,
-			"judge":	[],
+			"judge":	[{
+					"拥有BUFF":	"无视击退_14023004"
+				}, {
+					"地图内有首领":	""
+				}],
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	3820001,
-			"name":	"魔法球板",
+			"id":	1210038,
+			"name":	"灵魂变化",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -558,38 +562,14 @@
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
-			"judge":	[],
+			"judge":	[{
+					"没有BUFF":	"黑色灵魂_14021885"
+				}],
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	3804507,
-			"name":	"【传奇】",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	8
-		}, {
-			"sw":	false,
-			"id":	3814504,
-			"name":	"【觉醒II】",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	false,
-			"id":	3804504,
-			"name":	"【觉醒】",
+			"id":	3213403,
+			"name":	"黑暗之影",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -606,6 +586,32 @@
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	3820001,
+			"name":	"魔法球板",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	8003211,
+			"name":	"红色灵魂",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
@@ -614,8 +620,112 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1100033,
-			"name":	"狂野灵魂",
+			"id":	3804507,
+			"name":	"【传奇】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	10
+		}, {
+			"sw":	true,
+			"id":	1210036,
+			"name":	"灵魂大师IV",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"拥有BUFF":	"黑色灵魂_14021885"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1103033,
+			"name":	"灵魂大师III",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"拥有BUFF":	"黑色灵魂_14021885"
+				}, {
+					"没有BUFF":	"无视击退_14023004"
+				}, {
+					"技能冷却中":	"红色灵魂"
+				}, {
+					"技能非冷却":	"灵魂变化"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1102033,
+			"name":	"灵魂大师II",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"拥有BUFF":	"黑色灵魂_14021885"
+				}, {
+					"没有BUFF":	"无视击退_14023004"
+				}, {
+					"技能冷却中":	"红色灵魂"
+				}, {
+					"技能非冷却":	"灵魂变化"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1101033,
+			"name":	"灵魂大师I",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"拥有BUFF":	"黑色灵魂_14021885"
+				}, {
+					"没有BUFF":	"无视击退_14023004"
+				}, {
+					"AP>=":	"350"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1106033,
+			"name":	"巨人灵魂",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	true,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"搜索内无首领":	""
+				}],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	3814504,
+			"name":	"【觉醒II】",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -624,11 +734,11 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0
+			"num":	5
 		}, {
 			"sw":	true,
-			"id":	1210036,
-			"name":	"灵魂大师IV",
+			"id":	1100033,
+			"name":	"狂野灵魂",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,

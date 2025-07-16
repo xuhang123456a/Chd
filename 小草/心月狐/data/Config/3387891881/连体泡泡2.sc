@@ -1,4 +1,14 @@
 [{
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	17581,
+		"script":	"火山珊瑚",
+		"task":	0
+	}, {
 		"setcount":	2,
 		"loadtime":	0,
 		"diyitem":	"经验套装",
