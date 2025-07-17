@@ -1,4 +1,6 @@
 {
+	"diysuit_user_item":	{
+	},
 	"diysuit_property":	[{
 			"name":	"小怪属性",
 			"data":	{
@@ -135,5 +137,7 @@
 					"type":	"操作",
 					"name":	"召唤兽出战:贝尔特利切"
 				}]
-		}]
+		}],
+	"synchro_player":	[],
+	"synchro_nodes":	[]
 }

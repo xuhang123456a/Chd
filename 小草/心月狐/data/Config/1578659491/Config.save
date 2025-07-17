@@ -1,4 +1,6 @@
 {
+	"diysuit_user_item":	{
+	},
 	"diysuit_property":	[{
 			"name":	"ะกนึ",
 			"data":	{
@@ -127,5 +129,7 @@
 				"34":	"15"
 			}
 		}],
-	"diysuit_other":	[]
+	"diysuit_other":	[],
+	"synchro_player":	[],
+	"synchro_nodes":	[]
 }

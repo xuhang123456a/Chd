@@ -29,7 +29,7 @@
 	"automatic_dktime":	true,
 	"automatic_explorer":	true,
 	"automatic_guild":	true,
-	"automatic_guildmoney":	true,
+	"automatic_guildmoney":	false,
 	"automatic_ml":	true,
 	"automatic_mluse":	true,
 	"automatic_monter_book":	true,

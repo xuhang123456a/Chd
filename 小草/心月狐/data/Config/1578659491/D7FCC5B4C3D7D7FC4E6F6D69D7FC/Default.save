@@ -29,7 +29,7 @@
 	"automatic_dktime":	true,
 	"automatic_explorer":	true,
 	"automatic_guild":	true,
-	"automatic_guildmoney":	true,
+	"automatic_guildmoney":	false,
 	"automatic_ml":	true,
 	"automatic_mluse":	true,
 	"automatic_monter_book":	true,
@@ -396,6 +396,15 @@
 				"[无]":	""
 			},
 			"item":	"★ 小型樱桃药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"特级血脉水晶(绑定)"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{

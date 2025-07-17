@@ -29,7 +29,7 @@
 	"automatic_dktime":	true,
 	"automatic_explorer":	true,
 	"automatic_guild":	false,
-	"automatic_guildmoney":	true,
+	"automatic_guildmoney":	false,
 	"automatic_ml":	true,
 	"automatic_mluse":	true,
 	"automatic_monter_book":	true,
@@ -906,7 +906,7 @@
 			"item":	""
 		}, {
 			"npc":	6,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -931,7 +931,7 @@
 			"item":	""
 		}, {
 			"npc":	11,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -971,7 +971,7 @@
 			"item":	""
 		}, {
 			"npc":	19,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
@@ -1131,7 +1131,7 @@
 			"item":	""
 		}, {
 			"npc":	58,
-			"sw1":	false,
+			"sw1":	true,
 			"sw2":	false,
 			"item":	""
 		}, {
