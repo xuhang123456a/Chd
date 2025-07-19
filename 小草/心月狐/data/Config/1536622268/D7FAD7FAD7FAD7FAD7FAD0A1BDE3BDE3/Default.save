@@ -968,39 +968,51 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"3127",
-			"y":	"1391",
-			"pos1":	"左跑",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"3726",
-			"y":	"1391",
-			"pos1":	"右跑",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"3447",
-			"y":	"1391",
+			"x":	"1124",
+			"y":	"1375",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"彩虹副本传送":	"空中战场"
+				"":	""
+			}
+		}, {
+			"type":	"模拟↑键",
+			"x":	"65",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"3691",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"模拟↑键",
+			"x":	"2786",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
 			}
 		}],
 	"script_trigger_data":	[],
@@ -1069,10 +1081,10 @@
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
 			"id":	1,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	1,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -1209,10 +1221,10 @@
 				}]
 		}, {
 			"id":	6,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	26,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -1281,15 +1293,15 @@
 				}]
 		}, {
 			"id":	9,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	41,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
 					"npc":	42,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -1305,7 +1317,7 @@
 				}]
 		}, {
 			"id":	10,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	46,
 					"sw1":	false,
@@ -1318,7 +1330,7 @@
 					"item":	""
 				}, {
 					"npc":	48,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -1353,7 +1365,7 @@
 				}]
 		}, {
 			"id":	12,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	56,
 					"sw1":	false,
@@ -1361,17 +1373,17 @@
 					"item":	""
 				}, {
 					"npc":	57,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
 					"npc":	58,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
 					"npc":	59,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}]

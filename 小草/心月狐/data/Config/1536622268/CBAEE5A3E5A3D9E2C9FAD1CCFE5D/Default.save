@@ -751,10 +751,10 @@
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
 			"id":	1,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	1,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -809,10 +809,10 @@
 				}]
 		}, {
 			"id":	3,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	11,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -838,7 +838,7 @@
 				}]
 		}, {
 			"id":	4,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	16,
 					"sw1":	false,
@@ -856,7 +856,7 @@
 					"item":	""
 				}, {
 					"npc":	19,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}]
@@ -891,10 +891,10 @@
 				}]
 		}, {
 			"id":	6,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	26,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -963,10 +963,10 @@
 				}]
 		}, {
 			"id":	9,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	41,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -987,7 +987,7 @@
 				}]
 		}, {
 			"id":	10,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	46,
 					"sw1":	false,
@@ -1000,7 +1000,7 @@
 					"item":	""
 				}, {
 					"npc":	48,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -1035,7 +1035,7 @@
 				}]
 		}, {
 			"id":	12,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	56,
 					"sw1":	false,
@@ -1048,7 +1048,7 @@
 					"item":	""
 				}, {
 					"npc":	58,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {

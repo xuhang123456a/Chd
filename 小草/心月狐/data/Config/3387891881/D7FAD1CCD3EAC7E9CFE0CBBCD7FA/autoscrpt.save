@@ -7,7 +7,8 @@
 		"diyawaken":	"",
 		"tag":	31897,
 		"script":	"【彩虹向导】每日任务",
-		"task":	0
+		"task":	0,
+		"scriptend":	19
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -17,7 +18,8 @@
 		"diyawaken":	"",
 		"tag":	24745,
 		"script":	"领取家族工资",
-		"task":	0
+		"task":	0,
+		"scriptend":	19
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -27,7 +29,8 @@
 		"diyawaken":	"",
 		"tag":	7798,
 		"script":	"进队长组",
-		"task":	0
+		"task":	0,
+		"scriptend":	19
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -37,7 +40,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	13355,
 		"script":	"丽西泰亚之门",
-		"task":	0
+		"task":	0,
+		"scriptend":	19
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -47,7 +51,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	30652,
 		"script":	"蘑菇树沼泽",
-		"task":	0
+		"task":	0,
+		"scriptend":	19
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

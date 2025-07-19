@@ -821,10 +821,10 @@
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
 			"id":	1,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	1,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -850,10 +850,10 @@
 				}]
 		}, {
 			"id":	2,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	6,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -879,10 +879,10 @@
 				}]
 		}, {
 			"id":	3,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	11,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -908,7 +908,7 @@
 				}]
 		}, {
 			"id":	4,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	16,
 					"sw1":	false,
@@ -926,7 +926,7 @@
 					"item":	""
 				}, {
 					"npc":	19,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}]

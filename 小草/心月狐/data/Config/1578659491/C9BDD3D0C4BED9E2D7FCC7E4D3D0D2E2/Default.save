@@ -5,7 +5,7 @@
 	"auto_end_lua":	true,
 	"auto_end_plan":	true,
 	"auto_load_change":	false,
-	"auto_load_task":	true,
+	"auto_load_task":	false,
 	"auto_load_team":	true,
 	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
@@ -24,6 +24,7 @@
 	"auto_task_sw1":	true,
 	"auto_team_dream_room_leader":	false,
 	"auto_team_room_leader":	false,
+	"auto_team_world_room_leader":	false,
 	"automatic_book":	true,
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
@@ -40,7 +41,6 @@
 	"automatic_skill_update_sw":	true,
 	"automatic_subjoin_cwzx":	true,
 	"automatic_taskRemote":	true,
-	"guild_diplomacy_contract":	true,
 	"guild_diplomacy_only":	true,
 	"guild_tribute_sw":	true,
 	"item_buff_check":	false,
@@ -181,6 +181,8 @@
 	"skill_option_stop_skill":	false,
 	"skill_option_stop_skill_all":	true,
 	"skill_option_storage":	false,
+	"skill_option_storage2":	false,
+	"skill_option_storage3":	false,
 	"skill_shake_sw":	false,
 	"skill_silent_sw":	true,
 	"summon_automatic_zhs":	true,
@@ -199,6 +201,8 @@
 	"auto_team_dream_room_namelist":	"4309682;baodebaoqi4\r19673002;青春属于表白\r9902523;♀微风\r",
 	"auto_team_room_name":	"7759",
 	"auto_team_room_namelist":	"9915450;微风♀\r11078750;他不会等你了\r11078294;花市灯如昼っ\r",
+	"auto_team_world_room_name":	"",
+	"auto_team_world_room_password":	"",
 	"guild_tribute_items":	"高级冒险家情报卷轴;达人冒险家情报卷轴;中级冒险家情报卷轴;初级冒险家情报卷轴;初级活力水滴;闪闪发光的宝箱;大师活力水滴;智之石碎片;外交印章：朱雀;智之石;活跃的碎片结晶;黄金魔方;中级活力水滴;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
@@ -590,36 +594,6 @@
 		}, {
 			"sw":	true,
 			"type":	"操作",
-			"name":	"召唤兽出战:尤里亚",
-			"hard":	false
-		}, {
-			"sw":	true,
-			"type":	"操作",
-			"name":	"召唤兽出战:缇尔沃特",
-			"hard":	false
-		}, {
-			"sw":	true,
-			"type":	"操作",
-			"name":	"召唤兽出战:卡勒迪安",
-			"hard":	false
-		}, {
-			"sw":	true,
-			"type":	"操作",
-			"name":	"召唤兽出战:贝尔特利切",
-			"hard":	false
-		}, {
-			"sw":	true,
-			"type":	"操作",
-			"name":	"召唤兽出战:伊雷泽",
-			"hard":	false
-		}, {
-			"sw":	true,
-			"type":	"操作",
-			"name":	"召唤兽出战:阿里亚",
-			"hard":	false
-		}, {
-			"sw":	true,
-			"type":	"操作",
 			"name":	"召唤兽出战:龙猫理查",
 			"maps":	[],
 			"induns":	["泡泡战舰", "珊瑚之歌"],
@@ -680,36 +654,6 @@
 			"induns":	["泡泡战舰", "珊瑚之歌"],
 			"hard":	false
 		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"血脉战魂:召唤",
-			"induns":	["诺尼尔之泪", "摩克沙", "薇娅斯梦境", "穆斯菲尔斯隧道", "尼夫海姆站", "群星宫殿", "水下培养皿·失魂寺", "阿特拉斯庭院", "埃吉尔遗迹", "珊瑚之歌", "穿梭之都", "时空之泉", "大地的考验", "黑月的考验", "黄昏教堂", "消失的星之歌", "精灵树桩", "生命之恩泰莱凯", "泡泡战舰", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "克洛诺斯的时间", "卡伊洛斯的时间", "未知森林", "炼狱阿兹雷尔"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"血脉战魂:休息",
-			"maps":	["贝罗斯城市_200", "艾丽娅斯城市_600"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"物品",
-			"name":	"温泉蛋",
-			"induns":	["珊瑚之歌", "泡泡战舰"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"物品",
-			"name":	"拉兰大道的晚餐·过去的真理",
-			"induns":	["阿特拉斯庭院"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"物品",
-			"name":	"拉兰大道的晚餐·过去的真理",
-			"monsters":	["拉斐拉"],
-			"hard":	false
-		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"青苹果味全糖蜜果",
@@ -722,33 +666,10 @@
 			"induns":	["普累罗麻", "残缺边界", "丽西泰亚之门", "蘑菇树沼泽"],
 			"hard":	false
 		}, {
-			"sw":	false,
-			"type":	"物品",
-			"name":	"小型伤害吸收红剂",
-			"hard":	false
-		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"拉皮德的铁盾药剂",
 			"induns":	["穿梭之都", "时空之泉", "流水回廊", "阿特拉斯庭院", "埃吉尔遗迹", "奈落·蛇龙之巢", "奈落·珊瑚之歌", "奈落·冰淇淋庭院", "奈落·破坏之城", "奈落·冰封雪域", "奈落·魔法学院主楼", "奈落·神树拉菲尔", "穆斯菲尔斯隧道", "尼夫海姆站", "薇娅斯梦境", "摩克沙", "诺尼尔之泪", "水下培养皿·失魂寺", "丽西泰亚之门", "蘑菇树沼泽", "群星宫殿"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"物品",
-			"name":	"拉皮德的魔能合剂",
-			"induns":	["诺尼尔之泪", "摩克沙", "薇娅斯梦境", "穆斯菲尔斯隧道", "尼夫海姆站", "群星宫殿", "流水回廊", "水下培养皿·失魂寺", "阿特拉斯庭院", "穿梭之都", "时空之泉", "埃吉尔遗迹", "奈落·神树拉菲尔", "奈落·冰封雪域", "奈落·冰淇淋庭院", "奈落·珊瑚之歌", "奈落·破坏之城", "奈落·魔法学院主楼", "奈落·蛇龙之巢", "大地的考验"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"血脉战魂:召唤",
-			"induns":	["诺尼尔之泪", "摩克沙", "薇娅斯梦境", "穆斯菲尔斯隧道", "尼夫海姆站", "群星宫殿", "水下培养皿·失魂寺", "阿特拉斯庭院", "埃吉尔遗迹", "珊瑚之歌", "穿梭之都", "时空之泉", "大地的考验", "黑月的考验", "黄昏教堂", "消失的星之歌", "精灵树桩", "生命之恩泰莱凯", "泡泡战舰", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "克洛诺斯的时间", "卡伊洛斯的时间", "炼狱阿兹雷尔", "巴尼塔斯", "心脏的记忆", "未知森林", "哈姆克公爵府", "圣字教堂", "阿科洛之棺", "回声泉", "冰狱", "龙猫妹妹庭院", "盟约圣地", "希列"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"血脉战魂:休息",
-			"maps":	["贝罗斯城市_200", "艾丽娅斯城市_600"],
 			"hard":	false
 		}, {
 			"sw":	true,
@@ -761,16 +682,6 @@
 			"type":	"物品",
 			"name":	"水蜜桃味全糖蜜果",
 			"induns":	["珊瑚之歌", "泡泡战舰"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"物品",
-			"name":	"哈密瓜味全糖蜜果",
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"物品",
-			"name":	"青苹果味全糖蜜果",
 			"hard":	false
 		}, {
 			"sw":	true,
@@ -1565,265 +1476,313 @@
 		}],
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
-			"npc":	1,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	"赠送所有可提交物品"
+			"id":	1,
+			"sw":	true,
+			"npcdata":	[{
+					"npc":	1,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	2,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	3,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	4,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	20,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	2,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	2,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	6,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	7,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	8,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	9,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	5,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	3,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	3,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	11,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	12,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	13,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	14,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	40,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	4,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	4,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	16,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	17,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	18,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	19,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	20,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	5,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	21,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	22,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	23,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	24,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	35,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	6,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	6,
+			"sw":	true,
+			"npcdata":	[{
+					"npc":	26,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	27,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	28,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	29,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	7,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	7,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	31,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	32,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	33,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	34,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	8,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	8,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	36,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	37,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	38,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	39,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	9,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	9,
+			"sw":	true,
+			"npcdata":	[{
+					"npc":	41,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	42,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	43,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	44,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	5,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	10,
+			"sw":	true,
+			"npcdata":	[{
+					"npc":	46,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	47,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	48,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	49,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	11,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	11,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	51,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	52,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	53,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	54,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	12,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	13,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	14,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	40,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	16,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	17,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	18,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	19,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	21,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	22,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	23,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	24,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	35,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	26,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	"赠送所有可提交物品"
-		}, {
-			"npc":	27,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	28,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	29,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	31,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	32,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	33,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	34,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	36,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	37,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	38,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	39,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	41,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	"赠送所有可提交物品"
-		}, {
-			"npc":	42,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	"赠送所有可提交物品"
-		}, {
-			"npc":	43,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	44,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	46,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	47,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	48,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	"赠送所有可提交物品"
-		}, {
-			"npc":	49,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	51,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	52,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	53,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	54,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	56,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	57,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	"赠送所有可提交物品"
-		}, {
-			"npc":	58,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	59,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	12,
+			"sw":	true,
+			"npcdata":	[{
+					"npc":	56,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	57,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	58,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	59,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}]
 		}],
 	"lua_script":	{
 		"据点战助手":	false,

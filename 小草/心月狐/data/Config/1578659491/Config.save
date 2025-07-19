@@ -129,7 +129,75 @@
 				"34":	"15"
 			}
 		}],
-	"diysuit_other":	[],
+	"diysuit_other":	[{
+			"name":	"强化装备",
+			"data":	[{
+					"sw":	true,
+					"type":	"外交",
+					"name":	"贝罗斯-巴尔特"
+				}]
+		}, {
+			"name":	"掉落",
+			"data":	[{
+					"sw":	true,
+					"type":	"操作",
+					"name":	"召唤兽出战:龙猫理查"
+				}]
+		}, {
+			"name":	"召唤兽",
+			"data":	[{
+					"sw":	true,
+					"type":	"操作",
+					"name":	"召唤兽出战:尤里亚"
+				}, {
+					"sw":	true,
+					"type":	"操作",
+					"name":	"召唤兽出战:贝尔特利切"
+				}, {
+					"sw":	true,
+					"type":	"操作",
+					"name":	"召唤兽出战:缇尔沃特"
+				}, {
+					"sw":	true,
+					"type":	"操作",
+					"name":	"召唤兽出战:伊雷泽"
+				}, {
+					"sw":	true,
+					"type":	"操作",
+					"name":	"血脉战魂:召唤"
+				}, {
+					"sw":	true,
+					"type":	"操作",
+					"name":	"召唤兽出战:卡勒迪安"
+				}]
+		}, {
+			"name":	"经验本召唤兽",
+			"data":	[{
+					"sw":	true,
+					"type":	"外交",
+					"name":	"艾利娅斯-小四"
+				}, {
+					"sw":	true,
+					"type":	"操作",
+					"name":	"翅膀技[神·圣灵之拥]"
+				}, {
+					"sw":	true,
+					"type":	"操作",
+					"name":	"翅膀技[魔·冥界之翼]"
+				}, {
+					"sw":	true,
+					"type":	"操作",
+					"name":	"课程:使用七彩玲珑"
+				}, {
+					"sw":	true,
+					"type":	"操作",
+					"name":	"优先出战:伊雷泽"
+				}, {
+					"sw":	true,
+					"type":	"操作",
+					"name":	"召唤兽出战:贝尔特利切"
+				}]
+		}],
 	"synchro_player":	[],
 	"synchro_nodes":	[]
 }

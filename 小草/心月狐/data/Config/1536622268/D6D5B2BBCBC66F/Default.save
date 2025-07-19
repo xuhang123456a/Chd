@@ -85,11 +85,11 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	false,
+	"main_mob_herbs":	true,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	false,
+	"main_mob_mineral":	true,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
@@ -948,10 +948,10 @@
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
 			"id":	1,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	1,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -1006,10 +1006,10 @@
 				}]
 		}, {
 			"id":	3,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	11,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -1035,7 +1035,7 @@
 				}]
 		}, {
 			"id":	4,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	16,
 					"sw1":	false,
@@ -1053,7 +1053,7 @@
 					"item":	""
 				}, {
 					"npc":	19,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}]
@@ -1088,10 +1088,10 @@
 				}]
 		}, {
 			"id":	6,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	26,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -1184,7 +1184,7 @@
 				}]
 		}, {
 			"id":	10,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	46,
 					"sw1":	false,
@@ -1197,7 +1197,7 @@
 					"item":	""
 				}, {
 					"npc":	48,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {

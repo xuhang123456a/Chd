@@ -10,16 +10,6 @@
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20910,
-		"script":	"兑换羁绊之石",
-		"task":	0
-	}, {
-		"setcount":	0,
 		"loadtime":	-2100297728,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
@@ -47,6 +37,16 @@
 		"diyawaken":	"",
 		"tag":	32585,
 		"script":	"竞技场练习赛（全部任务）",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	3571,
+		"script":	"自动培养血脉战魂",
 		"task":	0
 	}, {
 		"setcount":	0,

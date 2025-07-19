@@ -829,10 +829,10 @@
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
 			"id":	1,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	1,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -969,10 +969,10 @@
 				}]
 		}, {
 			"id":	6,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	26,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -1041,15 +1041,15 @@
 				}]
 		}, {
 			"id":	9,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	41,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
 					"npc":	42,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -1065,7 +1065,7 @@
 				}]
 		}, {
 			"id":	10,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	46,
 					"sw1":	false,
@@ -1078,7 +1078,7 @@
 					"item":	""
 				}, {
 					"npc":	48,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -1113,7 +1113,7 @@
 				}]
 		}, {
 			"id":	12,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	56,
 					"sw1":	false,
@@ -1121,17 +1121,17 @@
 					"item":	""
 				}, {
 					"npc":	57,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
 					"npc":	58,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
 					"npc":	59,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}]
@@ -2672,13 +2672,13 @@
 							"在地图":	"星之仓库_21002;古木丛林入口_4700;"
 						}]
 				}, {
-					"sw":	false,
+					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
 						"更换称号":	"救梦者"
 					},
 					"judges":	[{
-							"在副本":	"普累罗麻;残缺边界;"
+							"在副本":	"普累罗麻;残缺边界;丽西泰亚之门;蘑菇树沼泽;诺尼尔之泪;摩克沙;"
 						}]
 				}]
 		}, {

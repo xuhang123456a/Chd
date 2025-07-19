@@ -23,6 +23,24 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	15917640,
+		"name":	"雪绒薄荷ご",
+		"autoscript":	"连体打神殿+pk",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	15923625,
+		"name":	"傻海我们走~",
+		"autoscript":	"连体打神殿+低保pk",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	15927343,
+		"name":	"BaLl,",
+		"autoscript":	"连体打神殿+pk",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	631169156,
 		"name":	"自然萌ご",
 		"autoscript":	"打黑工挖矿去喽",

@@ -11,12 +11,12 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20910,
-		"script":	"兑换羁绊之石",
+		"diyawaken":	"5爆伤石",
+		"tag":	3997,
+		"script":	"探险家神殿(史诗)",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -47,6 +47,16 @@
 		"diyawaken":	"",
 		"tag":	3761,
 		"script":	"竞技场练习赛（低保任务）",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	29632,
+		"script":	"自动培养血脉战魂",
 		"task":	0
 	}, {
 		"setcount":	0,
