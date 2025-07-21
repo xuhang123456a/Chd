@@ -139,7 +139,7 @@
 	"path_subjoin_pbds":	true,
 	"path_subjoin_tyjn":	true,
 	"path_subjoin_xsyc":	false,
-	"path_subjoin_ycwj":	false,
+	"path_subjoin_ycwj":	true,
 	"path_subjoin_zxyc":	false,
 	"protect_skill_syncope_1":	true,
 	"protect_skill_syncope_2":	false,
@@ -2832,7 +2832,7 @@
 				"使用物品":	"艾丽娅斯传送石"
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -2841,7 +2841,7 @@
 				"挂机控制":	"0"
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"指定时间":	"00:06"
 			},
@@ -2850,7 +2850,7 @@
 				"退出到角色":	""
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},
@@ -2859,7 +2859,7 @@
 				"更改自动脚本":	"连体珊瑚1"
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},
@@ -5664,7 +5664,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"暗影行者·超越符文",
 			"type1":	true,
@@ -5688,7 +5688,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"通灵领主·超越符文",
 			"type1":	true,
@@ -5700,7 +5700,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"唤雨之灵·超越符文",
 			"type1":	true,
@@ -5772,7 +5772,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"演奏大师·超越符文",
 			"type1":	true,

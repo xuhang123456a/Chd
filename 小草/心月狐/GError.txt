@@ -1,0 +1,3 @@
+[ 7-21 18:12:32]:Module:C:\Windows\System32\KERNELBASE.dll+13B552,eax=195570,ecx=3,edx=0,edi=FFFFFFF,esi=15B271C
+[ 7-21 20:56:38]:Module:C:\Windows\System32\KERNELBASE.dll+13B552,eax=195570,ecx=3,edx=0,edi=FFFFFFF,esi=15B271C
+[ 7-21 20:56:39]:Module: C:\Windows\System32\KERNELBASE.dll Function:RaiseException
