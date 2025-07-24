@@ -7,11 +7,11 @@
 	"auto_load_change":	false,
 	"auto_load_task":	false,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_login_end":	false,
 	"auto_reward_open_sw":	true,
-	"auto_reward_pay_sw":	true,
+	"auto_reward_pay_sw":	false,
 	"auto_set_boss_deliver":	false,
 	"auto_set_boss_hp":	true,
 	"auto_set_boss_hp_team":	false,
@@ -199,7 +199,7 @@
 	"auto_set_diyitem":	"[无]",
 	"auto_team_dream_room_name":	"♀微风",
 	"auto_team_dream_room_namelist":	"4309682;baodebaoqi4\r19673002;青春属于表白\r9902523;♀微风\r",
-	"auto_team_room_name":	"7759",
+	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"9915450;微风♀\r11078750;他不会等你了\r11078294;花市灯如昼っ\r",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
@@ -692,6 +692,21 @@
 			"hard":	false
 		}],
 	"skill_attack_data":	[{
+			"sw":	false,
+			"id":	1,
+			"name":	"弱攻击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"在地图":	"挑战！保护天使(EASY)_88000;"
+				}],
+			"num":	0
+		}, {
 			"sw":	true,
 			"id":	32500009,
 			"name":	"无畏勇者之钥",
@@ -1611,7 +1626,7 @@
 					"item":	""
 				}, {
 					"npc":	35,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}]
@@ -3042,7 +3057,7 @@
 			},
 			"judge":	[],
 			"execute":	{
-				"更改自动脚本":	"每日"
+				"更改自动脚本":	"a特殊"
 			}
 		}, {
 			"sw":	true,

@@ -5,8 +5,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	27180,
-		"script":	"【彩虹向导】每日任务",
+		"tag":	3516,
+		"script":	"探险家神殿(史诗)",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -15,27 +15,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29659,
-		"script":	"领取家族工资",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	-2100297728,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	2307,
-		"script":	"探险家神殿(英雄)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	-2100297728,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31674,
+		"tag":	11881,
 		"script":	"探险家神殿(高级)",
 		"task":	0
 	}, {
@@ -45,8 +25,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	20910,
-		"script":	"兑换羁绊之石",
+		"tag":	13870,
+		"script":	"探险家神殿(英雄)",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -55,17 +35,47 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	10502,
-		"script":	"【存】材料",
+		"tag":	29524,
+		"script":	"自动转换星座点数",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"经验",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"经验",
+		"tag":	20513,
+		"script":	"珊瑚之歌",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22400,
+		"script":	"泡泡战舰",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"存仓",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15458,
+		"tag":	19146,
+		"script":	"火山珊瑚",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	13120,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]

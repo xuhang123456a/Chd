@@ -59,6 +59,24 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	268349031,
+		"name":	"你到底吻不吻我o",
+		"autoscript":	"连体跑火山",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	268347359,
+		"name":	"来去荒芜",
+		"autoscript":	"连体跑火山",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	268346078,
+		"name":	"我有药",
+		"autoscript":	"连体跑火山",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	656795656,
 		"name":	"你到底吻不吻我o",
 		"autoscript":	"连体泡泡1",

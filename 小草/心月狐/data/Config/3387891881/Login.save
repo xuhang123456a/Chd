@@ -59,6 +59,24 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	268349031,
+		"name":	"你到底吻不吻我o",
+		"autoscript":	"连体跑火山",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	268347359,
+		"name":	"来去荒芜",
+		"autoscript":	"连体跑火山",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	268346078,
+		"name":	"我有药",
+		"autoscript":	"连体跑火山",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	656795656,
 		"name":	"你到底吻不吻我o",
 		"autoscript":	"连体泡泡1",
@@ -107,6 +125,18 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	111660406,
+		"name":	"来去荒芜",
+		"autoscript":	"连体打彩蛋",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	111664156,
+		"name":	"陌辰",
+		"autoscript":	"连体打彩蛋",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	171971515,
 		"name":	"乙骨犹太",
 		"autoscript":	"连体垃圾组队打本",
@@ -140,18 +170,6 @@
 		"index":	661148984,
 		"name":	"荼茶",
 		"autoscript":	"连体垃圾组队打本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	111660406,
-		"name":	"来去荒芜",
-		"autoscript":	"连体打彩蛋",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	111664156,
-		"name":	"陌辰",
-		"autoscript":	"连体打彩蛋",
 		"item":	"存仓",
 		"item_other":	""
 	}, {

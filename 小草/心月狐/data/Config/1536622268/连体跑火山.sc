@@ -5,17 +5,17 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	32511,
-		"script":	"流水回廊",
+		"tag":	4537,
+		"script":	"火山珊瑚",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"存仓",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	10154,
-		"script":	"未知森林",
+		"tag":	9162,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]
