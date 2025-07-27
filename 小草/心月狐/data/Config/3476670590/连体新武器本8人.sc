@@ -1,12 +1,12 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	18468,
-		"script":	"自动强化经验值觉醒石+6",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	14124,
+		"script":	"普累罗麻",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -15,8 +15,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6335,
-		"script":	"自动强化贯穿力觉醒石+6",
+		"tag":	25941,
+		"script":	"退出组队",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -25,8 +25,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	26501,
-		"script":	"自动强化暴击伤害觉醒石+6",
+		"tag":	3325,
+		"script":	"【存】材料",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -35,7 +35,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3603,
-		"script":	"自动强化拉尔沙之戒",
+		"tag":	31359,
+		"script":	"自动培养血脉战魂",
 		"task":	0
 	}]

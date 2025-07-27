@@ -8,7 +8,7 @@
 		"tag":	31897,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0,
-		"scriptend":	23
+		"scriptend":	27
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -19,7 +19,7 @@
 		"tag":	24745,
 		"script":	"领取家族工资",
 		"task":	0,
-		"scriptend":	23
+		"scriptend":	27
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -30,7 +30,7 @@
 		"tag":	7798,
 		"script":	"进队长组",
 		"task":	0,
-		"scriptend":	23
+		"scriptend":	27
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -41,7 +41,7 @@
 		"tag":	13355,
 		"script":	"丽西泰亚之门",
 		"task":	0,
-		"scriptend":	23
+		"scriptend":	27
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -52,7 +52,7 @@
 		"tag":	30652,
 		"script":	"蘑菇树沼泽",
 		"task":	0,
-		"scriptend":	23
+		"scriptend":	27
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -63,7 +63,7 @@
 		"tag":	9285,
 		"script":	"诺尼尔之泪",
 		"task":	0,
-		"scriptend":	23
+		"scriptend":	27
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -74,7 +74,7 @@
 		"tag":	12682,
 		"script":	"摩克沙",
 		"task":	0,
-		"scriptend":	23
+		"scriptend":	27
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -85,7 +85,7 @@
 		"tag":	19966,
 		"script":	"未知森林",
 		"task":	0,
-		"scriptend":	23
+		"scriptend":	27
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -96,7 +96,7 @@
 		"tag":	16437,
 		"script":	"退出组队",
 		"task":	0,
-		"scriptend":	23
+		"scriptend":	27
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -107,7 +107,7 @@
 		"tag":	19534,
 		"script":	"【存】材料",
 		"task":	0,
-		"scriptend":	23
+		"scriptend":	27
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -118,7 +118,7 @@
 		"tag":	18941,
 		"script":	"自动培养血脉战魂",
 		"task":	0,
-		"scriptend":	23
+		"scriptend":	27
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

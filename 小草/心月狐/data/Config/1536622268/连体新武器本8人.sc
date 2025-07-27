@@ -1,22 +1,12 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"破防（守护）",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	14925,
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	21030,
 		"script":	"普累罗麻",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"破防（守护）",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	16813,
-		"script":	"残缺边界",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -25,7 +15,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	26081,
+		"tag":	12255,
 		"script":	"退出组队",
 		"task":	0
 	}, {
@@ -35,7 +25,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	27182,
+		"tag":	24654,
 		"script":	"【存】材料",
 		"task":	0
 	}, {
@@ -45,7 +35,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	5969,
+		"tag":	4169,
 		"script":	"自动培养血脉战魂",
 		"task":	0
 	}]

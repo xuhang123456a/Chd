@@ -508,6 +508,15 @@
 				"[无]":	""
 			},
 			"item":	"联盟家族经验点支援包"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"抽奖王称号"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{

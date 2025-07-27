@@ -1,4 +1,8 @@
 {
+	"diysuit_user_item":	{
+	},
 	"diysuit_property":	[],
-	"diysuit_other":	[]
+	"diysuit_other":	[],
+	"synchro_player":	[],
+	"synchro_nodes":	[]
 }

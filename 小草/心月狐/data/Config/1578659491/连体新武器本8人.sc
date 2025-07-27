@@ -1,12 +1,12 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"破防（守护）",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19719,
-		"script":	"自动强化经验值觉醒石+3",
+		"tag":	14925,
+		"script":	"普累罗麻",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -15,8 +15,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19896,
-		"script":	"自动强化贯穿力觉醒石+3",
+		"tag":	26081,
+		"script":	"退出组队",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -25,8 +25,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	5448,
-		"script":	"自动强化暴击伤害觉醒石+3",
+		"tag":	27182,
+		"script":	"【存】材料",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -35,7 +35,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	779,
-		"script":	"自动强化拉尔沙之戒",
+		"tag":	5969,
+		"script":	"自动培养血脉战魂",
 		"task":	0
 	}]

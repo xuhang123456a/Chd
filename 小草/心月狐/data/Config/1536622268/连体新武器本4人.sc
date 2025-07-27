@@ -31,11 +31,11 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"存仓",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	4169,
-		"script":	"自动培养血脉战魂",
+		"tag":	7072,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]

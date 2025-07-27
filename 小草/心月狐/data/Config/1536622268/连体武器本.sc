@@ -3,20 +3,20 @@
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
+		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	13714,
-		"script":	"普累罗麻",
+		"tag":	22946,
+		"script":	"艾乌加蒙剧场",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
+		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	15245,
-		"script":	"残缺边界",
+		"tag":	841,
+		"script":	"深渊之镜",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -25,7 +25,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15037,
+		"tag":	12255,
 		"script":	"退出组队",
 		"task":	0
 	}, {
@@ -35,17 +35,17 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19534,
+		"tag":	24654,
 		"script":	"【存】材料",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"存仓",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	14659,
-		"script":	"自动培养血脉战魂",
+		"tag":	7072,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]

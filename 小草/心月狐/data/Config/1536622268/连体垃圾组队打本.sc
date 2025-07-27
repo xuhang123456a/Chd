@@ -65,7 +65,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	21349,
+		"tag":	4425,
 		"script":	"艾乌加蒙剧场",
 		"task":	0
 	}, {
@@ -75,7 +75,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	314,
+		"tag":	23872,
 		"script":	"深渊之镜",
 		"task":	0
 	}, {
@@ -127,16 +127,6 @@
 		"diyawaken":	"",
 		"tag":	10134,
 		"script":	"自动强化暴击伤害觉醒石+3",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	17664,
-		"script":	"自动培养血脉战魂",
 		"task":	0
 	}, {
 		"setcount":	0,
