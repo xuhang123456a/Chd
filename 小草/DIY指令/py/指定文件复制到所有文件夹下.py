@@ -104,21 +104,25 @@ files_name = [
     # 'ee919f8838a9262c.lua',
     #补给脚本设置 end
 
-    '14bcb0915711d136.lua',#遗迹
-    '4f686063e7f76556.lua',#神树
-    '74b04b62710052ab.lua',#尼夫
     '54cbda403ac1e8ef.lua',#庭院
-    '3884d4a499b541a9.lua',#神笔
-    'b24d2a7bcca5b4a6.lua',#忘却
-    '98fdd49c1dc42339.lua',#奈落之屋
-    'e2baaba053baf0cd.lua',#龙之峡谷
-    '73806cea1164a8b8.lua',#神秘殿堂
+    '14bcb0915711d136.lua',#遗迹
+    'b132c14db09d8a05.lua',#黄昏
+    '432f304bd27ba112.lua',#星之歌
+    
+
+    # '4f686063e7f76556.lua',#神树
+    # '74b04b62710052ab.lua',#尼夫
+    # '3884d4a499b541a9.lua',#神笔
+    # 'b24d2a7bcca5b4a6.lua',#忘却
+    # '98fdd49c1dc42339.lua',#奈落之屋
+    # 'e2baaba053baf0cd.lua',#龙之峡谷
+    # '73806cea1164a8b8.lua',#神秘殿堂
 ]
 filter_name = [
 
 ]
-source_dir = 'E:\\Game\\Chd\\小草\\心月狐\\data\\Config\\1536622268\\C4DCD2FBD2BBB1ADCEDE6F\\'
-target_folder = r'E:\Game\Chd\小草\心月狐\data\Config\1536622268'
+source_dir = 'E:\\Game\\Chd\\小草\\心月狐\\data\\Config\\1536622268\\CDEDC0B4CCECD3FBD1A96F\\'
+target_folder = r'E:\Game\Chd\小草\心月狐\data\Config\3476670590'
 for file_name in files_name:
     source_file = os.path.join(source_dir, file_name)
     copy_file_to_subfolders(source_file, target_folder)
