@@ -43,7 +43,7 @@
 		"loadtime":	0,
 		"diyitem":	"经验",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"经验本召唤兽",
 		"diyawaken":	"经验",
 		"tag":	20513,
 		"script":	"珊瑚之歌",

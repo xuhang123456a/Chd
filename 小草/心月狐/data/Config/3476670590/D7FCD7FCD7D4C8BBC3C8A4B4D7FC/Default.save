@@ -2979,7 +2979,7 @@
 		}, {
 			"only_run":	false,
 			"run_sleep":	1,
-			"sw":	true,
+			"sw":	false,
 			"name":	"ÄÎÂä³ÔÒ©",
 			"judges":	[{
 					"sw":	true,

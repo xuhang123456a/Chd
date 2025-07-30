@@ -3,14 +3,14 @@
 	"auto_card_open_sw":	true,
 	"auto_end_item":	false,
 	"auto_end_lua":	false,
-	"auto_end_plan":	false,
+	"auto_end_plan":	true,
 	"auto_load_change":	false,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_login_end":	false,
-	"auto_reward_open_sw":	true,
+	"auto_reward_open_sw":	false,
 	"auto_reward_pay_sw":	false,
 	"auto_set_boss_deliver":	false,
 	"auto_set_boss_hp":	false,
@@ -40,8 +40,8 @@
 	"automatic_skill_update_entrepot":	true,
 	"automatic_skill_update_sw":	true,
 	"automatic_subjoin_cwzx":	true,
-	"automatic_taskRemote":	true,
-	"guild_diplomacy_only":	false,
+	"automatic_taskRemote":	false,
+	"guild_diplomacy_only":	true,
 	"guild_tribute_sw":	true,
 	"item_buff_check":	false,
 	"item_buff_indun":	false,
@@ -49,7 +49,7 @@
 	"item_builtin_sw":	false,
 	"item_disassemble_item_sw":	true,
 	"item_pick_3":	false,
-	"item_pick_filter_1":	true,
+	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
 	"item_pick_filter_12":	true,
 	"item_pick_filter_13":	true,
@@ -84,7 +84,7 @@
 	"main_mob_back":	false,
 	"main_mob_distance_change":	true,
 	"main_mob_external":	true,
-	"main_mob_friend_sw":	true,
+	"main_mob_friend_sw":	false,
 	"main_mob_herbs":	false,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
@@ -108,7 +108,7 @@
 	"msg_log_sw3":	false,
 	"msg_log_sw4":	true,
 	"msg_log_sw5":	true,
-	"msg_log_sw6":	true,
+	"msg_log_sw6":	false,
 	"msg_speak_sw":	false,
 	"other_jumptype":	false,
 	"other_passprint":	false,
@@ -125,7 +125,7 @@
 	"path_line_exchange_sw":	true,
 	"path_line_itemtime_sw":	true,
 	"path_line_name_sw":	false,
-	"path_line_settings_sw":	true,
+	"path_line_settings_sw":	false,
 	"path_line_team_sw":	true,
 	"path_line_transm_sw":	false,
 	"path_script_picture_sw1":	false,
@@ -142,12 +142,12 @@
 	"path_subjoin_ycwj":	false,
 	"path_subjoin_zxyc":	false,
 	"protect_skill_syncope_1":	true,
-	"protect_skill_syncope_2":	true,
+	"protect_skill_syncope_2":	false,
 	"protect_sw":	true,
 	"revive_print":	false,
 	"revive_situ_buff":	true,
 	"revive_sw1":	true,
-	"revive_sw2":	true,
+	"revive_sw2":	false,
 	"run_log_file":	false,
 	"run_log_sw1":	true,
 	"run_log_sw2":	true,
@@ -158,24 +158,24 @@
 	"run_log_sw7":	true,
 	"run_log_sw8":	true,
 	"run_log_sw99":	true,
-	"script_changemap":	true,
-	"script_diysw":	true,
+	"script_changemap":	false,
+	"script_diysw":	false,
 	"script_jump":	true,
 	"skill_buff_no_monster":	true,
 	"skill_buff_online_sw":	false,
-	"skill_buff_pet_fb":	false,
+	"skill_buff_pet_fb":	true,
 	"skill_buff_pet_monster_sw":	true,
 	"skill_buff_pet_sw":	true,
 	"skill_buff_server":	false,
-	"skill_option_boss_judge":	true,
-	"skill_option_boss_number":	true,
+	"skill_option_boss_judge":	false,
+	"skill_option_boss_number":	false,
 	"skill_option_combo_off":	false,
 	"skill_option_jump_off1":	true,
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	true,
 	"skill_option_lr_boss":	true,
-	"skill_option_platform_skill":	false,
-	"skill_option_repeat":	true,
+	"skill_option_platform_skill":	true,
+	"skill_option_repeat":	false,
 	"skill_option_slide_off":	true,
 	"skill_option_sombra":	false,
 	"skill_option_stop_skill":	true,
@@ -194,16 +194,16 @@
 	"trigger_timer_only":	true,
 	"trigger_timer_warn":	true,
 	"auto_end_item_val":	"",
-	"auto_end_lua_val":	"",
+	"auto_end_lua_val":	"执行自动切换角色.lua",
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
-	"auto_team_dream_room_name":	"你到底吻不吻我o",
-	"auto_team_dream_room_namelist":	"19206593;狂暴小怪兽?]\r11083254;你到底吻不吻我o\r",
+	"auto_team_dream_room_name":	"",
+	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"",
 	"auto_team_room_namelist":	"",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
-	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;中级冒险家情报卷轴;高级冒险家情报卷轴;达人冒险家情报卷轴;初级冒险家情报卷轴;闪闪发光的宝箱;中级活力水滴;",
+	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;闪闪发光的宝箱;高级冒险家情报卷轴;达人冒险家情报卷轴;中级冒险家情报卷轴;初级冒险家情报卷轴;中级活力水滴;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"Del",
@@ -213,7 +213,7 @@
 	"hotkey_start_mouse":	"",
 	"hotkey_start_playmouse":	"Ins",
 	"main_mob_attack_name":	"",
-	"main_mob_friend_name":	"调查团工程师;调查团工程员;",
+	"main_mob_friend_name":	"",
 	"main_mob_other_name":	"",
 	"main_mob_trap_name":	"",
 	"path_down_hotkey":	"Down",
@@ -221,11 +221,11 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	5,
+	"auto_load_wait_val":	10,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	2,
 	"auto_set_boss_hp_val":	99,
-	"auto_set_boss_team_val":	2,
+	"auto_set_boss_team_val":	5,
 	"auto_set_deliver_time_val":	15,
 	"auto_set_fly_val":	5,
 	"auto_set_revive_val":	10,
@@ -246,20 +246,20 @@
 	"item_throw_4_begin":	1,
 	"item_throw_4_end":	168,
 	"item_throw_time":	0,
-	"main_mob_bottom":	20,
+	"main_mob_bottom":	100,
 	"main_mob_location_l":	32,
 	"main_mob_location_r":	99999,
-	"main_mob_lr":	1000,
+	"main_mob_lr":	1200,
 	"main_mob_top":	180,
 	"main_mob_trap_x":	64,
-	"main_skill_distance_max":	150,
+	"main_skill_distance_max":	300,
 	"main_skill_distance_min":	0,
 	"msg_speak_time":	10,
 	"team_follow_removing":	150,
 	"team_follow_x":	3000,
 	"team_follow_y":	300,
 	"trigger_timer_sleep":	20,
-	"auto_end_plan_val":	9,
+	"auto_end_plan_val":	1,
 	"auto_login_end_val":	0,
 	"auto_set_boss_hp_show":	0,
 	"auto_set_boss_hp_type":	0,
@@ -273,7 +273,7 @@
 	"automatic_zhs_time7":	0,
 	"config_system_type":	1,
 	"main_mob_trap_type":	0,
-	"path_hide_effect_type":	0,
+	"path_hide_effect_type":	1,
 	"path_script_picture_val2":	3,
 	"revive_type":	2,
 	"skill_option_lr_val":	0,
@@ -281,12 +281,12 @@
 	"skill_option_sombra_val":	0,
 	"skill_option_storage_val":	0,
 	"skill_silent_val":	0,
-	"summon_automatic_zhs_refresh1":	0,
-	"summon_automatic_zhs_refresh2":	0,
-	"summon_automatic_zhs_refresh3":	0,
-	"summon_automatic_zhs_refresh4":	0,
-	"summon_automatic_zhs_refresh5":	0,
-	"summon_automatic_zhs_refresh6":	0,
+	"summon_automatic_zhs_refresh1":	1,
+	"summon_automatic_zhs_refresh2":	1,
+	"summon_automatic_zhs_refresh3":	1,
+	"summon_automatic_zhs_refresh4":	1,
+	"summon_automatic_zhs_refresh5":	1,
+	"summon_automatic_zhs_refresh6":	1,
 	"summon_automatic_zhs_refresh7":	0,
 	"team_accept_allot":	2,
 	"btn_color_1":	16384000,
@@ -298,9 +298,9 @@
 	"btn_color_8":	16384000,
 	"server":	111,
 	"item_filter_1":	[180135115, 180135116, 180135131, 180135132, 16000106, 180135117, 180135136, 180135137, 180135138, 180135118, 180135119, 180135120, 180135121, 180135133, 180135134, 180135135, 180135124, 180135125, 180135123, 180135122],
-	"item_filter_2":	[300101801, 300101401, 300102201, 300103001, 300103401, 300107001, 300107401, 300107801, 300108201, 300111401, 300111801, 300113601, 300118401, 300118801, 300121601, 300121901, 300122101, 300155001, 190171104, 23106103, 190171103, 430229001, 190197501, 190197502, 518111002, 518111001, 10273501, 20673501, 30273501, 70273501, 90573501, 430710201, 201401093, 180134344, 190144166, 190144165, 190144164, 430437028, 20100008, 20100009, 20100011, 20100010, 70505313, 190160101, 190160201, 190160301, 190160401, 190160501, 430437027, 18080020, 20200115, 202301005, 170195348, 18090022, 71000002, 71000004, 1941015],
-	"item_filter_3":	[300101801, 300101401, 300102201, 300103001, 300103401, 300107001, 300107401, 300107801, 300108201, 300111401, 300111801, 300113601, 300118401, 300118801, 300121601, 300121901, 300122101, 300155001, 190171104, 23106103, 190171103, 430229001, 190197501, 190197502, 518111002, 518111001, 90573501, 70273501, 30273501, 10273501, 20673501, 430710201, 201401093, 180134344, 190144165, 190144164, 190144166, 430437028, 20100010, 20100011, 20100009, 20100008, 70505313, 190160101, 190160201, 190160301, 190160401, 190160501, 430437027, 18080020, 20200115, 202301005, 170195348, 18090022, 71000002, 71000004, 1941015],
-	"item_filter_4":	[],
+	"item_filter_2":	[180134540, 190081001, 190081002, 611110370, 611110380, 120143001, 60143001, 100143001, 180134587, 180134585, 180134586, 180134968, 180134498, 180134336, 180134337, 190144078, 190144081, 190144079, 190144080, 190145711, 190145710, 190145709, 743810105, 190144963, 190144965, 42081001, 180134325, 611121104, 611121106, 611110391, 190144590, 190144591, 190144592, 190144593, 190144594, 16640101, 14250101, 68700029, 68769029, 68769030, 82098521, 82098522, 82098505, 82098515, 82098506, 82098516, 14250102, 82098502, 82098512, 850190140, 850190141, 82098508, 82098501, 82098511, 82098518, 82098503, 82098513, 82098509, 82098519, 82098507, 82098517, 82098504, 82098514, 82098510, 82098520, 737271722, 737271723, 68700030, 16640102, 20100011, 20100010, 20100009, 20100008, 19032528, 6122001, 20200115, 202301005, 190197405, 430710104, 430710201, 202301004, 170195348, 23106103, 190089099, 3001101, 190160101, 190160201, 190160301, 190160401, 190160501, 430437027, 430437028, 18090022, 18080020, 13000176, 70505313, 71000002, 1941015, 71000004, 70505308, 70505304, 70505312, 70505306, 70505311, 70504308, 70504302, 70504309, 70504311],
+	"item_filter_3":	[16640101, 14250101, 68700029, 68769029, 68769030, 82098521, 82098522, 82098505, 82098515, 82098506, 82098516, 14250102, 82098502, 82098512, 850190140, 850190141, 82098518, 82098511, 82098508, 82098501, 82098503, 82098513, 82098509, 82098519, 82098507, 82098517, 82098504, 82098514, 82098510, 82098520, 737271722, 737271723, 68700030, 16640102, 20100008, 20100009, 20100010, 20100011, 19032528, 6122001, 20200115, 202301005, 190197405, 430710104, 430710201, 202301004, 170195348, 23106103, 190089099, 190081001, 190081002, 3001101, 42081001, 60143001, 100143001, 120143001, 611110370, 611110380, 611110391, 611121104, 611121106, 743810105, 190160501, 190160401, 190160301, 190160201, 190160101, 430437028, 430437027, 18090022, 18080020, 13000176, 70505313, 71000002, 1941015, 71000004, 70505311, 70505306, 70505312, 70505304, 70505308, 70504311, 70504309, 70504302, 70504308],
+	"item_filter_4":	[20200440, 20200447, 20200425, 160291180, 160291130],
 	"item_use_data":	[{
 			"sw":	true,
 			"Judge1":	{
@@ -526,11 +526,220 @@
 				"[无]":	""
 			},
 			"item":	"特级血脉水晶(绑定)"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶X"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶IX"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶VIII"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶VII"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶VI"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶V"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶IV"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶III"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶II"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶I"
 		}],
-	"protec_data":	[],
+	"protec_data":	[{
+			"sw":	true,
+			"type":	"执行操作",
+			"id":	0,
+			"name":	"上跳跃",
+			"judge":	[{
+					"被沉默":	""
+				}, {
+					"不在地图":	"挑战！保护天使*"
+				}],
+			"reverse":	false
+		}],
 	"protec_recover_data":	{
 	},
-	"item_buff_data":	[],
+	"item_buff_data":	[{
+			"sw":	false,
+			"type":	"物品",
+			"name":	"希望的减伤药水",
+			"maps":	[],
+			"induns":	["精灵树桩", "生命之恩泰莱凯", "奈落·冰封雪域", "奈落·破坏之城", "奈落·冰淇淋庭院", "奈落·珊瑚之歌", "奈落·蛇龙之巢", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "未知森林", "卡伊洛斯的时间", "克洛诺斯的时间", "炼狱阿兹雷尔", "巴尼塔斯", "哈姆克公爵府", "圣字教堂", "阿科洛之棺", "心脏的记忆", "回声泉", "冰狱", "龙猫妹妹庭院", "盟约圣地", "希列", "傀儡牢狱", "武林大会", "玫瑰庭院", "幻之摇篮", "八卦阵赛场", "忘却湖畔", "虚无之星", "山海归墟", "卡夫卡剧场", "梦境奥涅伊鲁", "魔力防空洞", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙", "欧若拉庭院", "魔法修炼馆", "神笔画卷", "神树拉菲尔", "龙之峡谷", "星之伊甸", "水下培养皿", "燥热键盘", "奈落之屋", "超能者纪念馆", "阿玛伦宝库", "冰封雪域", "混沌峡谷", "幻影毒雾沼泽", "浮游岛", "宝石丛林"],
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"操作",
+			"name":	"翅膀技[神·圣灵之拥]",
+			"maps":	["无"],
+			"induns":	["克洛诺斯的时间"],
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"操作",
+			"name":	"翅膀技[魔·冥界之翼]",
+			"maps":	["无"],
+			"induns":	["克洛诺斯的时间"],
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"操作",
+			"name":	"召唤兽出战:龙猫理查",
+			"maps":	[],
+			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林"],
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"操作",
+			"name":	"召唤兽出战:尤里亚",
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"操作",
+			"name":	"召唤兽出战:缇尔沃特",
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"操作",
+			"name":	"召唤兽出战:贝尔特利切",
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"操作",
+			"name":	"召唤兽出战:伊雷泽",
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"操作",
+			"name":	"召唤兽出战:卡勒迪安",
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"外交",
+			"name":	"艾利娅斯-小四",
+			"maps":	[],
+			"induns":	["克洛诺斯的时间"],
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"物品",
+			"name":	"经验值的秘药 500%(不可交易)",
+			"maps":	[],
+			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙", "欧若拉庭院"],
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"物品",
+			"name":	"回忆の沙漏",
+			"maps":	[],
+			"induns":	["克洛诺斯的时间"],
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"物品",
+			"name":	"经验值糖浆",
+			"maps":	[],
+			"induns":	["克洛诺斯的时间"],
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"物品",
+			"name":	"小四的祝福(不可交易)",
+			"maps":	[],
+			"induns":	["克洛诺斯的时间"],
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"物品",
+			"name":	"百分考卷",
+			"maps":	[],
+			"induns":	["克洛诺斯的时间"],
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"操作",
+			"name":	"课程:使用七彩玲珑",
+			"maps":	[],
+			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"小型伤害吸收红剂",
+			"maps":	["空间之核_86915"],
+			"hard":	false
+		}],
 	"skill_attack_data":	[{
 			"sw":	true,
 			"id":	2502934,
@@ -697,70 +906,129 @@
 			"auto":	true
 		}],
 	"speak_data":	[],
-	"skill_hotkey_data":	[],
+	"skill_hotkey_data":	[{
+			"sw":	true,
+			"id":	1005028,
+			"name":	"三重奏",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1010028,
+			"name":	"器乐大师",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1003028,
+			"name":	"进行曲",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1002028,
+			"name":	"庄严乐章",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1001028,
+			"name":	"广阔乐章",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	2402903,
+			"name":	"[召唤]打击乐器",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1000028,
+			"name":	"优雅乐章",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}],
 	"team_list_data":	[],
-	"script_point_data":	[{
-			"type":	"转身&执行额外",
-			"x":	"1124",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"65",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"3691",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"2786",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}],
+	"script_point_data":	[],
 	"script_trigger_data":	[],
-	"summon_data":	[190145624, 190145625, 201901181, 201901182, 201901183, 201901184, 201901185, 201901186, 201901187, 201901188, 201901189, 201901190, 201901191, 201901192, 201901193, 201901194, 201901195, 202401181, 202401182, 202401183, 202401184, 202401185, 202401186, 202401187, 202401188, 202401189, 202401190, 202401191, 202401192, 202401193, 202401194, 202401195],
+	"summon_data":	[190145625, 190148179],
 	"line_monster_data":	[],
-	"item_filter_pick_data_1":	[],
-	"item_filter_pick_data_2":	[{
-			"type":	"消耗",
-			"name":	"灵宠之语"
+	"item_filter_pick_data_1":	[{
+			"type":	"其他",
+			"name":	"童话书"
+		}, {
+			"type":	"其他",
+			"name":	"洗发水"
+		}, {
+			"type":	"其他",
+			"name":	"蜜蜂的翅膀"
+		}, {
+			"type":	"其他",
+			"name":	"睡眠袜"
+		}, {
+			"type":	"全部",
+			"name":	"黑月公主的日记簿"
+		}, {
+			"type":	"全部",
+			"name":	"破损的小绵羊"
+		}, {
+			"type":	"全部",
+			"name":	"狗项链"
+		}, {
+			"type":	"全部",
+			"name":	"蕴含着异样魔力的"
 		}],
-	"item_filter_throw_data_1":	[],
+	"item_filter_pick_data_2":	[{
+			"type":	"其他",
+			"name":	"萨尔加德"
+		}],
+	"item_filter_throw_data_1":	[{
+			"type":	"装备",
+			"name":	"珊瑚森林"
+		}, {
+			"type":	"其他",
+			"name":	"神族后裔"
+		}, {
+			"type":	"装备",
+			"name":	"神族后裔"
+		}, {
+			"type":	"装备",
+			"name":	"平凡的黄色"
+		}, {
+			"type":	"装备",
+			"name":	"平凡的蓝色"
+		}, {
+			"type":	"装备",
+			"name":	"平凡的红色"
+		}, {
+			"type":	"其他",
+			"name":	"暗影龙"
+		}, {
+			"type":	"装备",
+			"name":	"梅吉亚的"
+		}, {
+			"type":	"任务",
+			"name":	"混沌羽翼"
+		}],
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
 			"id":	1,
-			"sw":	true,
+			"sw":	false,
 			"npcdata":	[{
 					"npc":	1,
 					"sw1":	true,
@@ -847,7 +1115,7 @@
 				}]
 		}, {
 			"id":	4,
-			"sw":	true,
+			"sw":	false,
 			"npcdata":	[{
 					"npc":	16,
 					"sw1":	false,
@@ -900,7 +1168,7 @@
 				}]
 		}, {
 			"id":	6,
-			"sw":	true,
+			"sw":	false,
 			"npcdata":	[{
 					"npc":	26,
 					"sw1":	true,
@@ -972,10 +1240,10 @@
 				}]
 		}, {
 			"id":	9,
-			"sw":	true,
+			"sw":	false,
 			"npcdata":	[{
 					"npc":	41,
-					"sw1":	true,
+					"sw1":	false,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -996,7 +1264,7 @@
 				}]
 		}, {
 			"id":	10,
-			"sw":	true,
+			"sw":	false,
 			"npcdata":	[{
 					"npc":	46,
 					"sw1":	false,
@@ -1009,7 +1277,7 @@
 					"item":	""
 				}, {
 					"npc":	48,
-					"sw1":	true,
+					"sw1":	false,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -1044,7 +1312,7 @@
 				}]
 		}, {
 			"id":	12,
-			"sw":	true,
+			"sw":	false,
 			"npcdata":	[{
 					"npc":	56,
 					"sw1":	false,
@@ -1057,7 +1325,7 @@
 					"item":	""
 				}, {
 					"npc":	58,
-					"sw1":	true,
+					"sw1":	false,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -2300,18 +2568,7 @@
 			"diyother":	"",
 			"diyawaken":	""
 		}],
-	"trigger":	[{
-			"sw":	true,
-			"tigger":	{
-				"无经验变化":	"15"
-			},
-			"judge":	[{
-					"在副本":	"空中战场;"
-				}],
-			"execute":	{
-				"使用物品":	"艾丽娅斯传送石"
-			}
-		}],
+	"trigger":	[],
 	"diytrigger":	[{
 			"only_run":	false,
 			"run_sleep":	1,
@@ -2478,6 +2735,13 @@
 					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
+						"使用物品":	"高级潜力灵龛"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
 						"使用物品":	"高级HP潜力药水"
 					},
 					"judges":	[]
@@ -2537,7 +2801,7 @@
 			"sw":	true,
 			"name":	"自动使用杂物",
 			"judges":	[{
-					"sw":	false,
+					"sw":	true,
 					"judge":	{
 						"不在地图":	"贝罗斯城市_200;"
 					}
@@ -3519,43 +3783,532 @@
 							"未中异常状态":	""
 						}]
 				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"圣物生存钥匙特殊",
+			"judges":	[],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"宏指令":	"/使用技能 圣物技能"
+					},
+					"judges":	[{
+							"没有BUFF":	"龙猫坐像_13016169"
+						}, {
+							"没有BUFF":	"灼风之息_13016170"
+						}, {
+							"没有BUFF":	"狐狸珠_13016177"
+						}, {
+							"没有BUFF":	"玛阿特之眼_13016167"
+						}, {
+							"没有BUFF":	"圣物之力_81090001"
+						}, {
+							"搜索内有首领":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"宏指令":	"/使用技能 圣物技能"
+					},
+					"judges":	[{
+							"没有BUFF":	"龙猫坐像_13016169"
+						}, {
+							"没有BUFF":	"灼风之息_13016170"
+						}, {
+							"没有BUFF":	"狐狸珠_13016177"
+						}, {
+							"没有BUFF":	"玛阿特之眼_13016167"
+						}, {
+							"没有BUFF":	"圣物之力_81090001"
+						}, {
+							"怪物数量>=":	"7"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"【生存本能】1段"
+					},
+					"judges":	[{
+							"在副本":	"奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;"
+						}, {
+							"搜索内有首领":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"【生存本能】1段"
+					},
+					"judges":	[{
+							"不在副本":	"奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;阿特拉斯庭院;"
+						}, {
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"智者超载之钥"
+					},
+					"judges":	[{
+							"怪物数量>=":	"7"
+						}, {
+							"在副本":	"穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;水下培养皿·失魂寺;阿特拉斯庭院;埃吉尔遗迹;穿梭之都;时空之泉;流水回廊;未知森林;奈落·神树拉菲尔;奈落·蛇龙之巢;奈落·珊瑚之歌;奈落·冰淇淋庭院;奈落·破坏之城;奈落·冰封雪域;奈落·魔法学院主楼;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"智者超载之钥"
+					},
+					"judges":	[{
+							"搜索内有首领":	""
+						}, {
+							"不在副本":	"穆斯菲尔斯隧道;奈落·神树拉菲尔;奈落·魔法学院主楼;奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·蛇龙之巢;精灵树桩;埃吉尔遗迹;阿特拉斯庭院;无尽繁星大厅;"
+						}, {
+							"不在地图":	"阿瓦伦 未知之处_100703;尼夫海姆站1_108001;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"坚盾惩戒之钥"
+					},
+					"judges":	[{
+							"搜索内有怪":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"坚盾惩戒之钥"
+					},
+					"judges":	[{
+							"搜索内有首领":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"【生存本能】2段"
+					},
+					"judges":	[{
+							"在副本":	"奈落·神树拉菲尔;奈落·魔法学院主楼;奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;"
+						}, {
+							"搜索内有首领":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]神之使者"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]巨星"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]元素之灵"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]通灵领主"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]宝石星"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]唤雨之灵"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]演奏大师"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]次元守望者"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]剑圣"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]风行刺客_短剑"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"[特殊]阿格尼"
+					},
+					"judges":	[{
+							"在副本频道":	""
+						}]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"无守护普通本吃药",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"在副本频道":	""
+					}
+				}],
+			"executes":	[{
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"古籍·壁垒"
+					},
+					"judges":	[{
+							"在地图":	"阿特拉斯庭院 6_106106;阿特拉斯庭院 8_106108;阿特拉斯庭院 1_106101;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"古籍·壁垒"
+					},
+					"judges":	[{
+							"在副本":	"普累罗麻;"
+						}, {
+							"没有BUFF":	"家族·冰魔图腾_63020018"
+						}, {
+							"地图内有首领":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"古籍·壁垒"
+					},
+					"judges":	[{
+							"在副本":	"普累罗麻;"
+						}, {
+							"没有BUFF":	"家族·冰魔图腾_63020018"
+						}, {
+							"地图内有首领":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的铁盾药剂"
+					},
+					"judges":	[{
+							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的铁盾药剂"
+					},
+					"judges":	[{
+							"在副本":	"时空之泉;埃吉尔遗迹;诺尼尔之泪;摩克沙;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;丽西泰亚之门;蘑菇树沼泽;"
+						}, {
+							"没有BUFF":	"家族·冰魔图腾_63020219"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"哈密瓜味全糖蜜果"
+					},
+					"judges":	[{
+							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"哈密瓜味全糖蜜果"
+					},
+					"judges":	[{
+							"在副本":	"时空之泉;埃吉尔遗迹;诺尼尔之泪;摩克沙;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;丽西泰亚之门;蘑菇树沼泽;普累罗麻;残缺边界;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"紫葡萄味全糖蜜果"
+					},
+					"judges":	[{
+							"在地图":	"普累罗麻10_110110;普累罗麻6_110106;残缺边界6_110006;"
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"紫葡萄味全糖蜜果"
+					},
+					"judges":	[{
+							"在副本":	"埃吉尔遗迹;"
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"小型伤害吸收红剂"
+					},
+					"judges":	[{
+							"在副本":	"珊瑚之歌;阿特拉斯庭院;埃吉尔遗迹;穿梭之都;时空之泉;无尽繁星大厅;大地的考验;黑月的考验;黄昏教堂;消失的星之歌;泡泡战舰;克洛诺斯的时间;心脏的记忆;龙猫妹妹庭院;魔法学院主楼;精灵树桩;生命之恩泰莱凯;流水回廊;艾乌加蒙剧场;深渊之镜;普洛菲司台;霍普占卜室;未知森林;卡伊洛斯的时间;炼狱阿兹雷尔;巴尼塔斯;哈姆克公爵府;阿科洛之棺;圣字教堂;玫瑰庭院;卡夫卡剧场;水下培养皿·失魂寺;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"青苹果味全糖蜜果"
+					},
+					"judges":	[{
+							"在地图":	"残缺边界6_110006;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"青苹果味全糖蜜果"
+					},
+					"judges":	[{
+							"在副本":	"普累罗麻;"
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"蓝草莓味全糖蜜果"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"蓝草莓味全糖蜜果"
+					},
+					"judges":	[{
+							"在副本":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"甜蜜橙味全糖蜜果"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"甜蜜橙味全糖蜜果"
+					},
+					"judges":	[{
+							"在副本":	"埃吉尔遗迹;"
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"红樱桃味全糖蜜果"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"红樱桃味全糖蜜果"
+					},
+					"judges":	[{
+							"在副本":	"埃吉尔遗迹;"
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的魔能合剂"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的魔能合剂"
+					},
+					"judges":	[{
+							"在副本":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的巨力合剂"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的巨力合剂"
+					},
+					"judges":	[{
+							"在副本":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的稳定合剂"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的稳定合剂"
+					},
+					"judges":	[{
+							"在副本":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的狂暴合剂"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的狂暴合剂"
+					},
+					"judges":	[{
+							"在副本":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"深渊·重力药水"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"深渊·重力药水"
+					},
+					"judges":	[{
+							"在副本":	"埃吉尔遗迹;尼夫海姆站;"
+						}, {
+							"搜索内有首领":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"甜蜜的突变攻击力提升药水"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"甜蜜的突变攻击力提升药水"
+					},
+					"judges":	[{
+							"在副本":	""
+						}]
+				}]
 		}],
 	"pet_build":	[{
 			"sw":	true,
-			"id":	43501020,
-			"name":	"细腻心思"
+			"id":	43501029,
+			"name":	"给力娇"
 		}, {
 			"sw":	true,
-			"id":	43501021,
-			"name":	"独当一面"
-		}, {
-			"sw":	false,
-			"id":	43501022,
-			"name":	"坚毅内心"
+			"id":	70020001,
+			"name":	"招财进宝"
 		}, {
 			"sw":	true,
-			"id":	43501017,
-			"name":	"佛"
-		}, {
-			"sw":	true,
-			"id":	43501018,
-			"name":	"圣"
-		}, {
-			"sw":	true,
-			"id":	43501019,
-			"name":	"魔"
-		}, {
-			"sw":	true,
-			"id":	1040101,
-			"name":	"稳固"
-		}, {
-			"sw":	true,
-			"id":	1040102,
-			"name":	"鹰视"
-		}, {
-			"sw":	true,
-			"id":	1040103,
-			"name":	"扑击"
+			"id":	70020003,
+			"name":	"破财消灾"
 		}, {
 			"sw":	true,
 			"id":	43501030,
@@ -3565,17 +4318,9 @@
 			"id":	43501031,
 			"name":	"皮山压顶"
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"id":	43501032,
 			"name":	"皮皮亲亲"
-		}, {
-			"sw":	true,
-			"id":	43501026,
-			"name":	"大力神"
-		}, {
-			"sw":	true,
-			"id":	43501027,
-			"name":	"拳击手"
 		}, {
 			"sw":	true,
 			"id":	1050104,
@@ -3590,20 +4335,28 @@
 			"name":	"伺机"
 		}, {
 			"sw":	true,
-			"id":	5000427,
-			"name":	"玄武的突袭"
-		}, {
-			"sw":	false,
-			"id":	5000420,
-			"name":	"龙鳞的力量"
+			"id":	1040101,
+			"name":	"稳固"
 		}, {
 			"sw":	true,
-			"id":	5000424,
-			"name":	"白虎的利爪"
+			"id":	1040102,
+			"name":	"鹰视"
 		}, {
 			"sw":	true,
-			"id":	5000421,
-			"name":	"龙的威严"
+			"id":	1040103,
+			"name":	"扑击"
+		}, {
+			"sw":	true,
+			"id":	43501017,
+			"name":	"佛"
+		}, {
+			"sw":	true,
+			"id":	43501018,
+			"name":	"圣"
+		}, {
+			"sw":	true,
+			"id":	43501019,
+			"name":	"魔"
 		}],
 	"pet_sunmon_skill":	[{
 			"sw":	true,
@@ -3682,6 +4435,390 @@
 			"sw":	true,
 			"vague":	true,
 			"name":	"军团长的",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣十字军·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"天穹卡牌师·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"巨星·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"剑圣·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"剑刃舞者·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"恐怖骑士·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"审判官·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"魔射手·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"英雄·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"次元守望者·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"暗影行者·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"武道宗师·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	false,
+			"vague":	false,
+			"name":	"通灵领主·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"唤雨之灵·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"疾风舞者·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"逐暗者·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"梦魇恶魔·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"宝石星·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"元素之灵·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	false,
+			"vague":	false,
+			"name":	"演奏大师·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"星芒骑士·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"远古机甲师·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"史诗卡牌师·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"刺杀者·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"风行刺客·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"幻灵师·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"阿格尼·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"黑影·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"星能机师·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"修行武者·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"守护天使·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"傀儡宗师·超越符文",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -3892,8 +5029,8 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
-			"filter4":	true,
-			"filter5":	true
+			"filter4":	false,
+			"filter5":	false
 		}, {
 			"sw":	true,
 			"vague":	false,
@@ -3928,8 +5065,8 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
-			"filter4":	true,
-			"filter5":	true
+			"filter4":	false,
+			"filter5":	false
 		}, {
 			"sw":	true,
 			"vague":	false,
@@ -3940,8 +5077,8 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
-			"filter4":	true,
-			"filter5":	true
+			"filter4":	false,
+			"filter5":	false
 		}, {
 			"sw":	true,
 			"vague":	false,
@@ -3976,7 +5113,7 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
-			"filter4":	false,
+			"filter4":	true,
 			"filter5":	true
 		}, {
 			"sw":	true,
@@ -3988,7 +5125,7 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
-			"filter4":	false,
+			"filter4":	true,
 			"filter5":	true
 		}, {
 			"sw":	true,
@@ -4000,7 +5137,7 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
-			"filter4":	false,
+			"filter4":	true,
 			"filter5":	true
 		}, {
 			"sw":	true,
@@ -4025,7 +5162,7 @@
 			"filter2":	false,
 			"filter3":	false,
 			"filter4":	false,
-			"filter5":	false
+			"filter5":	true
 		}, {
 			"sw":	true,
 			"vague":	false,
@@ -4037,7 +5174,7 @@
 			"filter2":	false,
 			"filter3":	false,
 			"filter4":	false,
-			"filter5":	false
+			"filter5":	true
 		}, {
 			"sw":	true,
 			"vague":	true,
@@ -4099,7 +5236,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"贯穿力 觉醒石+1",
 			"type1":	true,
@@ -4111,7 +5248,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"贯穿力 觉醒石+2",
 			"type1":	true,
@@ -4135,7 +5272,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"经验值 觉醒石+1",
 			"type1":	true,
@@ -4147,7 +5284,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"经验值 觉醒石+2",
 			"type1":	true,
@@ -4171,7 +5308,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"暴击伤害 觉醒石+1",
 			"type1":	true,
@@ -4183,7 +5320,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"暴击伤害 觉醒石+2",
 			"type1":	true,
@@ -4432,20 +5569,8 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"意志的决战者徽章+1",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
+			"filter4":	true,
+			"filter5":	true
 		}, {
 			"sw":	true,
 			"vague":	false,
@@ -4602,6 +5727,66 @@
 			"filter3":	true,
 			"filter4":	true,
 			"filter5":	true
+		}, {
+			"sw":	true,
+			"vague":	true,
+			"name":	"封魔.",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"意志的决战者徽章+1",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"魔法的精粹者徽章+1",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"牺牲之双枪",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"星海 物理最大伤害彩色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
 		}],
 	"chaosbranch":	[4001, 3001, 2001, 1001, 4003, 3003, 2003, 1003, 4002, 3002, 2002, 1002, 4016, 4012, 3012, 2012, 1012, 4011, 3011, 2011, 1011, 4015, 4004, 3004, 2004, 1004, 4005, 3005, 2005, 1005, 4022, 3022, 2022, 1022, 4021, 3021, 2021, 1021, 4017, 3017, 2017, 1017, 4018, 3018, 2018, 1018, 4019, 3019, 2019, 1019, 4020, 3020, 2020, 1020, 4006, 3006, 2006, 1006, 4007, 3007, 2007, 1007, 4008, 3008, 2008, 1008, 4009, 3009, 2009, 1009, 4014, 3014, 2014, 1014, 12026, 13026, 22026, 23026, 32026, 33026, 42026, 43026, 52026, 53026, 4010, 3010, 2010, 1010, 13025, 23025, 33025, 43025, 53025, 11025, 21025, 31025, 41025, 51025, 4023, 3023, 2023, 1023, 4024, 3024, 2024, 1024, 4013, 3013, 2013, 1013, 1026, 4028, 3028, 2028, 1028, 1033, 2033, 3033, 4033, 1029, 2029, 3029, 4029, 1030, 2030, 3030, 4030, 1031, 2031, 3031, 4031, 1032, 2032, 3032, 4032, 63025, 73025, 61025, 71025, 1034, 2034, 3034, 4034, 2025, 62026, 63026, 72026, 73026, 4027],
 	"autosystemscript":	[1, 2, 5, 6, 7, 8, 10, 13, 16],

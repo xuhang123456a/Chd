@@ -32,12 +32,12 @@
 	"automatic_guild":	true,
 	"automatic_guildmoney":	false,
 	"automatic_ml":	true,
-	"automatic_mluse":	false,
+	"automatic_mluse":	true,
 	"automatic_monter_book":	true,
 	"automatic_phb":	false,
 	"automatic_pupu":	false,
 	"automatic_schedule":	true,
-	"automatic_skill_update_entrepot":	false,
+	"automatic_skill_update_entrepot":	true,
 	"automatic_skill_update_sw":	true,
 	"automatic_subjoin_cwzx":	true,
 	"automatic_taskRemote":	true,
@@ -498,15 +498,6 @@
 			"Judge2":	{
 				"[ÎÞ]":	""
 			},
-			"item":	"µÍ¼¶¾­ÑéÒ©Ë®"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[ÎÞ]":	""
-			},
 			"item":	"ÁªÃË¼Ò×å¾­ÑéµãÖ§Ô®°ü"
 		}, {
 			"sw":	true,
@@ -529,12 +520,12 @@
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"RPÖµ<=":	"500"
+				"HP<=%":	"111"
 			},
 			"Judge2":	{
 				"[ÎÞ]":	""
 			},
-			"item":	"µÍ¼¶ÈËÆ·ÄÜÁ¿¼Á"
+			"item":	"µÍ¼¶¾­ÑéÒ©Ë®"
 		}],
 	"protec_data":	[{
 			"sw":	true,
@@ -610,40 +601,7 @@
 		}],
 	"protec_recover_data":	{
 	},
-	"item_buff_data":	[{
-			"sw":	true,
-			"type":	"²Ù×÷",
-			"name":	"ÑªÂöÕ½»ê:ÕÙ»½",
-			"induns":	["¾«ÁéÊ÷×®", "ÉúÃüÖ®¶÷Ì©À³¿­", "Á÷Ë®»ØÀÈ", "Î´ÖªÉ­ÁÖ", "Ê±¿ÕÖ®Èª", "´óµØµÄ¿¼Ñé", "ºÚÔÂµÄ¿¼Ñé", "ÏûÊ§µÄÐÇÖ®¸è", "°¬ÎÚ¼ÓÃÉ¾ç³¡", "ÉîÔ¨Ö®¾µ", "ÄÎÂä¡¤±ù·âÑ©Óò", "ÄÎÂä¡¤ÆÆ»µÖ®³Ç", "ÄÎÂä¡¤±ùä¿ÁÜÍ¥Ôº", "ÄÎÂä¡¤Éºº÷Ö®¸è", "ÄÎÂä¡¤ÉßÁúÖ®³²", "ÆÕÂå·ÆË¾Ì¨", "»ôÆÕÕ¼²·ÊÒ", "¿¨ÒÁÂåË¹µÄÊ±¼ä", "¹þÄ·¿Ë¹«¾ô¸®", "Ê¥×Ö½ÌÌÃ", "Éºº÷Ö®¸è", "ÎÞ¾¡·±ÐÇ´óÌü", "»ìÂÒÊÀ½ç", "»Æ»è½ÌÌÃ", "ÅÝÅÝÕ½½¢", "´©ËóÖ®¶¼", "°£¼ª¶ûÒÅ¼£", "Ë®ÏÂÅàÑøÃó¡¤Ê§»êËÂ", "ÄÎÂä¡¤ÉñÊ÷À­·Æ¶û", "ÄÎÂä¡¤Ä§·¨Ñ§ÔºÖ÷Â¥", "ÄÂË¹·Æ¶ûË¹ËíµÀ", "ÈºÐÇ¹¬µî"],
-			"hard":	false
-		}, {
-			"sw":	true,
-			"type":	"²Ù×÷",
-			"name":	"ÑªÂöÕ½»ê:ÐÝÏ¢",
-			"maps":	[],
-			"induns":	["ÅµÄá¶ûÖ®Àá"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"ÎïÆ·",
-			"name":	"ÎïÆ·±¬ÂÊÌÇ½¬",
-			"induns":	["¾«ÁéÊ÷×®", "ÉúÃüÖ®¶÷Ì©À³¿­"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"Íâ½»",
-			"name":	"ÉÏ¾©-Ð¤Î¬¶û",
-			"maps":	["°¢ÌØÀ­Ë¹Í¥Ôº 8_106108"],
-			"induns":	["ÄÎÂä¡¤ÉßÁúÖ®³²", "ÄÎÂä¡¤Éºº÷Ö®¸è", "ÄÎÂä¡¤±ùä¿ÁÜÍ¥Ôº", "ÄÎÂä¡¤ÆÆ»µÖ®³Ç", "ÄÎÂä¡¤±ù·âÑ©Óò"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"Íâ½»",
-			"name":	"°¬¶û·¨-°®É´",
-			"maps":	["°¢ÌØÀ­Ë¹Í¥Ôº 8_106108"],
-			"induns":	["ÄÎÂä¡¤ÉßÁúÖ®³²", "ÄÎÂä¡¤Éºº÷Ö®¸è", "ÄÎÂä¡¤±ùä¿ÁÜÍ¥Ôº", "ÄÎÂä¡¤ÆÆ»µÖ®³Ç", "ÄÎÂä¡¤±ù·âÑ©Óò"],
-			"hard":	false
-		}],
+	"item_buff_data":	[],
 	"skill_attack_data":	[{
 			"sw":	true,
 			"id":	3606015,
@@ -2943,7 +2901,7 @@
 		}, {
 			"only_run":	false,
 			"run_sleep":	1,
-			"sw":	true,
+			"sw":	false,
 			"name":	"ÄÎÂä³ÔÒ©",
 			"judges":	[{
 					"sw":	true,

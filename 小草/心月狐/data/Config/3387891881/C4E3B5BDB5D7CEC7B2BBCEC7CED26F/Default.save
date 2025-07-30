@@ -86,7 +86,7 @@
 	"main_mob_external":	true,
 	"main_mob_friend_sw":	false,
 	"main_mob_herbs":	false,
-	"main_mob_indun":	false,
+	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
 	"main_mob_mineral":	false,
@@ -233,7 +233,7 @@
 	"auto_task_book_num":	3,
 	"auto_task_book_time1":	0,
 	"auto_task_book_time2":	0,
-	"auto_team_room_playercount":	4,
+	"auto_team_room_playercount":	3,
 	"guild_diplomacy_min":	300,
 	"item_disassemble_item_time":	0,
 	"item_pick_time":	0,
@@ -960,39 +960,51 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"3127",
-			"y":	"1391",
-			"pos1":	"左跑",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"3726",
-			"y":	"1391",
-			"pos1":	"右跑",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"3447",
-			"y":	"1391",
+			"x":	"1124",
+			"y":	"1375",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"彩虹副本传送":	"空中战场"
+				"":	""
+			}
+		}, {
+			"type":	"模拟↑键",
+			"x":	"65",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"3691",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"模拟↑键",
+			"x":	"2786",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
 			}
 		}],
 	"script_trigger_data":	[],
@@ -2724,7 +2736,7 @@
 	"diytrigger":	[{
 			"only_run":	false,
 			"run_sleep":	1,
-			"sw":	true,
+			"sw":	false,
 			"name":	"奈落吃药",
 			"judges":	[{
 					"sw":	true,

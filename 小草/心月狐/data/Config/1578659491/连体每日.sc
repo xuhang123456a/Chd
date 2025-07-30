@@ -23,6 +23,16 @@
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
+		"diyother":	"ÕÙ»½ÊÞ",
+		"diyawaken":	"",
+		"tag":	2615,
+		"script":	"Þ±æ«Ë¹ÃÎ¾³",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
 		"tag":	13196,
@@ -67,26 +77,6 @@
 		"diyawaken":	"",
 		"tag":	16313,
 		"script":	"Ä¦¿ËÉ³",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	9946,
-		"script":	"Ê¥×Ö½ÌÌÃ",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	11781,
-		"script":	"¹þÄ·¿Ë¹«¾ô¸®",
 		"task":	0
 	}, {
 		"setcount":	0,

@@ -60,7 +60,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	-2092433408,
+		"loadtime":	-2119958528,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验本召唤兽",

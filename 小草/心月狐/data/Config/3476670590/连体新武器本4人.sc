@@ -38,4 +38,14 @@
 		"tag":	31359,
 		"script":	"自动培养血脉战魂",
 		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"存仓",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	593,
+		"script":	"执行自动切换角色",
+		"task":	0
 	}]
