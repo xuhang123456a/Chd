@@ -35,38 +35,18 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29524,
-		"script":	"自动转换星座点数",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"经验",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"经验",
-		"tag":	20513,
-		"script":	"珊瑚之歌",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22400,
-		"script":	"泡泡战舰",
+		"tag":	19146,
+		"script":	"火山珊瑚",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"经验",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	19146,
-		"script":	"火山珊瑚",
+		"diyother":	"经验本召唤兽",
+		"diyawaken":	"经验",
+		"tag":	5240,
+		"script":	"魔发城堡",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -215,26 +195,6 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"",
-		"tag":	3892,
-		"script":	"埃吉尔遗迹",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"",
-		"tag":	6188,
-		"script":	"阿特拉斯庭院",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"",
 		"tag":	22206,
 		"script":	"穆斯菲尔斯隧道",
 		"task":	0
@@ -257,66 +217,6 @@
 		"diyawaken":	"",
 		"tag":	19065,
 		"script":	"群星宫殿",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"经验",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"经验",
-		"tag":	7836,
-		"script":	"珊瑚之歌",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	9926,
-		"script":	"泡泡战舰",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"破防（守护）",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"元素战斗",
-		"tag":	16241,
-		"script":	"诺尼尔之泪",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"",
-		"tag":	18488,
-		"script":	"摩克沙",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"",
-		"tag":	7782,
-		"script":	"丽西泰亚之门",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"",
-		"tag":	10640,
-		"script":	"蘑菇树沼泽",
 		"task":	0
 	}, {
 		"setcount":	0,

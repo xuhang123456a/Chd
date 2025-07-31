@@ -5,28 +5,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3516,
-		"script":	"探险家神殿(史诗)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	11881,
-		"script":	"探险家神殿(高级)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	13870,
-		"script":	"探险家神殿(英雄)",
+		"tag":	25158,
+		"script":	"【彩虹向导】每日任务",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -39,9 +19,29 @@
 		"script":	"自动转换星座点数",
 		"task":	0
 	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	8146,
+		"script":	"领取家族工资",
+		"task":	0
+	}, {
 		"setcount":	1,
 		"loadtime":	0,
-		"diyitem":	"经验",
+		"diyitem":	"经验套装",
+		"diyproperty":	"",
+		"diyother":	"经验本召唤兽",
+		"diyawaken":	"经验",
+		"tag":	9821,
+		"script":	"魔发城堡",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验本召唤兽",
 		"diyawaken":	"经验",
@@ -49,24 +49,24 @@
 		"script":	"珊瑚之歌",
 		"task":	0
 	}, {
-		"setcount":	1,
+		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"破防（守护）",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22400,
-		"script":	"泡泡战舰",
+		"diyawaken":	"元素战斗",
+		"tag":	13984,
+		"script":	"无尽繁星大厅",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"掉落",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19146,
-		"script":	"火山珊瑚",
+		"tag":	30456,
+		"script":	"索拉城斗兽场",
 		"task":	0
 	}, {
 		"setcount":	0,

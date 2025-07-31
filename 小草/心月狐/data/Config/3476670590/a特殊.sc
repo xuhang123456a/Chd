@@ -25,31 +25,21 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	4189,
-		"script":	"【周挑战】领取苏生",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31879,
-		"script":	"兑换羁绊之石",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
 		"tag":	492,
 		"script":	"领取家族工资",
 		"task":	0
 	}, {
 		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"经验套装",
+		"diyproperty":	"",
+		"diyother":	"经验本召唤兽",
+		"diyawaken":	"5经验石",
+		"tag":	31928,
+		"script":	"魔发城堡",
+		"task":	0
+	}, {
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
@@ -61,12 +51,22 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"经验套装",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"经验本召唤兽",
-		"diyawaken":	"经验觉醒",
-		"tag":	28704,
-		"script":	"泡泡战舰",
+		"diyother":	"强力召唤兽",
+		"diyawaken":	"",
+		"tag":	1320,
+		"script":	"无尽繁星大厅",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"掉落套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	21307,
+		"script":	"索拉城斗兽场",
 		"task":	0
 	}, {
 		"setcount":	0,

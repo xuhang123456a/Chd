@@ -5,6 +5,36 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	29313,
+		"script":	"【取】材料",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	17154,
+		"script":	"【周挑战】领取苏生",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	19502,
+		"script":	"【月活动】领取苏生",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
 		"tag":	10035,
 		"script":	"【月活动每日】每日任务",
 		"task":	0
@@ -49,14 +79,14 @@
 		"script":	"探险家神殿(高级)",
 		"task":	0
 	}, {
-		"setcount":	2,
-		"loadtime":	-2119958528,
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",
 		"diyother":	"经验本召唤兽",
 		"diyawaken":	"5经验石",
-		"tag":	29359,
-		"script":	"珊瑚之歌",
+		"tag":	15439,
+		"script":	"魔发城堡",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -67,16 +97,6 @@
 		"diyawaken":	"5经验石",
 		"tag":	21293,
 		"script":	"珊瑚之歌",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"经验套装",
-		"diyproperty":	"",
-		"diyother":	"经验本召唤兽",
-		"diyawaken":	"5经验石",
-		"tag":	28704,
-		"script":	"泡泡战舰",
 		"task":	0
 	}, {
 		"setcount":	0,

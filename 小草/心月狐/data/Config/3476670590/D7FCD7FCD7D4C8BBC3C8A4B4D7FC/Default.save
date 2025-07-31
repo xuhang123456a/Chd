@@ -86,7 +86,7 @@
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
 	"main_mob_herbs":	true,
-	"main_mob_indun":	false,
+	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
 	"main_mob_mineral":	true,
@@ -271,7 +271,7 @@
 	"automatic_zhs_time5":	3,
 	"automatic_zhs_time6":	5,
 	"automatic_zhs_time7":	0,
-	"config_system_type":	0,
+	"config_system_type":	1,
 	"main_mob_trap_type":	0,
 	"path_hide_effect_type":	1,
 	"path_script_picture_val2":	0,
@@ -2677,7 +2677,7 @@
 				"更改自动副本模式":	""
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -2686,7 +2686,7 @@
 				"使用物品":	"艾丽娅斯传送石"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -2695,7 +2695,7 @@
 				"挂机控制":	"0"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:06"
 			},
@@ -2704,7 +2704,7 @@
 				"退出到角色":	""
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},
@@ -2713,7 +2713,7 @@
 				"更改自动副本模式":	""
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},
@@ -2722,7 +2722,7 @@
 				"更改自动脚本":	"a特殊"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},
@@ -3121,7 +3121,7 @@
 			"judges":	[{
 					"sw":	true,
 					"judge":	{
-						"在副本":	"珊瑚之歌;泡泡战舰;"
+						"在副本":	"珊瑚之歌;泡泡战舰;魔发城堡;"
 					}
 				}],
 			"executes":	[{
