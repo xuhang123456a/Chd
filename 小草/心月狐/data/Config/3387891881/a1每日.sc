@@ -15,26 +15,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	28118,
-		"script":	"【月活动每日】每日任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	30413,
-		"script":	"【月活动签到】高级签到任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
 		"tag":	22928,
 		"script":	"【周挑战】领取苏生",
 		"task":	0
@@ -123,40 +103,10 @@
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	2081,
-		"script":	"诺尼尔之泪",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	9889,
-		"script":	"摩克沙",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
 		"tag":	20144,
 		"script":	"薇娅斯梦境",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	9216,
-		"script":	"穆斯菲尔斯隧道",
 		"task":	0
 	}, {
 		"setcount":	0,

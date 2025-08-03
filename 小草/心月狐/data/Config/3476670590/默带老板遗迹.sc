@@ -3,6 +3,16 @@
 		"loadtime":	0,
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
+		"diyother":	"ÕÙ»½ÊŞ",
+		"diyawaken":	"Õ½¶·",
+		"tag":	9690,
+		"script":	"°£¼ª¶ûÒÅ¼£",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
 		"diyother":	"Ç¿Á¦ÕÙ»½ÊŞ",
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	1562,
@@ -14,9 +24,19 @@
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"Ç¿Á¦ÕÙ»½ÊŞ",
-		"diyawaken":	"Õ½¶·",
-		"tag":	9690,
-		"script":	"°£¼ª¶ûÒÅ¼£",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	17193,
+		"script":	"ÄÂË¹·Æ¶ûË¹ËíµÀ",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"Ç¿Á¦ÕÙ»½ÊŞ",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	30308,
+		"script":	"Äá·òº£Ä·Õ¾",
 		"task":	0
 	}, {
 		"setcount":	0,

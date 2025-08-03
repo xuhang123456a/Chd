@@ -85,11 +85,11 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	true,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	true,
+	"main_mob_herbs":	false,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	true,
+	"main_mob_mineral":	false,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
@@ -968,20 +968,8 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"1124",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"65",
-			"y":	"1375",
+			"x":	"6140",
+			"y":	"1495",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
@@ -992,8 +980,56 @@
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3691",
-			"y":	"1375",
+			"x":	"5804",
+			"y":	"1495",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"1269",
+			"y":	"1456",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"上跳",
+			"x":	"5980",
+			"y":	"1495",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"跳跃控制":	"200"
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"5922",
+			"y":	"1295",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"6031",
+			"y":	"1295",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
@@ -1004,10 +1040,10 @@
 			}
 		}, {
 			"type":	"模拟↑键",
-			"x":	"2786",
-			"y":	"1375",
+			"x":	"5986",
+			"y":	"1295",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"右跑",
 			"judge":	{
 				"":	""
 			},
@@ -1378,7 +1414,7 @@
 					"item":	""
 				}, {
 					"npc":	58,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -4472,7 +4508,7 @@
 							"在地图":	""
 						}]
 				}, {
-					"sw":	true,
+					"sw":	false,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"青苹果味全糖蜜果"

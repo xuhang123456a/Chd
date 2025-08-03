@@ -7,7 +7,7 @@
 	}, {
 		"index":	1400103953,
 		"name":	"自然萌ご",
-		"autoscript":	"连体强力本不升战魂",
+		"autoscript":	"连体强力本不存材料",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -41,27 +41,33 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	183632281,
+		"index":	272117703,
+		"name":	"自然萌ご",
+		"autoscript":	"连体每日必打本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	272123843,
 		"name":	"十八岁青春男高",
-		"autoscript":	"连体2术士每日",
+		"autoscript":	"连体每日必打本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	15917640,
+		"index":	272140468,
 		"name":	"雪绒薄荷ご",
-		"autoscript":	"连体打神殿+pk",
+		"autoscript":	"连体每日必打本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	15923625,
+		"index":	272146796,
 		"name":	"傻海我们走~",
-		"autoscript":	"连体打神殿+pk",
+		"autoscript":	"连体每日必打本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	15927343,
+		"index":	272148890,
 		"name":	"BaLl,",
-		"autoscript":	"连体打神殿+pk",
+		"autoscript":	"连体每日必打本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {

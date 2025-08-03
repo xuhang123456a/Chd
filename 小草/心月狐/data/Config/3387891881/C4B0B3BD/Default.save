@@ -221,7 +221,7 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	15,
+	"auto_load_wait_val":	10,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	10,
 	"auto_set_boss_hp_val":	99,
@@ -898,7 +898,7 @@
 			"sw":	true,
 			"npcdata":	[{
 					"npc":	6,
-					"sw1":	true,
+					"sw1":	false,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -2512,7 +2512,7 @@
 					}
 				}],
 			"executes":	[{
-					"sw":	true,
+					"sw":	false,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"古籍·蛮荒"
@@ -2535,7 +2535,7 @@
 					},
 					"judges":	[]
 				}, {
-					"sw":	true,
+					"sw":	false,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"古籍·壁垒"
@@ -2551,7 +2551,7 @@
 					},
 					"judges":	[]
 				}, {
-					"sw":	true,
+					"sw":	false,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"蓝草莓味全糖蜜果"
@@ -2560,7 +2560,7 @@
 							"地图内有首领":	""
 						}]
 				}, {
-					"sw":	true,
+					"sw":	false,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"紫葡萄味全糖蜜果"

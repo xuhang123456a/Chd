@@ -49,49 +49,91 @@
 	}, {
 		"index":	1124826453,
 		"name":	"山有木兮卿有意",
-		"autoscript":	"每日",
+		"autoscript":	"a每日",
 		"item":	"连体存取",
 		"item_other":	"摩羯座的黄金守护+8;魔·冥界之翼;空灵披风·SPA队长;"
 	}, {
 		"index":	566998203,
 		"name":	"糯米Nomi",
-		"autoscript":	"连体每日",
+		"autoscript":	"连体每日必打本",
 		"item":	"连体存取",
 		"item_other":	""
 	}, {
 		"index":	46779312,
 		"name":	"若惊鸿一梦",
-		"autoscript":	"连体每日",
+		"autoscript":	"连体每日必打本",
 		"item":	"连体存取",
 		"item_other":	""
 	}, {
 		"index":	480632156,
 		"name":	"秋意也泛舟",
-		"autoscript":	"连体每日",
+		"autoscript":	"连体每日必打本",
 		"item":	"连体存取",
 		"item_other":	""
 	}, {
 		"index":	38125578,
 		"name":	"弥猫深巷離人心",
-		"autoscript":	"连体每日",
+		"autoscript":	"连体每日必打本",
 		"item":	"连体存取",
 		"item_other":	""
 	}, {
 		"index":	40632375,
 		"name":	"玫瑰花的梦",
-		"autoscript":	"连体每日",
+		"autoscript":	"连体每日必打本",
 		"item":	"连体存取",
 		"item_other":	""
 	}, {
 		"index":	24013437,
 		"name":	"诉萌",
-		"autoscript":	"连体每日",
+		"autoscript":	"连体每日必打本",
 		"item":	"连体存取",
 		"item_other":	""
 	}, {
 		"index":	132537375,
 		"name":	"山有木兮卿有意",
-		"autoscript":	"",
+		"autoscript":	"连体每日周本",
+		"item":	"连体存取",
+		"item_other":	""
+	}, {
+		"index":	181787312,
+		"name":	"糯米Nomi",
+		"autoscript":	"连体每日周本",
+		"item":	"连体存取",
+		"item_other":	""
+	}, {
+		"index":	181789921,
+		"name":	"若惊鸿一梦",
+		"autoscript":	"连体每日周本",
+		"item":	"连体存取",
+		"item_other":	""
+	}, {
+		"index":	181793125,
+		"name":	"秋意也泛舟",
+		"autoscript":	"连体每日周本",
+		"item":	"连体存取",
+		"item_other":	""
+	}, {
+		"index":	181796890,
+		"name":	"弥猫深巷離人心",
+		"autoscript":	"连体每日周本",
+		"item":	"连体存取",
+		"item_other":	""
+	}, {
+		"index":	181799640,
+		"name":	"玫瑰花的梦",
+		"autoscript":	"连体每日周本",
+		"item":	"连体存取",
+		"item_other":	""
+	}, {
+		"index":	181802125,
+		"name":	"诉萌",
+		"autoscript":	"连体每日周本",
+		"item":	"连体存取",
+		"item_other":	""
+	}, {
+		"index":	181845937,
+		"name":	"山有木兮卿有意",
+		"autoscript":	"每日",
 		"item":	"连体存取",
 		"item_other":	""
 	}]

@@ -1022,7 +1022,7 @@
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
 			"id":	1,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	1,
 					"sw1":	true,
@@ -1258,7 +1258,7 @@
 				}]
 		}, {
 			"id":	10,
-			"sw":	true,
+			"sw":	false,
 			"npcdata":	[{
 					"npc":	46,
 					"sw1":	false,
@@ -1271,7 +1271,7 @@
 					"item":	""
 				}, {
 					"npc":	48,
-					"sw1":	true,
+					"sw1":	false,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -4844,7 +4844,7 @@
 							"在地图":	""
 						}]
 				}, {
-					"sw":	true,
+					"sw":	false,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"蓝草莓味全糖蜜果"

@@ -15,16 +15,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11881,
-		"script":	"探险家神殿(高级)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
 		"tag":	13870,
 		"script":	"探险家神殿(英雄)",
 		"task":	0

@@ -14,6 +14,32 @@
 			"num":	0
 		}, {
 			"sw":	true,
+			"id":	1005028,
+			"name":	"三重奏",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1003028,
+			"name":	"进行曲",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
 			"id":	2402903,
 			"name":	"[召唤]打击乐器",
 			"dmin":	0,
@@ -53,32 +79,6 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1005028,
-			"name":	"三重奏",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1010028,
-			"name":	"器乐大师",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
 			"id":	3820001,
 			"name":	"魔法球板",
 			"dmin":	0,
@@ -89,24 +89,11 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0
+			"num":	8
 		}, {
 			"sw":	true,
-			"id":	1003028,
-			"name":	"进行曲",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1002028,
-			"name":	"庄严乐章",
+			"id":	3802907,
+			"name":	"【传奇】",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -115,11 +102,11 @@
 			"reverse":	false,
 			"speedx":	false,
 			"judge":	[],
-			"num":	0
+			"num":	8
 		}, {
 			"sw":	true,
-			"id":	3802907,
-			"name":	"【传奇】",
+			"id":	1010028,
+			"name":	"器乐大师",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -146,6 +133,19 @@
 			"sw":	true,
 			"id":	1000028,
 			"name":	"优雅乐章",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1002028,
+			"name":	"庄严乐章",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,

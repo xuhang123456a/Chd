@@ -10,6 +10,16 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	2898,
+		"script":	"Ì½ÏÕ¼ÒÉñµî(Ê·Ê«)",
+		"task":	0
+	}, {
+		"setcount":	0,
 		"loadtime":	-2100297728,
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",

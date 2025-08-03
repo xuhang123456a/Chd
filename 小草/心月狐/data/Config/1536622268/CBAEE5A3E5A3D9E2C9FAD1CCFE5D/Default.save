@@ -1277,7 +1277,7 @@
 					"item":	""
 				}, {
 					"npc":	48,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {

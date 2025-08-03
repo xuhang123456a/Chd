@@ -24,6 +24,7 @@
 	"auto_task_sw1":	false,
 	"auto_team_dream_room_leader":	false,
 	"auto_team_room_leader":	false,
+	"auto_team_world_room_leader":	false,
 	"automatic_book":	true,
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
@@ -40,9 +41,8 @@
 	"automatic_skill_update_sw":	true,
 	"automatic_subjoin_cwzx":	true,
 	"automatic_taskRemote":	true,
-	"guild_diplomacy_contract":	true,
 	"guild_diplomacy_only":	false,
-	"guild_tribute_sw":	false,
+	"guild_tribute_sw":	true,
 	"item_buff_check":	false,
 	"item_buff_indun":	false,
 	"item_buff_sw":	false,
@@ -96,7 +96,7 @@
 	"main_mob_noattck_show":	false,
 	"main_mob_other_sw":	false,
 	"main_mob_trap_sw":	false,
-	"main_skill_distance_sw":	true,
+	"main_skill_distance_sw":	false,
 	"memory_debris_time":	true,
 	"mouse_rest":	false,
 	"mouse_time":	true,
@@ -117,7 +117,7 @@
 	"path_auto_script_showval_sw":	false,
 	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
-	"path_hide_effect_sw":	false,
+	"path_hide_effect_sw":	true,
 	"path_line_boss_sw":	false,
 	"path_line_boss_word_sw":	false,
 	"path_line_deliver_sw":	false,
@@ -134,11 +134,11 @@
 	"path_script_picture_sw4-1":	false,
 	"path_subjoin_htyh":	true,
 	"path_subjoin_ksqp":	true,
-	"path_subjoin_msxj":	false,
+	"path_subjoin_msxj":	true,
 	"path_subjoin_msxj_msg":	false,
-	"path_subjoin_pbds":	false,
+	"path_subjoin_pbds":	true,
 	"path_subjoin_tyjn":	true,
-	"path_subjoin_xsyc":	false,
+	"path_subjoin_xsyc":	true,
 	"path_subjoin_ycwj":	false,
 	"path_subjoin_zxyc":	true,
 	"protect_skill_syncope_1":	false,
@@ -180,7 +180,9 @@
 	"skill_option_sombra":	false,
 	"skill_option_stop_skill":	false,
 	"skill_option_stop_skill_all":	false,
-	"skill_option_storage":	false,
+	"skill_option_storage":	true,
+	"skill_option_storage2":	true,
+	"skill_option_storage3":	true,
 	"skill_shake_sw":	false,
 	"skill_silent_sw":	true,
 	"summon_automatic_zhs":	false,
@@ -199,7 +201,9 @@
 	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"",
 	"auto_team_room_namelist":	"",
-	"guild_tribute_items":	"",
+	"auto_team_world_room_name":	"",
+	"auto_team_world_room_password":	"",
+	"guild_tribute_items":	"ÖÐ¼¶Ã°ÏÕ¼ÒÇé±¨¾íÖá;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"",
@@ -269,7 +273,7 @@
 	"automatic_zhs_time7":	0,
 	"config_system_type":	0,
 	"main_mob_trap_type":	0,
-	"path_hide_effect_type":	0,
+	"path_hide_effect_type":	1,
 	"path_script_picture_val2":	0,
 	"revive_type":	0,
 	"skill_option_lr_val":	0,
@@ -319,6 +323,110 @@
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
+			"id":	1804080,
+			"name":	"°Îµ¶¡¤¹í¹Öá÷ÁÔ",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1804100,
+			"name":	"ÄÉµ¶¡¤ÎíÓê",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1804070,
+			"name":	"°Îµ¶¡¤ÀËÕ¶",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1804120,
+			"name":	"ÄÉµ¶¡¤±©ÓêÈç×¢",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1804060,
+			"name":	"°Îµ¶¡¤±©·çÕ¶",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1804110,
+			"name":	"ÄÉµ¶¡¤ºüÓê",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	true,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1804130,
+			"name":	"[ÎÞÏÞ]Ò»µ¶Á½¶Ï",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1804030,
+			"name":	"µ¤·ãÉ¨",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
 			"id":	1804050,
 			"name":	"Âä»¨Õ¶",
 			"dmin":	0,
@@ -346,7 +454,87 @@
 		}],
 	"skill_buff_data":	[],
 	"speak_data":	[],
-	"skill_hotkey_data":	[],
+	"skill_hotkey_data":	[{
+			"sw":	true,
+			"id":	1804080,
+			"name":	"°Îµ¶¡¤¹í¹Öá÷ÁÔ",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1804100,
+			"name":	"ÄÉµ¶¡¤ÎíÓê",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1804070,
+			"name":	"°Îµ¶¡¤ÀËÕ¶",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1804120,
+			"name":	"ÄÉµ¶¡¤±©ÓêÈç×¢",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1804060,
+			"name":	"°Îµ¶¡¤±©·çÕ¶",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1804110,
+			"name":	"ÄÉµ¶¡¤ºüÓê",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1804130,
+			"name":	"[ÎÞÏÞ]Ò»µ¶Á½¶Ï",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1804030,
+			"name":	"µ¤·ãÉ¨",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1804050,
+			"name":	"Âä»¨Õ¶",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1804000,
+			"name":	"Â¶Ë®´Ì»÷",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}],
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"×ªÉí&Ö´ÐÐ¶îÍâ",
@@ -408,265 +596,313 @@
 		}],
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
-			"npc":	1,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	1,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	1,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	2,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	3,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	4,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	20,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	2,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	2,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	6,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	7,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	8,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	9,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	5,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	3,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	3,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	11,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	12,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	13,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	14,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	40,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	4,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	4,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	16,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	17,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	18,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	19,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	20,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	5,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	21,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	22,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	23,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	24,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	35,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	6,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	6,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	26,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	27,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	28,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	29,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	7,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	7,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	31,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	32,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	33,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	34,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	8,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	8,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	36,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	37,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	38,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	39,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	9,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	9,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	41,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	42,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	43,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	44,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	5,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	10,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	46,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	47,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	48,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	49,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	11,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	11,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	51,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	52,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	53,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	54,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	12,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	13,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	14,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	40,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	16,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	17,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	18,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	19,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	21,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	22,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	23,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	24,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	35,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	26,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	27,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	28,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	29,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	31,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	32,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	33,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	34,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	36,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	37,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	38,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	39,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	41,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	42,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	43,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	44,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	46,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	47,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	48,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	49,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	51,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	52,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	53,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	54,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	56,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	57,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	58,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	59,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	12,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	56,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	57,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	58,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	59,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}],
 	"lua_script":	{
 	},
@@ -1188,6 +1424,7 @@
 		}],
 	"dress_text":	[],
 	"diy_skill":	{
+		"[»ÔÒ«½£Éñ]ÍêÃÀÄÉµ¶":	false,
 		"[Ó¢ÐÛ(µ¶)]Á¬ÕÐ":	false,
 		"[Ó¢ÐÛ(Ç¹)]Á¬ÕÐ":	false,
 		"[½£Ê¥]Ê®×ÖÖ®ÈÐÃØ¼¼":	false,
@@ -1221,6 +1458,26 @@
 			"id":	1804020,
 			"name":	"ÉÁ¹âÕ¶",
 			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	1804010,
+			"name":	"Á÷ÐÇÆÆ",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	1804000,
+			"name":	"Â¶Ë®´Ì»÷",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	1804140,
+			"name":	"Í»»÷",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	1804141,
+			"name":	"ºó¿Õ·­",
+			"reverse":	true
 		}],
 	"opacity":	100
 }
