@@ -1,4 +1,26 @@
 {
 	"diysuit_item":	[],
-	"diysuit_awaken":	[]
+	"diysuit_awaken":	[],
+	"item_use_sw":	true,
+	"item_use_sort":	true,
+	"item_builtin_sw":	false,
+	"item_use_data":	[{
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"10"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 大型葡萄药丸"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"自动吃普通红"
+		}]
 }

@@ -1,8 +1,8 @@
 {
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	5000918,
-			"name":	"[特殊]魔射手",
+			"id":	1109020,
+			"name":	"BP填充",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -14,21 +14,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802414,
-			"name":	"[无限]避击镭光射",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1100620,
-			"name":	"金光弹",
+			"id":	1105020,
+			"name":	"重机枪",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -53,8 +40,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1210020,
-			"name":	"毁天灭地",
+			"id":	1802414,
+			"name":	"[无限]避击镭光射",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -105,6 +92,32 @@
 			"num":	0
 		}, {
 			"sw":	true,
+			"id":	1100320,
+			"name":	"速射",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1210020,
+			"name":	"毁天灭地",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
 			"id":	1108020,
 			"name":	"核弹投掷",
 			"dmin":	0,
@@ -118,8 +131,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1100320,
-			"name":	"速射",
+			"id":	1100620,
+			"name":	"金光弹",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,

@@ -19,17 +19,7 @@
 		"script":	"领取家族工资",
 		"task":	0
 	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20893,
-		"script":	"进队长组",
-		"task":	0
-	}, {
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
@@ -39,7 +29,7 @@
 		"script":	"丽西泰亚之门",
 		"task":	0
 	}, {
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
@@ -49,7 +39,7 @@
 		"script":	"蘑菇树沼泽",
 		"task":	0
 	}, {
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
@@ -59,7 +49,7 @@
 		"script":	"诺尼尔之泪",
 		"task":	0
 	}, {
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
@@ -75,8 +65,28 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	13651,
+		"tag":	19966,
 		"script":	"未知森林",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	31193,
+		"script":	"阿特拉斯庭院",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	4896,
+		"script":	"埃吉尔遗迹",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -101,21 +111,11 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	23602,
-		"script":	"自动培养血脉战魂",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"存仓",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	27632,
+		"tag":	9162,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]

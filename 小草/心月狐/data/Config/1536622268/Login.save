@@ -19,43 +19,43 @@
 	}, {
 		"index":	427835125,
 		"name":	"﹎秋水伊人ゞ",
-		"autoscript":	"连体强力本不升战魂",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	427839328,
 		"name":	"晚来天欲雪o",
-		"autoscript":	"连体强力本不升战魂",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	427840937,
 		"name":	"小姐姐",
-		"autoscript":	"连体强力本不升战魂",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	427846625,
 		"name":	"云青青兮欲雨⺌",
-		"autoscript":	"连体强力本不升战魂",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	533294640,
 		"name":	"满船清梦压星河Q",
-		"autoscript":	"连体强力本不升战魂",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	533312625,
 		"name":	"能饮一杯无o",
-		"autoscript":	"连体强力本升战魂",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	608116562,
 		"name":	"醉后不知天在水o",
-		"autoscript":	"连体强力本不升战魂",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -97,31 +97,43 @@
 	}, {
 		"index":	439299703,
 		"name":	"→酷我音乐→",
-		"autoscript":	"连体强力本不升战魂",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	608130390,
 		"name":	"酷狗音乐ā",
-		"autoscript":	"连体强力本不升战魂",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	47287640,
 		"name":	"℃ベ裸装",
-		"autoscript":	"连体强力本不升战魂",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	47290218,
 		"name":	"终不似o",
-		"autoscript":	"连体强力本不升战魂",
+		"autoscript":	"连体强力本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	47297750,
 		"name":	"最是人间留不住o",
-		"autoscript":	"连体强力本不升战魂",
+		"autoscript":	"连体强力本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	96001953,
+		"name":	"水澹澹兮生烟⺌",
+		"autoscript":	"连体每日必打升战魂",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	96004078,
+		"name":	"少年游o",
+		"autoscript":	"连体每日必打升战魂",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -193,18 +205,6 @@
 	}, {
 		"index":	95997671,
 		"name":	"最是人间留不住o",
-		"autoscript":	"连体每日必打本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	96001953,
-		"name":	"水澹澹兮生烟⺌",
-		"autoscript":	"连体每日必打本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	96004078,
-		"name":	"少年游o",
 		"autoscript":	"连体每日必打本",
 		"item":	"存仓",
 		"item_other":	""
@@ -290,6 +290,90 @@
 		"index":	184980531,
 		"name":	"少年游o",
 		"autoscript":	"连体每日周本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	152927890,
+		"name":	"﹎秋水伊人ゞ",
+		"autoscript":	"连体每日周杂本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	152930750,
+		"name":	"晚来天欲雪o",
+		"autoscript":	"连体每日周杂本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	152934140,
+		"name":	"小姐姐",
+		"autoscript":	"连体每日周杂本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	152938937,
+		"name":	"云青青兮欲雨⺌",
+		"autoscript":	"连体每日周杂本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	152942000,
+		"name":	"满船清梦压星河Q",
+		"autoscript":	"连体每日周杂本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	152945187,
+		"name":	"能饮一杯无o",
+		"autoscript":	"连体每日周杂本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	153085671,
+		"name":	"醉后不知天在水o",
+		"autoscript":	"连体每日周杂本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	152951671,
+		"name":	"→酷我音乐→",
+		"autoscript":	"连体每日周杂本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	152953296,
+		"name":	"酷狗音乐ā",
+		"autoscript":	"连体每日周杂本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	152957421,
+		"name":	"℃ベ裸装",
+		"autoscript":	"连体每日周杂本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	152961343,
+		"name":	"终不似o",
+		"autoscript":	"连体每日周杂本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	152968781,
+		"name":	"最是人间留不住o",
+		"autoscript":	"连体每日周杂本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	152972187,
+		"name":	"水澹澹兮生烟⺌",
+		"autoscript":	"连体每日周杂本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	152976000,
+		"name":	"少年游o",
+		"autoscript":	"连体每日周杂本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {

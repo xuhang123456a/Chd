@@ -105,46 +105,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	20144,
-		"script":	"薇娅斯梦境",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	19955,
-		"script":	"失魂寺",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	11520,
-		"script":	"阿特拉斯庭院",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"强力召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	7568,
-		"script":	"群星宫殿",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
 		"tag":	15357,
 		"script":	"克洛诺斯的时间",
 		"task":	0
@@ -157,16 +117,6 @@
 		"diyawaken":	"5觉醒",
 		"tag":	4028,
 		"script":	"心脏的记忆",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"战斗",
-		"tag":	22227,
-		"script":	"卡伊洛斯的时间",
 		"task":	0
 	}, {
 		"setcount":	0,

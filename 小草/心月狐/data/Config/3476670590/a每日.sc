@@ -165,26 +165,6 @@
 		"diyproperty":	"",
 		"diyother":	"强力召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	9216,
-		"script":	"穆斯菲尔斯隧道",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"强力召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	17062,
-		"script":	"尼夫海姆站",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"强力召唤兽",
-		"diyawaken":	"5爆伤石",
 		"tag":	154,
 		"script":	"失魂寺",
 		"task":	0

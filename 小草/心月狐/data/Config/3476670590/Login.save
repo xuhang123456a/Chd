@@ -19,7 +19,7 @@
 	}, {
 		"index":	425681484,
 		"name":	"雪绒薄荷ご",
-		"autoscript":	"连体强力本升战魂",
+		"autoscript":	"连体强力本不升战魂",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -38,6 +38,12 @@
 		"index":	726218968,
 		"name":	"自然萌ご",
 		"autoscript":	"a每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	631169156,
+		"name":	"自然萌ご",
+		"autoscript":	"打黑工挖矿去喽",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -68,12 +74,6 @@
 		"index":	272148890,
 		"name":	"BaLl,",
 		"autoscript":	"连体每日必打本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	631169156,
-		"name":	"自然萌ご",
-		"autoscript":	"打黑工挖矿去喽",
 		"item":	"存仓",
 		"item_other":	""
 	}]

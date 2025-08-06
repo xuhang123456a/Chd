@@ -35,26 +35,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	20605,
-		"script":	"【月活动每日】每日任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	25301,
-		"script":	"【月活动签到】高级签到任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
 		"tag":	7732,
 		"script":	"兑换羁绊之石",
 		"task":	0
@@ -104,26 +84,6 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	20144,
-		"script":	"薇娅斯梦境",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	19955,
-		"script":	"失魂寺",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
 		"diyawaken":	"5觉醒",
 		"tag":	4028,
 		"script":	"心脏的记忆",
@@ -137,16 +97,6 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	15357,
 		"script":	"克洛诺斯的时间",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	12569,
-		"script":	"埃吉尔遗迹",
 		"task":	0
 	}, {
 		"setcount":	0,

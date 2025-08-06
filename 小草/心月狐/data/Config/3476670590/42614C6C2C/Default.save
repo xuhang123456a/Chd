@@ -5,9 +5,9 @@
 	"auto_end_lua":	false,
 	"auto_end_plan":	true,
 	"auto_load_change":	false,
-	"auto_load_task":	true,
+	"auto_load_task":	false,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_login_end":	false,
 	"auto_reward_open_sw":	true,
@@ -32,7 +32,7 @@
 	"automatic_guild":	true,
 	"automatic_guildmoney":	false,
 	"automatic_ml":	true,
-	"automatic_mluse":	true,
+	"automatic_mluse":	false,
 	"automatic_monter_book":	true,
 	"automatic_phb":	false,
 	"automatic_pupu":	false,
@@ -221,7 +221,7 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"航·次元守望者;",
-	"auto_load_wait_val":	10,
+	"auto_load_wait_val":	15,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	5,
 	"auto_set_boss_hp_val":	33,
@@ -259,7 +259,7 @@
 	"team_follow_x":	3000,
 	"team_follow_y":	300,
 	"trigger_timer_sleep":	720,
-	"auto_end_plan_val":	2,
+	"auto_end_plan_val":	10,
 	"auto_login_end_val":	0,
 	"auto_set_boss_hp_show":	1,
 	"auto_set_boss_hp_type":	0,
@@ -508,60 +508,6 @@
 				"[无]":	""
 			},
 			"item":	"巧克力饼"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"高级血脉水晶(绑定)"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"特级血脉水晶(绑定)"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"高级血脉水晶(可存仓)"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"中级血脉水晶(可存仓)"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"活动时空血脉水晶"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"低级血脉水晶(可存仓)"
 		}],
 	"protec_data":	[{
 			"sw":	true,
@@ -629,20 +575,6 @@
 	"protec_recover_data":	{
 	},
 	"item_buff_data":	[{
-			"sw":	false,
-			"type":	"操作",
-			"name":	"翅膀技[神·圣灵之拥]",
-			"maps":	[],
-			"induns":	["珊瑚之歌"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"翅膀技[魔·冥界之翼]",
-			"maps":	[],
-			"induns":	["珊瑚之歌"],
-			"hard":	false
-		}, {
 			"sw":	true,
 			"type":	"操作",
 			"name":	"课程:使用七彩玲珑",
@@ -675,6 +607,12 @@
 			"name":	"血脉战魂:休息",
 			"induns":	["埃吉尔遗迹"],
 			"hard":	true
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"经验值的秘药 500%(不可交易)",
+			"maps":	["贫民街拉什埃特2_109901"],
+			"hard":	false
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
@@ -979,39 +917,51 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"3127",
-			"y":	"1391",
-			"pos1":	"左跑",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"3726",
-			"y":	"1391",
-			"pos1":	"右跑",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"3447",
-			"y":	"1391",
+			"x":	"1124",
+			"y":	"1375",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"彩虹副本传送":	"空中战场"
+				"":	""
+			}
+		}, {
+			"type":	"模拟↑键",
+			"x":	"65",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"3691",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"模拟↑键",
+			"x":	"2786",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
 			}
 		}],
 	"script_trigger_data":	[],
@@ -5092,7 +5042,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"巨星·超越符文",
 			"type1":	true,
@@ -5272,7 +5222,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"宝石星·超越符文",
 			"type1":	true,
@@ -5284,7 +5234,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"元素之灵·超越符文",
 			"type1":	true,
@@ -5786,7 +5736,7 @@
 			"filter2":	false,
 			"filter3":	false,
 			"filter4":	false,
-			"filter5":	true
+			"filter5":	false
 		}, {
 			"sw":	true,
 			"vague":	false,
@@ -5798,7 +5748,7 @@
 			"filter2":	false,
 			"filter3":	false,
 			"filter4":	false,
-			"filter5":	true
+			"filter5":	false
 		}, {
 			"sw":	true,
 			"vague":	true,
@@ -5860,7 +5810,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"贯穿力 觉醒石+1",
 			"type1":	true,
@@ -5872,7 +5822,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"贯穿力 觉醒石+2",
 			"type1":	true,
@@ -5908,7 +5858,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"经验值 觉醒石+2",
 			"type1":	true,
@@ -5932,7 +5882,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"暴击伤害 觉醒石+1",
 			"type1":	true,
@@ -5944,7 +5894,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"暴击伤害 觉醒石+2",
 			"type1":	true,
@@ -6390,19 +6340,7 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"牺牲之双枪",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"星海 物理最大伤害彩色宝石",
+			"name":	"辉耀剑神·超越符文",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,

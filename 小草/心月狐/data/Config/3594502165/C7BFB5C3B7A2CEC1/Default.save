@@ -96,7 +96,7 @@
 	"main_mob_noattck_show":	false,
 	"main_mob_other_sw":	false,
 	"main_mob_trap_sw":	false,
-	"main_skill_distance_sw":	false,
+	"main_skill_distance_sw":	true,
 	"memory_debris_time":	true,
 	"mouse_rest":	false,
 	"mouse_time":	true,
@@ -146,7 +146,7 @@
 	"protect_sw":	true,
 	"revive_print":	false,
 	"revive_situ_buff":	false,
-	"revive_sw1":	false,
+	"revive_sw1":	true,
 	"revive_sw2":	false,
 	"run_log_file":	false,
 	"run_log_sw1":	true,
@@ -203,7 +203,7 @@
 	"auto_team_room_namelist":	"",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
-	"guild_tribute_items":	"中级冒险家情报卷轴;",
+	"guild_tribute_items":	"中级冒险家情报卷轴;大师活力水滴;外交印章：朱雀;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"",
@@ -275,7 +275,7 @@
 	"main_mob_trap_type":	0,
 	"path_hide_effect_type":	1,
 	"path_script_picture_val2":	0,
-	"revive_type":	0,
+	"revive_type":	2,
 	"skill_option_lr_val":	0,
 	"skill_option_platform_skill_v":	0,
 	"skill_option_sombra_val":	0,
@@ -298,8 +298,8 @@
 	"btn_color_8":	0,
 	"server":	111,
 	"item_filter_1":	[],
-	"item_filter_2":	[300111401, 300111801],
-	"item_filter_3":	[300111401, 300111801],
+	"item_filter_2":	[300111401, 300111801, 190160101, 190160201, 190160301, 190160401, 190160501],
+	"item_filter_3":	[300111401, 300111801, 190160501, 190160401, 190160301, 190160201, 190160101],
 	"item_filter_4":	[],
 	"item_use_data":	[{
 			"sw":	true,
@@ -310,6 +310,15 @@
 				"[无]":	""
 			},
 			"item":	"★ 大型葡萄药丸"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"自动吃普通红"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
@@ -318,7 +327,37 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"经验值的秘药 500%(不可交易)",
-			"maps":	["水族馆_7402"],
+			"maps":	[],
+			"induns":	["欧若拉庭院", "拉之城墙", "巧克力花园", "瀑布丛林", "阿尔福那酒店", "扭曲的世界树", "怪物树山山谷", "魔法学院主楼", "龙猫妹妹庭院"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"课程:使用七彩玲珑",
+			"induns":	["欧若拉庭院", "拉之城墙", "巧克力花园", "瀑布丛林", "阿尔福那酒店", "扭曲的世界树"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"小四的祝福(不可交易)",
+			"induns":	["欧若拉庭院", "拉之城墙", "巧克力花园", "瀑布丛林", "阿尔福那酒店"],
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"物品",
+			"name":	"百分考卷",
+			"induns":	["欧若拉庭院", "拉之城墙", "巧克力花园", "瀑布丛林", "阿尔福那酒店"],
+			"hard":	false
+		}, {
+			"sw":	false,
+			"type":	"物品",
+			"name":	"羁绊之羽",
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"萌新好运药水",
+			"induns":	["欧若拉庭院", "拉之城墙", "巧克力花园", "瀑布丛林", "阿尔福那酒店", "扭曲的世界树", "怪物树山山谷", "魔法学院主楼"],
 			"hard":	false
 		}],
 	"skill_attack_data":	[{
@@ -590,10 +629,7 @@
 	"line_monster_data":	[],
 	"item_filter_pick_data_1":	[],
 	"item_filter_pick_data_2":	[],
-	"item_filter_throw_data_1":	[{
-			"type":	"全部",
-			"name":	"神族后裔 "
-		}],
+	"item_filter_throw_data_1":	[],
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
 			"id":	1,

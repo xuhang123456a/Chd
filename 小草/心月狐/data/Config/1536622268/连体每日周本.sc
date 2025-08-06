@@ -31,16 +31,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	23892,
-		"script":	"自动转换星座点数",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -107,16 +97,6 @@
 		"diyawaken":	"",
 		"tag":	10134,
 		"script":	"自动强化暴击伤害觉醒石+3",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	6640,
-		"script":	"通天塔(定义)",
 		"task":	0
 	}, {
 		"setcount":	0,
