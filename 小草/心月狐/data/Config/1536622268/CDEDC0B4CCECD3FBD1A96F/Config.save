@@ -2144,7 +2144,6 @@
 			"filter4":	false,
 			"filter5":	false
 		}],
-	"dress_text":	[],
 	"diytrigger":	[{
 			"only_run":	false,
 			"run_sleep":	0,
@@ -4621,5 +4620,6 @@
 							"ÔÚ¸±±¾":	""
 						}]
 				}]
-		}]
+		}],
+	"dress_text":	[]
 }

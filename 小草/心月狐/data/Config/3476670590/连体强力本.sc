@@ -65,7 +65,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	13441,
+		"tag":	19966,
 		"script":	"未知森林",
 		"task":	0
 	}, {
@@ -87,6 +87,16 @@
 		"diyawaken":	"",
 		"tag":	19534,
 		"script":	"【存】材料",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	18941,
+		"script":	"自动培养血脉战魂",
 		"task":	0
 	}, {
 		"setcount":	0,

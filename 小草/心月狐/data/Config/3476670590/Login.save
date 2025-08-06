@@ -13,25 +13,25 @@
 	}, {
 		"index":	425678703,
 		"name":	"十八岁青春男高",
-		"autoscript":	"连体强力本不升战魂",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	425681484,
 		"name":	"雪绒薄荷ご",
-		"autoscript":	"连体强力本不升战魂",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	433726687,
 		"name":	"傻海我们走~",
-		"autoscript":	"连体强力本升战魂",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	435551671,
 		"name":	"BaLl,",
-		"autoscript":	"连体强力本升战魂",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -67,13 +67,13 @@
 	}, {
 		"index":	272146796,
 		"name":	"傻海我们走~",
-		"autoscript":	"连体每日必打本",
+		"autoscript":	"连体每日必打升战魂",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	272148890,
 		"name":	"BaLl,",
-		"autoscript":	"连体每日必打本",
+		"autoscript":	"连体每日必打升战魂",
 		"item":	"存仓",
 		"item_other":	""
 	}]
