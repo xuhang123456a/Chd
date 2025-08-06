@@ -98,16 +98,16 @@ files_name = [
     # '9d9b1392b8dbef0b.lua',
     # '44cbeb42cd4b1694.lua',
     # '44d490f43fe985aa.lua',
-    # '45c1f04cedd8f18e.lua',
+    '45c1f04cedd8f18e.lua',#晚餐
     # '846e21921f47d44a.lua',
     # 'a5a29df1c82c5b20.lua',
     # 'ee919f8838a9262c.lua',
     #补给脚本设置 end
 
-    '54cbda403ac1e8ef.lua',#庭院
-    '14bcb0915711d136.lua',#遗迹
-    'b132c14db09d8a05.lua',#黄昏
-    '432f304bd27ba112.lua',#星之歌
+    # '54cbda403ac1e8ef.lua',#庭院
+    # '14bcb0915711d136.lua',#遗迹
+    # 'b132c14db09d8a05.lua',#黄昏
+    # '432f304bd27ba112.lua',#星之歌
     
 
     # '4f686063e7f76556.lua',#神树
