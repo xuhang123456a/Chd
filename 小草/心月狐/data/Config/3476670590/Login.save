@@ -35,18 +35,6 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	726218968,
-		"name":	"自然萌ご",
-		"autoscript":	"a每日",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	631169156,
-		"name":	"自然萌ご",
-		"autoscript":	"打黑工挖矿去喽",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
 		"index":	272117703,
 		"name":	"自然萌ご",
 		"autoscript":	"连体每日必打本",
@@ -74,6 +62,18 @@
 		"index":	272148890,
 		"name":	"BaLl,",
 		"autoscript":	"连体每日必打升战魂",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	726218968,
+		"name":	"自然萌ご",
+		"autoscript":	"a每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	631169156,
+		"name":	"自然萌ご",
+		"autoscript":	"打黑工挖矿去喽",
 		"item":	"存仓",
 		"item_other":	""
 	}]

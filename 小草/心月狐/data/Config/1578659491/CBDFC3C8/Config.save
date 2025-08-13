@@ -772,7 +772,7 @@
 	"auto_load_team_val":	"",
 	"auto_load_wait":	false,
 	"auto_load_wait_val":	10,
-	"auto_load_task":	true,
+	"auto_load_task":	false,
 	"auto_load_change":	false,
 	"auto_end_item":	false,
 	"auto_end_item_val":	"",
@@ -797,8 +797,6 @@
 	"auto_set_boss_hp_team":	false,
 	"auto_set_fly":	false,
 	"auto_set_fly_val":	0,
-	"auto_set_deliver_time":	true,
-	"auto_set_deliver_time_val":	10,
 	"item_throw_sw1":	true,
 	"item_throw_sw2":	true,
 	"item_throw_time":	0,
@@ -1919,7 +1917,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"¹á´©Á¦ ¾õÐÑÊ¯+2",
 			"type1":	true,
@@ -1991,7 +1989,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"±©»÷ÉËº¦ ¾õÐÑÊ¯+2",
 			"type1":	true,

@@ -23,42 +23,6 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	427964875,
-		"name":	"来去荒芜",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	427969000,
-		"name":	"不要碰我肩膀",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	1015512546,
-		"name":	"逾白⺌",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	533377609,
-		"name":	"陌辰",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	427967281,
-		"name":	"我有药",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	533373000,
-		"name":	"惊觉⺌",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
 		"index":	268349031,
 		"name":	"你到底吻不吻我o",
 		"autoscript":	"连体跑火山",
@@ -151,7 +115,7 @@
 	}, {
 		"index":	96608906,
 		"name":	"逾白⺌",
-		"autoscript":	"连体每日必打升战魂",
+		"autoscript":	"连体每日必打本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -193,7 +157,7 @@
 	}, {
 		"index":	1015522171,
 		"name":	"荼茶",
-		"autoscript":	"连体每日必打升战魂",
+		"autoscript":	"连体每日必打本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {

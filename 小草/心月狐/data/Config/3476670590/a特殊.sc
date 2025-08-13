@@ -51,26 +51,6 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"强力召唤兽",
-		"diyawaken":	"",
-		"tag":	1320,
-		"script":	"无尽繁星大厅",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	21307,
-		"script":	"索拉城斗兽场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"存仓",
 		"diyproperty":	"",
 		"diyother":	"",

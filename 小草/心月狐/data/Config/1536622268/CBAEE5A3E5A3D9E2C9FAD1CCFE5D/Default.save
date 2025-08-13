@@ -16,7 +16,6 @@
 	"auto_set_boss_hp":	true,
 	"auto_set_boss_hp_team":	true,
 	"auto_set_boss_team":	true,
-	"auto_set_deliver_time":	true,
 	"auto_set_fly":	false,
 	"auto_set_revive":	true,
 	"auto_set_reviveall":	true,
@@ -117,7 +116,7 @@
 	"path_auto_script_showval_sw":	true,
 	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
-	"path_hide_effect_sw":	false,
+	"path_hide_effect_sw":	true,
 	"path_line_boss_sw":	false,
 	"path_line_boss_word_sw":	false,
 	"path_line_deliver_sw":	false,
@@ -221,12 +220,11 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	15,
+	"auto_load_wait_val":	10,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	10,
 	"auto_set_boss_hp_val":	100,
 	"auto_set_boss_team_val":	5,
-	"auto_set_deliver_time_val":	10,
 	"auto_set_fly_val":	5,
 	"auto_set_revive_val":	20,
 	"auto_set_reviveall_val":	50,
@@ -517,6 +515,132 @@
 				"[无]":	""
 			},
 			"item":	"低级经验药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶I"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶II"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶III"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶IV"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶V"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶VI"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶VII"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶VIII"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶IX"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶X"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"史诗级探险家经验药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"RP值<=":	"70"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"低级人品能量剂"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"高级HP潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"特级血脉水晶(绑定)"
 		}],
 	"protec_data":	[{
 			"sw":	true,
@@ -1120,490 +1244,560 @@
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	434,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	428,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	427,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	425,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	424,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	90085,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	418,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	417,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	90074,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	403,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	402,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	394,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	393,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	386,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	385,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	384,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	383,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	376,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	375,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8970,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8960,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	373,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	370,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	369,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8930,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8920,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	366,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	361,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	360,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	351,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	350,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	349,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	348,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	346,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	345,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8760,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	337,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	true
+			"item3":	true,
+			"item4":	false
 		}, {
 			"id":	338,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	87100,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	324,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	325,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	306,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	305,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	69900,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	69600,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	298,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	297,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	290,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	289,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	283,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	274,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	273,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	303,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	268,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	266,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	265,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	90077,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	90068,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	90065,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	5180,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	374,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8880,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8860,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8850,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8830,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	19868,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	19866,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	278,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	277,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}],
 	"auto_task":	[{
 			"id":	100001,
