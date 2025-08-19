@@ -37,7 +37,7 @@
 	}, {
 		"index":	272117703,
 		"name":	"自然萌ご",
-		"autoscript":	"连体每日必打本",
+		"autoscript":	"连体每日不存材料",
 		"item":	"存仓",
 		"item_other":	""
 	}, {

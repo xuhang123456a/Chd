@@ -3927,6 +3927,13 @@
 						"使用物品":	"荣誉徽章IV"
 					},
 					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"觉醒·黄金时间箱子"
+					},
+					"judges":	[]
 				}]
 		}, {
 			"only_run":	false,

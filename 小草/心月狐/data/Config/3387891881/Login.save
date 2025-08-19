@@ -23,6 +23,42 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	872274125,
+		"name":	"来去荒芜",
+		"autoscript":	"连体强力本打庭院",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	872276390,
+		"name":	"不要碰我肩膀",
+		"autoscript":	"连体强力本打庭院",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	872281843,
+		"name":	"逾白⺌",
+		"autoscript":	"连体强力本打庭院",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	872283859,
+		"name":	"陌辰",
+		"autoscript":	"连体强力本打庭院",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	872286765,
+		"name":	"我有药",
+		"autoscript":	"连体强力本打庭院",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	872289781,
+		"name":	"惊觉⺌",
+		"autoscript":	"连体强力本打庭院",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	268349031,
 		"name":	"你到底吻不吻我o",
 		"autoscript":	"连体跑火山",

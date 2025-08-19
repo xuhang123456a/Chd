@@ -47,6 +47,12 @@
 		"item":	"连体存取",
 		"item_other":	""
 	}, {
+		"index":	24013437,
+		"name":	"诉萌",
+		"autoscript":	"连体每日必打升战魂",
+		"item":	"连体存取",
+		"item_other":	""
+	}, {
 		"index":	1124826453,
 		"name":	"山有木兮卿有意",
 		"autoscript":	"a每日",
@@ -80,12 +86,6 @@
 		"index":	40632375,
 		"name":	"玫瑰花的梦",
 		"autoscript":	"连体每日必打本",
-		"item":	"连体存取",
-		"item_other":	""
-	}, {
-		"index":	24013437,
-		"name":	"诉萌",
-		"autoscript":	"连体每日必打升战魂",
 		"item":	"连体存取",
 		"item_other":	""
 	}, {

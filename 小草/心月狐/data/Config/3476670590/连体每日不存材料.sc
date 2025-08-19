@@ -5,74 +5,78 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	31897,
-		"script":	"【彩虹向导】每日任务",
-		"task":	0,
-		"scriptend":	19
+		"tag":	26821,
+		"script":	"兑换龙晶卷轴",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	24631,
+		"script":	"探险家神殿(史诗)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	47185920,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	2307,
+		"script":	"探险家神殿(英雄)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5觉醒",
+		"tag":	18468,
+		"script":	"艾乌加蒙剧场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5觉醒",
+		"tag":	42,
+		"script":	"深渊之镜",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24745,
-		"script":	"领取家族工资",
-		"task":	0,
-		"scriptend":	19
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	13355,
-		"script":	"丽西泰亚之门",
-		"task":	0,
-		"scriptend":	19
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	30652,
-		"script":	"蘑菇树沼泽",
-		"task":	0,
-		"scriptend":	19
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	9285,
-		"script":	"诺尼尔之泪",
-		"task":	0,
-		"scriptend":	19
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	12682,
-		"script":	"摩克沙",
-		"task":	0,
-		"scriptend":	19
+		"tag":	26963,
+		"script":	"哈姆克公爵府",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	26501,
+		"script":	"圣字教堂",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"关闭战魂",
 		"diyawaken":	"",
-		"tag":	16437,
-		"script":	"退出组队",
+		"tag":	31532,
+		"script":	"竞技场练习赛（全部任务）",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -81,10 +85,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19534,
-		"script":	"【存】材料",
-		"task":	0,
-		"scriptend":	19
+		"tag":	8824,
+		"script":	"藏宝洞",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -92,7 +95,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9162,
+		"tag":	15458,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]
