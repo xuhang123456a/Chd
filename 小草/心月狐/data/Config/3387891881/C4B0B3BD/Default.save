@@ -31,7 +31,7 @@
 	"automatic_guild":	true,
 	"automatic_guildmoney":	false,
 	"automatic_ml":	true,
-	"automatic_mluse":	true,
+	"automatic_mluse":	false,
 	"automatic_monter_book":	true,
 	"automatic_phb":	false,
 	"automatic_pupu":	false,
@@ -3220,7 +3220,7 @@
 				}, {
 					"sw":	true,
 					"judge":	{
-						"不在副本":	"珊瑚之歌;泡泡战舰;"
+						"不在副本":	"珊瑚之歌;泡泡战舰;魔发城堡;"
 					}
 				}],
 			"executes":	[{

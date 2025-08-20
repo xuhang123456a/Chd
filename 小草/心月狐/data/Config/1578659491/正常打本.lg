@@ -3,7 +3,7 @@
 		"name":	"山有木兮卿有意",
 		"autoscript":	"a特殊",
 		"item":	"连体存取",
-		"item_other":	""
+		"item_other":	"魔·冥界之翼;空灵披风·SPA队长;"
 	}, {
 		"index":	129514437,
 		"name":	"山有木兮卿有意",
@@ -49,7 +49,7 @@
 	}, {
 		"index":	24013437,
 		"name":	"诉萌",
-		"autoscript":	"连体每日必打升战魂",
+		"autoscript":	"连体每日必打本",
 		"item":	"连体存取",
 		"item_other":	""
 	}, {
@@ -57,7 +57,7 @@
 		"name":	"山有木兮卿有意",
 		"autoscript":	"a每日",
 		"item":	"连体存取",
-		"item_other":	"摩羯座的黄金守护+8;魔·冥界之翼;空灵披风·SPA队长;"
+		"item_other":	"魔·冥界之翼;空灵披风·SPA队长;"
 	}, {
 		"index":	566998203,
 		"name":	"糯米Nomi",

@@ -731,7 +731,7 @@
 	"automatic_pupu":	false,
 	"automatic_pupu_val":	0,
 	"automatic_ml":	true,
-	"automatic_mluse":	true,
+	"automatic_mluse":	false,
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
 	"automatic_phb":	false,

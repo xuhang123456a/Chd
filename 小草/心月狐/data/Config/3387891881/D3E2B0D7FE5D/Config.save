@@ -613,7 +613,7 @@
 	"automatic_pupu":	false,
 	"automatic_pupu_val":	0,
 	"automatic_ml":	true,
-	"automatic_mluse":	true,
+	"automatic_mluse":	false,
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
 	"automatic_phb":	false,
@@ -2834,7 +2834,7 @@
 				}, {
 					"sw":	true,
 					"judge":	{
-						"不在副本":	"珊瑚之歌;泡泡战舰;"
+						"不在副本":	"珊瑚之歌;泡泡战舰;魔发城堡;"
 					}
 				}],
 			"executes":	[{
