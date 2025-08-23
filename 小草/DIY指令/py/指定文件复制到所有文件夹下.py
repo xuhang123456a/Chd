@@ -98,11 +98,12 @@ files_name = [
     # '9d9b1392b8dbef0b.lua',
     # '44cbeb42cd4b1694.lua',
     # '44d490f43fe985aa.lua',
-    '45c1f04cedd8f18e.lua',#晚餐
+    # '45c1f04cedd8f18e.lua',#晚餐
     # '846e21921f47d44a.lua',
     # 'a5a29df1c82c5b20.lua',
     # 'ee919f8838a9262c.lua',
     #补给脚本设置 end
+    '16b5344873e44db0.lua',#兑换龙晶卷轴
 
     # '54cbda403ac1e8ef.lua',#庭院
     # '14bcb0915711d136.lua',#遗迹
@@ -121,7 +122,7 @@ files_name = [
 filter_name = [
 
 ]
-source_dir = 'E:\\Game\\Chd\\小草\\心月狐\\data\\Config\\1536622268\\CDEDC0B4CCECD3FBD1A96F\\'
+source_dir = 'E:\\Game\\Chd\\小草\\心月狐\\data\\Config\\3476670590\\CAAEB0CBCBEAC7E0B4BAC4D0B8DF\\'
 target_folder = r'E:\Game\Chd\小草\心月狐\data\Config\3476670590'
 for file_name in files_name:
     source_file = os.path.join(source_dir, file_name)

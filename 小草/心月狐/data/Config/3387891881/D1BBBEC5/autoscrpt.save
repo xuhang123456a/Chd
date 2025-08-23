@@ -5,65 +5,89 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	31897,
-		"script":	"【彩虹向导】每日任务",
-		"task":	0,
-		"scriptend":	19
+		"tag":	22114,
+		"script":	"进队长组",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24745,
-		"script":	"领取家族工资",
-		"task":	0,
-		"scriptend":	19
+		"diyawaken":	"5爆伤石",
+		"tag":	15424,
+		"script":	"薇娅斯梦境",
+		"task":	0
 	}, {
-		"setcount":	1,
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	10383,
+		"script":	"失魂寺",
+		"task":	0
+	}, {
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	13355,
+		"tag":	32092,
 		"script":	"丽西泰亚之门",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
-		"setcount":	1,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	30652,
+		"tag":	31011,
 		"script":	"蘑菇树沼泽",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
-		"setcount":	1,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	9285,
+		"tag":	16053,
 		"script":	"诺尼尔之泪",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	19966,
-		"script":	"未知森林",
-		"task":	0,
-		"scriptend":	19
+		"tag":	14612,
+		"script":	"摩克沙",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	11073,
+		"script":	"阿特拉斯庭院",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	22551,
+		"script":	"埃吉尔遗迹",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -71,21 +95,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16437,
-		"script":	"退出组队",
-		"task":	0,
-		"scriptend":	19
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	19534,
+		"tag":	22281,
 		"script":	"【存】材料",
-		"task":	0,
-		"scriptend":	19
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -93,7 +105,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9162,
+		"tag":	21361,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]

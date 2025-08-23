@@ -3,7 +3,7 @@
 		"loadtime":	0,
 		"diyitem":	"ÆÆ·À£¨ÊØ»¤£©",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"ÕÙ»½ÊŞ",
 		"diyawaken":	"",
 		"tag":	14925,
 		"script":	"ÆÕÀÛÂŞÂé",

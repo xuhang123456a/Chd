@@ -724,7 +724,7 @@
 	"auto_load_team":	true,
 	"auto_load_team_val":	"",
 	"auto_load_wait":	false,
-	"auto_load_wait_val":	10,
+	"auto_load_wait_val":	5,
 	"auto_load_task":	true,
 	"auto_load_change":	false,
 	"auto_end_item":	false,
@@ -916,7 +916,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"魔射手·超越符文",
 			"type1":	true,
@@ -928,7 +928,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"英雄·超越符文",
 			"type1":	true,
@@ -964,7 +964,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"武道宗师·超越符文",
 			"type1":	true,
@@ -1012,7 +1012,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"逐暗者·超越符文",
 			"type1":	true,
@@ -1024,7 +1024,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"梦魇恶魔·超越符文",
 			"type1":	true,
@@ -1084,7 +1084,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"远古机甲师·超越符文",
 			"type1":	true,
@@ -1120,7 +1120,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"风行刺客·超越符文",
 			"type1":	true,
@@ -1144,7 +1144,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"阿格尼·超越符文",
 			"type1":	true,
@@ -1156,7 +1156,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"黑影·超越符文",
 			"type1":	true,
@@ -3712,6 +3712,13 @@
 						"状态物品":	"史诗级探险家经验药水"
 					},
 					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"神奇的养分包囊"
+					},
+					"judges":	[]
 				}]
 		}, {
 			"only_run":	false,
@@ -3785,7 +3792,7 @@
 							"在副本":	"时空之泉;埃吉尔遗迹;诺尼尔之泪;摩克沙;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;丽西泰亚之门;蘑菇树沼泽;普累罗麻;残缺边界;"
 						}]
 				}, {
-					"sw":	true,
+					"sw":	false,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"紫葡萄味全糖蜜果"
@@ -3836,10 +3843,10 @@
 						"状态物品":	"蓝草莓味全糖蜜果"
 					},
 					"judges":	[{
-							"在地图":	"残缺边界6_110006;"
+							"在地图":	"残缺边界6_110006;普累罗麻10_110110;"
 						}]
 				}, {
-					"sw":	true,
+					"sw":	false,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"蓝草莓味全糖蜜果"
