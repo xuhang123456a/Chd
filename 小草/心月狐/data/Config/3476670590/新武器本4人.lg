@@ -23,6 +23,18 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	342137000,
+		"name":	"蓝莓ご",
+		"autoscript":	"连体新武器本4人",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	342146296,
+		"name":	"自然萌ご",
+		"autoscript":	"连体新武器本4人",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	631169156,
 		"name":	"自然萌ご",
 		"autoscript":	"a多角色切换正常打本",

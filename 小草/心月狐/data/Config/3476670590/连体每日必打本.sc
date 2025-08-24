@@ -5,8 +5,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	26821,
-		"script":	"兑换龙晶卷轴",
+		"tag":	16368,
+		"script":	"【彩虹向导】每日任务",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -15,12 +15,12 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	24631,
+		"tag":	1805,
 		"script":	"探险家神殿(史诗)",
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	47185920,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -31,52 +31,12 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5觉醒",
-		"tag":	18468,
-		"script":	"艾乌加蒙剧场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5觉醒",
-		"tag":	42,
-		"script":	"深渊之镜",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	26963,
-		"script":	"哈姆克公爵府",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	26501,
-		"script":	"圣字教堂",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"关闭战魂",
+		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	31532,
-		"script":	"竞技场练习赛（全部任务）",
+		"tag":	6306,
+		"script":	"自动强化经验值觉醒石+3",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -85,8 +45,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	8824,
-		"script":	"藏宝洞",
+		"tag":	8298,
+		"script":	"自动强化贯穿力觉醒石+3",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -95,7 +55,17 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	12256,
+		"tag":	10134,
+		"script":	"自动强化暴击伤害觉醒石+3",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22281,
 		"script":	"【存】材料",
 		"task":	0
 	}, {
@@ -105,7 +75,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15458,
+		"tag":	21361,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]

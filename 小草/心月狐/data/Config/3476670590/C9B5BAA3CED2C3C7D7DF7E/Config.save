@@ -828,7 +828,7 @@
 	"auto_load_team":	true,
 	"auto_load_team_val":	"",
 	"auto_load_wait":	false,
-	"auto_load_wait_val":	10,
+	"auto_load_wait_val":	5,
 	"auto_load_task":	false,
 	"auto_load_change":	false,
 	"auto_end_item":	false,

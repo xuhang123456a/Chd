@@ -5,16 +5,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	2612,
-		"script":	"神圣教堂(困难)",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
 		"tag":	28052,
 		"script":	"太阳神地下祭坛(超越)",
 		"task":	0

@@ -167,6 +167,36 @@
 		"item":	"存仓",
 		"item_other":	"神·圣灵之拥;魔·冥界之翼;LA-smile-笑脸(男)T恤;LA逐梦系列-夏の阳光(男)帽子;LA逐梦系列-夏の阳光(男)下衣;空灵披风·SPA队长;法老王的闪耀耳环;法老王的巨型宝石戒指;"
 	}, {
+		"index":	183464125,
+		"name":	"乙骨犹太",
+		"autoscript":	"连体每日周本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	183467859,
+		"name":	"心缩",
+		"autoscript":	"连体每日周本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	183470296,
+		"name":	"鸦九",
+		"autoscript":	"连体每日周本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	183473218,
+		"name":	"烟雨情相思",
+		"autoscript":	"连体每日周本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	183478140,
+		"name":	"荼茶",
+		"autoscript":	"连体每日周本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	183486453,
 		"name":	"你到底吻不吻我o",
 		"autoscript":	"连体每日周本",
@@ -206,108 +236,6 @@
 		"index":	183460593,
 		"name":	"惊觉⺌",
 		"autoscript":	"连体每日周本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	183464125,
-		"name":	"乙骨犹太",
-		"autoscript":	"连体每日周本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	183467859,
-		"name":	"心缩",
-		"autoscript":	"连体每日周本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	183470296,
-		"name":	"鸦九",
-		"autoscript":	"连体每日周本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	183473218,
-		"name":	"烟雨情相思",
-		"autoscript":	"连体每日周本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	183478140,
-		"name":	"荼茶",
-		"autoscript":	"连体每日周本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	153933812,
-		"name":	"你到底吻不吻我o",
-		"autoscript":	"连体每日周杂本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	153936734,
-		"name":	"来去荒芜",
-		"autoscript":	"连体每日周杂本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	153938984,
-		"name":	"不要碰我肩膀",
-		"autoscript":	"连体每日周杂本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	153944750,
-		"name":	"逾白⺌",
-		"autoscript":	"连体每日周杂本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	153946937,
-		"name":	"陌辰",
-		"autoscript":	"连体每日周杂本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	153951000,
-		"name":	"我有药",
-		"autoscript":	"连体每日周杂本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	153953546,
-		"name":	"惊觉⺌",
-		"autoscript":	"连体每日周杂本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	153960406,
-		"name":	"乙骨犹太",
-		"autoscript":	"连体每日周杂本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	153966296,
-		"name":	"心缩",
-		"autoscript":	"连体每日周杂本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	153969796,
-		"name":	"鸦九",
-		"autoscript":	"连体每日周杂本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	153972484,
-		"name":	"烟雨情相思",
-		"autoscript":	"连体每日周杂本",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	153975515,
-		"name":	"荼茶",
-		"autoscript":	"连体每日周杂本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {

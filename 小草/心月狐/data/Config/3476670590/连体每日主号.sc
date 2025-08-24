@@ -5,7 +5,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11218,
+		"tag":	16368,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0
 	}, {
@@ -15,12 +15,42 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	3997,
+		"tag":	839,
+		"script":	"混乱世界",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	30660,
+		"script":	"无尽繁星大厅",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23892,
+		"script":	"自动转换星座点数",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	1805,
 		"script":	"探险家神殿(史诗)",
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	-2100297728,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -30,13 +60,13 @@
 		"task":	0
 	}, {
 		"setcount":	0,
-		"loadtime":	-2100297728,
-		"diyitem":	"攻击套装",
+		"loadtime":	0,
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	31674,
-		"script":	"探险家神殿(高级)",
+		"tag":	6306,
+		"script":	"自动强化经验值觉醒石+3",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -45,8 +75,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3761,
-		"script":	"竞技场练习赛（低保任务）",
+		"tag":	8298,
+		"script":	"自动强化贯穿力觉醒石+3",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -55,8 +85,18 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29632,
-		"script":	"自动培养血脉战魂",
+		"tag":	10134,
+		"script":	"自动强化暴击伤害觉醒石+3",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22281,
+		"script":	"【存】材料",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -65,7 +105,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15458,
+		"tag":	21361,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]
