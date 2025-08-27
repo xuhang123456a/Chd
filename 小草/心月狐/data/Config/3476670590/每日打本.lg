@@ -5,15 +5,9 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	338812015,
-		"name":	"蓝莓ご",
-		"autoscript":	"连体每日主号",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
 		"index":	272117703,
 		"name":	"自然萌ご",
-		"autoscript":	"连体每日不存材料",
+		"autoscript":	"连体每日主号",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -37,6 +31,12 @@
 	}, {
 		"index":	272148890,
 		"name":	"BaLl,",
+		"autoscript":	"连体每日必打升战魂",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	338812015,
+		"name":	"蓝莓ご",
 		"autoscript":	"连体每日必打升战魂",
 		"item":	"存仓",
 		"item_other":	""
@@ -79,7 +79,7 @@
 	}, {
 		"index":	341134328,
 		"name":	"自然萌ご",
-		"autoscript":	"连体每日周本",
+		"autoscript":	"连体每日周本不存材料",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -110,6 +110,12 @@
 		"index":	341166171,
 		"name":	"蓝莓ご",
 		"autoscript":	"连体每日周本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	388918765,
+		"name":	"自然萌ご",
+		"autoscript":	"连体每日周杂本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {

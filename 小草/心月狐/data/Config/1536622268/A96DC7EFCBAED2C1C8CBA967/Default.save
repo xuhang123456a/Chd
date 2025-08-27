@@ -116,7 +116,7 @@
 	"path_auto_script_showval_sw":	true,
 	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
-	"path_hide_effect_sw":	false,
+	"path_hide_effect_sw":	true,
 	"path_line_boss_sw":	false,
 	"path_line_boss_word_sw":	false,
 	"path_line_deliver_sw":	true,
@@ -1259,7 +1259,7 @@
 			"type":	"装备",
 			"name":	"神族后裔"
 		}, {
-			"type":	"装备",
+			"type":	"任务",
 			"name":	"幻影"
 		}, {
 			"type":	"其他",
@@ -2966,7 +2966,7 @@
 				"更改自动脚本":	"带老板群星"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -2975,7 +2975,7 @@
 				"使用物品":	"艾丽娅斯传送石"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -2984,7 +2984,7 @@
 				"挂机控制":	"0"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:06"
 			},
@@ -2993,7 +2993,7 @@
 				"退出到角色":	""
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},
@@ -3002,7 +3002,7 @@
 				"更改自动脚本":	"连体经验魔发打一把"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},
@@ -3011,7 +3011,7 @@
 				"挂机控制":	"1"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"23:59"
 			},
@@ -3020,7 +3020,7 @@
 				"使用物品":	"遗忘之城传送石"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"23:59"
 			},
@@ -5017,6 +5017,34 @@
 					"sleep":	"1",
 					"execute":	{
 						"使用物品":	"神奇的养分包囊"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"扩充其它栏"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"扩充消耗品栏(不可交易）"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"扩充装备栏(不可交易）"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"扩充任务栏(不可交易）"
 					},
 					"judges":	[]
 				}]

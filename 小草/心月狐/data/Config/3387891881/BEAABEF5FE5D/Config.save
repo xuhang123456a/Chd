@@ -4008,5 +4008,94 @@
 						}]
 				}]
 		}],
-	"dress_text":	[]
+	"dress_text":	[],
+	"item_filter_throw_data_1":	[{
+			"type":	"任务",
+			"name":	"西格卷轴"
+		}, {
+			"type":	"其他",
+			"name":	"神族后裔"
+		}, {
+			"type":	"装备",
+			"name":	"珊瑚森林"
+		}, {
+			"type":	"任务",
+			"name":	"西格首饰"
+		}, {
+			"type":	"装备",
+			"name":	"布拉斯的"
+		}, {
+			"type":	"装备",
+			"name":	"艾里安"
+		}, {
+			"type":	"其他",
+			"name":	"艾里安的"
+		}, {
+			"type":	"任务",
+			"name":	"混沌羽翼"
+		}, {
+			"type":	"装备",
+			"name":	"暗影龙"
+		}, {
+			"type":	"装备",
+			"name":	"神族后裔"
+		}, {
+			"type":	"装备",
+			"name":	"幻影"
+		}, {
+			"type":	"装备",
+			"name":	"空虚"
+		}, {
+			"type":	"任务",
+			"name":	"赤沙之魂"
+		}, {
+			"type":	"任务",
+			"name":	"制作碎沙"
+		}, {
+			"type":	"装备",
+			"name":	"封魔."
+		}, {
+			"type":	"装备",
+			"name":	"平凡的红色"
+		}, {
+			"type":	"装备",
+			"name":	"平凡的黄色"
+		}, {
+			"type":	"装备",
+			"name":	"平凡的蓝色"
+		}, {
+			"type":	"装备",
+			"name":	"平凡的彩色"
+		}, {
+			"type":	"装备",
+			"name":	"天空的"
+		}, {
+			"type":	"装备",
+			"name":	"幻想 暗黑"
+		}, {
+			"type":	"装备",
+			"name":	"幸运 暗黑"
+		}, {
+			"type":	"装备",
+			"name":	"守卫者 暗黑"
+		}, {
+			"type":	"装备",
+			"name":	"终结者 暗黑"
+		}, {
+			"type":	"装备",
+			"name":	"生存 暗黑"
+		}, {
+			"type":	"其他",
+			"name":	"军团纹章"
+		}],
+	"item_filter_throw_data_2":	[],
+	"auto_team_dream_room_leader":	true,
+	"auto_team_room_leader":	true,
+	"auto_team_world_room_leader":	false,
+	"auto_team_dream_room_name":	"﹎秋水伊人ゞ",
+	"auto_team_dream_room_namelist":	"",
+	"auto_team_room_name":	"7751",
+	"auto_team_room_namelist":	"9892783;自然萌ご\r10181788;﹎秋水伊人ゞ\r11089496;山有木兮卿有意\r",
+	"auto_team_world_room_name":	"",
+	"auto_team_world_room_password":	""
 }

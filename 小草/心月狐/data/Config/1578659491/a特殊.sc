@@ -55,8 +55,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	13120,
-		"script":	"执行自动切换角色",
+		"tag":	780,
+		"script":	"开启自动刷超能",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -65,87 +65,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	20417,
-		"script":	"太阳宫殿(超越)",
-		"task":	100018
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20469,
-		"script":	"遗忘花园",
-		"task":	100040
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20518,
-		"script":	"欧若拉奇妙物语(1)",
-		"task":	100077
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20571,
-		"script":	"斗争者的资格",
-		"task":	100093
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20623,
-		"script":	"惩罚干扰修炼之人(1)",
-		"task":	100096
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20672,
-		"script":	"净化污染精灵的住所(3)",
-		"task":	100102
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20724,
-		"script":	"燥热键盘",
-		"task":	100133
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20773,
-		"script":	"超能者纪念馆",
-		"task":	100138
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20825,
-		"script":	"拥有特殊记忆的动物(2)",
-		"task":	100150
+		"tag":	8533,
+		"script":	"执行自动切换角色",
+		"task":	0
 	}]

@@ -3,26 +3,6 @@
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	3516,
-		"script":	"探险家神殿(史诗)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	13870,
-		"script":	"探险家神殿(英雄)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"",
 		"tag":	2615,
@@ -37,36 +17,6 @@
 		"diyawaken":	"",
 		"tag":	13196,
 		"script":	"失魂寺",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"",
-		"tag":	23361,
-		"script":	"时空之泉",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"",
-		"tag":	24792,
-		"script":	"穿梭之都",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	30904,
-		"script":	"竞技场练习赛（低保任务）",
 		"task":	0
 	}, {
 		"setcount":	0,

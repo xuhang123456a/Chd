@@ -33,6 +33,26 @@
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
+		"diyother":	"ÕÙ»½ÊŞ",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	13248,
+		"script":	"Ê¥×Ö½ÌÌÃ",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"µôÂäÌ××°",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	21322,
+		"script":	"Ë÷À­³Ç¶·ÊŞ³¡",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
 		"tag":	6306,

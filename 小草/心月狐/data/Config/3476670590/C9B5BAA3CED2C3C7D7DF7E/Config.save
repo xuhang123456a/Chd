@@ -828,7 +828,7 @@
 	"auto_load_team":	true,
 	"auto_load_team_val":	"",
 	"auto_load_wait":	false,
-	"auto_load_wait_val":	5,
+	"auto_load_wait_val":	10,
 	"auto_load_task":	false,
 	"auto_load_change":	false,
 	"auto_end_item":	false,
@@ -854,9 +854,18 @@
 	"auto_set_boss_hp_team":	false,
 	"auto_set_fly":	false,
 	"auto_set_fly_val":	5,
+	"auto_team_dream_room_leader":	false,
+	"auto_team_room_leader":	false,
+	"auto_team_world_room_leader":	false,
+	"auto_team_dream_room_name":	"乙骨犹太",
+	"auto_team_dream_room_namelist":	"",
+	"auto_team_room_name":	"7751",
+	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r19206593;于适\r6367215;苍★龙\r9857891;致今生\r9915450;微风♀\r4775863;呆小ˇ宝\r11108979;晚来天欲雪o\r10237665;??????????小姐姐\r11109355;能饮一杯无o\r19674171;云青青兮欲雨?]\r10335259;猫又*\r10070705;年轮说\r11080851;AntiMagic\r11083254;你到底吻不吻我o\r9927906;GD欢\r19206593;狂暴小怪兽?]\r10304843;酷狗音乐ā\r11078750;他不会等你了\r9892783;????自然萌ご??9915450;微风♀\r11078294;花市灯如昼っ\r10021786;?鸗heShy??19173099;????星光漫漫????10773699;温茶清风丶\r19687266;晓芳\r11079108;航·次元守望者\r19681648;小野夕子\r10595177;栀子生椰\r10029863;??????白开水??11087458;_____满满\r11089496;山有木兮??卿有意\r9704292;草木皆兵\r10098693;ｖ天上白玉京＂\r19697254;什方",
+	"auto_team_world_room_name":	"",
+	"auto_team_world_room_password":	"",
 	"item_throw_sw1":	true,
 	"item_throw_sw2":	true,
-	"item_throw_time":	2,
+	"item_throw_time":	0,
 	"item_throw_sell":	false,
 	"item_throw_1_sw":	true,
 	"item_throw_1_begin":	1,
@@ -876,6 +885,77 @@
 	"item_throw_pass_4":	false,
 	"item_throw_pass_5":	false,
 	"item_throw_lock_1":	true,
+	"item_filter_throw_data_1":	[{
+			"type":	"装备",
+			"name":	"魔蚀"
+		}, {
+			"type":	"任务",
+			"name":	"西格卷轴"
+		}, {
+			"type":	"装备",
+			"name":	"黄昏之"
+		}, {
+			"type":	"任务",
+			"name":	"赤沙之魂"
+		}, {
+			"type":	"任务",
+			"name":	"制作碎沙"
+		}, {
+			"type":	"任务",
+			"name":	"沙魂碎沫"
+		}, {
+			"type":	"装备",
+			"name":	"神族后裔 "
+		}, {
+			"type":	"装备",
+			"name":	"布拉斯的"
+		}, {
+			"type":	"任务",
+			"name":	"天空的 "
+		}, {
+			"type":	"全部",
+			"name":	"暗影龙 "
+		}, {
+			"type":	"任务",
+			"name":	"混沌羽翼"
+		}, {
+			"type":	"其他",
+			"name":	"军团纹章"
+		}, {
+			"type":	"任务",
+			"name":	"影子残页"
+		}, {
+			"type":	"其他",
+			"name":	"艾里安的"
+		}, {
+			"type":	"装备",
+			"name":	"生存 "
+		}, {
+			"type":	"装备",
+			"name":	"幻想 "
+		}, {
+			"type":	"装备",
+			"name":	"守卫者 "
+		}, {
+			"type":	"装备",
+			"name":	"终结者 "
+		}, {
+			"type":	"装备",
+			"name":	"暗黑灵魂 "
+		}, {
+			"type":	"装备",
+			"name":	"艾里安之"
+		}, {
+			"type":	"装备",
+			"name":	"暗黑灵魂拳套"
+		}, {
+			"type":	"装备",
+			"name":	"泰西欧斯的"
+		}, {
+			"type":	"装备",
+			"name":	"珊瑚森林"
+		}],
+	"item_filter_throw_data_2":	[],
 	"item_filter_pick_data_1":	[],
 	"item_filter_pick_data_2":	[{
 			"type":	"装备",

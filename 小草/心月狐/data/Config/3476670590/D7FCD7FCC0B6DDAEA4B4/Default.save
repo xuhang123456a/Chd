@@ -63,9 +63,9 @@
 	"item_pick_filter_9":	true,
 	"item_pick_sw":	true,
 	"item_throw_1_sw":	true,
-	"item_throw_2":	false,
+	"item_throw_2":	true,
 	"item_throw_2_sw":	true,
-	"item_throw_3":	false,
+	"item_throw_3":	true,
 	"item_throw_3_sw":	true,
 	"item_throw_4_sw":	true,
 	"item_throw_lock_1":	true,
@@ -196,13 +196,13 @@
 	"auto_end_lua_val":	"停止挂机操作.lua",
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
-	"auto_team_dream_room_name":	"",
+	"auto_team_dream_room_name":	"乙骨犹太",
 	"auto_team_dream_room_namelist":	"",
-	"auto_team_room_name":	"",
-	"auto_team_room_namelist":	"",
+	"auto_team_room_name":	"7751",
+	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r19206593;于适\r6367215;苍★龙\r9857891;致今生\r9915450;微风♀\r4775863;呆小ˇ宝\r11108979;晚来天欲雪o\r10237665;??????????小姐姐\r11109355;能饮一杯无o\r19674171;云青青兮欲雨?]\r10335259;猫又*\r10070705;年轮说\r11080851;AntiMagic\r11083254;你到底吻不吻我o\r9927906;GD欢\r19206593;狂暴小怪兽?]\r10304843;酷狗音乐ā\r11078750;他不会等你了\r9892783;????自然萌ご??9915450;微风♀\r11078294;花市灯如昼っ\r10021786;?鸗heShy??19173099;????星光漫漫????10773699;温茶清风丶\r19687266;晓芳\r11079108;航·次元守望者\r19681648;小野夕子\r10595177;栀子生椰\r10029863;??????白开水??11087458;_____满满\r11089496;山有木兮??卿有意\r9704292;草木皆兵\r10098693;ｖ天上白玉京＂\r19697254;什方",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
-	"guild_tribute_items":	"智之石碎片;智之石;中级冒险家情报卷轴;高级冒险家情报卷轴;达人冒险家情报卷轴;闪闪发光的宝箱;",
+	"guild_tribute_items":	"智之石碎片;智之石;中级冒险家情报卷轴;高级冒险家情报卷轴;达人冒险家情报卷轴;闪闪发光的宝箱;初级活力水滴;中级活力水滴;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"",
@@ -220,7 +220,7 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	5,
+	"auto_load_wait_val":	10,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	5,
 	"auto_set_boss_hp_val":	33,
@@ -243,7 +243,7 @@
 	"item_throw_3_end":	168,
 	"item_throw_4_begin":	1,
 	"item_throw_4_end":	168,
-	"item_throw_time":	2,
+	"item_throw_time":	0,
 	"main_mob_bottom":	90,
 	"main_mob_location_l":	32,
 	"main_mob_location_r":	99999,
@@ -296,8 +296,8 @@
 	"btn_color_8":	0,
 	"server":	111,
 	"item_filter_1":	[],
-	"item_filter_2":	[71000002, 190160101, 190160201, 190160301, 190160401, 190160501, 20100010, 20100011, 20100009, 20100008, 202301005, 71000004, 20200115, 170195348, 18090022],
-	"item_filter_3":	[71000002, 190160501, 190160401, 190160301, 190160201, 190160101, 20100008, 20100009, 20100011, 20100010, 202301005, 71000004, 20200115, 170195348, 18090022],
+	"item_filter_2":	[71000002, 190160101, 190160201, 190160301, 190160401, 190160501, 20100010, 20100011, 20100009, 20100008, 202301005, 71000004, 20200115, 170195348, 18090022, 13000176],
+	"item_filter_3":	[71000002, 190160501, 190160401, 190160301, 190160201, 190160101, 20100008, 20100009, 20100011, 20100010, 202301005, 71000004, 20200115, 170195348, 18090022, 13000176],
 	"item_filter_4":	[],
 	"item_use_data":	[{
 			"sw":	true,
@@ -874,10 +874,10 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"1124",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"x":	"3127",
+			"y":	"1391",
+			"pos1":	"左跑",
+			"pos2":	"右跑",
 			"judge":	{
 				"":	""
 			},
@@ -885,10 +885,10 @@
 				"":	""
 			}
 		}, {
-			"type":	"模拟↑键",
-			"x":	"65",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
+			"type":	"转身&执行额外",
+			"x":	"3726",
+			"y":	"1391",
+			"pos1":	"右跑",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
@@ -898,27 +898,15 @@
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3691",
-			"y":	"1375",
+			"x":	"3447",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"2786",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
+				"彩虹副本传送":	"空中战场"
 			}
 		}],
 	"script_trigger_data":	[],
@@ -935,7 +923,76 @@
 			"type":	"装备",
 			"name":	"平凡的"
 		}],
-	"item_filter_throw_data_1":	[],
+	"item_filter_throw_data_1":	[{
+			"type":	"装备",
+			"name":	"魔蚀"
+		}, {
+			"type":	"任务",
+			"name":	"西格卷轴"
+		}, {
+			"type":	"装备",
+			"name":	"黄昏之"
+		}, {
+			"type":	"任务",
+			"name":	"赤沙之魂"
+		}, {
+			"type":	"任务",
+			"name":	"制作碎沙"
+		}, {
+			"type":	"任务",
+			"name":	"沙魂碎沫"
+		}, {
+			"type":	"装备",
+			"name":	"神族后裔 "
+		}, {
+			"type":	"装备",
+			"name":	"布拉斯的"
+		}, {
+			"type":	"任务",
+			"name":	"天空的 "
+		}, {
+			"type":	"全部",
+			"name":	"暗影龙 "
+		}, {
+			"type":	"任务",
+			"name":	"混沌羽翼"
+		}, {
+			"type":	"其他",
+			"name":	"军团纹章"
+		}, {
+			"type":	"任务",
+			"name":	"影子残页"
+		}, {
+			"type":	"其他",
+			"name":	"艾里安的"
+		}, {
+			"type":	"装备",
+			"name":	"生存 "
+		}, {
+			"type":	"装备",
+			"name":	"幻想 "
+		}, {
+			"type":	"装备",
+			"name":	"守卫者 "
+		}, {
+			"type":	"装备",
+			"name":	"终结者 "
+		}, {
+			"type":	"装备",
+			"name":	"暗黑灵魂 "
+		}, {
+			"type":	"装备",
+			"name":	"艾里安之"
+		}, {
+			"type":	"装备",
+			"name":	"暗黑灵魂拳套"
+		}, {
+			"type":	"装备",
+			"name":	"泰西欧斯的"
+		}, {
+			"type":	"装备",
+			"name":	"珊瑚森林"
+		}],
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
 			"id":	1,

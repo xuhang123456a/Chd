@@ -4247,6 +4247,34 @@
 						"使用物品":	"神奇的养分包囊"
 					},
 					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"扩充其它栏"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"扩充消耗品栏(不可交易）"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"扩充装备栏(不可交易）"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"扩充任务栏(不可交易）"
+					},
+					"judges":	[]
 				}]
 		}, {
 			"only_run":	false,
@@ -4734,5 +4762,76 @@
 						}]
 				}]
 		}],
-	"dress_text":	[]
+	"dress_text":	[],
+	"auto_team_dream_room_leader":	true,
+	"auto_team_room_leader":	false,
+	"auto_team_world_room_leader":	false,
+	"auto_team_dream_room_name":	"你到底吻不吻我o",
+	"auto_team_dream_room_namelist":	"4775863;呆小ˇ宝\r10367444;剑行天下cuyk\r19206593;于适\r11056762;不要碰我肩膀\r",
+	"auto_team_room_name":	"7751",
+	"auto_team_room_namelist":	"9939464;洞庭湖2015\r10583706;1打打\r3936125;洞庭湖-蓉\r9220371;变形金刚吕布赤兔\r16017392;在度归来?]\r18982752;__________坏??い\r19233774;云梦泽ヾ\r11056762;不要碰我肩膀\r11080238;还我漂漂拳丶\r",
+	"auto_team_world_room_name":	"",
+	"auto_team_world_room_password":	"",
+	"item_filter_throw_data_1":	[{
+			"type":	"装备",
+			"name":	"平凡的红色"
+		}, {
+			"type":	"装备",
+			"name":	"平凡的黄色"
+		}, {
+			"type":	"装备",
+			"name":	"平凡的蓝色"
+		}, {
+			"type":	"装备",
+			"name":	"平凡的彩色"
+		}, {
+			"type":	"装备",
+			"name":	"傀儡的阴谋"
+		}, {
+			"type":	"装备",
+			"name":	"天空的"
+		}, {
+			"type":	"装备",
+			"name":	"封魔."
+		}, {
+			"type":	"装备",
+			"name":	"英勇的守护"
+		}, {
+			"type":	"装备",
+			"name":	"布拉斯的"
+		}, {
+			"type":	"装备",
+			"name":	"艾里安之"
+		}, {
+			"type":	"装备",
+			"name":	"暗影龙"
+		}, {
+			"type":	"装备",
+			"name":	"神族后裔"
+		}, {
+			"type":	"任务",
+			"name":	"幻影"
+		}, {
+			"type":	"其他",
+			"name":	"神族后裔"
+		}, {
+			"type":	"其他",
+			"name":	"军团纹章"
+		}, {
+			"type":	"任务",
+			"name":	"西格卷轴"
+		}, {
+			"type":	"任务",
+			"name":	"西格首饰"
+		}, {
+			"type":	"任务",
+			"name":	"赤沙之魂"
+		}, {
+			"type":	"任务",
+			"name":	"制作碎沙"
+		}, {
+			"type":	"其他",
+			"name":	"艾里安的"
+		}],
+	"item_filter_throw_data_2":	[]
 }
