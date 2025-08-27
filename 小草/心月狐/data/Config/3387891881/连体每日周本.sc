@@ -1,32 +1,12 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22114,
-		"script":	"进队长组",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	15424,
-		"script":	"薇娅斯梦境",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	10383,
-		"script":	"失魂寺",
+		"tag":	16053,
+		"script":	"诺尼尔之泪",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -55,18 +35,18 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	16053,
-		"script":	"诺尼尔之泪",
+		"tag":	14612,
+		"script":	"摩克沙",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
+		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	14612,
-		"script":	"摩克沙",
+		"tag":	12351,
+		"script":	"未知森林",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -95,8 +75,28 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	17833,
-		"script":	"未知森林",
+		"tag":	15424,
+		"script":	"薇娅斯梦境",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	10383,
+		"script":	"失魂寺",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	11329,
+		"script":	"退出组队",
 		"task":	0
 	}, {
 		"setcount":	0,

@@ -1,22 +1,12 @@
 [{
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31897,
-		"script":	"【彩虹向导】每日任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24745,
-		"script":	"领取家族工资",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	9285,
+		"script":	"诺尼尔之泪",
 		"task":	0
 	}, {
 		"setcount":	1,
@@ -37,16 +27,6 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	30652,
 		"script":	"蘑菇树沼泽",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	9285,
-		"script":	"诺尼尔之泪",
 		"task":	0
 	}, {
 		"setcount":	1,
@@ -87,6 +67,26 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	4896,
 		"script":	"埃吉尔遗迹",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	3278,
+		"script":	"薇娅斯梦境",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	14962,
+		"script":	"失魂寺",
 		"task":	0
 	}, {
 		"setcount":	0,

@@ -1,37 +1,169 @@
 [{
-		"index":	66141140,
-		"name":	"自然萌ご",
-		"autoscript":	"连体跑火山",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	132626593,
-		"name":	"十八岁青春男高",
-		"autoscript":	"连体跑火山",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	132631828,
-		"name":	"雪绒薄荷ご",
-		"autoscript":	"连体跑火山",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
 		"index":	726217328,
 		"name":	"自然萌ご",
+		"autoscript":	"连体经验魔发打一把",
+		"item":	"存仓",
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;神·圣灵之拥+2;魔·冥界之翼+2;"
+	}, {
+		"index":	1468812,
+		"name":	"雪绒薄荷ご",
+		"autoscript":	"连体经验魔发打一把",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1465687,
+		"name":	"十八岁青春男高",
+		"autoscript":	"连体经验魔发打一把",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	272117703,
+		"name":	"自然萌ご",
+		"autoscript":	"连体每日主号",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	272123843,
+		"name":	"十八岁青春男高",
+		"autoscript":	"连体每日必打本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	272140468,
+		"name":	"雪绒薄荷ご",
+		"autoscript":	"连体每日必打本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	272146796,
+		"name":	"傻海我们走~",
+		"autoscript":	"连体每日必打本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	272148890,
+		"name":	"BaLl,",
+		"autoscript":	"连体每日必打升战魂",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	338812015,
+		"name":	"蓝莓ご",
+		"autoscript":	"连体每日必打升战魂",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1400103953,
+		"name":	"自然萌ご",
+		"autoscript":	"连体强力本不存材料",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	425678703,
+		"name":	"十八岁青春男高",
+		"autoscript":	"连体强力本打庭院",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	425681484,
+		"name":	"雪绒薄荷ご",
+		"autoscript":	"连体强力本打庭院",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	433726687,
+		"name":	"傻海我们走~",
+		"autoscript":	"连体强力本打庭院",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	435551671,
+		"name":	"BaLl,",
+		"autoscript":	"连体强力本打庭院",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1480093,
+		"name":	"自然萌ご",
+		"autoscript":	"连体跑火山",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1481875,
+		"name":	"十八岁青春男高",
+		"autoscript":	"连体跑火山",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1478421,
+		"name":	"雪绒薄荷ご",
+		"autoscript":	"连体跑火山",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1483781,
+		"name":	"自然萌ご",
 		"autoscript":	"连体经验珊瑚打一把",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	65377078,
+		"index":	1485421,
 		"name":	"十八岁青春男高",
 		"autoscript":	"连体经验珊瑚打一把",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	65380484,
+		"index":	1487359,
 		"name":	"雪绒薄荷ご",
 		"autoscript":	"连体经验珊瑚打一把",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	341134328,
+		"name":	"自然萌ご",
+		"autoscript":	"连体每日周本不存材料",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	341153828,
+		"name":	"十八岁青春男高",
+		"autoscript":	"连体每日周本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	341156250,
+		"name":	"雪绒薄荷ご",
+		"autoscript":	"连体每日周本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	341160734,
+		"name":	"傻海我们走~",
+		"autoscript":	"连体每日周本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	341163593,
+		"name":	"BaLl,",
+		"autoscript":	"连体每日周本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	341166171,
+		"name":	"蓝莓ご",
+		"autoscript":	"连体每日周本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	388918765,
+		"name":	"自然萌ご",
+		"autoscript":	"连体每日周杂本",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	631169156,
+		"name":	"自然萌ご",
+		"autoscript":	"打黑工挖矿去喽",
 		"item":	"存仓",
 		"item_other":	""
 	}]

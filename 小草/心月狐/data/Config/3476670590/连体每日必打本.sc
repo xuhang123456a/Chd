@@ -11,6 +11,16 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	24218,
+		"script":	"领取家族工资",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -35,18 +45,8 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	13248,
+		"tag":	13823,
 		"script":	"圣字教堂",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"掉落套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	21322,
-		"script":	"索拉城斗兽场",
 		"task":	0
 	}, {
 		"setcount":	0,

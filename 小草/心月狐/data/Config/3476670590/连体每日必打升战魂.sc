@@ -11,6 +11,16 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	24218,
+		"script":	"领取家族工资",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -27,6 +37,16 @@
 		"diyawaken":	"",
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	13823,
+		"script":	"圣字教堂",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -65,8 +85,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	30721,
-		"script":	"自动培养血脉战魂",
+		"tag":	22281,
+		"script":	"【存】材料",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -75,8 +95,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	22281,
-		"script":	"【存】材料",
+		"tag":	20171,
+		"script":	"自动培养血脉战魂",
 		"task":	0
 	}, {
 		"setcount":	0,

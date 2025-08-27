@@ -1,7 +1,19 @@
 [{
 		"index":	726217328,
 		"name":	"自然萌ご",
-		"autoscript":	"a特殊",
+		"autoscript":	"连体经验魔发打一把",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1468812,
+		"name":	"雪绒薄荷ご",
+		"autoscript":	"连体经验魔发打一把",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1465687,
+		"name":	"十八岁青春男高",
+		"autoscript":	"连体经验魔发打一把",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -71,9 +83,39 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	726218968,
+		"index":	1480093,
 		"name":	"自然萌ご",
-		"autoscript":	"a每日",
+		"autoscript":	"连体跑火山",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1481875,
+		"name":	"十八岁青春男高",
+		"autoscript":	"连体跑火山",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1478421,
+		"name":	"雪绒薄荷ご",
+		"autoscript":	"连体跑火山",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1483781,
+		"name":	"自然萌ご",
+		"autoscript":	"连体经验珊瑚打一把",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1485421,
+		"name":	"十八岁青春男高",
+		"autoscript":	"连体经验珊瑚打一把",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	1487359,
+		"name":	"雪绒薄荷ご",
+		"autoscript":	"连体经验珊瑚打一把",
 		"item":	"存仓",
 		"item_other":	""
 	}, {

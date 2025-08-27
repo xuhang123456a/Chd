@@ -1,12 +1,42 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	16368,
-		"script":	"【彩虹向导】每日任务",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	16053,
+		"script":	"诺尼尔之泪",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	32092,
+		"script":	"丽西泰亚之门",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	31011,
+		"script":	"蘑菇树沼泽",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	14612,
+		"script":	"摩克沙",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -15,38 +45,28 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	839,
-		"script":	"混乱世界",
+		"tag":	12351,
+		"script":	"未知森林",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	30660,
-		"script":	"无尽繁星大厅",
+		"tag":	11073,
+		"script":	"阿特拉斯庭院",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	1805,
-		"script":	"探险家神殿(史诗)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	2307,
-		"script":	"探险家神殿(英雄)",
+		"tag":	22551,
+		"script":	"埃吉尔遗迹",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -71,52 +91,12 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"强力召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	21997,
-		"script":	"时空之泉",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"强力召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	3924,
-		"script":	"穿梭之都",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6306,
-		"script":	"自动强化经验值觉醒石+3",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	8298,
-		"script":	"自动强化贯穿力觉醒石+3",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	10134,
-		"script":	"自动强化暴击伤害觉醒石+3",
+		"tag":	11329,
+		"script":	"退出组队",
 		"task":	0
 	}, {
 		"setcount":	0,
