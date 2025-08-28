@@ -1,3 +1,0 @@
-[ 8-27 16:19:26]:Module:E:\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=5C48BEC,edx=0,edi=0,esi=0
-[ 8-27 16:19:27]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
-[ 8-27 16:19:27]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath

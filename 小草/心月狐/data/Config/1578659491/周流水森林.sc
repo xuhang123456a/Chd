@@ -8,4 +8,14 @@
 		"tag":	18468,
 		"script":	"Î´ÖªÉ­ÁÖ",
 		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	18000,
+		"script":	"¡¾´æ¡¿²ÄÁÏ",
+		"task":	0
 	}]

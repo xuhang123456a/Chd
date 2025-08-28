@@ -7,7 +7,19 @@
 		"diyawaken":	"",
 		"tag":	16368,
 		"script":	"【彩虹向导】每日任务",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	24218,
+		"script":	"领取家族工资",
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -17,7 +29,8 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	1805,
 		"script":	"探险家神殿(史诗)",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -27,7 +40,8 @@
 		"diyawaken":	"",
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -67,7 +81,8 @@
 		"diyawaken":	"",
 		"tag":	22281,
 		"script":	"【存】材料",
-		"task":	0
+		"task":	0,
+		"scriptend":	28
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

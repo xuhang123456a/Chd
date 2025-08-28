@@ -84,11 +84,11 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	false,
+	"main_mob_herbs":	true,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	false,
+	"main_mob_mineral":	true,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
@@ -5474,9 +5474,7 @@
 		"[辉耀剑神]完美纳刀":	false,
 		"[英雄(刀)]连招":	false,
 		"[英雄(枪)]连招":	false,
-		"[剑圣]十字之刃秘技":	false,
-		"[剑圣]剑圣双修乘天刷灵魂":	false,
-		"[剑圣]灵魂之刃秘技":	false,
+		"[剑圣]十字灵魂秘技":	false,
 		"[剑圣]忘却(十字之刃)":	false,
 		"[剑圣]忘却(灵魂之刃)":	false,
 		"[剑圣]智能秘技":	false,
@@ -5678,7 +5676,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"通灵领主·超越符文",
 			"type1":	true,
@@ -5738,7 +5736,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"宝石星·超越符文",
 			"type1":	true,
@@ -5762,7 +5760,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"演奏大师·超越符文",
 			"type1":	true,
@@ -6350,7 +6348,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"经验值 觉醒石",
 			"type1":	true,
@@ -6362,7 +6360,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"经验值 觉醒石+1",
 			"type1":	true,
@@ -6374,7 +6372,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"经验值 觉醒石+2",
 			"type1":	true,

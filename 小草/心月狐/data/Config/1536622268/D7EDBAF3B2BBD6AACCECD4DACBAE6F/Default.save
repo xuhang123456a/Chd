@@ -1034,6 +1034,9 @@
 		}, {
 			"type":	"其他",
 			"name":	"艾里安的"
+		}, {
+			"type":	"装备",
+			"name":	"珊瑚森林"
 		}],
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{

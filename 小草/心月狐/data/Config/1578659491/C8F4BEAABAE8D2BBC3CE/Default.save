@@ -5780,9 +5780,7 @@
 		"[辉耀剑神]完美纳刀":	false,
 		"[英雄(刀)]连招":	false,
 		"[英雄(枪)]连招":	false,
-		"[剑圣]十字之刃秘技":	false,
-		"[剑圣]剑圣双修乘天刷灵魂":	false,
-		"[剑圣]灵魂之刃秘技":	false,
+		"[剑圣]十字灵魂秘技":	false,
 		"[剑圣]忘却(十字之刃)":	false,
 		"[剑圣]忘却(灵魂之刃)":	false,
 		"[剑圣]智能秘技":	false,
@@ -5984,7 +5982,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"通灵领主·超越符文",
 			"type1":	true,
@@ -6044,7 +6042,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"宝石星·超越符文",
 			"type1":	true,
@@ -6068,7 +6066,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"演奏大师·超越符文",
 			"type1":	true,
@@ -6656,7 +6654,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"经验值 觉醒石",
 			"type1":	true,
@@ -6668,7 +6666,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"经验值 觉醒石+1",
 			"type1":	true,
@@ -6680,7 +6678,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"经验值 觉醒石+2",
 			"type1":	true,
