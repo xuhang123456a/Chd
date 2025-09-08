@@ -3,37 +3,55 @@
 		"name":	"自然萌ご",
 		"autoscript":	"连体经验魔发打一把",
 		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	1468812,
-		"name":	"雪绒薄荷ご",
-		"autoscript":	"连体经验魔发打一把",
-		"item":	"存仓",
-		"item_other":	""
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
 	}, {
 		"index":	1465687,
 		"name":	"十八岁青春男高",
 		"autoscript":	"连体经验魔发打一把",
 		"item":	"存仓",
-		"item_other":	""
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
+	}, {
+		"index":	1468812,
+		"name":	"雪绒薄荷ご",
+		"autoscript":	"连体经验魔发打一把",
+		"item":	"存仓",
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
+	}, {
+		"index":	1480093,
+		"name":	"自然萌ご",
+		"autoscript":	"连体跑火山",
+		"item":	"存仓",
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
+	}, {
+		"index":	1481875,
+		"name":	"十八岁青春男高",
+		"autoscript":	"连体跑火山",
+		"item":	"存仓",
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
+	}, {
+		"index":	1478421,
+		"name":	"雪绒薄荷ご",
+		"autoscript":	"连体跑火山",
+		"item":	"存仓",
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
 	}, {
 		"index":	272117703,
 		"name":	"自然萌ご",
 		"autoscript":	"连体每日主号",
 		"item":	"存仓",
-		"item_other":	""
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
 	}, {
 		"index":	272123843,
 		"name":	"十八岁青春男高",
 		"autoscript":	"连体每日必打本",
 		"item":	"存仓",
-		"item_other":	""
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
 	}, {
 		"index":	272140468,
 		"name":	"雪绒薄荷ご",
 		"autoscript":	"连体每日必打本",
 		"item":	"存仓",
-		"item_other":	""
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
 	}, {
 		"index":	272146796,
 		"name":	"傻海我们走~",
@@ -43,7 +61,7 @@
 	}, {
 		"index":	272148890,
 		"name":	"BaLl,",
-		"autoscript":	"连体每日必打升战魂",
+		"autoscript":	"连体每日必打本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -53,23 +71,29 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	378599328,
+		"name":	"boll",
+		"autoscript":	"连体每日必打升战魂",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	1400103953,
 		"name":	"自然萌ご",
 		"autoscript":	"连体强力本不存材料",
 		"item":	"存仓",
-		"item_other":	""
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
 	}, {
 		"index":	425678703,
 		"name":	"十八岁青春男高",
 		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
-		"item_other":	""
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
 	}, {
 		"index":	425681484,
 		"name":	"雪绒薄荷ご",
 		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
-		"item_other":	""
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
 	}, {
 		"index":	433726687,
 		"name":	"傻海我们走~",
@@ -83,21 +107,15 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	1480093,
-		"name":	"自然萌ご",
-		"autoscript":	"连体跑火山",
+		"index":	378719734,
+		"name":	"蓝莓ご",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	1481875,
-		"name":	"十八岁青春男高",
-		"autoscript":	"连体跑火山",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	1478421,
-		"name":	"雪绒薄荷ご",
-		"autoscript":	"连体跑火山",
+		"index":	378660218,
+		"name":	"boll",
+		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
@@ -105,58 +123,100 @@
 		"name":	"自然萌ご",
 		"autoscript":	"连体经验珊瑚打一把",
 		"item":	"存仓",
-		"item_other":	""
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
 	}, {
 		"index":	1485421,
 		"name":	"十八岁青春男高",
 		"autoscript":	"连体经验珊瑚打一把",
 		"item":	"存仓",
-		"item_other":	""
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
 	}, {
 		"index":	1487359,
 		"name":	"雪绒薄荷ご",
 		"autoscript":	"连体经验珊瑚打一把",
 		"item":	"存仓",
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
+	}, {
+		"index":	379266218,
+		"name":	"自然萌ご",
+		"autoscript":	"连体普通每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	379272093,
+		"name":	"十八岁青春男高",
+		"autoscript":	"连体普通每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	379275640,
+		"name":	"雪绒薄荷ご",
+		"autoscript":	"连体普通每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	379281703,
+		"name":	"傻海我们走~",
+		"autoscript":	"连体普通每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	379285281,
+		"name":	"BaLl,",
+		"autoscript":	"连体普通每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	379293125,
+		"name":	"蓝莓ご",
+		"autoscript":	"连体普通每日",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
+		"index":	379287578,
+		"name":	"boll",
+		"autoscript":	"连体普通每日",
+		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	341134328,
 		"name":	"自然萌ご",
-		"autoscript":	"连体每日周本不存材料",
+		"autoscript":	"连体每日周杂本不存材料",
 		"item":	"存仓",
-		"item_other":	""
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
 	}, {
 		"index":	341153828,
 		"name":	"十八岁青春男高",
-		"autoscript":	"连体每日周本",
+		"autoscript":	"连体每日周杂本",
 		"item":	"存仓",
-		"item_other":	""
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
 	}, {
 		"index":	341156250,
 		"name":	"雪绒薄荷ご",
-		"autoscript":	"连体每日周本",
+		"autoscript":	"连体每日周杂本",
 		"item":	"存仓",
-		"item_other":	""
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
 	}, {
 		"index":	341160734,
 		"name":	"傻海我们走~",
-		"autoscript":	"连体每日周本",
+		"autoscript":	"连体每日周杂本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	341163593,
 		"name":	"BaLl,",
-		"autoscript":	"连体每日周本",
+		"autoscript":	"连体每日周杂本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	341166171,
 		"name":	"蓝莓ご",
-		"autoscript":	"连体每日周本",
+		"autoscript":	"连体每日周杂本",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	388918765,
-		"name":	"自然萌ご",
+		"index":	378626093,
+		"name":	"boll",
 		"autoscript":	"连体每日周杂本",
 		"item":	"存仓",
 		"item_other":	""
@@ -165,5 +225,5 @@
 		"name":	"自然萌ご",
 		"autoscript":	"打黑工挖矿去喽",
 		"item":	"存仓",
-		"item_other":	""
+		"item_other":	"法老王的闪耀耳环;愤怒的阿拉斯托 戒指;精粹继承者徽章+1;魔·冥界之翼+2;神·圣灵之拥+2;"
 	}]

@@ -5,9 +5,9 @@
 	"auto_end_lua":	false,
 	"auto_end_plan":	false,
 	"auto_load_change":	false,
-	"auto_load_task":	true,
-	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_task":	false,
+	"auto_load_team":	false,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_login_end":	false,
 	"auto_reward_open_sw":	true,
@@ -15,8 +15,7 @@
 	"auto_set_boss_deliver":	false,
 	"auto_set_boss_hp":	false,
 	"auto_set_boss_hp_team":	false,
-	"auto_set_boss_team":	true,
-	"auto_set_deliver_time":	false,
+	"auto_set_boss_team":	false,
 	"auto_set_fly":	false,
 	"auto_set_revive":	false,
 	"auto_set_reviveall":	false,
@@ -30,54 +29,54 @@
 	"automatic_dktime":	true,
 	"automatic_explorer":	true,
 	"automatic_guild":	false,
-	"automatic_guildmoney":	true,
+	"automatic_guildmoney":	false,
 	"automatic_ml":	true,
-	"automatic_mluse":	false,
-	"automatic_monter_book":	false,
+	"automatic_mluse":	true,
+	"automatic_monter_book":	true,
 	"automatic_phb":	false,
 	"automatic_pupu":	false,
 	"automatic_schedule":	true,
 	"automatic_skill_update_entrepot":	true,
 	"automatic_skill_update_sw":	true,
 	"automatic_subjoin_cwzx":	true,
-	"automatic_taskRemote":	false,
+	"automatic_taskRemote":	true,
 	"guild_diplomacy_only":	false,
 	"guild_tribute_sw":	true,
 	"item_buff_check":	false,
 	"item_buff_indun":	false,
-	"item_buff_sw":	true,
+	"item_buff_sw":	false,
 	"item_builtin_sw":	false,
 	"item_disassemble_item_sw":	false,
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
-	"item_pick_filter_12":	false,
-	"item_pick_filter_13":	false,
+	"item_pick_filter_12":	true,
+	"item_pick_filter_13":	true,
 	"item_pick_filter_14":	false,
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
-	"item_pick_filter_5":	true,
+	"item_pick_filter_5":	false,
 	"item_pick_filter_6":	true,
 	"item_pick_filter_7":	true,
 	"item_pick_filter_8":	false,
 	"item_pick_filter_9":	true,
 	"item_pick_sw":	true,
-	"item_throw_1_sw":	false,
+	"item_throw_1_sw":	true,
 	"item_throw_2":	false,
-	"item_throw_2_sw":	false,
+	"item_throw_2_sw":	true,
 	"item_throw_3":	false,
-	"item_throw_3_sw":	false,
-	"item_throw_4_sw":	false,
-	"item_throw_lock_1":	false,
+	"item_throw_3_sw":	true,
+	"item_throw_4_sw":	true,
+	"item_throw_lock_1":	true,
 	"item_throw_pass_1":	false,
 	"item_throw_pass_2":	false,
 	"item_throw_pass_3":	false,
 	"item_throw_pass_4":	false,
 	"item_throw_pass_5":	false,
 	"item_throw_sell":	false,
-	"item_throw_sw1":	false,
-	"item_throw_sw2":	false,
+	"item_throw_sw1":	true,
+	"item_throw_sw2":	true,
 	"item_use_sort":	true,
 	"item_use_sw":	true,
 	"main_mob_attack_sw":	false,
@@ -185,9 +184,9 @@
 	"skill_option_storage3":	false,
 	"skill_shake_sw":	true,
 	"skill_silent_sw":	true,
-	"summon_automatic_zhs":	true,
-	"team_accept_cmd_sw":	false,
-	"team_accept_sw":	false,
+	"summon_automatic_zhs":	false,
+	"team_accept_cmd_sw":	true,
+	"team_accept_sw":	true,
 	"team_follow_sw":	false,
 	"team_monitor_sw":	false,
 	"team_monitor_throw_sw":	false,
@@ -196,7 +195,7 @@
 	"auto_end_item_val":	"",
 	"auto_end_lua_val":	"",
 	"auto_load_team_val":	"",
-	"auto_set_diyitem":	"攻击套装",
+	"auto_set_diyitem":	"",
 	"auto_team_dream_room_name":	"",
 	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"",
@@ -218,15 +217,14 @@
 	"main_mob_trap_name":	"",
 	"path_down_hotkey":	"Down",
 	"store_items":	"",
-	"team_accept_cmd":	"",
+	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	5,
+	"auto_load_wait_val":	3,
 	"auto_set_boss_deliver_val":	3,
-	"auto_set_boss_hp_sleep":	2,
-	"auto_set_boss_hp_val":	99,
-	"auto_set_boss_team_val":	2,
-	"auto_set_deliver_time_val":	15,
+	"auto_set_boss_hp_sleep":	30,
+	"auto_set_boss_hp_val":	10,
+	"auto_set_boss_team_val":	300,
 	"auto_set_fly_val":	5,
 	"auto_set_revive_val":	10,
 	"auto_set_reviveall_val":	50,
@@ -235,7 +233,7 @@
 	"auto_task_book_time2":	30,
 	"auto_team_room_playercount":	4,
 	"guild_diplomacy_min":	300,
-	"item_disassemble_item_time":	0,
+	"item_disassemble_item_time":	1,
 	"item_pick_time":	0,
 	"item_throw_1_begin":	1,
 	"item_throw_1_end":	168,
@@ -245,7 +243,7 @@
 	"item_throw_3_end":	168,
 	"item_throw_4_begin":	1,
 	"item_throw_4_end":	168,
-	"item_throw_time":	0,
+	"item_throw_time":	2,
 	"main_mob_bottom":	200,
 	"main_mob_location_l":	32,
 	"main_mob_location_r":	99999,
@@ -264,12 +262,12 @@
 	"auto_set_boss_hp_show":	0,
 	"auto_set_boss_hp_type":	0,
 	"automatic_pupu_val":	0,
-	"automatic_zhs_time1":	3,
-	"automatic_zhs_time2":	3,
-	"automatic_zhs_time3":	3,
-	"automatic_zhs_time4":	3,
-	"automatic_zhs_time5":	3,
-	"automatic_zhs_time6":	3,
+	"automatic_zhs_time1":	0,
+	"automatic_zhs_time2":	0,
+	"automatic_zhs_time3":	0,
+	"automatic_zhs_time4":	0,
+	"automatic_zhs_time5":	0,
+	"automatic_zhs_time6":	0,
 	"automatic_zhs_time7":	0,
 	"config_system_type":	0,
 	"main_mob_trap_type":	0,
@@ -298,8 +296,8 @@
 	"btn_color_8":	16384000,
 	"server":	111,
 	"item_filter_1":	[],
-	"item_filter_2":	[],
-	"item_filter_3":	[],
+	"item_filter_2":	[300111401, 300111801, 190160101, 190160201, 190160301, 190160401, 190160501, 430437027],
+	"item_filter_3":	[300111401, 300111801, 190160501, 190160401, 190160301, 190160201, 190160101, 430437027],
 	"item_filter_4":	[],
 	"item_use_data":	[{
 			"sw":	true,
@@ -310,120 +308,45 @@
 				"[无]":	""
 			},
 			"item":	"★ 大型葡萄药丸"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"自动吃普通红"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
 	},
 	"item_buff_data":	[{
-			"sw":	false,
-			"type":	"物品",
-			"name":	"希望的减伤药水",
-			"maps":	[],
-			"induns":	["精灵树桩", "生命之恩泰莱凯", "奈落·冰封雪域", "奈落·破坏之城", "奈落·冰淇淋庭院", "奈落·珊瑚之歌", "奈落·蛇龙之巢", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "未知森林", "卡伊洛斯的时间", "克洛诺斯的时间", "炼狱阿兹雷尔", "巴尼塔斯", "哈姆克公爵府", "圣字教堂", "阿科洛之棺", "心脏的记忆", "回声泉", "冰狱", "龙猫妹妹庭院", "盟约圣地", "希列", "傀儡牢狱", "武林大会", "玫瑰庭院", "幻之摇篮", "八卦阵赛场", "忘却湖畔", "虚无之星", "山海归墟", "卡夫卡剧场", "梦境奥涅伊鲁", "魔力防空洞", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙", "欧若拉庭院", "魔法修炼馆", "神笔画卷", "神树拉菲尔", "龙之峡谷", "星之伊甸", "水下培养皿", "燥热键盘", "奈落之屋", "超能者纪念馆", "阿玛伦宝库", "冰封雪域", "混沌峡谷", "幻影毒雾沼泽", "浮游岛", "宝石丛林", "泡泡战舰"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"翅膀技[神·圣灵之拥]",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间", "泡泡战舰"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"翅膀技[魔·冥界之翼]",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间", "泡泡战舰"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:龙猫理查",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "泡泡战舰"],
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:尤里亚",
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:缇尔沃特",
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:贝尔特利切",
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:伊雷泽",
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"操作",
-			"name":	"召唤兽出战:卡勒迪安",
-			"hard":	false
-		}, {
-			"sw":	false,
-			"type":	"外交",
-			"name":	"艾利娅斯-小四",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间", "泡泡战舰"],
-			"hard":	false
-		}, {
-			"sw":	false,
+			"sw":	true,
 			"type":	"物品",
 			"name":	"经验值的秘药 500%(不可交易)",
 			"maps":	[],
-			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙", "欧若拉庭院", "泡泡战舰"],
+			"induns":	["欧若拉庭院", "拉之城墙", "巧克力花园", "瀑布丛林", "阿尔福那酒店", "扭曲的世界树", "怪物树山山谷", "魔法学院主楼", "龙猫妹妹庭院"],
 			"hard":	false
 		}, {
-			"sw":	false,
-			"type":	"物品",
-			"name":	"回忆の沙漏",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间", "泡泡战舰"],
+			"sw":	true,
+			"type":	"操作",
+			"name":	"课程:使用七彩玲珑",
+			"induns":	["欧若拉庭院", "拉之城墙", "巧克力花园", "瀑布丛林", "阿尔福那酒店", "扭曲的世界树"],
 			"hard":	false
 		}, {
-			"sw":	false,
-			"type":	"物品",
-			"name":	"经验值糖浆",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间", "泡泡战舰"],
-			"hard":	false
-		}, {
-			"sw":	false,
+			"sw":	true,
 			"type":	"物品",
 			"name":	"小四的祝福(不可交易)",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间", "泡泡战舰"],
+			"induns":	["欧若拉庭院", "拉之城墙", "巧克力花园", "瀑布丛林", "阿尔福那酒店"],
 			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"物品",
 			"name":	"百分考卷",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间", "泡泡战舰"],
+			"induns":	["欧若拉庭院", "拉之城墙", "巧克力花园", "瀑布丛林", "阿尔福那酒店"],
 			"hard":	false
 		}, {
 			"sw":	false,
-			"type":	"操作",
-			"name":	"课程:使用七彩玲珑",
-			"maps":	[],
-			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙", "泡泡战舰"],
+			"type":	"物品",
+			"name":	"羁绊之羽",
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"萌新好运药水",
+			"induns":	["欧若拉庭院", "拉之城墙", "巧克力花园", "瀑布丛林", "阿尔福那酒店", "扭曲的世界树", "怪物树山山谷", "魔法学院主楼"],
 			"hard":	false
 		}],
 	"skill_attack_data":	[{
@@ -446,21 +369,21 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"32",
-			"y":	"319",
-			"pos1":	"左跑",
+			"x":	"2362",
+			"y":	"1263",
+			"pos1":	"左&右[无]",
 			"pos2":	"右跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"初始化副本":	""
 			}
 		}, {
 			"type":	"转身&执行额外",
 			"x":	"3167",
-			"y":	"703",
-			"pos1":	"右跑",
+			"y":	"1263",
+			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
@@ -469,11 +392,11 @@
 				"":	""
 			}
 		}, {
-			"type":	"上跳+上爬梯子",
-			"x":	"752",
-			"y":	"703",
-			"pos1":	"左跑",
-			"pos2":	"左跑",
+			"type":	"模拟↑键",
+			"x":	"2900",
+			"y":	"1263",
+			"pos1":	"右跑",
+			"pos2":	"右跑",
 			"judge":	{
 				"":	""
 			},
@@ -482,7 +405,7 @@
 			}
 		}],
 	"script_trigger_data":	[],
-	"summon_data":	[190145624, 190145625, 201901181, 201901182, 201901183, 201901184, 201901185, 201901186, 201901187, 201901188, 201901189, 201901190, 201901191, 201901192, 201901193, 201901194, 201901195, 202401181, 202401182, 202401183, 202401184, 202401185, 202401186, 202401187, 202401188, 202401189, 202401190, 202401191, 202401192, 202401193, 202401194, 202401195],
+	"summon_data":	[190145624, 190145625, 190148179, 201901181, 201901182, 201901183, 201901184, 201901185, 201901186, 201901187, 201901188, 201901189, 201901190, 201901191, 201901192, 201901193, 201901194, 201901195, 202401181, 202401182, 202401183, 202401184, 202401185, 202401186, 202401187, 202401188, 202401189, 202401190, 202401191, 202401192, 202401193, 202401194, 202401195],
 	"line_monster_data":	[],
 	"item_filter_pick_data_1":	[],
 	"item_filter_pick_data_2":	[],
@@ -522,7 +445,7 @@
 			"sw":	false,
 			"npcdata":	[{
 					"npc":	6,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -551,7 +474,7 @@
 			"sw":	false,
 			"npcdata":	[{
 					"npc":	11,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -595,7 +518,7 @@
 					"item":	""
 				}, {
 					"npc":	19,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}]
@@ -805,1819 +728,565 @@
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	434,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	428,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	427,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	425,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	424,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	90085,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	418,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	417,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	90074,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	403,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	402,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	394,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	393,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	386,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	385,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	384,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	383,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	376,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	375,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8970,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8960,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	373,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	370,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	369,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8930,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8920,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	366,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	361,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	360,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	351,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	350,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	349,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	348,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	346,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	345,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8760,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	337,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	true
+			"item3":	true,
+			"item4":	false
 		}, {
 			"id":	338,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	87100,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	324,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	325,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	306,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	305,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	69900,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	69600,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	298,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	297,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	290,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	289,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	283,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	274,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	273,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	303,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	268,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	266,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	265,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	90077,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	90068,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	90065,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	5180,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	374,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8880,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8860,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8850,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8830,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	19868,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	19866,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	278,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	277,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}],
 	"auto_task":	[],
-	"trigger":	[{
-			"sw":	false,
-			"tigger":	{
-				"收到密语":	"* 666"
-			},
-			"judge":	[],
-			"execute":	{
-				"邀请组队":	"[%1]"
-			}
-		}, {
-			"sw":	false,
-			"tigger":	{
-				"到达地图":	"上京城市"
-			},
-			"judge":	[],
-			"execute":	{
-				"宏指令":	"/一键换装 攻击套装"
-			}
-		}, {
-			"sw":	false,
-			"tigger":	{
-				"指定时间":	"00:07"
-			},
-			"judge":	[],
-			"execute":	{
-				"挂机控制":	"1"
-			}
-		}, {
-			"sw":	false,
-			"tigger":	{
-				"收到密语":	"* 关闭游戏"
-			},
-			"judge":	[],
-			"execute":	{
-				"关闭游戏":	"[无]"
-			}
-		}, {
-			"sw":	false,
-			"tigger":	{
-				"指定时间":	"00:06"
-			},
-			"judge":	[],
-			"execute":	{
-				"退出到角色":	""
-			}
-		}],
-	"diytrigger":	[{
-			"only_run":	true,
-			"run_sleep":	1,
-			"sw":	false,
-			"name":	"超越点",
-			"judges":	[],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"超越搭配":	"小怪"
-					},
-					"judges":	[{
-							"搜索内无首领":	""
-						}, {
-							"搜索内有怪":	""
-						}, {
-							"未中异常状态":	""
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"超越搭配":	"BOSS"
-					},
-					"judges":	[{
-							"搜索内有首领":	""
-						}, {
-							"未中异常状态":	""
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"超越搭配":	"全肉"
-					},
-					"judges":	[{
-							"中异常状态":	""
-						}]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	0,
-			"sw":	false,
-			"name":	"小四100",
-			"judges":	[],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"百分考卷"
-					},
-					"judges":	[{
-							"拥有BUFF":	"活动_6000157"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"小四的祝福(不可交易)"
-					},
-					"judges":	[{
-							"拥有BUFF":	"活动_6000157"
-						}]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	true,
-			"name":	"自动使用潜力灵龛",
-			"judges":	[],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"初级潜力灵龛"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"初级HP潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"初级SP潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"初级力量潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"初级体力潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"初级魔法力潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"初级幸运值潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"初级防御力潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"初级魔法抵抗力潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"中级潜力灵龛"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"中级HP潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"中级SP潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"中级力量潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"中级体力潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"中级魔法力潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"中级幸运值潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"中级防御力潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"中级魔法抵抗力潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"高级潜力灵龛"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"高级HP潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"高级SP潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"高级力量潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"高级体力潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"高级魔法力潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"高级幸运值潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"高级防御力潜力药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"高级魔法抵抗力潜力药水"
-					},
-					"judges":	[]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	true,
-			"name":	"自动使用杂物",
-			"judges":	[{
-					"sw":	true,
-					"judge":	{
-						"不在地图":	"贝罗斯城市_200;"
-					}
-				}, {
-					"sw":	true,
-					"judge":	{
-						"不在副本":	"珊瑚之歌;泡泡战舰;"
-					}
-				}],
-			"executes":	[{
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"全塘蜜果礼盒"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【无限梦境】20层通关奖励"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【无限梦境II】10层通关奖励"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【无限梦境II】15层通关奖励"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【无限梦境III】4层通关奖励"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【无限梦境III】5层通关奖励"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"人品能量剂福袋"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"黄昏教堂图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"消失的星之歌图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"精灵树桩图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"生命之恩泰莱凯图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"艾乌加蒙剧场图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"深渊之镜图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"普洛菲司台图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"霍普占卜室图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"卡伊洛斯的时间图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"炼狱阿兹雷尔图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"巴尼塔斯图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"哈姆克公爵府图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"圣字教堂图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"阿科洛之棺图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"回声泉图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"冰狱图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"盟约圣地图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"希列图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"玫瑰庭院图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"幻之摇篮图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"忘却湖畔图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"虚无之星图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"山海归墟图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"梦境奥涅伊鲁图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"魔力防空洞图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"神笔画卷图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"泡泡战舰图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"克洛诺斯的时间图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"心脏的记忆图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"龙猫妹妹庭院图鉴集"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"遗忘之城怪物图鉴包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"长苔藓的箱子"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"木箱"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"长苔藓的血脉箱子"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"血脉木箱"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"长苔藓的混沌箱子"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"混沌木箱"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"长苔藓的神秘箱子"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"神秘木箱"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"长苔藓的时间箱子"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"时间木箱"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·长苔藓的箱子"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·木箱"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·长苔藓的血脉箱子"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·血脉木箱"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·长苔藓的混沌箱子"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·混沌木箱"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·长苔藓的神秘箱子"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·神秘木箱"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·长苔藓的时间箱子"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"觉醒·时间木箱"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"黄金箱子"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"黄金血脉箱子"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"每周挑战礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"低级职业徽章包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】8层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】9层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】10层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】11层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】12层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】13层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】14层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】15层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】16层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】17层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】18层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】19层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】20层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】20-25层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"匠人的超能装备券"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"平凡的超能装备券"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"燃炼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"清凉八月礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"耀眼的姜太公箱子"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"闪亮的钓鱼箱子"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"破旧的钓鱼箱子"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"中型经验药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"小型经验药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"石之塔宝箱"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]棕熊碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]菲轮塔碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]浑沌碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]木偶碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]粉团子碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]龙猫妹妹碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]爱丽丝碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]雷比碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]幼年独角兽碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]狐狸队长碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]粉色电气石碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]火箭龙猫碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]红龙碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]上忍碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]小山羊碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]玄武碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]丑八怪大王碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]绿企鹅碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]滑板龙猫碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]初月碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]石碑碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]传送门碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]坎贝尔碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]虎狼寺碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]上京城碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"[梦灵]回音雪地碎片"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"梦源探索包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"梦灵碎片包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"荣誉徽章I"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"荣誉徽章II"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"荣誉徽章III"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"钓鱼高手称号书"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"钓鱼达人称号书"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"钓鱼王称号书"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"钓鱼之神称号书"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"虚实宝箱"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"虚实宝箱 · 上品"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"史诗探险家神殿阶段礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"史诗级探险家经验药水"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"龙晶拼图卷轴宝箱"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"新年红包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"蛇年卡片盒"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"软噗噗的招魂盒"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"每日超越礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"幸运小福袋"
-					},
-					"judges":	[]
-				}]
-		}],
-	"pet_build":	[{
-			"sw":	true,
-			"id":	43501020,
-			"name":	"细腻心思"
-		}, {
-			"sw":	true,
-			"id":	43501021,
-			"name":	"独当一面"
-		}, {
-			"sw":	false,
-			"id":	43501022,
-			"name":	"坚毅内心"
-		}, {
-			"sw":	true,
-			"id":	43501017,
-			"name":	"佛"
-		}, {
-			"sw":	true,
-			"id":	43501018,
-			"name":	"圣"
-		}, {
-			"sw":	true,
-			"id":	43501019,
-			"name":	"魔"
-		}, {
-			"sw":	true,
-			"id":	1040101,
-			"name":	"稳固"
-		}, {
-			"sw":	true,
-			"id":	1040102,
-			"name":	"鹰视"
-		}, {
-			"sw":	true,
-			"id":	1040103,
-			"name":	"扑击"
-		}, {
-			"sw":	true,
-			"id":	43501030,
-			"name":	"皮皮打气"
-		}, {
-			"sw":	true,
-			"id":	43501031,
-			"name":	"皮山压顶"
-		}, {
-			"sw":	false,
-			"id":	43501032,
-			"name":	"皮皮亲亲"
-		}, {
-			"sw":	true,
-			"id":	43501026,
-			"name":	"大力神"
-		}, {
-			"sw":	true,
-			"id":	43501027,
-			"name":	"拳击手"
-		}, {
-			"sw":	true,
-			"id":	1050104,
-			"name":	"坚毅"
-		}, {
-			"sw":	true,
-			"id":	1050105,
-			"name":	"洞察"
-		}, {
-			"sw":	true,
-			"id":	1050106,
-			"name":	"伺机"
-		}, {
-			"sw":	true,
-			"id":	5000427,
-			"name":	"玄武的突袭"
-		}, {
-			"sw":	false,
-			"id":	5000420,
-			"name":	"龙鳞的力量"
-		}, {
-			"sw":	true,
-			"id":	5000424,
-			"name":	"白虎的利爪"
-		}, {
-			"sw":	true,
-			"id":	5000421,
-			"name":	"龙的威严"
-		}],
+	"trigger":	[],
+	"diytrigger":	[],
+	"pet_build":	[],
 	"pet_sunmon_skill":	[{
 			"sw":	true,
 			"skill":	2010001,
@@ -2644,9 +1313,7 @@
 		"[辉耀剑神]完美纳刀":	false,
 		"[英雄(刀)]连招":	false,
 		"[英雄(枪)]连招":	false,
-		"[剑圣]十字之刃秘技":	false,
-		"[剑圣]剑圣双修乘天刷灵魂":	false,
-		"[剑圣]灵魂之刃秘技":	false,
+		"[剑圣]十字灵魂秘技":	false,
 		"[剑圣]忘却(十字之刃)":	false,
 		"[剑圣]忘却(灵魂之刃)":	false,
 		"[剑圣]智能秘技":	false,

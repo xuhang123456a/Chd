@@ -1,5 +1,45 @@
 [{
-		"setcount":	0,
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	32363,
+		"script":	"艾乌加蒙剧场",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5觉醒",
+		"tag":	11231,
+		"script":	"深渊之镜",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"强力召唤兽",
+		"diyawaken":	"战斗",
+		"tag":	7510,
+		"script":	"时空之泉",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"强力召唤兽",
+		"diyawaken":	"战斗",
+		"tag":	19348,
+		"script":	"穿梭之都",
+		"task":	0
+	}, {
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -9,7 +49,7 @@
 		"script":	"大地的考验",
 		"task":	0
 	}, {
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -19,7 +59,7 @@
 		"script":	"黄昏教堂",
 		"task":	0
 	}, {
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -39,7 +79,7 @@
 		"script":	"自动强化拉尔沙之戒",
 		"task":	0
 	}, {
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",

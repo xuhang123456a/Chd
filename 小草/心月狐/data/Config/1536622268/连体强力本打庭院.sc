@@ -39,16 +39,6 @@
 		"script":	"Ä¦¿ËÉ³",
 		"task":	0
 	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	19966,
-		"script":	"Î´ÖªÉ­ÁÖ",
-		"task":	0
-	}, {
 		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"¹¥»÷Ì××°",
@@ -67,26 +57,6 @@
 		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	4896,
 		"script":	"°£¼ª¶ûÒÅ¼£",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	3278,
-		"script":	"Ş±æ«Ë¹ÃÎ¾³",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	14962,
-		"script":	"Ê§»êËÂ",
 		"task":	0
 	}, {
 		"setcount":	0,

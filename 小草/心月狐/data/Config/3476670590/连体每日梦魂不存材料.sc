@@ -3,20 +3,20 @@
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"强力召唤兽",
+		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	8986,
-		"script":	"时空之泉",
+		"tag":	15424,
+		"script":	"薇娅斯梦境",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"强力召唤兽",
+		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	23172,
-		"script":	"穿梭之都",
+		"tag":	10383,
+		"script":	"失魂寺",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -25,17 +25,17 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	13702,
-		"script":	"【存】材料",
+		"tag":	11329,
+		"script":	"退出组队",
 		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"存仓",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	13120,
+		"tag":	21361,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]

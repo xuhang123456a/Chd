@@ -1,22 +1,12 @@
 [{
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31897,
-		"script":	"【彩虹向导】每日任务",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24745,
-		"script":	"领取家族工资",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	32363,
+		"script":	"艾乌加蒙剧场",
 		"task":	0
 	}, {
 		"setcount":	1,
@@ -24,49 +14,59 @@
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	13355,
-		"script":	"丽西泰亚之门",
+		"diyawaken":	"5觉醒",
+		"tag":	11231,
+		"script":	"深渊之镜",
 		"task":	0
 	}, {
 		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	30652,
-		"script":	"蘑菇树沼泽",
+		"diyother":	"强力召唤兽",
+		"diyawaken":	"战斗",
+		"tag":	7510,
+		"script":	"时空之泉",
 		"task":	0
 	}, {
 		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	9285,
-		"script":	"诺尼尔之泪",
+		"diyother":	"强力召唤兽",
+		"diyawaken":	"战斗",
+		"tag":	19348,
+		"script":	"穿梭之都",
 		"task":	0
 	}, {
 		"setcount":	1,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	12682,
-		"script":	"摩克沙",
+		"diyawaken":	"",
+		"tag":	2680,
+		"script":	"大地的考验",
 		"task":	0
 	}, {
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"",
+		"tag":	15682,
+		"script":	"黄昏教堂",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	19966,
-		"script":	"未知森林",
+		"diyawaken":	"",
+		"tag":	12814,
+		"script":	"消失的星之歌",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -75,8 +75,18 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16437,
-		"script":	"退出组队",
+		"tag":	7386,
+		"script":	"自动强化拉尔沙之戒",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"",
+		"tag":	26427,
+		"script":	"精灵树桩",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -85,27 +95,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19534,
-		"script":	"【存】材料",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	18941,
-		"script":	"自动培养血脉战魂",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"存仓",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	9162,
+		"tag":	13120,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]

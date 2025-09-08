@@ -1,5 +1,5 @@
 [{
-		"setcount":	7,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"破防（守护）",
 		"diyproperty":	"",
@@ -27,16 +27,6 @@
 		"diyawaken":	"",
 		"tag":	27182,
 		"script":	"【存】材料",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	5969,
-		"script":	"自动培养血脉战魂",
 		"task":	0
 	}, {
 		"setcount":	0,

@@ -1,6 +1,16 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"ÕÙ»½ÊŞ",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	24465,
+		"script":	"ÄÎÂäÖ®ĞÄ(ÉßÁúÖ®³²)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
@@ -14,7 +24,7 @@
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"5¾õĞÑ",
+		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	15725,
 		"script":	"ÄÎÂäÖ®ĞÄ(±ù·âÑ©Óò)",
 		"task":	0
@@ -24,7 +34,7 @@
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"5¾õĞÑ",
+		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	11479,
 		"script":	"ÄÎÂäÖ®ĞÄ(Éºº÷Ö®¸è)",
 		"task":	0
@@ -34,7 +44,7 @@
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"5¾õĞÑ",
+		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	29359,
 		"script":	"ÄÎÂäÖ®ĞÄ(±ùä¿ÁÜÍ¥Ôº)",
 		"task":	0
@@ -44,19 +54,9 @@
 		"diyitem":	"¹¥»÷Ì××°",
 		"diyproperty":	"",
 		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"5¾õĞÑ",
+		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	26963,
 		"script":	"ÄÎÂäÖ®ĞÄ(ÆÆ»µÖ®³Ç)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"5¾õĞÑ",
-		"tag":	24465,
-		"script":	"ÄÎÂäÖ®ĞÄ(ÉßÁúÖ®³²)",
 		"task":	0
 	}, {
 		"setcount":	0,

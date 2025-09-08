@@ -5,11 +5,31 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"",
+		"tag":	1560,
+		"script":	"时空之泉",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"",
+		"tag":	1396,
+		"script":	"穿梭之都",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"",
 		"tag":	2680,
 		"script":	"大地的考验",
 		"task":	0
 	}, {
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -19,7 +39,7 @@
 		"script":	"黄昏教堂",
 		"task":	0
 	}, {
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -39,7 +59,7 @@
 		"script":	"自动强化拉尔沙之戒",
 		"task":	0
 	}, {
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",

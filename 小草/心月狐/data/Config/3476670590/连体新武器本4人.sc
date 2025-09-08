@@ -1,5 +1,5 @@
 [{
-		"setcount":	7,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
@@ -27,16 +27,6 @@
 		"diyawaken":	"",
 		"tag":	3325,
 		"script":	"【存】材料",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31359,
-		"script":	"自动培养血脉战魂",
 		"task":	0
 	}, {
 		"setcount":	0,
