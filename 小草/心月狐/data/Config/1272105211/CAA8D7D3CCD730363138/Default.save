@@ -4,9 +4,7 @@
 	"auto_end_item":	false,
 	"auto_end_lua":	false,
 	"auto_end_plan":	false,
-	"auto_end_team":	false,
 	"auto_load_change":	false,
-	"auto_load_kcb":	true,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
 	"auto_load_wait":	true,
@@ -18,16 +16,14 @@
 	"auto_set_boss_hp":	false,
 	"auto_set_boss_hp_team":	false,
 	"auto_set_boss_team":	true,
-	"auto_set_deliver_time":	false,
 	"auto_set_fly":	false,
 	"auto_set_revive":	false,
 	"auto_set_reviveall":	false,
-	"auto_set_taskout":	false,
 	"auto_task_book_refresh":	false,
 	"auto_task_sw1":	false,
-	"auto_task_sw2":	false,
 	"auto_team_dream_room_leader":	false,
 	"auto_team_room_leader":	false,
+	"auto_team_world_room_leader":	false,
 	"automatic_book":	true,
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
@@ -35,22 +31,28 @@
 	"automatic_guild":	false,
 	"automatic_guildmoney":	true,
 	"automatic_ml":	true,
+	"automatic_mluse":	true,
 	"automatic_monter_book":	false,
 	"automatic_phb":	false,
+	"automatic_pupu":	false,
 	"automatic_schedule":	true,
 	"automatic_skill_update_entrepot":	true,
 	"automatic_skill_update_sw":	true,
 	"automatic_subjoin_cwzx":	true,
-	"guild_diplomacy_contract":	true,
+	"automatic_taskRemote":	true,
 	"guild_diplomacy_only":	false,
 	"guild_tribute_sw":	true,
 	"item_buff_check":	false,
 	"item_buff_indun":	false,
 	"item_buff_sw":	true,
+	"item_builtin_sw":	false,
 	"item_disassemble_item_sw":	false,
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
+	"item_pick_filter_12":	true,
+	"item_pick_filter_13":	true,
+	"item_pick_filter_14":	false,
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
@@ -82,6 +84,8 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
+	"main_mob_herbs":	false,
+	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
 	"main_mob_mineral":	false,
@@ -105,15 +109,16 @@
 	"msg_log_sw5":	true,
 	"msg_log_sw6":	false,
 	"msg_speak_sw":	false,
-	"other_debug":	false,
 	"other_jumptype":	false,
 	"other_passprint":	false,
+	"other_top_window_switch":	false,
 	"path_auto_script_door_sw":	false,
 	"path_auto_script_showval_sw":	false,
 	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
 	"path_hide_effect_sw":	false,
 	"path_line_boss_sw":	false,
+	"path_line_boss_word_sw":	false,
 	"path_line_deliver_sw":	false,
 	"path_line_exchange_back_sw":	false,
 	"path_line_exchange_sw":	false,
@@ -143,7 +148,15 @@
 	"revive_sw1":	true,
 	"revive_sw2":	true,
 	"run_log_file":	false,
-	"run_log_sw":	true,
+	"run_log_sw1":	true,
+	"run_log_sw2":	true,
+	"run_log_sw3":	true,
+	"run_log_sw4":	true,
+	"run_log_sw5":	true,
+	"run_log_sw6":	true,
+	"run_log_sw7":	true,
+	"run_log_sw8":	true,
+	"run_log_sw99":	true,
 	"script_changemap":	false,
 	"script_diysw":	false,
 	"script_jump":	true,
@@ -166,6 +179,9 @@
 	"skill_option_sombra":	false,
 	"skill_option_stop_skill":	false,
 	"skill_option_stop_skill_all":	false,
+	"skill_option_storage":	false,
+	"skill_option_storage2":	false,
+	"skill_option_storage3":	false,
 	"skill_shake_sw":	true,
 	"skill_silent_sw":	true,
 	"summon_automatic_zhs":	true,
@@ -184,6 +200,8 @@
 	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"",
 	"auto_team_room_namelist":	"",
+	"auto_team_world_room_name":	"",
+	"auto_team_world_room_password":	"",
 	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
@@ -207,7 +225,6 @@
 	"auto_set_boss_hp_sleep":	2,
 	"auto_set_boss_hp_val":	99,
 	"auto_set_boss_team_val":	2,
-	"auto_set_deliver_time_val":	15,
 	"auto_set_fly_val":	5,
 	"auto_set_revive_val":	10,
 	"auto_set_reviveall_val":	50,
@@ -244,6 +261,7 @@
 	"auto_login_end_val":	0,
 	"auto_set_boss_hp_show":	0,
 	"auto_set_boss_hp_type":	0,
+	"automatic_pupu_val":	0,
 	"automatic_zhs_time1":	3,
 	"automatic_zhs_time2":	3,
 	"automatic_zhs_time3":	3,
@@ -259,6 +277,7 @@
 	"skill_option_lr_val":	0,
 	"skill_option_platform_skill_v":	0,
 	"skill_option_sombra_val":	0,
+	"skill_option_storage_val":	0,
 	"skill_silent_val":	0,
 	"summon_automatic_zhs_refresh1":	0,
 	"summon_automatic_zhs_refresh2":	0,
@@ -275,7 +294,7 @@
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
 	"btn_color_8":	16384000,
-	"server":	111,
+	"server":	110,
 	"item_filter_1":	[],
 	"item_filter_2":	[],
 	"item_filter_3":	[],
@@ -370,87 +389,103 @@
 			"type":	"物品",
 			"name":	"希望的减伤药水",
 			"maps":	[],
-			"induns":	["精灵树桩", "生命之恩泰莱凯", "奈落·冰封雪域", "奈落·破坏之城", "奈落·冰淇淋庭院", "奈落·珊瑚之歌", "奈落·蛇龙之巢", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "未知森林", "卡伊洛斯的时间", "克洛诺斯的时间", "炼狱阿兹雷尔", "巴尼塔斯", "哈姆克公爵府", "圣字教堂", "阿科洛之棺", "心脏的记忆", "回声泉", "冰狱", "龙猫妹妹庭院", "盟约圣地", "希列", "傀儡牢狱", "武林大会", "玫瑰庭院", "幻之摇篮", "八卦阵赛场", "忘却湖畔", "虚无之星", "山海归墟", "卡夫卡剧场", "梦境奥涅伊鲁", "魔力防空洞", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙", "欧若拉庭院", "魔法修炼馆", "神笔画卷", "神树拉菲尔", "龙之峡谷", "星之伊甸", "水下培养皿", "燥热键盘", "奈落之屋", "超能者纪念馆", "阿玛伦宝库", "冰封雪域", "混沌峡谷", "幻影毒雾沼泽", "浮游岛", "宝石丛林", "泡泡战舰"]
+			"induns":	["精灵树桩", "生命之恩泰莱凯", "奈落·冰封雪域", "奈落·破坏之城", "奈落·冰淇淋庭院", "奈落·珊瑚之歌", "奈落·蛇龙之巢", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "未知森林", "卡伊洛斯的时间", "克洛诺斯的时间", "炼狱阿兹雷尔", "巴尼塔斯", "哈姆克公爵府", "圣字教堂", "阿科洛之棺", "心脏的记忆", "回声泉", "冰狱", "龙猫妹妹庭院", "盟约圣地", "希列", "傀儡牢狱", "武林大会", "玫瑰庭院", "幻之摇篮", "八卦阵赛场", "忘却湖畔", "虚无之星", "山海归墟", "卡夫卡剧场", "梦境奥涅伊鲁", "魔力防空洞", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙", "欧若拉庭院", "魔法修炼馆", "神笔画卷", "神树拉菲尔", "龙之峡谷", "星之伊甸", "水下培养皿", "燥热键盘", "奈落之屋", "超能者纪念馆", "阿玛伦宝库", "冰封雪域", "混沌峡谷", "幻影毒雾沼泽", "浮游岛", "宝石丛林", "泡泡战舰"],
+			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"操作",
 			"name":	"翅膀技[神·圣灵之拥]",
 			"maps":	[],
-			"induns":	["克洛诺斯的时间", "泡泡战舰"]
+			"induns":	["克洛诺斯的时间", "泡泡战舰"],
+			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"操作",
 			"name":	"翅膀技[魔·冥界之翼]",
 			"maps":	[],
-			"induns":	["克洛诺斯的时间", "泡泡战舰"]
+			"induns":	["克洛诺斯的时间", "泡泡战舰"],
+			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"操作",
 			"name":	"召唤兽出战:龙猫理查",
 			"maps":	[],
-			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "泡泡战舰"]
+			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "泡泡战舰"],
+			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"操作",
-			"name":	"召唤兽出战:尤里亚"
+			"name":	"召唤兽出战:尤里亚",
+			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"操作",
-			"name":	"召唤兽出战:缇尔沃特"
+			"name":	"召唤兽出战:缇尔沃特",
+			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"操作",
-			"name":	"召唤兽出战:贝尔特利切"
+			"name":	"召唤兽出战:贝尔特利切",
+			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"操作",
-			"name":	"召唤兽出战:伊雷泽"
+			"name":	"召唤兽出战:伊雷泽",
+			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"操作",
-			"name":	"召唤兽出战:卡勒迪安"
+			"name":	"召唤兽出战:卡勒迪安",
+			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"外交",
 			"name":	"艾利娅斯-小四",
 			"maps":	[],
-			"induns":	["克洛诺斯的时间", "泡泡战舰"]
+			"induns":	["克洛诺斯的时间", "泡泡战舰"],
+			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"物品",
 			"name":	"经验值的秘药 500%(不可交易)",
 			"maps":	[],
-			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙", "欧若拉庭院", "泡泡战舰"]
+			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙", "欧若拉庭院", "泡泡战舰"],
+			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"物品",
 			"name":	"回忆の沙漏",
 			"maps":	[],
-			"induns":	["克洛诺斯的时间", "泡泡战舰"]
+			"induns":	["克洛诺斯的时间", "泡泡战舰"],
+			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"物品",
 			"name":	"经验值糖浆",
 			"maps":	[],
-			"induns":	["克洛诺斯的时间", "泡泡战舰"]
+			"induns":	["克洛诺斯的时间", "泡泡战舰"],
+			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"物品",
 			"name":	"小四的祝福(不可交易)",
 			"maps":	[],
-			"induns":	["克洛诺斯的时间", "泡泡战舰"]
+			"induns":	["克洛诺斯的时间", "泡泡战舰"],
+			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"物品",
 			"name":	"百分考卷",
 			"maps":	[],
-			"induns":	["克洛诺斯的时间", "泡泡战舰"]
+			"induns":	["克洛诺斯的时间", "泡泡战舰"],
+			"hard":	false
 		}, {
 			"sw":	false,
 			"type":	"操作",
 			"name":	"课程:使用七彩玲珑",
 			"maps":	[],
-			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙", "泡泡战舰"]
+			"induns":	["克洛诺斯的时间", "心脏的记忆", "龙猫妹妹庭院", "魔法学院主楼", "怪物树山山谷", "扭曲的世界树", "阿尔福那酒店", "瀑布丛林", "巧克力花园", "拉之城墙", "泡泡战舰"],
+			"hard":	false
 		}],
 	"skill_attack_data":	[],
 	"skill_buff_data":	[],
@@ -466,692 +501,876 @@
 	"item_filter_throw_data_1":	[],
 	"item_filter_throw_data_2":	[],
 	"guild_diplomacy":	[{
-			"npc":	1,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	1,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	1,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	2,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	3,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	4,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	20,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	2,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	2,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	6,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	7,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	8,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	9,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	5,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	3,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	3,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	11,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	12,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	13,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	14,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	40,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	4,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	4,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	16,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	17,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	18,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	19,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	6,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	5,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	21,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	22,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	23,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	24,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	35,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	7,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	6,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	26,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	27,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	28,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	29,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	8,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	7,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	31,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	32,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	33,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	34,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	9,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	8,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	36,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	37,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	38,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	39,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	11,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	9,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	41,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	42,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	43,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	44,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	12,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	10,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	46,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	47,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	48,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	49,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	13,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	11,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	51,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	52,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	53,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	54,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}, {
-			"npc":	14,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	40,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	16,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	17,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	18,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	19,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	21,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	22,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	23,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	24,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	26,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	27,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	28,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	29,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	31,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	32,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	33,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	34,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	36,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	37,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	38,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	39,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	41,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	42,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	43,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	44,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	46,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	47,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	48,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	49,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	51,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	52,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	53,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	54,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	56,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	57,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	58,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
-		}, {
-			"npc":	59,
-			"sw1":	false,
-			"sw2":	false,
-			"item":	""
+			"id":	12,
+			"sw":	false,
+			"npcdata":	[{
+					"npc":	56,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	57,
+					"sw1":	true,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	58,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}, {
+					"npc":	59,
+					"sw1":	false,
+					"sw2":	false,
+					"item":	""
+				}]
 		}],
+	"lua_script":	{
+	},
 	"auto_card":	[{
+			"id":	4350,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	434,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	428,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	427,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	425,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	424,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	90085,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
 			"id":	418,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	417,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	90077,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	90074,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	403,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	402,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	90068,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	90065,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	394,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	393,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	386,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	385,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	384,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	383,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	5180,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	376,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	375,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8970,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8960,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	374,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	373,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	370,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	369,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8930,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8920,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	366,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	361,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	360,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	351,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	350,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	8880,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	8860,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	349,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	348,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	8850,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	346,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	345,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	8760,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	8830,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	337,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	true
+			"item3":	true,
+			"item4":	false
 		}, {
 			"id":	338,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	87100,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	324,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	325,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	69900,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	69600,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	306,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	305,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
-			"id":	303,
+			"id":	69900,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	69600,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	298,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	297,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	19868,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	19866,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	290,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	289,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	283,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	278,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
-		}, {
-			"id":	277,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	274,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	273,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	303,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	268,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	266,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
 		}, {
 			"id":	265,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
 			"item2":	false,
-			"item3":	false
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	90077,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	90068,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	90065,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	5180,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	374,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	8880,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	8860,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	8850,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	8830,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	19868,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	19866,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	278,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	277,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
 		}],
 	"auto_task":	[],
 	"trigger":	[{
@@ -1374,11 +1593,10 @@
 		}],
 	"dress_text":	[],
 	"diy_skill":	{
+		"[辉耀剑神]完美纳刀":	false,
 		"[英雄(刀)]连招":	false,
 		"[英雄(枪)]连招":	false,
-		"[剑圣]十字之刃秘技":	false,
-		"[剑圣]剑圣双修乘天刷灵魂":	false,
-		"[剑圣]灵魂之刃秘技":	false,
+		"[剑圣]十字灵魂秘技":	false,
 		"[剑圣]忘却(十字之刃)":	false,
 		"[剑圣]忘却(灵魂之刃)":	false,
 		"[剑圣]智能秘技":	false,
@@ -1386,7 +1604,8 @@
 		"[巨星]电波强震":	false,
 		"[巨星]电鸣支援":	false,
 		"[巨星]怪声演奏支援":	false,
-		"[风行刺客(匕首)]连招1":	false,
+		"[风行刺客(匕首)]边缘优化(1)":	false,
+		"[风行刺客(匕首)]边缘优化(2)":	false,
 		"[守护天使]连招":	false,
 		"[修行舞者]二连击":	false,
 		"[宝石星]连招(1)":	false,
@@ -1394,7 +1613,6 @@
 		"[宝石星]连招(3)":	false,
 		"[唤雨之灵]连招":	false,
 		"[术士]灵魂4":	false,
-		"[半神]斧钺云合":	false,
 		"[通用]魔免循环":	true,
 		"[通用]位移技能左右释放":	false
 	},

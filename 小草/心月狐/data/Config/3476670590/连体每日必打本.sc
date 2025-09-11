@@ -43,16 +43,6 @@
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
-		"diyother":	"’ŸªΩ ﬁ",
-		"diyawaken":	"5±¨…À Ø",
-		"tag":	13823,
-		"script":	" •◊÷ΩÃÃ√",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
 		"tag":	6306,

@@ -28,8 +28,8 @@
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
 	"automatic_explorer":	true,
-	"automatic_guild":	false,
-	"automatic_guildmoney":	false,
+	"automatic_guild":	true,
+	"automatic_guildmoney":	true,
 	"automatic_ml":	true,
 	"automatic_mluse":	true,
 	"automatic_monter_book":	true,
@@ -42,9 +42,9 @@
 	"automatic_taskRemote":	true,
 	"guild_diplomacy_only":	false,
 	"guild_tribute_sw":	true,
-	"item_buff_check":	false,
-	"item_buff_indun":	false,
-	"item_buff_sw":	false,
+	"item_buff_check":	true,
+	"item_buff_indun":	true,
+	"item_buff_sw":	true,
 	"item_builtin_sw":	false,
 	"item_disassemble_item_sw":	false,
 	"item_pick_3":	false,
@@ -60,7 +60,7 @@
 	"item_pick_filter_6":	true,
 	"item_pick_filter_7":	true,
 	"item_pick_filter_8":	false,
-	"item_pick_filter_9":	true,
+	"item_pick_filter_9":	false,
 	"item_pick_sw":	true,
 	"item_throw_1_sw":	true,
 	"item_throw_2":	true,
@@ -112,20 +112,20 @@
 	"other_jumptype":	false,
 	"other_passprint":	false,
 	"other_top_window_switch":	false,
-	"path_auto_script_door_sw":	false,
+	"path_auto_script_door_sw":	true,
 	"path_auto_script_showval_sw":	false,
 	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
-	"path_hide_effect_sw":	true,
+	"path_hide_effect_sw":	false,
 	"path_line_boss_sw":	false,
 	"path_line_boss_word_sw":	false,
 	"path_line_deliver_sw":	false,
 	"path_line_exchange_back_sw":	false,
 	"path_line_exchange_sw":	false,
-	"path_line_itemtime_sw":	false,
+	"path_line_itemtime_sw":	true,
 	"path_line_name_sw":	false,
 	"path_line_settings_sw":	false,
-	"path_line_team_sw":	false,
+	"path_line_team_sw":	true,
 	"path_line_transm_sw":	false,
 	"path_script_picture_sw1":	false,
 	"path_script_picture_sw2":	false,
@@ -202,7 +202,7 @@
 	"auto_team_room_namelist":	"",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
-	"guild_tribute_items":	"中级冒险家情报卷轴;大师活力水滴;外交印章：朱雀;",
+	"guild_tribute_items":	"中级冒险家情报卷轴;大师活力水滴;外交印章：朱雀;高级冒险家情报卷轴;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"",
@@ -294,20 +294,353 @@
 	"btn_color_5":	1447971,
 	"btn_color_7":	11251422,
 	"btn_color_8":	0,
-	"server":	111,
+	"server":	109,
 	"item_filter_1":	[],
-	"item_filter_2":	[300111401, 300111801, 190160101, 190160201, 190160301, 190160401, 190160501, 430437027],
-	"item_filter_3":	[300111401, 300111801, 190160501, 190160401, 190160301, 190160201, 190160101, 430437027],
+	"item_filter_2":	[300111401, 300111801, 190160101, 190160201, 190160301, 190160401, 190160501, 190190313, 190197501],
+	"item_filter_3":	[300111401, 300111801, 190160501, 190160401, 190160301, 190160201, 190160101, 190190313, 190197501],
 	"item_filter_4":	[],
 	"item_use_data":	[{
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"10"
+				"HP<=%":	"89"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"大型胶布"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"79"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"蚯梨膏"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"70"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"勇者小型体力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"65"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 小型樱桃药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"50"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"勇者小型复合药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"45"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"索拉城 体力 药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"35"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"极品紫色大药罐"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"30"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"索拉城 复合 药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"19"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 大型樱桃药水(不可交易)"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"18"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"彩虹岛可乐"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"15"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
 			"item":	"★ 大型葡萄药丸"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"[无]":	""
+			},
+			"Judge2":	{
+				"SP<=%":	"50"
+			},
+			"item":	"自动吃普通蓝"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"[无]":	""
+			},
+			"Judge2":	{
+				"SP<=%":	"30"
+			},
+			"item":	"勇者小型魔法药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"[无]":	""
+			},
+			"Judge2":	{
+				"SP<=%":	"10"
+			},
+			"item":	"★ 大型葡萄药丸"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"超级败家经验珠"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"败家经验珠"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"钓鱼之神称号书"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"钓鱼王称号书"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"钓鱼达人称号书"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"钓鱼高手称号书"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"联盟家族经验点支援包"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"高级血脉药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"高级经验药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"低级经验药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶I"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶II"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶III"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶IV"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶V"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶VI"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶VII"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶VIII"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶IX"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"混乱世界血脉水晶X"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"史诗级探险家经验药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"RP值<=":	"70"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"低级人品能量剂"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"高级HP潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"特级血脉水晶(绑定)"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
@@ -347,6 +680,12 @@
 			"type":	"物品",
 			"name":	"萌新好运药水",
 			"induns":	["欧若拉庭院", "拉之城墙", "巧克力花园", "瀑布丛林", "阿尔福那酒店", "扭曲的世界树", "怪物树山山谷", "魔法学院主楼"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"希望的减伤药水",
+			"induns":	["拉之城墙", "欧若拉庭院"],
 			"hard":	false
 		}],
 	"skill_attack_data":	[{
@@ -523,7 +862,7 @@
 			"fast":	false,
 			"complete":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"id":	1804110,
 			"name":	"纳刀·狐雨",
 			"judge":	[],
@@ -565,9 +904,21 @@
 		}],
 	"team_list_data":	[],
 	"script_point_data":	[{
-			"type":	"下爬梯子",
-			"x":	"2640",
-			"y":	"383",
+			"type":	"转身&执行额外",
+			"x":	"1124",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"模拟↑键",
+			"x":	"65",
+			"y":	"1375",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
@@ -578,63 +929,27 @@
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"32",
-			"y":	"927",
-			"pos1":	"左跑",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"右跳",
-			"x":	"1503",
-			"y":	"927",
-			"pos1":	"右跑",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"跳跃控制":	"100"
-			}
-		}, {
-			"type":	"下爬梯子",
-			"x":	"1616",
-			"y":	"831",
-			"pos1":	"右跑",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"左跳",
-			"x":	"1440",
-			"y":	"1407",
-			"pos1":	"左跑",
+			"x":	"3691",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"跳跃控制":	"100"
+				"":	""
 			}
 		}, {
-			"type":	"上二段跳",
-			"x":	"32",
-			"y":	"1295",
-			"pos1":	"左跑",
-			"pos2":	"右跑",
+			"type":	"模拟↑键",
+			"x":	"2786",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"跳跃控制":	"850"
+				"":	""
 			}
 		}],
 	"script_trigger_data":	[],

@@ -17,6 +17,24 @@
 		"item":	"连体存取",
 		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
 	}, {
+		"index":	46779312,
+		"name":	"若惊鸿一梦",
+		"autoscript":	"连体每日必打家族本",
+		"item":	"连体存取",
+		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
+	}, {
+		"index":	480632156,
+		"name":	"秋意也泛舟",
+		"autoscript":	"连体每日必打家族本",
+		"item":	"连体存取",
+		"item_other":	""
+	}, {
+		"index":	38125578,
+		"name":	"弥猫深巷離人心",
+		"autoscript":	"连体每日必打家族本",
+		"item":	"连体存取",
+		"item_other":	""
+	}, {
 		"index":	24013437,
 		"name":	"诉萌",
 		"autoscript":	"连体每日主号",
@@ -34,24 +52,6 @@
 		"autoscript":	"连体每日必打本",
 		"item":	"连体存取",
 		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	46779312,
-		"name":	"若惊鸿一梦",
-		"autoscript":	"连体每日必打本",
-		"item":	"连体存取",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	480632156,
-		"name":	"秋意也泛舟",
-		"autoscript":	"连体每日必打本",
-		"item":	"连体存取",
-		"item_other":	""
-	}, {
-		"index":	38125578,
-		"name":	"弥猫深巷離人心",
-		"autoscript":	"连体每日必打本",
-		"item":	"连体存取",
-		"item_other":	""
 	}, {
 		"index":	40632375,
 		"name":	"玫瑰花的梦",
@@ -139,7 +139,13 @@
 	}, {
 		"index":	279579000,
 		"name":	"山有木兮卿有意",
-		"autoscript":	"连体普通每日",
+		"autoscript":	"连体普通每日超能",
+		"item":	"连体存取",
+		"item_other":	""
+	}, {
+		"index":	279586484,
+		"name":	"若惊鸿一梦",
+		"autoscript":	"连体普通每日家族",
 		"item":	"连体存取",
 		"item_other":	""
 	}, {
@@ -149,21 +155,15 @@
 		"item":	"连体存取",
 		"item_other":	""
 	}, {
-		"index":	279586484,
-		"name":	"若惊鸿一梦",
-		"autoscript":	"连体普通每日",
-		"item":	"连体存取",
-		"item_other":	""
-	}, {
 		"index":	279592281,
 		"name":	"秋意也泛舟",
-		"autoscript":	"连体普通每日",
+		"autoscript":	"连体普通每日家族",
 		"item":	"连体存取",
 		"item_other":	""
 	}, {
 		"index":	379417406,
 		"name":	"弥猫深巷離人心",
-		"autoscript":	"连体普通每日",
+		"autoscript":	"连体普通每日家族",
 		"item":	"连体存取",
 		"item_other":	""
 	}, {

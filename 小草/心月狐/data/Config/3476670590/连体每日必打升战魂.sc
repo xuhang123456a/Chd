@@ -41,12 +41,32 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	19951,
+		"script":	"探险家神殿(高级)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22502,
+		"script":	"探险家神殿(普通)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	13823,
-		"script":	"圣字教堂",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	19858,
+		"script":	"藏宝洞",
 		"task":	0
 	}, {
 		"setcount":	0,

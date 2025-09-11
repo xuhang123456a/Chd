@@ -19,7 +19,7 @@
 		"script":	"穿梭之都",
 		"task":	0
 	}, {
-		"setcount":	1,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -29,7 +29,7 @@
 		"script":	"大地的考验",
 		"task":	0
 	}, {
-		"setcount":	1,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -39,7 +39,7 @@
 		"script":	"黄昏教堂",
 		"task":	0
 	}, {
-		"setcount":	1,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -59,7 +59,7 @@
 		"script":	"自动强化拉尔沙之戒",
 		"task":	0
 	}, {
-		"setcount":	1,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
