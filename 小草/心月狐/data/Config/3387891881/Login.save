@@ -35,12 +35,6 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
-		"index":	96626562,
-		"name":	"惊觉⺌",
-		"autoscript":	"连体每日主号",
-		"item":	"存仓",
-		"item_other":	""
-	}, {
 		"index":	777750109,
 		"name":	"你到底吻不吻我o",
 		"autoscript":	"连体每日必打本",
@@ -77,6 +71,12 @@
 		"item":	"存仓",
 		"item_other":	""
 	}, {
+		"index":	96626562,
+		"name":	"惊觉⺌",
+		"autoscript":	"连体每日必打家族",
+		"item":	"存仓",
+		"item_other":	""
+	}, {
 		"index":	1015505890,
 		"name":	"乙骨犹太",
 		"autoscript":	"连体每日必打本",
@@ -97,13 +97,13 @@
 	}, {
 		"index":	96661171,
 		"name":	"烟雨情相思",
-		"autoscript":	"连体每日必打本",
+		"autoscript":	"连体每日主号",
 		"item":	"存仓",
 		"item_other":	""
 	}, {
 		"index":	1015522171,
 		"name":	"荼茶",
-		"autoscript":	"连体每日必打本",
+		"autoscript":	"连体每日必打家族",
 		"item":	"存仓",
 		"item_other":	""
 	}, {

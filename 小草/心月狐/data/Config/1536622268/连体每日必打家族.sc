@@ -11,14 +11,23 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	24218,
+		"script":	"领取家族工资",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
 		"tag":	1805,
 		"script":	"探险家神殿(史诗)",
-		"task":	0,
-		"scriptend":	12
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -28,8 +37,7 @@
 		"diyawaken":	"",
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
-		"task":	0,
-		"scriptend":	12
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -39,8 +47,7 @@
 		"diyawaken":	"",
 		"tag":	16381,
 		"script":	"探险家神殿(高级)",
-		"task":	0,
-		"scriptend":	12
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -50,8 +57,7 @@
 		"diyawaken":	"",
 		"tag":	19594,
 		"script":	"探险家神殿(普通)",
-		"task":	0,
-		"scriptend":	12
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -61,8 +67,7 @@
 		"diyawaken":	"",
 		"tag":	3615,
 		"script":	"藏宝洞",
-		"task":	0,
-		"scriptend":	12
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -102,8 +107,7 @@
 		"diyawaken":	"",
 		"tag":	22281,
 		"script":	"【存】材料",
-		"task":	0,
-		"scriptend":	12
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

@@ -80,7 +80,7 @@
 	"item_use_sort":	true,
 	"item_use_sw":	true,
 	"main_mob_attack_sw":	false,
-	"main_mob_back":	true,
+	"main_mob_back":	false,
 	"main_mob_distance_change":	false,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
@@ -91,7 +91,7 @@
 	"main_mob_mineral":	true,
 	"main_mob_move":	true,
 	"main_mob_noattck_all":	false,
-	"main_mob_noattck_hide":	true,
+	"main_mob_noattck_hide":	false,
 	"main_mob_noattck_show":	false,
 	"main_mob_other_sw":	false,
 	"main_mob_trap_sw":	false,
@@ -184,7 +184,7 @@
 	"skill_option_storage3":	true,
 	"skill_shake_sw":	false,
 	"skill_silent_sw":	true,
-	"summon_automatic_zhs":	false,
+	"summon_automatic_zhs":	true,
 	"team_accept_cmd_sw":	true,
 	"team_accept_sw":	true,
 	"team_follow_sw":	false,
@@ -262,12 +262,12 @@
 	"auto_set_boss_hp_show":	0,
 	"auto_set_boss_hp_type":	0,
 	"automatic_pupu_val":	0,
-	"automatic_zhs_time1":	0,
-	"automatic_zhs_time2":	0,
-	"automatic_zhs_time3":	0,
-	"automatic_zhs_time4":	0,
-	"automatic_zhs_time5":	0,
-	"automatic_zhs_time6":	0,
+	"automatic_zhs_time1":	5,
+	"automatic_zhs_time2":	5,
+	"automatic_zhs_time3":	5,
+	"automatic_zhs_time4":	5,
+	"automatic_zhs_time5":	3,
+	"automatic_zhs_time6":	5,
 	"automatic_zhs_time7":	0,
 	"config_system_type":	0,
 	"main_mob_trap_type":	0,
@@ -279,12 +279,12 @@
 	"skill_option_sombra_val":	0,
 	"skill_option_storage_val":	0,
 	"skill_silent_val":	0,
-	"summon_automatic_zhs_refresh1":	0,
-	"summon_automatic_zhs_refresh2":	0,
-	"summon_automatic_zhs_refresh3":	0,
-	"summon_automatic_zhs_refresh4":	0,
+	"summon_automatic_zhs_refresh1":	1,
+	"summon_automatic_zhs_refresh2":	1,
+	"summon_automatic_zhs_refresh3":	1,
+	"summon_automatic_zhs_refresh4":	1,
 	"summon_automatic_zhs_refresh5":	0,
-	"summon_automatic_zhs_refresh6":	0,
+	"summon_automatic_zhs_refresh6":	1,
 	"summon_automatic_zhs_refresh7":	0,
 	"team_accept_allot":	2,
 	"btn_color_1":	8388863,
@@ -302,21 +302,57 @@
 	"item_use_data":	[{
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"89"
+				"HP<=%":	"35"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"大型胶布"
+			"item":	"★ 大型葡萄药丸"
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"79"
+				"HP<=%":	"45"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"蚯梨膏"
+			"item":	"极品紫色大药罐"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"50"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"索拉城 复合 药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"55"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"索拉城 体力 药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"60"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"彩虹岛可乐"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"65"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"勇者小型复合药水"
 		}, {
 			"sw":	true,
 			"Judge1":	{
@@ -329,39 +365,21 @@
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"65"
+				"HP<=%":	"75"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"★ 小型樱桃药水"
+			"item":	"蚯梨膏"
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"50"
+				"HP<=%":	"100"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"勇者小型复合药水"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"45"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"索拉城 体力 药水"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"35"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"极品紫色大药罐"
+			"item":	"中级血脉水晶(绑定)"
 		}, {
 			"sw":	true,
 			"Judge1":	{
@@ -370,101 +388,254 @@
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"索拉城 复合 药水"
+			"item":	"★ 小型樱桃药水"
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"19"
+				"HP<=%":	"100"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"★ 大型樱桃药水(不可交易)"
+			"item":	"小型经验药水"
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"18"
+				"HP<=%":	"100"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"彩虹岛可乐"
+			"item":	"中型经验药水"
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"15"
+				"HP<=%":	"100"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"★ 大型葡萄药丸"
+			"item":	"神奇的色拉 2Lv"
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"[无]":	""
-			},
-			"Judge2":	{
-				"SP<=%":	"50"
-			},
-			"item":	"自动吃普通蓝"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"[无]":	""
-			},
-			"Judge2":	{
-				"SP<=%":	"30"
-			},
-			"item":	"勇者小型魔法药水"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"[无]":	""
-			},
-			"Judge2":	{
-				"SP<=%":	"10"
-			},
-			"item":	"★ 大型葡萄药丸"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
+				"HP<=%":	"100"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"超级败家经验珠"
+			"item":	"神奇的色拉 1Lv"
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"111"
+				"HP<=%":	"100"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"败家经验珠"
+			"item":	"巧克力饼"
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"111"
+				"HP<=%":	"100"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"钓鱼之神称号书"
+			"item":	"甜味饮料"
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"111"
+				"HP<=%":	"100"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"钓鱼王称号书"
+			"item":	"辣鱼汤"
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"111"
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"神奇的烤肉汉堡 2Lv"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"鲤鱼料理"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"鳗鱼料理"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"神奇的烤肉汉堡 1Lv"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级HP潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级力量潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级魔法抵抗力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级体力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级魔法力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级SP潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级幸运值潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级防御力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级魔法力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级幸运值潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级魔法抵抗力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级力量潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级SP潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级体力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级防御力潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"初级HP潜力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"100"
 			},
 			"Judge2":	{
 				"[无]":	""
@@ -478,7 +649,7 @@
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"钓鱼高手称号书"
+			"item":	"活动时空血脉水晶"
 		}, {
 			"sw":	true,
 			"Judge1":	{
@@ -488,159 +659,6 @@
 				"[无]":	""
 			},
 			"item":	"联盟家族经验点支援包"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"高级血脉药水"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"高级经验药水"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"低级经验药水"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶I"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶II"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶III"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶IV"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶V"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶VI"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶VII"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶VIII"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶IX"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"混乱世界血脉水晶X"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"史诗级探险家经验药水"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"RP值<=":	"70"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"低级人品能量剂"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"高级HP潜力药水"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
-			"item":	"特级血脉水晶(绑定)"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
@@ -764,7 +782,9 @@
 			"alone":	false,
 			"reverse":	true,
 			"speedx":	true,
-			"judge":	[],
+			"judge":	[{
+					"不在副本":	"魔发城堡;珊瑚之歌;泡泡战舰;克洛诺斯的时间;心脏的记忆;龙猫妹妹庭院;魔法学院主楼;怪物树山山谷;扭曲的世界树;阿尔福那酒店;瀑布丛林;拉之城墙;欧若拉庭院;巧克力花园;"
+				}],
 			"num":	0
 		}, {
 			"sw":	false,
@@ -904,47 +924,11 @@
 		}],
 	"team_list_data":	[],
 	"script_point_data":	[{
-			"type":	"转身&执行额外",
-			"x":	"1124",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
 			"type":	"模拟↑键",
-			"x":	"65",
-			"y":	"1375",
+			"x":	"799",
+			"y":	"943",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"3691",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"2786",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"右跑",
 			"judge":	{
 				"":	""
 			},
@@ -953,7 +937,7 @@
 			}
 		}],
 	"script_trigger_data":	[],
-	"summon_data":	[190145624, 190145625, 190148179, 201901181, 201901182, 201901183, 201901184, 201901185, 201901186, 201901187, 201901188, 201901189, 201901190, 201901191, 201901192, 201901193, 201901194, 201901195, 202401181, 202401182, 202401183, 202401184, 202401185, 202401186, 202401187, 202401188, 202401189, 202401190, 202401191, 202401192, 202401193, 202401194, 202401195],
+	"summon_data":	[190145624, 190145625, 201901183, 201901186, 201901189],
 	"line_monster_data":	[],
 	"item_filter_pick_data_1":	[],
 	"item_filter_pick_data_2":	[],
@@ -1881,7 +1865,11 @@
 		"[通用]魔免循环":	false,
 		"[通用]位移技能左右释放":	false
 	},
-	"revive_diy":	[],
+	"revive_diy":	[{
+			"sw":	true,
+			"type":	1,
+			"map":	"拉之城墙6_39006"
+		}],
 	"item_filter_disassemble":	[],
 	"chaosbranch":	[4001, 4016, 1026, 3001, 2001, 1001, 4002, 3002, 2002, 1002, 4003, 3003, 2003, 1003, 4011, 3011, 2011, 1011, 4012, 3012, 2012, 1012, 4004, 3004, 2004, 1004, 4005, 3005, 2005, 1005, 4006, 3006, 2006, 1006, 4014, 3014, 4028, 3028, 2028, 1028, 2014, 1014, 4015, 4009, 3009, 2009, 1009, 4010, 3010, 2010, 1010, 1007, 2007, 3007, 4007, 1008, 2008, 3008, 4008, 1017, 2017, 3017, 4017, 1018, 2018, 3018, 4018, 1019, 2019, 3019, 4019, 1020, 2020, 3020, 4020, 1033, 2033, 3033, 4033, 1029, 2029, 3029, 4029, 1030, 2030, 3030, 4030, 1031, 2031, 3031, 4031, 1032, 2032, 3032, 4032, 63025, 73025, 61025, 71025, 11025, 13025, 21025, 23025, 31025, 33025, 41025, 43025, 51025, 53025, 1034, 2034, 3034, 4034, 1023, 2023, 3023, 4023, 1024, 2024, 3024, 4024, 1021, 2021, 3021, 2025, 1022, 2022, 3022, 12026, 13026, 22026, 23026, 32026, 33026, 42026, 43026, 52026, 53026, 62026, 63026, 72026, 73026, 4027, 4022, 1013, 2013, 3013, 4013, 4021],
 	"autosystemscript":	[],
