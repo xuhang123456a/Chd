@@ -3,8 +3,8 @@
 		"loadtime":	0,
 		"diyitem":	"∆∆∑¿£® ÿª§£©",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
+		"diyother":	"’ŸªΩ ﬁ",
+		"diyawaken":	"5±¨…À Ø",
 		"tag":	16813,
 		"script":	"≤–»±±ﬂΩÁ",
 		"task":	0

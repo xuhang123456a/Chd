@@ -84,11 +84,11 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	true,
 	"main_mob_friend_sw":	true,
-	"main_mob_herbs":	true,
+	"main_mob_herbs":	false,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	true,
+	"main_mob_mineral":	false,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
@@ -230,7 +230,7 @@
 	"auto_set_reviveall_val":	50,
 	"auto_task_book_num":	3,
 	"auto_task_book_time1":	0,
-	"auto_task_book_time2":	30,
+	"auto_task_book_time2":	0,
 	"auto_team_room_playercount":	4,
 	"guild_diplomacy_min":	100,
 	"item_disassemble_item_time":	1,
@@ -1742,7 +1742,7 @@
 					"item":	""
 				}, {
 					"npc":	3,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -3060,14 +3060,14 @@
 			"diyawaken":	""
 		}, {
 			"id":	100081,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100082,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
@@ -3340,7 +3340,7 @@
 			"diyawaken":	""
 		}],
 	"trigger":	[{
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:03"
 			},
@@ -3349,7 +3349,7 @@
 				"退出到频道":	""
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:03"
 			},
@@ -3358,7 +3358,7 @@
 				"挂机控制":	"0"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -3367,7 +3367,7 @@
 				"更改自动脚本":	"连体经验魔发打一把"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -3376,7 +3376,7 @@
 				"更改自动副本模式":	""
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:06"
 			},
@@ -4741,7 +4741,7 @@
 							"地图内有首领":	""
 						}]
 				}, {
-					"sw":	false,
+					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"青苹果味全糖蜜果"

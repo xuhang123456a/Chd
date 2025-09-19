@@ -60,7 +60,7 @@ for target_file_path in target_files_path:
     target_json_content = read_json_file(target_file_path)
     # 修改 JSON 数据
     key = "guild_tribute_items"
-    new_value = "初级活力水滴;中级冒险家情报卷轴;高级冒险家情报卷轴;智之石;智之石碎片;闪闪发光的宝箱;达人冒险家情报卷轴;初级冒险家情报卷轴;外交印章：朱雀;中级活力水滴;黄金魔方;大师冒险家情报卷轴;治愈的碎片结晶;冲突的碎片结晶;美丽的碎片结晶;活跃的碎片结晶;座之石;大师活力水滴;炽之石;"
+    new_value = "初级活力水滴;中级活力水滴;大师活力水滴;初级冒险家情报卷轴;中级冒险家情报卷轴;高级冒险家情报卷轴;达人冒险家情报卷轴;大师冒险家情报卷轴;智之石;智之石碎片;闪闪发光的宝箱;外交印章：朱雀;黄金魔方;座之石;炽之石;治愈的碎片结晶;冲突的碎片结晶;美丽的碎片结晶;活跃的碎片结晶;"
     modified_json = modify_json_data(target_json_content, key, new_value)
     if modified_json:
         # 保存修改后的 JSON 文件

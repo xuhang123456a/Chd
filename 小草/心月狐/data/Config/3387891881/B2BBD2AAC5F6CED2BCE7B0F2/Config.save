@@ -755,7 +755,7 @@
 	"auto_team_world_room_leader":	false,
 	"auto_team_dream_room_name":	"﹎秋水伊人ゞ",
 	"auto_team_dream_room_namelist":	"11109355;能饮一杯无o\r11089496;山有木兮卿有意\r9892783;自然萌ご\r",
-	"auto_team_room_name":	"1477",
+	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r19674710;思念化清风\r19674708;微风拂青山っ\r",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
@@ -2250,7 +2250,7 @@
 					},
 					"judges":	[]
 				}, {
-					"sw":	false,
+					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"蓝草莓味全糖蜜果"
@@ -4581,7 +4581,7 @@
 					},
 					"judges":	[]
 				}, {
-					"sw":	true,
+					"sw":	false,
 					"sleep":	"1",
 					"execute":	{
 						"使用物品":	"一袋粉色家族水晶"

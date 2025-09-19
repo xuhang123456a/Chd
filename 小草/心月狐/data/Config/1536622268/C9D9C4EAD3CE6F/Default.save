@@ -656,7 +656,12 @@
 		}],
 	"protec_recover_data":	{
 	},
-	"item_buff_data":	[],
+	"item_buff_data":	[{
+			"sw":	true,
+			"type":	"外交",
+			"name":	"尘世城-索尔",
+			"hard":	false
+		}],
 	"skill_attack_data":	[{
 			"sw":	true,
 			"id":	1803704,
@@ -1050,7 +1055,7 @@
 					"item":	""
 				}, {
 					"npc":	3,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"item":	""
 				}, {
@@ -1177,7 +1182,7 @@
 				}]
 		}, {
 			"id":	6,
-			"sw":	true,
+			"sw":	false,
 			"npcdata":	[{
 					"npc":	26,
 					"sw1":	true,
@@ -1249,7 +1254,7 @@
 				}]
 		}, {
 			"id":	9,
-			"sw":	true,
+			"sw":	false,
 			"npcdata":	[{
 					"npc":	41,
 					"sw1":	true,
@@ -1273,7 +1278,7 @@
 				}]
 		}, {
 			"id":	10,
-			"sw":	true,
+			"sw":	false,
 			"npcdata":	[{
 					"npc":	46,
 					"sw1":	false,
@@ -1321,7 +1326,7 @@
 				}]
 		}, {
 			"id":	12,
-			"sw":	true,
+			"sw":	false,
 			"npcdata":	[{
 					"npc":	56,
 					"sw1":	false,
@@ -2808,7 +2813,7 @@
 							"地图内有首领":	""
 						}]
 				}, {
-					"sw":	false,
+					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"青苹果味全糖蜜果"
@@ -5252,6 +5257,13 @@
 					"judges":	[{
 							"在地图":	"藏宝洞1_36100;藏宝洞2_36101;藏宝洞3_36102;藏宝洞4_36103;藏宝洞5_36104;藏宝洞6_36105;藏宝洞7_36106;藏宝洞8_36107;"
 						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"证明之塔奖励宝箱"
+					},
+					"judges":	[]
 				}]
 		}],
 	"pet_build":	[{
