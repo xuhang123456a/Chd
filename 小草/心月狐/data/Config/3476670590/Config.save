@@ -1,4 +1,7 @@
 {
+	"auto_login_end":	false,
+	"synchro_nodes_luaconfig":	false,
+	"auto_login_end_val":	0,
 	"diysuit_user_item":	{
 	},
 	"diysuit_property":	[{

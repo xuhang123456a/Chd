@@ -46,7 +46,7 @@
 	"item_buff_indun":	true,
 	"item_buff_sw":	true,
 	"item_builtin_sw":	false,
-	"item_disassemble_item_sw":	false,
+	"item_disassemble_item_sw":	true,
 	"item_pick_3":	false,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
@@ -790,55 +790,65 @@
 					"npc":	1,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	2,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	3,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	4,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	20,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
 			"id":	2,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	6,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	7,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	8,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	9,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	5,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -848,26 +858,31 @@
 					"npc":	11,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	12,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	13,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	14,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	40,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -877,21 +892,25 @@
 					"npc":	16,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	17,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	18,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	19,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -901,26 +920,31 @@
 					"npc":	21,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	22,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	23,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	24,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	35,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -930,21 +954,25 @@
 					"npc":	26,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	27,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	28,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	29,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -954,21 +982,25 @@
 					"npc":	31,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	32,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	33,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	34,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -978,21 +1010,25 @@
 					"npc":	36,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	37,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	38,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	39,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1002,21 +1038,25 @@
 					"npc":	41,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	42,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	43,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	44,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1026,21 +1066,25 @@
 					"npc":	46,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	47,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	48,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	49,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1050,21 +1094,25 @@
 					"npc":	51,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	52,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	53,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	54,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1074,21 +1122,25 @@
 					"npc":	56,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	57,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	58,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	59,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}],
@@ -1721,6 +1773,30 @@
 			"execute":	{
 				"使用物品":	"神秘的博物馆移动符咒(2层)"
 			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"[无]":	""
+			},
+			"judge":	[{
+					"地图内无首领":	""
+				}, {
+					"搜索内有怪":	""
+				}],
+			"execute":	{
+				"超越加点1P":	""
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"[无]":	""
+			},
+			"judge":	[{
+					"搜索内有首领":	""
+				}],
+			"execute":	{
+				"超越加点2P":	""
+			}
 		}],
 	"diytrigger":	[],
 	"pet_build":	[],
@@ -1771,7 +1847,19 @@
 		"[通用]位移技能左右释放":	false
 	},
 	"revive_diy":	[],
-	"item_filter_disassemble":	[],
+	"item_filter_disassemble":	[{
+			"sw":	true,
+			"vague":	true,
+			"name":	"索拉",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}],
 	"chaosbranch":	[4001, 3001, 2001, 1001, 4003, 3003, 2003, 1003, 4002, 3002, 2002, 1002, 4016, 4012, 3012, 2012, 1012, 4011, 3011, 2011, 1011, 4015, 4004, 3004, 2004, 1004, 4005, 3005, 2005, 1005, 4022, 3022, 2022, 1022, 4021, 3021, 2021, 1021, 4017, 3017, 2017, 1017, 4018, 3018, 2018, 1018, 4019, 3019, 2019, 1019, 4020, 3020, 2020, 1020, 4006, 3006, 2006, 1006, 4007, 3007, 2007, 1007, 4008, 3008, 2008, 1008, 4009, 3009, 2009, 1009, 4014, 3014, 2014, 1014, 12026, 13026, 22026, 23026, 32026, 33026, 42026, 43026, 52026, 53026, 4010, 3010, 2010, 1010, 13025, 23025, 33025, 43025, 53025, 11025, 21025, 31025, 41025, 51025, 4023, 3023, 2023, 1023, 4024, 3024, 2024, 1024, 4013, 3013, 2013, 1013, 1026, 4028, 3028, 2028, 1028, 1033, 2033, 3033, 4033, 1029, 2029, 3029, 4029, 1030, 2030, 3030, 4030, 1031, 2031, 3031, 4031, 1032, 2032, 3032, 4032, 63025, 73025, 61025, 71025, 1034, 2034, 3034, 4034, 2025, 62026, 63026, 72026, 73026, 4027],
 	"autosystemscript":	[],
 	"shak_skill":	[],

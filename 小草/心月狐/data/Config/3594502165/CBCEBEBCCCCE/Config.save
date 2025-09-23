@@ -437,55 +437,65 @@
 					"npc":	1,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	2,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	3,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	4,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	20,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
 			"id":	2,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	6,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	7,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	8,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	9,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	5,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -495,26 +505,31 @@
 					"npc":	11,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	12,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	13,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	14,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	40,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -524,21 +539,25 @@
 					"npc":	16,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	17,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	18,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	19,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -548,26 +567,31 @@
 					"npc":	21,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	22,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	23,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	24,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	35,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -577,21 +601,25 @@
 					"npc":	26,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	27,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	28,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	29,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -601,21 +629,25 @@
 					"npc":	31,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	32,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	33,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	34,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -625,21 +657,25 @@
 					"npc":	36,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	37,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	38,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	39,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -649,21 +685,25 @@
 					"npc":	41,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	42,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	43,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	44,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -673,21 +713,25 @@
 					"npc":	46,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	47,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	48,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	49,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -697,21 +741,25 @@
 					"npc":	51,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	52,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	53,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	54,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -721,21 +769,25 @@
 					"npc":	56,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	57,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	58,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	59,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}],
@@ -882,9 +934,21 @@
 	"item_pick_filter_12":	true,
 	"item_pick_filter_13":	true,
 	"item_pick_filter_14":	false,
-	"item_disassemble_item_sw":	false,
+	"item_disassemble_item_sw":	true,
 	"item_disassemble_item_time":	1,
-	"item_filter_disassemble":	[],
+	"item_filter_disassemble":	[{
+			"sw":	true,
+			"vague":	true,
+			"name":	"索拉",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}],
 	"item_filter_1":	[],
 	"item_filter_2":	[300111401, 300111801, 190160101, 190160201, 190160301, 190160401, 190160501, 190190313, 190197501],
 	"item_filter_3":	[300111401, 300111801, 190160501, 190160401, 190160301, 190160201, 190160101, 190190313, 190197501],
@@ -954,6 +1018,30 @@
 				}],
 			"execute":	{
 				"使用物品":	"神秘的博物馆移动符咒(2层)"
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"[无]":	""
+			},
+			"judge":	[{
+					"地图内无首领":	""
+				}, {
+					"搜索内有怪":	""
+				}],
+			"execute":	{
+				"超越加点1P":	""
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"[无]":	""
+			},
+			"judge":	[{
+					"搜索内有首领":	""
+				}],
+			"execute":	{
+				"超越加点2P":	""
 			}
 		}],
 	"dress_text":	[]

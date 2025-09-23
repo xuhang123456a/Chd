@@ -27,24 +27,24 @@ def diysuit_modification(data, target_data):
 
 # 获取脚本所在目录
 script_dir = Path(__file__).parent.resolve()
-file_path = script_dir / "搭配-觉醒搭配.txt"
+file_path = script_dir / "搭配-觉装备搭配.txt"
 json_content = read_json_file(file_path)
 target_path = script_dir.parent.parent / "心月狐" / "data" / "Config" 
 target_files_path = [
     # ["﹎秋水伊人ゞ", "1536622268\\A96DC7EFCBAED2C1C8CBA967"],
     # ["晚来天欲雪o", "1536622268\\CDEDC0B4CCECD3FBD1A96F"],
     # ["小姐姐", "1536622268\\D7FAD7FAD7FAD7FAD7FAD0A1BDE3BDE3"],
-    ["云青青兮欲雨", "1536622268\\D4C6C7E0C7E0D9E2D3FBD3EAFE5D"],
-    ["满船清梦压星河Q", "1536622268\\C2FAB4ACC7E5C3CED1B9D0C7BAD351"],
-    ["能饮一杯无o", "1536622268\\C4DCD2FBD2BBB1ADCEDE6F"],
-    ["醉后不知天在水o", "1536622268\\D7EDBAF3B2BBD6AACCECD4DACBAE6F"],
-    ["→酷我音乐→", "1536622268\\A1FABFE1CED2D2F4C0D6A1FA"],
-    ["酷狗音乐ā", "1536622268\\BFE1B9B7D2F4C0D6A8A1"],
-    ["℃ベ裸装", "1536622268\\A1E6A5D9A8FDA8FDC2E3D7B0"],
-    ["终不似o", '1536622268\\D6D5B2BBCBC66F'],
-    ["最是人间留不住o", "1536622268\\D7EECAC7C8CBBCE4C1F4B2BBD7A16F"],
-    ["水澹澹兮生烟", "1536622268\\CBAEE5A3E5A3D9E2C9FAD1CCFE5D"],
-    ["少年游o", "1536622268\\C9D9C4EAD3CE6F"],
+    # ["云青青兮欲雨", "1536622268\\D4C6C7E0C7E0D9E2D3FBD3EAFE5D"],
+    # ["满船清梦压星河Q", "1536622268\\C2FAB4ACC7E5C3CED1B9D0C7BAD351"],
+    # ["能饮一杯无o", "1536622268\\C4DCD2FBD2BBB1ADCEDE6F"],
+    # ["醉后不知天在水o", "1536622268\\D7EDBAF3B2BBD6AACCECD4DACBAE6F"],
+    # ["→酷我音乐→", "1536622268\\A1FABFE1CED2D2F4C0D6A1FA"],
+    # ["酷狗音乐ā", "1536622268\\BFE1B9B7D2F4C0D6A8A1"],
+    # ["℃ベ裸装", "1536622268\\A1E6A5D9A8FDA8FDC2E3D7B0"],
+    # ["终不似o", '1536622268\\D6D5B2BBCBC66F'],
+    # ["最是人间留不住o", "1536622268\\D7EECAC7C8CBBCE4C1F4B2BBD7A16F"],
+    # ["水澹澹兮生烟", "1536622268\\CBAEE5A3E5A3D9E2C9FAD1CCFE5D"],
+    # ["少年游o", "1536622268\\C9D9C4EAD3CE6F"],
 
     # ["你到底吻不吻我o", "3387891881\\C4E3B5BDB5D7CEC7B2BBCEC7CED26F"],
     # ["来去荒芜", "3387891881\\C0B4C8A5BBC4CEDF"],
@@ -67,6 +67,7 @@ target_files_path = [
     # ["傻海我们走~", "3476670590\\C9B5BAA3CED2C3C7D7DF7E"],
     # ["BaLl,", "3476670590\\42614C6C2C"],
     # ["蓝莓ご", "3476670590\\D7FCD7FCC0B6DDAEA4B4"],
+    # ["boll,", "3476670590\\626F6C6C"],
     # ["萌萌仓库-格挡","3476670590\\C3C8C3C8B2D6BFE22DB8F1B5B2"],
     # ["萌萌仓库-爆率","3476670590\\C3C8C3C8B2D6BFE22DB1ACC2CA"],
     # ["芝士羊绒ご","3476670590\\D7FCD7FCD6A5CABFD1F2C8DEA4B4"],

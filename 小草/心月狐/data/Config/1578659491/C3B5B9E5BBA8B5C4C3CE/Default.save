@@ -5,7 +5,7 @@
 	"auto_end_lua":	false,
 	"auto_end_plan":	true,
 	"auto_load_change":	false,
-	"auto_load_task":	false,
+	"auto_load_task":	true,
 	"auto_load_team":	true,
 	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
@@ -220,7 +220,7 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	10,
+	"auto_load_wait_val":	5,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	5,
 	"auto_set_boss_hp_val":	20,
@@ -633,7 +633,7 @@
 			},
 			"item":	"高级HP潜力药水"
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"Judge1":	{
 				"HP<=%":	"111"
 			},
@@ -4867,90 +4867,6 @@
 					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
-						"使用物品":	"【奈落】8层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】9层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】10层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】11层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】12层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】13层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】14层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】15层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】16层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】17层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】18层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"【奈落】19层护身宝石通关礼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
 						"使用物品":	"【奈落】20层护身宝石通关礼包"
 					},
 					"judges":	[]
@@ -4980,13 +4896,6 @@
 					"sleep":	"1",
 					"execute":	{
 						"使用物品":	"燃炼包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"清凉八月礼包"
 					},
 					"judges":	[]
 				}, {
@@ -5315,20 +5224,6 @@
 					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
-						"使用物品":	"新年红包"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"蛇年卡片盒"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
 						"使用物品":	"软噗噗的招魂盒"
 					},
 					"judges":	[]
@@ -5431,13 +5326,6 @@
 					},
 					"judges":	[]
 				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"努特的招魂盒"
-					},
-					"judges":	[]
-				}, {
 					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
@@ -5488,6 +5376,20 @@
 					"judges":	[{
 							"在地图":	"藏宝洞1_36100;藏宝洞2_36101;藏宝洞3_36102;藏宝洞4_36103;藏宝洞5_36104;藏宝洞6_36105;藏宝洞7_36106;藏宝洞8_36107;"
 						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"证明之塔奖励宝箱"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"努特的招魂盒"
+					},
+					"judges":	[]
 				}]
 		}],
 	"pet_build":	[{

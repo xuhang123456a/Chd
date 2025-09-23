@@ -1,0 +1,62 @@
+[ 9-23  2:14: 4]:RECV : 0BEBE6D1
+[ 9-23  7:27: 1]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\mss32.dll+1510,eax=102,ecx=4C9CA5C4,edx=0,edi=77963340,esi=77963320
+[ 9-23  7:27: 1]:Module: E:\Game\ChdOnline\Game\�ʺ絺Online\mss32.dll Function:AIL_get_preference
+[ 9-23  7:27: 1]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23  7:27: 1]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23  8:23:29]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=559C67CC,edx=0,edi=0,esi=0
+[ 9-23  8:23:30]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23  8:23:30]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 12:24:56]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=95C9E3CC,edx=0,edi=0,esi=0
+[ 9-23 12:24:57]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 12:24:57]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 12:25:28]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=9904A72C,edx=0,edi=0,esi=0
+[ 9-23 12:25:28]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 12:25:28]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 14:53:37]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=5747260C,edx=0,edi=0,esi=0
+[ 9-23 14:53:37]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 14:53:37]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 15:32:46]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=5CF3D50C,edx=0,edi=0,esi=0
+[ 9-23 15:32:47]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 15:32:47]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 15:38:32]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=459C5D4C,edx=0,edi=0,esi=0
+[ 9-23 15:38:32]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 15:38:32]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 15:38:46]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+33CDBF,eax=19F98C,ecx=0,edx=F,edi=1,esi=19F920
+[ 9-23 15:38:46]:Module: C:\Windows\System32\USER32.dll Function:GetClassLongW
+[ 9-23 15:38:46]:Module: C:\Windows\System32\USER32.dll Function:GetClassLongW
+[ 9-23 15:38:46]:Module: C:\Windows\System32\USER32.dll Function:CallNextHookEx
+[ 9-23 15:38:46]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:KiUserCallbackDispatcher
+[ 9-23 15:38:46]:Module: C:\Windows\System32\USER32.dll Function:PeekMessageA
+[ 9-23 15:38:46]:Module: C:\Windows\System32\KERNEL32.DLL Function:BaseThreadInitThunk
+[ 9-23 15:38:46]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 15:38:46]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 16:46: 8]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=558AABAC,edx=0,edi=0,esi=0
+[ 9-23 16:46: 9]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 16:46: 9]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 16:49:56]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=8F123C4C,edx=0,edi=0,esi=0
+[ 9-23 16:49:56]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 16:49:56]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 16:52:36]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=6BEE2E8C,edx=0,edi=0,esi=0
+[ 9-23 16:52:36]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 16:52:36]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 17:15:11]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=830784CC,edx=0,edi=0,esi=0
+[ 9-23 17:15:11]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 17:15:11]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 17:17:23]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=556D2B2C,edx=0,edi=0,esi=0
+[ 9-23 17:17:23]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 17:17:23]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 17:22:59]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=6779D22C,edx=0,edi=0,esi=0
+[ 9-23 17:22:59]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 17:22:59]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 18: 4:44]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=828D74CC,edx=0,edi=0,esi=0
+[ 9-23 18: 4:44]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 18: 4:44]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 18:26:15]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=7AFC838C,edx=0,edi=0,esi=0
+[ 9-23 18:26:15]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 18:26:15]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 18:28:43]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=78F33BEC,edx=0,edi=0,esi=0
+[ 9-23 18:28:43]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 18:28:43]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 18:37: 0]:Module:E:\Game\ChdOnline\Game\�ʺ絺Online\LaTaleClient.exe+2,eax=0,ecx=577ECC2C,edx=0,edi=0,esi=0
+[ 9-23 18:37: 0]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
+[ 9-23 18:37: 0]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath

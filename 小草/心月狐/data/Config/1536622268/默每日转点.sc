@@ -1,22 +1,12 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	15424,
-		"script":	"薇娅斯梦境",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	10383,
-		"script":	"失魂寺",
+		"diyawaken":	"",
+		"tag":	28087,
+		"script":	"更换切换角色表1",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -25,8 +15,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11329,
-		"script":	"退出组队",
+		"tag":	4353,
+		"script":	"（直接重置）清空副本&切换角色状态",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -35,7 +25,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	21361,
+		"tag":	19526,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]
