@@ -83,11 +83,11 @@
 	"main_mob_distance_change":	false,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	true,
-	"main_mob_herbs":	true,
+	"main_mob_herbs":	false,
 	"main_mob_indun":	false,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	true,
+	"main_mob_mineral":	false,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
@@ -121,7 +121,7 @@
 	"path_line_deliver_sw":	false,
 	"path_line_exchange_back_sw":	false,
 	"path_line_exchange_sw":	false,
-	"path_line_itemtime_sw":	true,
+	"path_line_itemtime_sw":	false,
 	"path_line_name_sw":	false,
 	"path_line_settings_sw":	false,
 	"path_line_team_sw":	true,
@@ -288,7 +288,7 @@
 	"summon_automatic_zhs_refresh7":	0,
 	"team_accept_allot":	2,
 	"btn_color_1":	8388863,
-	"btn_color_10":	9673911,
+	"btn_color_10":	16711680,
 	"btn_color_12":	1447971,
 	"btn_color_2":	16384000,
 	"btn_color_5":	1447971,
@@ -300,6 +300,15 @@
 	"item_filter_3":	[300111401, 300111801, 190160501, 190160401, 190160301, 190160201, 190160101, 190190313, 190197501],
 	"item_filter_4":	[],
 	"item_use_data":	[{
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"70"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 小型樱桃药水"
+		}, {
 			"sw":	true,
 			"Judge1":	{
 				"HP<=%":	"35"
@@ -940,9 +949,9 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"2362",
-			"y":	"1263",
-			"pos1":	"左&右[无]",
+			"x":	"3127",
+			"y":	"1391",
+			"pos1":	"左跑",
 			"pos2":	"右跑",
 			"judge":	{
 				"":	""
@@ -952,9 +961,9 @@
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3167",
-			"y":	"1263",
-			"pos1":	"左&右[无]",
+			"x":	"3726",
+			"y":	"1391",
+			"pos1":	"右跑",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
@@ -963,24 +972,16 @@
 				"":	""
 			}
 		}, {
-			"type":	"模拟↑键",
-			"x":	"2900",
-			"y":	"1263",
-			"pos1":	"右跑",
-			"pos2":	"右跑",
+			"type":	"转身&执行额外",
+			"x":	"3447",
+			"y":	"1391",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"2839",
-			"y":	"1263",
-			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
-			"execute":	{
-				"初始化副本":	""
+				"彩虹副本传送":	"空中战场"
 			}
 		}],
 	"script_trigger_data":	[],
@@ -1972,17 +1973,6 @@
 		}, {
 			"sw":	true,
 			"tigger":	{
-				"无金钱变化":	"300"
-			},
-			"judge":	[{
-					"在地图":	"贝罗斯城市_200;"
-				}],
-			"execute":	{
-				"使用物品":	"神秘的博物馆移动符咒(2层)"
-			}
-		}, {
-			"sw":	true,
-			"tigger":	{
 				"[无]":	""
 			},
 			"judge":	[{
@@ -2003,6 +1993,92 @@
 				}],
 			"execute":	{
 				"超越加点2P":	""
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"指定时间":	"00:05"
+			},
+			"judge":	[],
+			"execute":	{
+				"使用物品":	"艾丽娅斯传送石"
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"指定时间":	"00:05"
+			},
+			"judge":	[],
+			"execute":	{
+				"挂机控制":	"0"
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"指定时间":	"00:05"
+			},
+			"judge":	[],
+			"execute":	{
+				"退出到角色":	""
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"指定时间":	"00:06"
+			},
+			"judge":	[],
+			"execute":	{
+				"切换脚本":	"传送巧克力花园"
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"指定时间":	"00:07"
+			},
+			"judge":	[],
+			"execute":	{
+				"挂机控制":	"1"
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"游戏提示":	"超过每日/周进入次数."
+			},
+			"judge":	[{
+					"在地图":	"无限回廊_18402;"
+				}],
+			"execute":	{
+				"切换脚本":	"传送拉之城墙"
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"游戏提示":	"超过每日/周进入次数."
+			},
+			"judge":	[{
+					"在地图":	"阿玛伦沙漠3_38802;"
+				}],
+			"execute":	{
+				"切换脚本":	"传送欧若拉庭院"
+			}
+		}, {
+			"sw":	true,
+			"tigger":	{
+				"游戏提示":	"超过每日/周进入次数."
+			},
+			"judge":	[{
+					"在地图":	"欧若拉森林 6_33605;"
+				}],
+			"execute":	{
+				"使用物品":	"神秘的博物馆移动符咒(2层)"
+			}
+		}, {
+			"sw":	false,
+			"tigger":	{
+				"到达地图":	"超过每日/周进入次数."
+			},
+			"judge":	[],
+			"execute":	{
 			}
 		}],
 	"diytrigger":	[],
@@ -2058,6 +2134,10 @@
 			"sw":	true,
 			"type":	1,
 			"map":	"拉之城墙6_39006"
+		}, {
+			"sw":	true,
+			"type":	0,
+			"map":	"瀑布丛林5_37106"
 		}],
 	"item_filter_disassemble":	[{
 			"sw":	true,

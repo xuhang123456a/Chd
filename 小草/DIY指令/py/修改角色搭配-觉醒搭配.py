@@ -27,7 +27,7 @@ def diysuit_modification(data, target_data):
 
 # 获取脚本所在目录
 script_dir = Path(__file__).parent.resolve()
-file_path = script_dir / "搭配-觉装备搭配.txt"
+file_path = script_dir / "搭配-觉醒搭配.txt"
 json_content = read_json_file(file_path)
 target_path = script_dir.parent.parent / "心月狐" / "data" / "Config" 
 target_files_path = [

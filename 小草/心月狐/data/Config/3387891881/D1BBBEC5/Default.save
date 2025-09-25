@@ -9,7 +9,6 @@
 	"auto_load_team":	true,
 	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
-	"auto_login_end":	false,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
 	"auto_set_boss_deliver":	false,
@@ -25,6 +24,7 @@
 	"auto_team_room_leader":	false,
 	"auto_team_world_room_leader":	false,
 	"automatic_book":	true,
+	"automatic_diceboard":	false,
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
 	"automatic_explorer":	true,
@@ -36,7 +36,6 @@
 	"automatic_phb":	false,
 	"automatic_pupu":	false,
 	"automatic_schedule":	true,
-	"automatic_skill_update_entrepot":	true,
 	"automatic_skill_update_sw":	true,
 	"automatic_subjoin_cwzx":	true,
 	"automatic_taskRemote":	true,
@@ -173,6 +172,7 @@
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	true,
 	"skill_option_lr_boss":	true,
+	"skill_option_mounts":	false,
 	"skill_option_platform_skill":	true,
 	"skill_option_repeat":	false,
 	"skill_option_slide_off":	true,
@@ -233,6 +233,7 @@
 	"auto_task_book_time2":	30,
 	"auto_team_room_playercount":	4,
 	"guild_diplomacy_min":	300,
+	"guild_diplomacy_min2":	300,
 	"item_disassemble_item_time":	0,
 	"item_pick_time":	0,
 	"item_throw_1_begin":	1,
@@ -258,7 +259,6 @@
 	"team_follow_y":	300,
 	"trigger_timer_sleep":	20,
 	"auto_end_plan_val":	1,
-	"auto_login_end_val":	0,
 	"auto_set_boss_hp_show":	1,
 	"auto_set_boss_hp_type":	0,
 	"automatic_pupu_val":	0,
@@ -641,6 +641,15 @@
 				"[ÎÞ]":	""
 			},
 			"item":	"ÌØ¼¶ÑªÂöË®¾§(°ó¶¨)"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"RPÖµ<=":	"20"
+			},
+			"Judge2":	{
+				"[ÎÞ]":	""
+			},
+			"item":	"ÖÐ¼¶ÈËÆ·ÄÜÁ¿¼Á"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
@@ -943,26 +952,25 @@
 					"npc":	1,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	2,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	3,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	4,
 					"sw1":	false,
 					"sw2":	false,
-					"item":	""
-				}, {
-					"npc":	20,
-					"sw1":	false,
-					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -972,26 +980,25 @@
 					"npc":	6,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	7,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	8,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	9,
 					"sw1":	false,
 					"sw2":	false,
-					"item":	""
-				}, {
-					"npc":	5,
-					"sw1":	false,
-					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1001,26 +1008,31 @@
 					"npc":	11,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	12,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	13,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	14,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	40,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1030,21 +1042,25 @@
 					"npc":	16,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	17,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	18,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	19,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1054,26 +1070,25 @@
 					"npc":	21,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	22,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	23,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	24,
 					"sw1":	false,
 					"sw2":	false,
-					"item":	""
-				}, {
-					"npc":	35,
-					"sw1":	false,
-					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1083,21 +1098,25 @@
 					"npc":	26,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	27,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	28,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	29,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1107,21 +1126,25 @@
 					"npc":	31,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	32,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	33,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	34,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1131,21 +1154,25 @@
 					"npc":	36,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	37,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	38,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	39,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1155,21 +1182,25 @@
 					"npc":	41,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	42,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	43,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	44,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1179,21 +1210,25 @@
 					"npc":	46,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	47,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	48,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	49,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1203,21 +1238,25 @@
 					"npc":	51,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	52,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	53,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	54,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1227,21 +1266,25 @@
 					"npc":	56,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	57,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	58,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	59,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}],
@@ -1259,6 +1302,14 @@
 		"Ò°Íâµ¹¼ÆÊ±":	false
 	},
 	"auto_card":	[{
+			"id":	1437,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
 			"id":	4350,
 			"num1":	0,
 			"num2":	0,
@@ -4970,7 +5021,8 @@
 		"[»ÔÒ«½£Éñ]ÍêÃÀÄÉµ¶":	false,
 		"[Ó¢ÐÛ(µ¶)]Á¬ÕÐ":	true,
 		"[Ó¢ÐÛ(Ç¹)]Á¬ÕÐ":	false,
-		"[½£Ê¥]Ê®×ÖÁé»êÃØ¼¼":	false,
+		"[½£Ê¥]Ê®×ÖÖ®ÈÐÃØ¼¼":	false,
+		"[½£Ê¥]Áé»êÖ®ÈÐÃØ¼¼":	false,
 		"[½£Ê¥]ÍüÈ´(Ê®×ÖÖ®ÈÐ)":	true,
 		"[½£Ê¥]ÍüÈ´(Áé»êÖ®ÈÐ)":	true,
 		"[½£Ê¥]ÖÇÄÜÃØ¼¼":	false,

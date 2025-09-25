@@ -9,7 +9,6 @@
 	"auto_load_team":	true,
 	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
-	"auto_login_end":	false,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
 	"auto_set_boss_deliver":	false,
@@ -25,6 +24,7 @@
 	"auto_team_room_leader":	false,
 	"auto_team_world_room_leader":	false,
 	"automatic_book":	true,
+	"automatic_diceboard":	false,
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
 	"automatic_explorer":	true,
@@ -36,7 +36,6 @@
 	"automatic_phb":	false,
 	"automatic_pupu":	false,
 	"automatic_schedule":	true,
-	"automatic_skill_update_entrepot":	true,
 	"automatic_skill_update_sw":	true,
 	"automatic_subjoin_cwzx":	true,
 	"automatic_taskRemote":	true,
@@ -173,6 +172,7 @@
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	true,
 	"skill_option_lr_boss":	true,
+	"skill_option_mounts":	true,
 	"skill_option_platform_skill":	true,
 	"skill_option_repeat":	false,
 	"skill_option_slide_off":	false,
@@ -233,6 +233,7 @@
 	"auto_task_book_time2":	30,
 	"auto_team_room_playercount":	4,
 	"guild_diplomacy_min":	300,
+	"guild_diplomacy_min2":	300,
 	"item_disassemble_item_time":	1,
 	"item_pick_time":	0,
 	"item_throw_1_begin":	1,
@@ -258,7 +259,6 @@
 	"team_follow_y":	300,
 	"trigger_timer_sleep":	20,
 	"auto_end_plan_val":	1,
-	"auto_login_end_val":	0,
 	"auto_set_boss_hp_show":	1,
 	"auto_set_boss_hp_type":	0,
 	"automatic_pupu_val":	0,
@@ -673,19 +673,6 @@
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	66,
-			"name":	"圣物技能",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	4
-		}, {
-			"sw":	true,
 			"id":	3820001,
 			"name":	"魔法球板",
 			"dmin":	0,
@@ -710,6 +697,32 @@
 			"speedx":	false,
 			"judge":	[],
 			"num":	4
+		}, {
+			"sw":	true,
+			"id":	7001213,
+			"name":	"解除封印卡组A",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	7001214,
+			"name":	"解除封印卡组B",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[],
+			"num":	0
 		}, {
 			"sw":	true,
 			"id":	1311147,
@@ -738,8 +751,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2212004,
-			"name":	"威能爆破卡牌",
+			"id":	1802417,
+			"name":	"[无限]银河之战",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -751,8 +764,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	7001214,
-			"name":	"解除封印卡组B",
+			"id":	3804904,
+			"name":	"【觉醒】",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -777,8 +790,8 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	3804904,
-			"name":	"【觉醒】",
+			"id":	2212004,
+			"name":	"威能爆破卡牌",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -805,32 +818,6 @@
 			"sw":	true,
 			"id":	2212007,
 			"name":	"光明卡牌组",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	7001213,
-			"name":	"解除封印卡组A",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1802417,
-			"name":	"[无限]银河之战",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -1018,12 +1005,6 @@
 					"sw2":	false,
 					"num":	0,
 					"item":	""
-				}, {
-					"npc":	20,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
 				}]
 		}, {
 			"id":	2,
@@ -1048,12 +1029,6 @@
 					"item":	""
 				}, {
 					"npc":	9,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	5,
 					"sw1":	false,
 					"sw2":	false,
 					"num":	0,
@@ -1144,12 +1119,6 @@
 					"item":	""
 				}, {
 					"npc":	24,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	35,
 					"sw1":	false,
 					"sw2":	false,
 					"num":	0,
@@ -1366,6 +1335,14 @@
 		"野外倒计时":	false
 	},
 	"auto_card":	[{
+			"id":	1437,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
 			"id":	4350,
 			"num1":	0,
 			"num2":	0,
@@ -5185,7 +5162,8 @@
 		"[辉耀剑神]完美纳刀":	false,
 		"[英雄(刀)]连招":	false,
 		"[英雄(枪)]连招":	false,
-		"[剑圣]十字灵魂秘技":	false,
+		"[剑圣]十字之刃秘技":	false,
+		"[剑圣]灵魂之刃秘技":	false,
 		"[剑圣]忘却(十字之刃)":	false,
 		"[剑圣]忘却(灵魂之刃)":	false,
 		"[剑圣]智能秘技":	false,

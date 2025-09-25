@@ -641,6 +641,15 @@
 				"[无]":	""
 			},
 			"item":	"特级血脉水晶(绑定)"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"RP值<=":	"20"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级人品能量剂"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
@@ -949,12 +958,6 @@
 					"sw2":	false,
 					"num":	0,
 					"item":	""
-				}, {
-					"npc":	20,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
 				}]
 		}, {
 			"id":	2,
@@ -979,12 +982,6 @@
 					"item":	""
 				}, {
 					"npc":	9,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	5,
 					"sw1":	false,
 					"sw2":	false,
 					"num":	0,
@@ -1075,12 +1072,6 @@
 					"item":	""
 				}, {
 					"npc":	24,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	35,
 					"sw1":	false,
 					"sw2":	false,
 					"num":	0,
@@ -1297,6 +1288,14 @@
 		"野外倒计时":	false
 	},
 	"auto_card":	[{
+			"id":	1437,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
 			"id":	4350,
 			"num1":	0,
 			"num2":	0,

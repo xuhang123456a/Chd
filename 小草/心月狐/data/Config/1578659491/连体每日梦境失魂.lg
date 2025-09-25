@@ -3,47 +3,55 @@
 		"name":	"山有木兮卿有意",
 		"autoscript":	"连体每日梦境失魂",
 		"item":	"连体存取",
+		"item2":	"",
 		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
 	}, {
 		"index":	129516375,
 		"name":	"糯米Nomi",
 		"autoscript":	"连体每日梦境失魂",
 		"item":	"连体存取",
+		"item2":	"",
 		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
 	}, {
 		"index":	129518500,
 		"name":	"若惊鸿一梦",
 		"autoscript":	"连体每日梦境失魂",
 		"item":	"连体存取",
+		"item2":	"",
 		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
 	}, {
 		"index":	129525906,
 		"name":	"秋意也泛舟",
 		"autoscript":	"连体每日梦境失魂",
 		"item":	"连体存取",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	17125531,
 		"name":	"弥猫深巷離人心",
 		"autoscript":	"连体每日梦境失魂",
 		"item":	"连体存取",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	17127765,
 		"name":	"玫瑰花的梦",
 		"autoscript":	"连体每日梦境失魂",
 		"item":	"连体存取",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	17130265,
 		"name":	"诉萌",
 		"autoscript":	"连体每日梦境失魂",
 		"item":	"连体存取",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	178898578,
 		"name":	"山有木兮卿有意",
 		"autoscript":	"a多角色切换正常打本",
 		"item":	"连体存取",
+		"item2":	"",
 		"item_other":	""
 	}]
