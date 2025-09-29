@@ -83,11 +83,11 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	true,
+	"main_mob_herbs":	false,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	true,
+	"main_mob_mineral":	false,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
@@ -174,6 +174,7 @@
 	"skill_option_lr_boss":	true,
 	"skill_option_mounts":	false,
 	"skill_option_platform_skill":	false,
+	"skill_option_puppet":	false,
 	"skill_option_repeat":	true,
 	"skill_option_slide_off":	false,
 	"skill_option_sombra":	false,
@@ -197,12 +198,12 @@
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
 	"auto_team_dream_room_name":	"﹎秋水伊人ゞ",
-	"auto_team_dream_room_namelist":	"11109355;能饮一杯无o\r11089496;山有木兮卿有意\r9892783;自然萌ご\r",
+	"auto_team_dream_room_namelist":	"19674164;醉后不知天在水o\r9230548;︶温柔的吮吸．\r19709290;兰栀\r\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r19674710;思念化清风\r19674708;微风拂青山っ\r",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
-	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;中级冒险家情报卷轴;初级冒险家情报卷轴;高级冒险家情报卷轴;达人冒险家情报卷轴;中级活力水滴;黄金魔方;大师冒险家情报卷轴;闪闪发光的宝箱;美丽的碎片结晶;座之石;冲突的碎片结晶;活跃的碎片结晶;治愈的碎片结晶;",
+	"guild_tribute_items":	"初级活力水滴;中级冒险家情报卷轴;高级冒险家情报卷轴;智之石;智之石碎片;闪闪发光的宝箱;达人冒险家情报卷轴;初级冒险家情报卷轴;外交印章：朱雀;中级活力水滴;黄金魔方;大师冒险家情报卷轴;治愈的碎片结晶;冲突的碎片结晶;美丽的碎片结晶;活跃的碎片结晶;座之石;大师活力水滴;炽之石;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"Del",
@@ -857,20 +858,8 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"1124",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"65",
-			"y":	"1375",
+			"x":	"6140",
+			"y":	"1495",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
@@ -881,8 +870,56 @@
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3691",
-			"y":	"1375",
+			"x":	"5804",
+			"y":	"1495",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"1269",
+			"y":	"1456",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"上跳",
+			"x":	"5980",
+			"y":	"1495",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"跳跃控制":	"200"
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"5922",
+			"y":	"1295",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"6031",
+			"y":	"1295",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
@@ -893,10 +930,10 @@
 			}
 		}, {
 			"type":	"模拟↑键",
-			"x":	"2786",
-			"y":	"1375",
+			"x":	"5986",
+			"y":	"1295",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"右跑",
 			"judge":	{
 				"":	""
 			},
@@ -1019,12 +1056,6 @@
 					"sw2":	false,
 					"num":	0,
 					"item":	""
-				}, {
-					"npc":	20,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
 				}]
 		}, {
 			"id":	2,
@@ -1049,12 +1080,6 @@
 					"item":	""
 				}, {
 					"npc":	9,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	5,
 					"sw1":	false,
 					"sw2":	false,
 					"num":	0,
@@ -1145,12 +1170,6 @@
 					"item":	""
 				}, {
 					"npc":	24,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	35,
 					"sw1":	false,
 					"sw2":	false,
 					"num":	0,
@@ -1367,6 +1386,14 @@
 		"野外倒计时":	false
 	},
 	"auto_card":	[{
+			"id":	1437,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
 			"id":	4350,
 			"num1":	0,
 			"num2":	0,
@@ -3055,7 +3082,7 @@
 						"状态物品":	"拉皮德的铁盾药剂"
 					},
 					"judges":	[{
-							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;"
+							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;被吞噬的魔法办公楼6_114106;"
 						}]
 				}, {
 					"sw":	true,
@@ -3075,7 +3102,7 @@
 						"状态物品":	"哈密瓜味全糖蜜果"
 					},
 					"judges":	[{
-							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;"
+							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;被吞噬的魔法办公楼6_114106;"
 						}]
 				}, {
 					"sw":	true,
@@ -3816,7 +3843,7 @@
 			"judges":	[{
 					"sw":	true,
 					"judge":	{
-						"在副本":	"珊瑚之歌;魔发城堡;"
+						"在副本":	"珊瑚之歌;魔发城堡;普塞乌达里亚;"
 					}
 				}],
 			"executes":	[{
@@ -4012,7 +4039,7 @@
 				}, {
 					"sw":	true,
 					"judge":	{
-						"不在副本":	"珊瑚之歌;泡泡战舰;魔发城堡;"
+						"不在副本":	"珊瑚之歌;魔发城堡;普塞乌达里亚;"
 					}
 				}],
 			"executes":	[{

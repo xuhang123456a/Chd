@@ -1,6 +1,16 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	2726,
+		"script":	"进队长组",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"破防（守护）",
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
@@ -35,7 +45,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	5969,
-		"script":	"自动培养血脉战魂",
+		"tag":	12931,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]

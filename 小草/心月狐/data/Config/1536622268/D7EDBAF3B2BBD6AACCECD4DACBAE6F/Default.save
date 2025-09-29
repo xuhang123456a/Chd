@@ -83,11 +83,11 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	true,
+	"main_mob_herbs":	false,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	true,
+	"main_mob_mineral":	false,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
@@ -174,6 +174,7 @@
 	"skill_option_lr_boss":	true,
 	"skill_option_mounts":	false,
 	"skill_option_platform_skill":	true,
+	"skill_option_puppet":	false,
 	"skill_option_repeat":	false,
 	"skill_option_slide_off":	false,
 	"skill_option_sombra":	false,
@@ -196,13 +197,13 @@
 	"auto_end_lua_val":	"",
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
-	"auto_team_dream_room_name":	"乙骨犹太",
+	"auto_team_dream_room_name":	"陌辰",
 	"auto_team_dream_room_namelist":	"4775863;呆小ˇ宝\r10367444;剑行天下cuyk\r19206593;于适\r11056762;不要碰我肩膀\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"9939464;洞庭湖2015\r10583706;1打打\r3936125;洞庭湖-蓉\r9220371;变形金刚吕布赤兔\r16017392;在度归来?]\r18982752;__________坏??い\r19233774;云梦泽ヾ\r11056762;不要碰我肩膀\r11080238;还我漂漂拳丶\r",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
-	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;中级冒险家情报卷轴;高级冒险家情报卷轴;达人冒险家情报卷轴;初级冒险家情报卷轴;闪闪发光的宝箱;治愈的碎片结晶;黄金魔方;大师冒险家情报卷轴;冲突的碎片结晶;美丽的碎片结晶;活跃的碎片结晶;中级活力水滴;",
+	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;中级冒险家情报卷轴;高级冒险家情报卷轴;达人冒险家情报卷轴;初级冒险家情报卷轴;闪闪发光的宝箱;治愈的碎片结晶;黄金魔方;大师冒险家情报卷轴;冲突的碎片结晶;美丽的碎片结晶;活跃的碎片结晶;中级活力水滴;座之石;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"Del",
@@ -1116,12 +1117,6 @@
 					"sw2":	false,
 					"num":	0,
 					"item":	""
-				}, {
-					"npc":	20,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
 				}]
 		}, {
 			"id":	2,
@@ -1146,12 +1141,6 @@
 					"item":	""
 				}, {
 					"npc":	9,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	5,
 					"sw1":	false,
 					"sw2":	false,
 					"num":	0,
@@ -1242,12 +1231,6 @@
 					"item":	""
 				}, {
 					"npc":	24,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	35,
 					"sw1":	false,
 					"sw2":	false,
 					"num":	0,
@@ -1464,6 +1447,14 @@
 		"野外倒计时":	false
 	},
 	"auto_card":	[{
+			"id":	1437,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
 			"id":	4350,
 			"num1":	0,
 			"num2":	0,
@@ -3713,7 +3704,7 @@
 			"judges":	[{
 					"sw":	true,
 					"judge":	{
-						"在副本":	"珊瑚之歌;魔发城堡;"
+						"在副本":	"珊瑚之歌;魔发城堡;普塞乌达里亚;"
 					}
 				}],
 			"executes":	[{
@@ -3956,7 +3947,7 @@
 						"状态物品":	"拉皮德的铁盾药剂"
 					},
 					"judges":	[{
-							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;"
+							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;被吞噬的魔法办公楼6_114106;"
 						}]
 				}, {
 					"sw":	true,
@@ -3976,7 +3967,7 @@
 						"状态物品":	"哈密瓜味全糖蜜果"
 					},
 					"judges":	[{
-							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;"
+							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;被吞噬的魔法办公楼6_114106;"
 						}]
 				}, {
 					"sw":	true,
@@ -4210,7 +4201,7 @@
 				}, {
 					"sw":	true,
 					"judge":	{
-						"不在副本":	"珊瑚之歌;泡泡战舰;魔发城堡;"
+						"不在副本":	"魔发城堡;普塞乌达里亚;"
 					}
 				}],
 			"executes":	[{

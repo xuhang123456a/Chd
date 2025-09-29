@@ -9,7 +9,6 @@
 	"auto_load_team":	true,
 	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
-	"auto_login_end":	false,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
 	"auto_set_boss_deliver":	false,
@@ -25,6 +24,7 @@
 	"auto_team_room_leader":	false,
 	"auto_team_world_room_leader":	false,
 	"automatic_book":	true,
+	"automatic_diceboard":	true,
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
 	"automatic_explorer":	true,
@@ -36,7 +36,6 @@
 	"automatic_phb":	false,
 	"automatic_pupu":	false,
 	"automatic_schedule":	true,
-	"automatic_skill_update_entrepot":	true,
 	"automatic_skill_update_sw":	true,
 	"automatic_subjoin_cwzx":	true,
 	"automatic_taskRemote":	true,
@@ -173,7 +172,9 @@
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	true,
 	"skill_option_lr_boss":	true,
+	"skill_option_mounts":	false,
 	"skill_option_platform_skill":	true,
+	"skill_option_puppet":	false,
 	"skill_option_repeat":	false,
 	"skill_option_slide_off":	true,
 	"skill_option_sombra":	false,
@@ -197,12 +198,12 @@
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
 	"auto_team_dream_room_name":	"﹎秋水伊人ゞ",
-	"auto_team_dream_room_namelist":	"11109355;能饮一杯无o\r11089496;山有木兮卿有意\r9892783;自然萌ご\r",
+	"auto_team_dream_room_namelist":	"19674164;醉后不知天在水o\r9230548;︶温柔的吮吸．\r19709290;兰栀\r\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r19674710;思念化清风\r19674708;微风拂青山っ\r",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
-	"guild_tribute_items":	"大师活力水滴;初级活力水滴;智之石碎片;智之石;外交印章：朱雀;高级冒险家情报卷轴;达人冒险家情报卷轴;中级冒险家情报卷轴;初级冒险家情报卷轴;闪闪发光的宝箱;中级活力水滴;",
+	"guild_tribute_items":	"初级活力水滴;中级冒险家情报卷轴;高级冒险家情报卷轴;智之石;智之石碎片;闪闪发光的宝箱;达人冒险家情报卷轴;初级冒险家情报卷轴;外交印章：朱雀;中级活力水滴;黄金魔方;大师冒险家情报卷轴;治愈的碎片结晶;冲突的碎片结晶;美丽的碎片结晶;活跃的碎片结晶;座之石;大师活力水滴;炽之石;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"Del",
@@ -233,6 +234,7 @@
 	"auto_task_book_time2":	30,
 	"auto_team_room_playercount":	4,
 	"guild_diplomacy_min":	300,
+	"guild_diplomacy_min2":	300,
 	"item_disassemble_item_time":	0,
 	"item_pick_time":	0,
 	"item_throw_1_begin":	1,
@@ -258,7 +260,6 @@
 	"team_follow_y":	300,
 	"trigger_timer_sleep":	20,
 	"auto_end_plan_val":	1,
-	"auto_login_end_val":	0,
 	"auto_set_boss_hp_show":	1,
 	"auto_set_boss_hp_type":	0,
 	"automatic_pupu_val":	0,
@@ -969,26 +970,25 @@
 					"npc":	1,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	2,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	3,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	4,
 					"sw1":	false,
 					"sw2":	false,
-					"item":	""
-				}, {
-					"npc":	20,
-					"sw1":	false,
-					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -998,26 +998,25 @@
 					"npc":	6,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	7,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	8,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	9,
 					"sw1":	false,
 					"sw2":	false,
-					"item":	""
-				}, {
-					"npc":	5,
-					"sw1":	false,
-					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1027,26 +1026,31 @@
 					"npc":	11,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	12,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	13,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	14,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	40,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1056,21 +1060,25 @@
 					"npc":	16,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	17,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	18,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	19,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1080,26 +1088,25 @@
 					"npc":	21,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	22,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	23,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	24,
 					"sw1":	false,
 					"sw2":	false,
-					"item":	""
-				}, {
-					"npc":	35,
-					"sw1":	false,
-					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1109,21 +1116,25 @@
 					"npc":	26,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	27,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	28,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	29,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1133,21 +1144,25 @@
 					"npc":	31,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	32,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	33,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	34,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1157,21 +1172,25 @@
 					"npc":	36,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	37,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	38,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	39,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1181,21 +1200,25 @@
 					"npc":	41,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	42,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	43,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	44,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1205,21 +1228,25 @@
 					"npc":	46,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	47,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	48,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	49,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1229,21 +1256,25 @@
 					"npc":	51,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	52,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	53,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	54,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1253,21 +1284,25 @@
 					"npc":	56,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	57,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	58,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	59,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}],
@@ -1285,6 +1320,14 @@
 		"野外倒计时":	false
 	},
 	"auto_card":	[{
+			"id":	1437,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
 			"id":	4350,
 			"num1":	0,
 			"num2":	0,
@@ -2982,7 +3025,7 @@
 						"状态物品":	"拉皮德的铁盾药剂"
 					},
 					"judges":	[{
-							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;"
+							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;被吞噬的魔法办公楼6_114106;"
 						}]
 				}, {
 					"sw":	true,
@@ -3002,7 +3045,7 @@
 						"状态物品":	"哈密瓜味全糖蜜果"
 					},
 					"judges":	[{
-							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;"
+							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;被吞噬的魔法办公楼6_114106;"
 						}]
 				}, {
 					"sw":	true,
@@ -3743,7 +3786,7 @@
 			"judges":	[{
 					"sw":	true,
 					"judge":	{
-						"在副本":	"珊瑚之歌;魔发城堡;"
+						"在副本":	"珊瑚之歌;魔发城堡;普塞乌达里亚;"
 					}
 				}],
 			"executes":	[{
@@ -3939,7 +3982,7 @@
 				}, {
 					"sw":	true,
 					"judge":	{
-						"不在副本":	"珊瑚之歌;泡泡战舰;魔发城堡;"
+						"不在副本":	"珊瑚之歌;魔发城堡;普塞乌达里亚;"
 					}
 				}],
 			"executes":	[{
@@ -4996,7 +5039,8 @@
 		"[辉耀剑神]完美纳刀":	false,
 		"[英雄(刀)]连招":	true,
 		"[英雄(枪)]连招":	false,
-		"[剑圣]十字灵魂秘技":	false,
+		"[剑圣]十字之刃秘技":	false,
+		"[剑圣]灵魂之刃秘技":	false,
 		"[剑圣]忘却(十字之刃)":	true,
 		"[剑圣]忘却(灵魂之刃)":	true,
 		"[剑圣]智能秘技":	false,

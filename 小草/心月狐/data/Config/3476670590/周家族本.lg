@@ -3,47 +3,62 @@
 		"name":	"自然萌ご",
 		"autoscript":	"周家族本",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	183632281,
 		"name":	"十八岁青春男高",
 		"autoscript":	"周家族本",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	255670125,
 		"name":	"雪绒薄荷ご",
 		"autoscript":	"周家族本",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	183635828,
 		"name":	"傻海我们走~",
 		"autoscript":	"周家族本",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	752695531,
 		"name":	"BaLl,",
 		"autoscript":	"周家族本",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	306086656,
 		"name":	"蓝莓ご",
 		"autoscript":	"周家族本",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	162485125,
 		"name":	"boll",
 		"autoscript":	"周家族本",
 		"item":	"存仓",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	467032828,
+		"name":	"羊绒芝士ご",
+		"autoscript":	"周家族本",
+		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	52390765,
 		"name":	"自然萌ご",
 		"autoscript":	"a多角色切换正常打本",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}]

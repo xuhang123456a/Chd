@@ -9,7 +9,7 @@
 		"script":	"【彩虹向导】每日任务",
 		"task":	0
 	}, {
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"经验套装",
 		"diyproperty":	"",

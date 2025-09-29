@@ -8,7 +8,7 @@
 		"tag":	16368,
 		"script":	"【彩虹向导】每日任务",
 		"task":	0,
-		"scriptend":	25
+		"scriptend":	29
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -39,7 +39,7 @@
 		"tag":	23892,
 		"script":	"自动转换星座点数",
 		"task":	0,
-		"scriptend":	25
+		"scriptend":	29
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -50,7 +50,7 @@
 		"tag":	1805,
 		"script":	"探险家神殿(史诗)",
 		"task":	0,
-		"scriptend":	25
+		"scriptend":	29
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -61,7 +61,7 @@
 		"tag":	2307,
 		"script":	"探险家神殿(英雄)",
 		"task":	0,
-		"scriptend":	25
+		"scriptend":	29
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -102,7 +102,7 @@
 		"tag":	22281,
 		"script":	"【存】材料",
 		"task":	0,
-		"scriptend":	25
+		"scriptend":	29
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

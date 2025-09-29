@@ -1,8 +1,0 @@
-[ 9-25 12: 1:56]:[LAUNCHER]COOK≤ª∆•≈‰
-[ 9-25 17:40: 8]:Module:E:\Game\ChdOnline\Game\≤ ∫Áµ∫Online\LaTaleClient.exe+2,eax=0,ecx=677A75CC,edx=0,edi=0,esi=0
-[ 9-25 17:40: 8]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
-[ 9-25 17:40: 8]:Module: C:\Windows\SYSTEM32\ntdll.dll Function:RtlGetAppContainerNamedObjectPath
-[ 9-25 22:46: 4]:Module:C:\Windows\System32\KERNELBASE.dll+13B702,eax=19E9E8,ecx=3,edx=0,edi=19F318,esi=15F301C
-[ 9-25 22:46: 4]:Module:C:\Windows\System32\KERNELBASE.dll+13B702,eax=19E9E8,ecx=3,edx=0,edi=19F318,esi=15F301C
-[ 9-25 22:46: 5]:Module: C:\Windows\System32\KERNELBASE.dll Function:RaiseException
-[ 9-25 22:46: 5]:Module: C:\Windows\System32\KERNELBASE.dll Function:RaiseException

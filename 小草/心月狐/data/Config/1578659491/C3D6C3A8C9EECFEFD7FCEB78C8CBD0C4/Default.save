@@ -5,11 +5,10 @@
 	"auto_end_lua":	false,
 	"auto_end_plan":	true,
 	"auto_load_change":	false,
-	"auto_load_task":	true,
+	"auto_load_task":	false,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
-	"auto_login_end":	false,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
 	"auto_set_boss_deliver":	false,
@@ -25,6 +24,7 @@
 	"auto_team_room_leader":	false,
 	"auto_team_world_room_leader":	false,
 	"automatic_book":	true,
+	"automatic_diceboard":	false,
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
 	"automatic_explorer":	true,
@@ -36,7 +36,6 @@
 	"automatic_phb":	false,
 	"automatic_pupu":	false,
 	"automatic_schedule":	true,
-	"automatic_skill_update_entrepot":	true,
 	"automatic_skill_update_sw":	true,
 	"automatic_subjoin_cwzx":	true,
 	"automatic_taskRemote":	true,
@@ -89,7 +88,7 @@
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
 	"main_mob_mineral":	false,
-	"main_mob_move":	true,
+	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
 	"main_mob_noattck_show":	false,
@@ -173,7 +172,9 @@
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	true,
 	"skill_option_lr_boss":	true,
+	"skill_option_mounts":	false,
 	"skill_option_platform_skill":	true,
+	"skill_option_puppet":	false,
 	"skill_option_repeat":	true,
 	"skill_option_slide_off":	false,
 	"skill_option_sombra":	false,
@@ -220,7 +221,7 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	10,
+	"auto_load_wait_val":	5,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	5,
 	"auto_set_boss_hp_val":	20,
@@ -233,6 +234,7 @@
 	"auto_task_book_time2":	30,
 	"auto_team_room_playercount":	4,
 	"guild_diplomacy_min":	300,
+	"guild_diplomacy_min2":	300,
 	"item_disassemble_item_time":	1,
 	"item_pick_time":	0,
 	"item_throw_1_begin":	1,
@@ -258,7 +260,6 @@
 	"team_follow_y":	300,
 	"trigger_timer_sleep":	20,
 	"auto_end_plan_val":	10,
-	"auto_login_end_val":	0,
 	"auto_set_boss_hp_show":	1,
 	"auto_set_boss_hp_type":	0,
 	"automatic_pupu_val":	0,
@@ -650,6 +651,15 @@
 				"[无]":	""
 			},
 			"item":	"中级人品能量剂"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级HP潜力药水"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
@@ -1573,26 +1583,25 @@
 					"npc":	1,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	2,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	3,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	4,
 					"sw1":	false,
 					"sw2":	false,
-					"item":	""
-				}, {
-					"npc":	20,
-					"sw1":	false,
-					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1602,26 +1611,25 @@
 					"npc":	6,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	7,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	8,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	9,
 					"sw1":	false,
 					"sw2":	false,
-					"item":	""
-				}, {
-					"npc":	5,
-					"sw1":	false,
-					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1631,26 +1639,31 @@
 					"npc":	11,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	12,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	13,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	14,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	40,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1660,21 +1673,25 @@
 					"npc":	16,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	17,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	18,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	19,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1684,26 +1701,25 @@
 					"npc":	21,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	22,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	23,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	24,
 					"sw1":	false,
 					"sw2":	false,
-					"item":	""
-				}, {
-					"npc":	35,
-					"sw1":	false,
-					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1713,21 +1729,25 @@
 					"npc":	26,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	27,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	28,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	29,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1737,21 +1757,25 @@
 					"npc":	31,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	32,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	33,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	34,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1761,21 +1785,25 @@
 					"npc":	36,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	37,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	38,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	39,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1785,21 +1813,25 @@
 					"npc":	41,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	42,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	43,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	44,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1809,21 +1841,25 @@
 					"npc":	46,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	47,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	48,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	49,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1833,21 +1869,25 @@
 					"npc":	51,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	52,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	53,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	54,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}, {
@@ -1857,21 +1897,25 @@
 					"npc":	56,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	57,
 					"sw1":	true,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	58,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}, {
 					"npc":	59,
 					"sw1":	false,
 					"sw2":	false,
+					"num":	0,
 					"item":	""
 				}]
 		}],
@@ -1889,6 +1933,14 @@
 		"野外倒计时":	false
 	},
 	"auto_card":	[{
+			"id":	1437,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
 			"id":	4350,
 			"num1":	0,
 			"num2":	0,
@@ -3871,300 +3923,6 @@
 			"only_run":	false,
 			"run_sleep":	1,
 			"sw":	true,
-			"name":	"无守护普通本吃药",
-			"judges":	[{
-					"sw":	true,
-					"judge":	{
-						"在副本频道":	""
-					}
-				}],
-			"executes":	[{
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·壁垒"
-					},
-					"judges":	[{
-							"在地图":	"阿特拉斯庭院 6_106106;阿特拉斯庭院 8_106108;阿特拉斯庭院 1_106101;"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·壁垒"
-					},
-					"judges":	[{
-							"在副本":	"普累罗麻;"
-						}, {
-							"没有BUFF":	"家族·冰魔图腾_63020018"
-						}, {
-							"地图内有首领":	""
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·壁垒"
-					},
-					"judges":	[{
-							"在副本":	"普累罗麻;"
-						}, {
-							"没有BUFF":	"家族·冰魔图腾_63020018"
-						}, {
-							"地图内有首领":	""
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"拉皮德的铁盾药剂"
-					},
-					"judges":	[{
-							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"拉皮德的铁盾药剂"
-					},
-					"judges":	[{
-							"在副本":	"时空之泉;埃吉尔遗迹;诺尼尔之泪;摩克沙;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;丽西泰亚之门;蘑菇树沼泽;"
-						}, {
-							"没有BUFF":	"家族·冰魔图腾_63020219"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"哈密瓜味全糖蜜果"
-					},
-					"judges":	[{
-							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"哈密瓜味全糖蜜果"
-					},
-					"judges":	[{
-							"在副本":	"时空之泉;埃吉尔遗迹;诺尼尔之泪;摩克沙;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;丽西泰亚之门;蘑菇树沼泽;普累罗麻;残缺边界;"
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"紫葡萄味全糖蜜果"
-					},
-					"judges":	[{
-							"在地图":	"普累罗麻10_110110;普累罗麻6_110106;残缺边界6_110006;"
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"紫葡萄味全糖蜜果"
-					},
-					"judges":	[{
-							"在副本":	"埃吉尔遗迹;"
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"小型伤害吸收红剂"
-					},
-					"judges":	[{
-							"在副本":	"珊瑚之歌;阿特拉斯庭院;埃吉尔遗迹;穿梭之都;时空之泉;无尽繁星大厅;大地的考验;黑月的考验;黄昏教堂;消失的星之歌;泡泡战舰;克洛诺斯的时间;心脏的记忆;龙猫妹妹庭院;魔法学院主楼;精灵树桩;生命之恩泰莱凯;流水回廊;艾乌加蒙剧场;深渊之镜;普洛菲司台;霍普占卜室;未知森林;卡伊洛斯的时间;炼狱阿兹雷尔;巴尼塔斯;哈姆克公爵府;阿科洛之棺;圣字教堂;玫瑰庭院;卡夫卡剧场;水下培养皿·失魂寺;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"青苹果味全糖蜜果"
-					},
-					"judges":	[{
-							"在地图":	"残缺边界6_110006;普累罗麻10_110110;"
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"青苹果味全糖蜜果"
-					},
-					"judges":	[{
-							"在副本":	"普累罗麻;"
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"蓝草莓味全糖蜜果"
-					},
-					"judges":	[{
-							"在地图":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"蓝草莓味全糖蜜果"
-					},
-					"judges":	[{
-							"在副本":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"甜蜜橙味全糖蜜果"
-					},
-					"judges":	[{
-							"在地图":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"甜蜜橙味全糖蜜果"
-					},
-					"judges":	[{
-							"在副本":	"埃吉尔遗迹;"
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"红樱桃味全糖蜜果"
-					},
-					"judges":	[{
-							"在地图":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"红樱桃味全糖蜜果"
-					},
-					"judges":	[{
-							"在副本":	"埃吉尔遗迹;"
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"拉皮德的魔能合剂"
-					},
-					"judges":	[{
-							"在地图":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"拉皮德的魔能合剂"
-					},
-					"judges":	[{
-							"在副本":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"拉皮德的巨力合剂"
-					},
-					"judges":	[{
-							"在地图":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"拉皮德的巨力合剂"
-					},
-					"judges":	[{
-							"在副本":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"拉皮德的稳定合剂"
-					},
-					"judges":	[{
-							"在地图":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"拉皮德的稳定合剂"
-					},
-					"judges":	[{
-							"在副本":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"拉皮德的狂暴合剂"
-					},
-					"judges":	[{
-							"在地图":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"拉皮德的狂暴合剂"
-					},
-					"judges":	[{
-							"在副本":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"深渊·重力药水"
-					},
-					"judges":	[{
-							"在地图":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"深渊·重力药水"
-					},
-					"judges":	[{
-							"在副本":	"埃吉尔遗迹;尼夫海姆站;"
-						}, {
-							"搜索内有首领":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"甜蜜的突变攻击力提升药水"
-					},
-					"judges":	[{
-							"在地图":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"甜蜜的突变攻击力提升药水"
-					},
-					"judges":	[{
-							"在副本":	""
-						}]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	true,
 			"name":	"经验本吃药",
 			"judges":	[{
 					"sw":	true,
@@ -5606,6 +5364,300 @@
 					},
 					"judges":	[]
 				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"无守护普通本吃药",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"在副本频道":	""
+					}
+				}],
+			"executes":	[{
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"古籍·壁垒"
+					},
+					"judges":	[{
+							"在地图":	"阿特拉斯庭院 6_106106;阿特拉斯庭院 8_106108;阿特拉斯庭院 1_106101;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"古籍·壁垒"
+					},
+					"judges":	[{
+							"在副本":	"普累罗麻;"
+						}, {
+							"没有BUFF":	"家族·冰魔图腾_63020018"
+						}, {
+							"地图内有首领":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"古籍·壁垒"
+					},
+					"judges":	[{
+							"在副本":	"普累罗麻;"
+						}, {
+							"没有BUFF":	"家族·冰魔图腾_63020018"
+						}, {
+							"地图内有首领":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的铁盾药剂"
+					},
+					"judges":	[{
+							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;被吞噬的魔法办公楼6_114106;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的铁盾药剂"
+					},
+					"judges":	[{
+							"在副本":	"时空之泉;埃吉尔遗迹;诺尼尔之泪;摩克沙;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;丽西泰亚之门;蘑菇树沼泽;"
+						}, {
+							"没有BUFF":	"家族·冰魔图腾_63020219"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"哈密瓜味全糖蜜果"
+					},
+					"judges":	[{
+							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;被吞噬的魔法办公楼6_114106;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"哈密瓜味全糖蜜果"
+					},
+					"judges":	[{
+							"在副本":	"时空之泉;埃吉尔遗迹;诺尼尔之泪;摩克沙;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;丽西泰亚之门;蘑菇树沼泽;普累罗麻;残缺边界;"
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"紫葡萄味全糖蜜果"
+					},
+					"judges":	[{
+							"在地图":	"普累罗麻10_110110;普累罗麻6_110106;残缺边界6_110006;"
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"紫葡萄味全糖蜜果"
+					},
+					"judges":	[{
+							"在副本":	"埃吉尔遗迹;"
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"小型伤害吸收红剂"
+					},
+					"judges":	[{
+							"在副本":	"珊瑚之歌;阿特拉斯庭院;埃吉尔遗迹;穿梭之都;时空之泉;无尽繁星大厅;大地的考验;黑月的考验;黄昏教堂;消失的星之歌;泡泡战舰;克洛诺斯的时间;心脏的记忆;龙猫妹妹庭院;魔法学院主楼;精灵树桩;生命之恩泰莱凯;流水回廊;艾乌加蒙剧场;深渊之镜;普洛菲司台;霍普占卜室;未知森林;卡伊洛斯的时间;炼狱阿兹雷尔;巴尼塔斯;哈姆克公爵府;阿科洛之棺;圣字教堂;玫瑰庭院;卡夫卡剧场;水下培养皿·失魂寺;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"青苹果味全糖蜜果"
+					},
+					"judges":	[{
+							"在地图":	"残缺边界6_110006;普累罗麻10_110110;"
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"青苹果味全糖蜜果"
+					},
+					"judges":	[{
+							"在副本":	"普累罗麻;"
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"蓝草莓味全糖蜜果"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"蓝草莓味全糖蜜果"
+					},
+					"judges":	[{
+							"在副本":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"甜蜜橙味全糖蜜果"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"甜蜜橙味全糖蜜果"
+					},
+					"judges":	[{
+							"在副本":	"埃吉尔遗迹;"
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"红樱桃味全糖蜜果"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"红樱桃味全糖蜜果"
+					},
+					"judges":	[{
+							"在副本":	"埃吉尔遗迹;"
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的魔能合剂"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的魔能合剂"
+					},
+					"judges":	[{
+							"在副本":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的巨力合剂"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的巨力合剂"
+					},
+					"judges":	[{
+							"在副本":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的稳定合剂"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的稳定合剂"
+					},
+					"judges":	[{
+							"在副本":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的狂暴合剂"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的狂暴合剂"
+					},
+					"judges":	[{
+							"在副本":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"深渊·重力药水"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"深渊·重力药水"
+					},
+					"judges":	[{
+							"在副本":	"埃吉尔遗迹;尼夫海姆站;"
+						}, {
+							"搜索内有首领":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"甜蜜的突变攻击力提升药水"
+					},
+					"judges":	[{
+							"在地图":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"甜蜜的突变攻击力提升药水"
+					},
+					"judges":	[{
+							"在副本":	""
+						}]
+				}]
 		}],
 	"pet_build":	[{
 			"sw":	true,
@@ -5698,7 +5750,8 @@
 		"[辉耀剑神]完美纳刀":	false,
 		"[英雄(刀)]连招":	false,
 		"[英雄(枪)]连招":	false,
-		"[剑圣]十字灵魂秘技":	false,
+		"[剑圣]十字之刃秘技":	false,
+		"[剑圣]灵魂之刃秘技":	false,
 		"[剑圣]忘却(十字之刃)":	false,
 		"[剑圣]忘却(灵魂之刃)":	false,
 		"[剑圣]智能秘技":	false,
