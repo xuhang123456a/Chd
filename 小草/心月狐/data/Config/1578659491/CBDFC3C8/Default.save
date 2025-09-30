@@ -1409,7 +1409,7 @@
 			"sw":	false,
 			"npcdata":	[{
 					"npc":	6,
-					"sw1":	true,
+					"sw1":	false,
 					"sw2":	false,
 					"num":	0,
 					"item":	""

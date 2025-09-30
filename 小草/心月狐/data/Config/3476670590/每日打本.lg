@@ -155,7 +155,14 @@
 	}, {
 		"index":	378599328,
 		"name":	"boll",
-		"autoscript":	"连体每日必打升战魂",
+		"autoscript":	"连体每日必打家族本",
+		"item":	"存仓",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	55614078,
+		"name":	"羊绒芝士ご",
+		"autoscript":	"连体每日必打家族本",
 		"item":	"存仓",
 		"item2":	"",
 		"item_other":	""
@@ -204,6 +211,13 @@
 	}, {
 		"index":	379287578,
 		"name":	"boll",
+		"autoscript":	"连体普通每日家族",
+		"item":	"存仓",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	56031359,
+		"name":	"羊绒芝士ご",
 		"autoscript":	"连体普通每日家族",
 		"item":	"存仓",
 		"item2":	"",
