@@ -120,7 +120,7 @@
 	}, {
 		"index":	566998203,
 		"name":	"糯米Nomi",
-		"autoscript":	"连体每日必打本",
+		"autoscript":	"连体每日必打家族本",
 		"item":	"连体存取",
 		"item2":	"",
 		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
@@ -146,6 +146,13 @@
 		"item2":	"",
 		"item_other":	""
 	}, {
+		"index":	40632375,
+		"name":	"玫瑰花的梦",
+		"autoscript":	"连体每日必打家族本",
+		"item":	"连体存取",
+		"item2":	"",
+		"item_other":	""
+	}, {
 		"index":	24013437,
 		"name":	"诉萌",
 		"autoscript":	"连体每日必打家族本",
@@ -153,8 +160,8 @@
 		"item2":	"",
 		"item_other":	""
 	}, {
-		"index":	40632375,
-		"name":	"玫瑰花的梦",
+		"index":	144948453,
+		"name":	"龙卷风摧毁停車场",
 		"autoscript":	"连体每日必打家族本",
 		"item":	"连体存取",
 		"item2":	"",
@@ -167,16 +174,16 @@
 		"item2":	"",
 		"item_other":	""
 	}, {
-		"index":	279586484,
-		"name":	"若惊鸿一梦",
+		"index":	279583687,
+		"name":	"糯米Nomi",
 		"autoscript":	"连体普通每日家族",
 		"item":	"连体存取",
 		"item2":	"",
 		"item_other":	""
 	}, {
-		"index":	279583687,
-		"name":	"糯米Nomi",
-		"autoscript":	"连体普通每日",
+		"index":	279586484,
+		"name":	"若惊鸿一梦",
+		"autoscript":	"连体普通每日家族",
 		"item":	"连体存取",
 		"item2":	"",
 		"item_other":	""
@@ -204,6 +211,13 @@
 	}, {
 		"index":	279596140,
 		"name":	"诉萌",
+		"autoscript":	"连体普通每日家族",
+		"item":	"连体存取",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	144951734,
+		"name":	"龙卷风摧毁停車场",
 		"autoscript":	"连体普通每日家族",
 		"item":	"连体存取",
 		"item2":	"",
@@ -253,6 +267,13 @@
 	}, {
 		"index":	181802125,
 		"name":	"诉萌",
+		"autoscript":	"连体每日周杂本",
+		"item":	"连体存取",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	144954156,
+		"name":	"龙卷风摧毁停車场",
 		"autoscript":	"连体每日周杂本",
 		"item":	"连体存取",
 		"item2":	"",

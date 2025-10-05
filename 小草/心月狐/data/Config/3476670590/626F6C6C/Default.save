@@ -5,7 +5,7 @@
 	"auto_end_lua":	false,
 	"auto_end_plan":	true,
 	"auto_load_change":	false,
-	"auto_load_task":	true,
+	"auto_load_task":	false,
 	"auto_load_team":	true,
 	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
@@ -13,11 +13,11 @@
 	"auto_reward_pay_sw":	false,
 	"auto_set_boss_deliver":	false,
 	"auto_set_boss_hp":	true,
-	"auto_set_boss_hp_team":	true,
+	"auto_set_boss_hp_team":	false,
 	"auto_set_boss_team":	true,
 	"auto_set_fly":	false,
 	"auto_set_revive":	true,
-	"auto_set_reviveall":	true,
+	"auto_set_reviveall":	false,
 	"auto_task_book_refresh":	false,
 	"auto_task_sw1":	false,
 	"auto_team_dream_room_leader":	false,
@@ -41,7 +41,7 @@
 	"automatic_taskRemote":	true,
 	"guild_diplomacy_only":	true,
 	"guild_tribute_sw":	true,
-	"item_buff_check":	true,
+	"item_buff_check":	false,
 	"item_buff_indun":	false,
 	"item_buff_sw":	true,
 	"item_builtin_sw":	false,
@@ -55,7 +55,7 @@
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
-	"item_pick_filter_5":	false,
+	"item_pick_filter_5":	true,
 	"item_pick_filter_6":	true,
 	"item_pick_filter_7":	true,
 	"item_pick_filter_8":	false,
@@ -194,13 +194,13 @@
 	"trigger_timer_only":	true,
 	"trigger_timer_warn":	true,
 	"auto_end_item_val":	"",
-	"auto_end_lua_val":	"",
+	"auto_end_lua_val":	"停止挂机操作.lua",
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
-	"auto_team_dream_room_name":	"你到底吻不吻我o",
-	"auto_team_dream_room_namelist":	"4775863;呆小ˇ宝\r10367444;剑行天下cuyk\r19206593;于适\r11056762;不要碰我肩膀\r",
-	"auto_team_room_name":	"7751",
-	"auto_team_room_namelist":	"9939464;洞庭湖2015\r10583706;1打打\r3936125;洞庭湖-蓉\r9220371;变形金刚吕布赤兔\r16017392;在度归来?]\r18982752;__________坏??い\r19233774;云梦泽ヾ\r11056762;不要碰我肩膀\r11080238;还我漂漂拳丶\r",
+	"auto_team_dream_room_name":	"逾白⺌",
+	"auto_team_dream_room_namelist":	"",
+	"auto_team_room_name":	"7759",
+	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r19206593;于适\r6367215;苍★龙\r9857891;致今生\r9915450;微风♀\r4775863;呆小ˇ宝\r11108979;晚来天欲雪o\r10237665;??????????小姐姐\r11109355;能饮一杯无o\r19674171;云青青兮欲雨?]\r10335259;猫又*\r10070705;年轮说\r11080851;AntiMagic\r11083254;你到底吻不吻我o\r9927906;GD欢\r19206593;狂暴小怪兽?]\r10304843;酷狗音乐ā\r11078750;他不会等你了\r9892783;????自然萌ご??9915450;微风♀\r11078294;花市灯如昼っ\r10021786;?鸗heShy??19173099;????星光漫漫????10773699;温茶清风丶\r19687266;晓芳\r11079108;航·次元守望者\r19681648;小野夕子\r10595177;栀子生椰\r10029863;??????白开水??11087458;_____满满\r11089496;山有木兮??卿有意\r9704292;草木皆兵\r10098693;ｖ天上白玉京＂\r19697254;什方",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
 	"guild_tribute_items":	"初级活力水滴;中级活力水滴;大师活力水滴;初级冒险家情报卷轴;中级冒险家情报卷轴;高级冒险家情报卷轴;达人冒险家情报卷轴;大师冒险家情报卷轴;智之石;智之石碎片;闪闪发光的宝箱;外交印章：朱雀;黄金魔方;座之石;炽之石;治愈的碎片结晶;冲突的碎片结晶;美丽的碎片结晶;活跃的碎片结晶;",
@@ -217,14 +217,14 @@
 	"main_mob_other_name":	"",
 	"main_mob_trap_name":	"",
 	"path_down_hotkey":	"Down",
-	"store_items":	"神炼的多面头戴;上位蛇年小王子帽子;魔法的精粹者徽章+13;魔·冥界之翼;神·圣灵之拥;龙晶[青鸾];祈福同心+9;法老王的巨型宝石戒指;法老王的闪耀耳环;LA-smile-笑脸(男)T恤;LA逐梦系列-夏の阳光(男)帽子;LA逐梦系列-夏の阳光(男)下衣;空灵披风·SPA队长;贪婪耳环;贪婪披风;贪婪戒指;扬卡什胸针;低级血脉水晶(可存仓);中级血脉水晶(可存仓);高级血脉水晶(可存仓);活动时空血脉水晶;红樱桃味全糖蜜果;黄香蕉味全糖蜜果;甜蜜橙味全糖蜜果;合家欢全糖蜜果;恶魔の小果实（雾）;恶魔の小果实（火）;钓鱼王称号书;钓鱼之神称号书;钓鱼达人称号书;钓鱼高手称号书;抽奖王称号;翠绿口香糖;虚实碎片;试炼蝴蝶结;繁星药剂;圣字 魔法伤害减少 重洗卷轴;圣字 武器攻击力 重洗卷轴;圣字 最大生命值 重洗卷轴;文明残页;文明水晶;圣字之火;圣字泛红圣遗物;圣字泛黄圣遗物;圣字泛蓝圣遗物;星海藤;流沙粉钻;卡伊洛斯的标徽;时之花;时之羽;巴巴托斯的长剑锯齿;米凯尔拉的花朵装饰;米凯尔拉的羽毛;巴巴托斯的特制炸弹;水晶流砂;粉晶落叶;文明能量球;自旋星盘;阿柯奈斯头盔;努斯灵魂容器;普洛奈头盖;王者腕轮;蔚蓝龙珠;橙黄龙珠;多彩龙珠;抓不住的影子;神秘沙漏;神秘碎片;星星之源;技能强化卷轴;高级召唤兽技能强化卷轴;小天使晶片;创意染色券;淘淘卡;淘淘卡兑换券;创意美发券;梦魇碎块;梦狱碎块;梦之放映机(不可交易);普通武器皮肤激活券;眼睛整容专家券;发型专家券;特殊发型券;特殊晒黑票券;特殊头发颜色券;特殊眼睛整形券;特殊彩色隐形眼镜券;彩虹标徽;春日小花朵;白金锤子;武馆木牌;一级签到方块;二级签到方块;三级签到方块;梦灵成长属性转瓶;梦灵基础属性转瓶;【觉醒】之核;【觉醒II】之核;【传奇】之核;【传奇】之羽;【传奇II】之核;【传奇II】之羽;觉醒·黄金混沌箱子;觉醒·黄金箱子;觉醒·黄金血脉箱子;绵绵冰沙;童心碎片;未知森林伤害皮肤装扮券(永久）;名片装饰颜料（不可交易）;[活动]异世界结晶;跳跳糖果;索拉城硬币箱子;索拉城 湛蓝硬币;圣域圣神符文;圣域宝石 宝石魔法锤随机包;圣域宝石 重洗卷轴随机包;塔米埃尔的眼罩;皮酷斯针鞘;皮酷斯的玩偶;皮酷斯缝纫线板;格劳科斯发条键;思奇拉的玩偶帽子;思奇拉长靴碎片;格劳科斯之角;精灵之卵;闪耀翅膀碎片;圣之痕;利卡里亚的斧刃;利卡里亚的盔甲碎片;莫尔迦娜的吊坠;火焰龙的角;莫德雷德的橙色蝴蝶结;金色圣杯;安莎拉腰带装饰;基沙拉假火炬;基沙拉钥匙;安莎拉护手;拉斐拉的羽毛装饰;墨诺提的圣杯;伤痕之花;弥修斯的愤怒;弥修斯的箱子;时间长轴;破碎的驭魂兽精魄[镇寺兽];赫尔之戒碎片;银色石板;银色原石;神秘火苗(双刀);神秘火苗(双手剑);破碎的驭魂兽精魄[瑞贝特];莱菲卡的红色珍宝;格莫瑞族女王的绿色珍宝;莱菲卡服饰兑换券;莱菲卡伤害皮肤装扮券(永久);扬卡什手套碎片;安德利亚之箭;安德利亚之断弓;扬卡什尾巴;格诺西斯的领悟;N4-烬灭武器觉醒之石;N3-烬灭武器觉醒之石;N2-烬灭武器觉醒之石;不完整的魔神撕裂翅膀;格诺西斯的解放;不完整的魔神之角;;;;;;;;;;;;;;;;;;;;;;;突变藤蔓;符文之力;女神雕像;巴比伦金球;太空玫瑰;密文石碑;永恒星辰服饰兑换券;绿洲水晶;遗忘之源;冰凝之蝶;空灵花;不稳定能量阵;时之章;时空服饰兑换券;灵魂的夙愿;破碎的驭魂兽精魄[影魔];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;复合觉醒石随机包;",
+	"store_items":	"神炼的多面头戴;上位蛇年小王子帽子;魔法的精粹者徽章+13;魔·冥界之翼;神·圣灵之拥;龙晶[青鸾];祈福同心+9;法老王的巨型宝石戒指;法老王的闪耀耳环;LA-smile-笑脸(男)T恤;LA逐梦系列-夏の阳光(男)帽子;LA逐梦系列-夏の阳光(男)下衣;空灵披风·SPA队长;贪婪耳环;贪婪披风;贪婪戒指;扬卡什胸针;低级血脉水晶(可存仓);中级血脉水晶(可存仓);高级血脉水晶(可存仓);活动时空血脉水晶;红樱桃味全糖蜜果;黄香蕉味全糖蜜果;甜蜜橙味全糖蜜果;合家欢全糖蜜果;恶魔の小果实（雾）;恶魔の小果实（火）;钓鱼王称号书;钓鱼之神称号书;钓鱼达人称号书;钓鱼高手称号书;抽奖王称号;翠绿口香糖;虚实碎片;试炼蝴蝶结;繁星药剂;圣字 魔法伤害减少 重洗卷轴;圣字 武器攻击力 重洗卷轴;圣字 最大生命值 重洗卷轴;文明残页;文明水晶;圣字之火;圣字泛红圣遗物;圣字泛黄圣遗物;圣字泛蓝圣遗物;星海藤;流沙粉钻;卡伊洛斯的标徽;时之花;时之羽;巴巴托斯的长剑锯齿;米凯尔拉的花朵装饰;米凯尔拉的羽毛;巴巴托斯的特制炸弹;水晶流砂;粉晶落叶;文明能量球;自旋星盘;阿柯奈斯头盔;努斯灵魂容器;普洛奈头盖;王者腕轮;蔚蓝龙珠;橙黄龙珠;多彩龙珠;抓不住的影子;神秘沙漏;神秘碎片;星星之源;技能强化卷轴;高级召唤兽技能强化卷轴;小天使晶片;创意染色券;淘淘卡;淘淘卡兑换券;创意美发券;梦魇碎块;梦狱碎块;梦之放映机(不可交易);普通武器皮肤激活券;眼睛整容专家券;发型专家券;特殊发型券;特殊晒黑票券;特殊头发颜色券;特殊眼睛整形券;特殊彩色隐形眼镜券;彩虹标徽;春日小花朵;白金锤子;武馆木牌;一级签到方块;二级签到方块;三级签到方块;梦灵成长属性转瓶;梦灵基础属性转瓶;【觉醒】之核;【觉醒II】之核;【传奇】之核;【传奇】之羽;【传奇II】之核;【传奇II】之羽;觉醒·黄金混沌箱子;觉醒·黄金箱子;觉醒·黄金血脉箱子;绵绵冰沙;童心碎片;未知森林伤害皮肤装扮券(永久）;名片装饰颜料（不可交易）;[活动]异世界结晶;跳跳糖果;三好学生徽章;祝福之月;索拉城硬币箱子;索拉城 湛蓝硬币;圣域圣神符文;圣域宝石 宝石魔法锤随机包;圣域宝石 重洗卷轴随机包;塔米埃尔的眼罩;皮酷斯针鞘;皮酷斯的玩偶;皮酷斯缝纫线板;格劳科斯发条键;思奇拉的玩偶帽子;思奇拉长靴碎片;格劳科斯之角;精灵之卵;闪耀翅膀碎片;圣之痕;利卡里亚的斧刃;利卡里亚的盔甲碎片;莫尔迦娜的吊坠;火焰龙的角;莫德雷德的橙色蝴蝶结;金色圣杯;莫林锁链背带;安莎拉腰带装饰;基沙拉假火炬;基沙拉钥匙;安莎拉护手;拉斐拉的羽毛装饰;墨诺提的圣杯;伤痕之花;弥修斯的愤怒;弥修斯的箱子;时间长轴;破碎的驭魂兽精魄[镇寺兽];赫尔之戒碎片;银色石板;银色原石;神秘火苗(双刀);神秘火苗(双手剑);破碎的驭魂兽精魄[瑞贝特];莱菲卡的红色珍宝;格莫瑞族女王的绿色珍宝;莱菲卡服饰兑换券;莱菲卡伤害皮肤装扮券(永久);扬卡什手套碎片;安德利亚之箭;安德利亚之断弓;扬卡什尾巴;格诺西斯的领悟;N4-烬灭武器觉醒之石;N3-烬灭武器觉醒之石;N2-烬灭武器觉醒之石;不完整的魔神撕裂翅膀;格诺西斯的解放;不完整的魔神之角;;;;;;;;;;;;;;;;;;;;;;;突变藤蔓;符文之力;女神雕像;巴比伦金球;太空玫瑰;密文石碑;永恒星辰服饰兑换券;绿洲水晶;遗忘之源;冰凝之蝶;空灵花;不稳定能量阵;时之章;时空服饰兑换券;灵魂的夙愿;破碎的驭魂兽精魄[影魔];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;复合觉醒石随机包;",
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
 	"auto_load_wait_val":	5,
 	"auto_set_boss_deliver_val":	3,
-	"auto_set_boss_hp_sleep":	10,
-	"auto_set_boss_hp_val":	100,
+	"auto_set_boss_hp_sleep":	5,
+	"auto_set_boss_hp_val":	33,
 	"auto_set_boss_team_val":	5,
 	"auto_set_fly_val":	5,
 	"auto_set_revive_val":	20,
@@ -245,7 +245,7 @@
 	"item_throw_3_end":	168,
 	"item_throw_4_begin":	1,
 	"item_throw_4_end":	168,
-	"item_throw_time":	2,
+	"item_throw_time":	0,
 	"main_mob_bottom":	100,
 	"main_mob_location_l":	32,
 	"main_mob_location_r":	99999,
@@ -259,7 +259,7 @@
 	"team_follow_x":	3000,
 	"team_follow_y":	300,
 	"trigger_timer_sleep":	20,
-	"auto_end_plan_val":	1,
+	"auto_end_plan_val":	10,
 	"auto_set_boss_hp_show":	1,
 	"auto_set_boss_hp_type":	0,
 	"automatic_pupu_val":	0,
@@ -284,9 +284,9 @@
 	"summon_automatic_zhs_refresh2":	1,
 	"summon_automatic_zhs_refresh3":	1,
 	"summon_automatic_zhs_refresh4":	1,
-	"summon_automatic_zhs_refresh5":	0,
+	"summon_automatic_zhs_refresh5":	1,
 	"summon_automatic_zhs_refresh6":	1,
-	"summon_automatic_zhs_refresh7":	0,
+	"summon_automatic_zhs_refresh7":	1,
 	"team_accept_allot":	2,
 	"btn_color_1":	16384000,
 	"btn_color_10":	16384000,
@@ -642,6 +642,15 @@
 				"[无]":	""
 			},
 			"item":	"特级血脉水晶(绑定)"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"RP值<=":	"20"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级人品能量剂"
 		}],
 	"protec_data":	[{
 			"sw":	true,
@@ -975,61 +984,28 @@
 			}
 		}],
 	"script_trigger_data":	[],
-	"summon_data":	[190145625, 190148179, 202401183],
+	"summon_data":	[190148179, 202401183, 202401186],
 	"line_monster_data":	[],
 	"item_filter_pick_data_1":	[],
-	"item_filter_pick_data_2":	[],
+	"item_filter_pick_data_2":	[{
+			"type":	"装备",
+			"name":	"魔蚀"
+		}, {
+			"type":	"装备",
+			"name":	"黄昏之"
+		}, {
+			"type":	"装备",
+			"name":	"平凡的"
+		}],
 	"item_filter_throw_data_1":	[{
 			"type":	"装备",
-			"name":	"平凡的红色"
-		}, {
-			"type":	"装备",
-			"name":	"平凡的黄色"
-		}, {
-			"type":	"装备",
-			"name":	"平凡的蓝色"
-		}, {
-			"type":	"装备",
-			"name":	"平凡的彩色"
-		}, {
-			"type":	"装备",
-			"name":	"傀儡的阴谋"
-		}, {
-			"type":	"装备",
-			"name":	"天空的"
-		}, {
-			"type":	"装备",
-			"name":	"封魔."
-		}, {
-			"type":	"装备",
-			"name":	"英勇的守护"
-		}, {
-			"type":	"装备",
-			"name":	"布拉斯的"
-		}, {
-			"type":	"装备",
-			"name":	"艾里安之"
-		}, {
-			"type":	"装备",
-			"name":	"暗影龙"
-		}, {
-			"type":	"装备",
-			"name":	"神族后裔"
-		}, {
-			"type":	"任务",
-			"name":	"幻影"
-		}, {
-			"type":	"其他",
-			"name":	"神族后裔"
-		}, {
-			"type":	"其他",
-			"name":	"军团纹章"
+			"name":	"魔蚀"
 		}, {
 			"type":	"任务",
 			"name":	"西格卷轴"
 		}, {
-			"type":	"任务",
-			"name":	"西格首饰"
+			"type":	"装备",
+			"name":	"黄昏之"
 		}, {
 			"type":	"任务",
 			"name":	"赤沙之魂"
@@ -1037,8 +1013,56 @@
 			"type":	"任务",
 			"name":	"制作碎沙"
 		}, {
+			"type":	"任务",
+			"name":	"沙魂碎沫"
+		}, {
+			"type":	"装备",
+			"name":	"神族后裔 "
+		}, {
+			"type":	"装备",
+			"name":	"布拉斯的"
+		}, {
+			"type":	"任务",
+			"name":	"天空的 "
+		}, {
+			"type":	"全部",
+			"name":	"暗影龙 "
+		}, {
+			"type":	"任务",
+			"name":	"混沌羽翼"
+		}, {
+			"type":	"其他",
+			"name":	"军团纹章"
+		}, {
+			"type":	"任务",
+			"name":	"影子残页"
+		}, {
 			"type":	"其他",
 			"name":	"艾里安的"
+		}, {
+			"type":	"装备",
+			"name":	"生存 "
+		}, {
+			"type":	"装备",
+			"name":	"幻想 "
+		}, {
+			"type":	"装备",
+			"name":	"守卫者 "
+		}, {
+			"type":	"装备",
+			"name":	"终结者 "
+		}, {
+			"type":	"装备",
+			"name":	"暗黑灵魂 "
+		}, {
+			"type":	"装备",
+			"name":	"艾里安之"
+		}, {
+			"type":	"装备",
+			"name":	"暗黑灵魂拳套"
+		}, {
+			"type":	"装备",
+			"name":	"泰西欧斯的"
 		}, {
 			"type":	"装备",
 			"name":	"珊瑚森林"
@@ -2759,10 +2783,141 @@
 		}],
 	"diytrigger":	[{
 			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"称号切换",
+			"judges":	[],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"更换称号":	"守护领域掌握者"
+					},
+					"judges":	[{
+							"在副本":	"精灵树桩;奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;流水回廊;艾乌加蒙剧场;深渊之镜;未知森林;消失的星之歌;穿梭之都;时空之泉;无尽繁星大厅;大地的考验;黑月的考验;黄昏教堂;生命之恩泰莱凯;阿特拉斯庭院;埃吉尔遗迹;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;水下培养皿·失魂寺;普累罗麻;残缺边界;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"更换称号":	"巧克力甜品大师"
+					},
+					"judges":	[{
+							"在地图":	"塞丽娜城_63400;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"更换称号":	"玫瑰之心"
+					},
+					"judges":	[{
+							"在副本":	"卡夫卡剧场;"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"更换称号":	"为了黑月公主的幸福"
+					},
+					"judges":	[{
+							"在副本":	"地铁中枢;"
+						}]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"奈落吃药",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"在副本":	"奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;奈落·神树拉菲尔;奈落·魔法学院主楼;"
+					}
+				}],
+			"executes":	[{
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的魔能合剂"
+					},
+					"judges":	[{
+							"没有BUFF":	"速效药剂:进攻型_9487019"
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"古籍·秩序"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"哈密瓜味全糖蜜果"
+					},
+					"judges":	[]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"古籍·坚固"
+					},
+					"judges":	[{
+							"搜索内有首领":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"紫葡萄味全糖蜜果"
+					},
+					"judges":	[{
+							"地图内有首领":	""
+						}]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"青苹果味全糖蜜果"
+					},
+					"judges":	[]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"古籍·壁垒"
+					},
+					"judges":	[{
+							"搜索内有首领":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"优先技能":	"[奈落]定点打击"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"拉皮德的铁盾药剂"
+					},
+					"judges":	[]
+				}]
+		}, {
+			"only_run":	false,
 			"run_sleep":	0,
 			"sw":	true,
 			"name":	"超越点切换",
-			"judges":	[],
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"在副本频道":	""
+					}
+				}],
 			"executes":	[{
 					"sw":	false,
 					"sleep":	"0",
@@ -2810,169 +2965,184 @@
 			"only_run":	false,
 			"run_sleep":	1,
 			"sw":	true,
-			"name":	"奈落吃药",
+			"name":	"经验本吃药",
 			"judges":	[{
 					"sw":	true,
 					"judge":	{
-						"在副本":	"奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;奈落·神树拉菲尔;奈落·魔法学院主楼;"
-					}
-				}],
-			"executes":	[{
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"拉皮德的魔能合剂"
-					},
-					"judges":	[{
-							"没有BUFF":	"速效药剂:进攻型_9487019"
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·秩序"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"哈密瓜味全糖蜜果"
-					},
-					"judges":	[]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·坚固"
-					},
-					"judges":	[{
-							"地图内有首领":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"紫葡萄味全糖蜜果"
-					},
-					"judges":	[{
-							"地图内有首领":	""
-						}]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"青苹果味全糖蜜果"
-					},
-					"judges":	[]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·壁垒"
-					},
-					"judges":	[{
-							"地图内有首领":	""
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"优先技能":	"[奈落]聚能冲击"
-					},
-					"judges":	[{
-							"搜索内有怪":	""
-						}]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	true,
-			"name":	"世界BOSS",
-			"judges":	[{
-					"sw":	true,
-					"judge":	{
-						"在地图":	"阿瓦伦 未知之处_100703;"
-					}
-				}, {
-					"sw":	true,
-					"judge":	{
-						"地图内有首领":	""
-					}
-				}],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"状态物品":	"青苹果味全糖蜜果"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"使用技能":	"【生存本能】1段"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"更换称号":	"魔尊领域掌握者"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"超越搭配":	"BOSS属性"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"使用技能":	"智者超载之钥"
-					},
-					"judges":	[{
-							"首领HP百分比<=":	"50"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"0",
-					"execute":	{
-						"使用技能":	"[特殊]神之使者"
-					},
-					"judges":	[]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	true,
-			"name":	"装备切换",
-			"judges":	[{
-					"sw":	false,
-					"judge":	{
-						"在副本":	"珊瑚之歌;泡泡战舰;火山超能场;珊瑚森林;"
+						"在副本":	"珊瑚之歌;泡泡战舰;魔发城堡;"
 					}
 				}],
 			"executes":	[{
 					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
-						"切换副武器":	""
+						"状态物品":	"小四的祝福(不可交易)"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"百分考卷"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"经验值的秘药 500%(不可交易)"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"回忆の沙漏"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"高级温泉蛋"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"温泉蛋"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"古籍·印记"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"羁绊之羽"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"经验值药丸"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"恶魔の小果实（电）"
+					},
+					"judges":	[]
+				}, {
+					"sw":	false,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"恶魔の小果实（火）"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"鳗鱼料理"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"鲤鱼料理"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"甜味饮料"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"辣鱼汤"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"短效150%经验丹(12小时)"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"领取课程戒指":	""
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"更换装备":	"强力戒指(3小时)"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"更换装备":	"强力戒指(12小时)"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"状态物品":	"水蜜桃味全糖蜜果"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"更换称号":	"装模作样绿茶姐"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用技能":	"成长魔法"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"百分考卷"
 					},
 					"judges":	[{
-							"在地图":	"珊瑚森林 2_30401;努特的炼金猎场_89901;"
+							"拥有BUFF":	"活动_6000157"
 						}]
 				}, {
 					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
-						"切换主武器":	""
+						"使用物品":	"小四的祝福(不可交易)"
 					},
 					"judges":	[{
-							"在地图":	"珊瑚森林 3_30402;艾丽娅斯城市_600;"
+							"拥有BUFF":	"活动_6000157"
 						}]
 				}]
 		}, {
@@ -3119,87 +3289,6 @@
 					},
 					"judges":	[{
 							"在地图":	"阿特拉斯庭院 3_106103;阿特拉斯庭院 4_106104;阿特拉斯庭院 5_106105;阿特拉斯庭院 6_106106;阿特拉斯庭院 7_106107;阿特拉斯庭院 8_106108;"
-						}]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	true,
-			"name":	"称号切换有守护",
-			"judges":	[],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换称号":	"守护领域掌握者"
-					},
-					"judges":	[{
-							"在副本":	"奈落·冰封雪域;奈落·破坏之城;奈落·冰淇淋庭院;奈落·珊瑚之歌;奈落·蛇龙之巢;流水回廊;未知森林;无尽繁星大厅;大地的考验;黄昏教堂;埃吉尔遗迹;群星宫殿;奈落·神树拉菲尔;奈落·魔法学院主楼;时空之泉;诺尼尔之泪;摩克沙;薇娅斯梦境;水下培养皿·失魂寺;丽西泰亚之门;蘑菇树沼泽;普累罗麻;残缺边界;证明之塔;"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换称号":	"巧克力甜品大师"
-					},
-					"judges":	[{
-							"在地图":	"塞丽娜城_63400;"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换称号":	"装模作样绿茶姐"
-					},
-					"judges":	[{
-							"在副本":	"阿特拉斯庭院;"
-						}, {
-							"在困难副本":	""
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换称号":	"装模作样绿茶姐"
-					},
-					"judges":	[{
-							"在副本":	"魔发城堡;珊瑚之歌;"
-						}]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	false,
-			"name":	"切胸针",
-			"judges":	[],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换装备":	"扬卡什胸针+4"
-					},
-					"judges":	[{
-							"拥有BUFF":	"充能_88232992"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换装备":	"利卡里亚之双生胸针"
-					},
-					"judges":	[{
-							"拥有BUFF":	"充能_88230050"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换装备":	"利卡里亚之双生胸针"
-					},
-					"judges":	[{
-							"没有BUFF":	"充能_88220050"
-						}, {
-							"没有BUFF":	"充能_88232992"
 						}]
 				}]
 		}, {
@@ -3713,6 +3802,202 @@
 					"judges":	[{
 							"在副本频道":	""
 						}]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"自动使用潜力灵龛",
+			"judges":	[],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级潜力灵龛"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级HP潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级SP潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级力量潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级体力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级魔法力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级幸运值潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级防御力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"初级魔法抵抗力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级潜力灵龛"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级HP潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级SP潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级力量潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级体力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级魔法力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级幸运值潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级防御力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"中级魔法抵抗力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级潜力灵龛"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级HP潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级SP潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级力量潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级体力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级魔法力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级幸运值潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级防御力潜力药水"
+					},
+					"judges":	[]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"高级魔法抵抗力潜力药水"
+					},
+					"judges":	[]
 				}]
 		}, {
 			"only_run":	false,
@@ -4780,196 +5065,14 @@
 						"使用物品":	"扩充任务栏(不可交易）"
 					},
 					"judges":	[]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	true,
-			"name":	"经验本吃药",
-			"judges":	[{
-					"sw":	true,
-					"judge":	{
-						"在副本":	"珊瑚之歌;魔发城堡;"
-					}
-				}],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"小四的祝福(不可交易)"
-					},
-					"judges":	[]
 				}, {
 					"sw":	true,
 					"sleep":	"1",
 					"execute":	{
-						"状态物品":	"百分考卷"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"经验值的秘药 500%(不可交易)"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"回忆の沙漏"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"高级温泉蛋"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"温泉蛋"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"古籍·印记"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"羁绊之羽"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"经验值药丸"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"恶魔の小果实（电）"
-					},
-					"judges":	[]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"恶魔の小果实（火）"
-					},
-					"judges":	[]
-				}, {
-					"sw":	false,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"恶魔の小果实（雾）"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"鳗鱼料理"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"鲤鱼料理"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"甜味饮料"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"辣鱼汤"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"短效150%经验丹(12小时)"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"领取课程戒指":	""
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换装备":	"强力戒指(3小时)"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换装备":	"强力戒指(12小时)"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"水蜜桃味全糖蜜果"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"更换称号":	"装模作样绿茶姐"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用技能":	"成长魔法"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"百分考卷"
+						"使用物品":	"一袋粉色家族水晶"
 					},
 					"judges":	[{
-							"拥有BUFF":	"活动_6000157"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用物品":	"小四的祝福(不可交易)"
-					},
-					"judges":	[{
-							"拥有BUFF":	"活动_6000157"
+							"在地图":	"藏宝洞1_36100;藏宝洞2_36101;藏宝洞3_36102;藏宝洞4_36103;藏宝洞5_36104;藏宝洞6_36105;藏宝洞7_36106;藏宝洞8_36107;"
 						}]
 				}]
 		}, {
@@ -5025,7 +5128,7 @@
 						"状态物品":	"拉皮德的铁盾药剂"
 					},
 					"judges":	[{
-							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;"
+							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;被吞噬的魔法办公楼6_114106;"
 						}]
 				}, {
 					"sw":	true,
@@ -5045,7 +5148,7 @@
 						"状态物品":	"哈密瓜味全糖蜜果"
 					},
 					"judges":	[{
-							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;"
+							"在地图":	"埃吉尔遗迹 6_106206;阿特拉斯庭院 6_106106;穆斯菲尔斯隧道8_107907;尼夫海姆站6_108006;阿特拉斯庭院 5_106105;阿特拉斯庭院 1_106101;精灵树桩 6_103206;被吞噬的魔法办公楼6_114106;"
 						}]
 				}, {
 					"sw":	true,
@@ -5269,48 +5372,16 @@
 		}],
 	"pet_build":	[{
 			"sw":	true,
-			"id":	43501028,
-			"name":	"自然萌"
+			"id":	43501017,
+			"name":	"佛"
 		}, {
 			"sw":	true,
-			"id":	43501029,
-			"name":	"给力娇"
+			"id":	43501018,
+			"name":	"圣"
 		}, {
 			"sw":	true,
-			"id":	70020001,
-			"name":	"招财进宝"
-		}, {
-			"sw":	true,
-			"id":	70020002,
-			"name":	"坚韧打击"
-		}, {
-			"sw":	false,
-			"id":	70020003,
-			"name":	"破财消灾"
-		}, {
-			"sw":	true,
-			"id":	43501030,
-			"name":	"皮皮打气"
-		}, {
-			"sw":	true,
-			"id":	43501031,
-			"name":	"皮山压顶"
-		}, {
-			"sw":	false,
-			"id":	43501032,
-			"name":	"皮皮亲亲"
-		}, {
-			"sw":	true,
-			"id":	1050104,
-			"name":	"坚毅"
-		}, {
-			"sw":	true,
-			"id":	1050105,
-			"name":	"洞察"
-		}, {
-			"sw":	true,
-			"id":	1050106,
-			"name":	"伺机"
+			"id":	43501019,
+			"name":	"魔"
 		}, {
 			"sw":	true,
 			"id":	1040101,
@@ -5325,28 +5396,40 @@
 			"name":	"扑击"
 		}, {
 			"sw":	true,
-			"id":	43501017,
-			"name":	"佛"
-		}, {
-			"sw":	false,
-			"id":	43501018,
-			"name":	"圣"
+			"id":	43501022,
+			"name":	"坚毅内心"
 		}, {
 			"sw":	true,
-			"id":	43501019,
-			"name":	"魔"
+			"id":	43501011,
+			"name":	"健康顾问"
 		}, {
-			"sw":	false,
-			"id":	5000420,
-			"name":	"龙鳞的力量"
+			"sw":	true,
+			"id":	43501012,
+			"name":	"持续保护"
+		}, {
+			"sw":	true,
+			"id":	43501013,
+			"name":	"健体专家"
+		}, {
+			"sw":	true,
+			"id":	43501029,
+			"name":	"给力娇"
+		}, {
+			"sw":	true,
+			"id":	1040104,
+			"name":	"爱心"
+		}, {
+			"sw":	true,
+			"id":	1040106,
+			"name":	"飞吻"
 		}, {
 			"sw":	true,
 			"id":	5000422,
 			"name":	"凤凰怒炎"
 		}, {
 			"sw":	true,
-			"id":	5000426,
-			"name":	"玄武的绝对防御"
+			"id":	5000420,
+			"name":	"龙鳞的力量"
 		}],
 	"pet_sunmon_skill":	[{
 			"sw":	true,
@@ -5469,8 +5552,8 @@
 			"vague":	false,
 			"name":	"巨星·超越符文",
 			"type1":	true,
-			"type2":	false,
-			"type3":	false,
+			"type2":	true,
+			"type3":	true,
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
@@ -5589,8 +5672,8 @@
 			"vague":	false,
 			"name":	"通灵领主·超越符文",
 			"type1":	true,
-			"type2":	false,
-			"type3":	false,
+			"type2":	true,
+			"type3":	true,
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
@@ -5645,7 +5728,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"宝石星·超越符文",
 			"type1":	true,
@@ -5657,7 +5740,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"元素之灵·超越符文",
 			"type1":	true,
@@ -5673,8 +5756,8 @@
 			"vague":	false,
 			"name":	"演奏大师·超越符文",
 			"type1":	true,
-			"type2":	false,
-			"type3":	false,
+			"type2":	true,
+			"type3":	true,
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
@@ -5753,7 +5836,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"阿格尼·超越符文",
 			"type1":	true,
@@ -5765,7 +5848,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"黑影·超越符文",
 			"type1":	true,
@@ -5801,7 +5884,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"守护天使·超越符文",
 			"type1":	true,
@@ -6245,7 +6328,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"贯穿力 觉醒石+2",
 			"type1":	true,
@@ -6317,7 +6400,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"暴击伤害 觉醒石+2",
 			"type1":	true,
@@ -6627,7 +6710,7 @@
 			"filter2":	false,
 			"filter3":	false,
 			"filter4":	false,
-			"filter5":	true
+			"filter5":	false
 		}, {
 			"sw":	true,
 			"vague":	false,
@@ -6724,6 +6807,42 @@
 			"filter3":	true,
 			"filter4":	true,
 			"filter5":	true
+		}, {
+			"sw":	true,
+			"vague":	true,
+			"name":	"封魔.",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"意志的决战者徽章+1",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"魔法的精粹者徽章+1",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
 		}, {
 			"sw":	true,
 			"vague":	false,

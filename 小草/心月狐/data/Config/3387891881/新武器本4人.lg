@@ -1,79 +1,92 @@
 [{
+		"index":	14342359,
+		"name":	"我有药",
+		"autoscript":	"连体新武器本4人",
+		"item":	"存仓",
+		"item2":	"",
+		"item_other":	""
+	}, {
 		"index":	171378187,
 		"name":	"惊觉⺌",
 		"autoscript":	"连体新武器本4人",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	342200109,
 		"name":	"乙骨犹太",
 		"autoscript":	"连体新武器本4人",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	660976437,
 		"name":	"心缩",
 		"autoscript":	"连体新武器本4人",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	47186609,
 		"name":	"鸦九",
 		"autoscript":	"连体新武器本4人",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	47189500,
 		"name":	"烟雨情相思",
 		"autoscript":	"连体新武器本4人",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	47191406,
 		"name":	"荼茶",
 		"autoscript":	"连体新武器本4人",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	342242281,
 		"name":	"你到底吻不吻我o",
 		"autoscript":	"连体新武器本4人",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	14265500,
 		"name":	"来去荒芜",
 		"autoscript":	"连体新武器本4人",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	14329234,
 		"name":	"不要碰我肩膀",
 		"autoscript":	"连体新武器本4人",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	14337218,
 		"name":	"逾白⺌",
 		"autoscript":	"连体新武器本4人",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	14339312,
 		"name":	"陌辰",
 		"autoscript":	"连体新武器本4人",
 		"item":	"存仓",
-		"item_other":	""
-	}, {
-		"index":	14342359,
-		"name":	"我有药",
-		"autoscript":	"连体新武器本4人",
-		"item":	"存仓",
+		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	777750109,
 		"name":	"你到底吻不吻我o",
 		"autoscript":	"a多角色切换正常打本",
 		"item":	"存仓",
+		"item2":	"",
 		"item_other":	"神·圣灵之拥;魔·冥界之翼;LA-smile-笑脸(男)T恤;LA逐梦系列-夏の阳光(男)帽子;LA逐梦系列-夏の阳光(男)下衣;空灵披风·SPA队长;法老王的巨型宝石戒指;法老王的闪耀耳环;;"
 	}]
