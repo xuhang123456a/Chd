@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	false,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
@@ -83,11 +83,11 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	false,
-	"main_mob_indun":	false,
+	"main_mob_herbs":	true,
+	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	false,
+	"main_mob_mineral":	true,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	false,
@@ -199,7 +199,7 @@
 	"auto_set_diyitem":	"[无]",
 	"auto_team_dream_room_name":	"逾白⺌",
 	"auto_team_dream_room_namelist":	"",
-	"auto_team_room_name":	"7759",
+	"auto_team_room_name":	"1477",
 	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r19206593;于适\r6367215;苍★龙\r9857891;致今生\r9915450;微风♀\r4775863;呆小ˇ宝\r11108979;晚来天欲雪o\r10237665;??????????小姐姐\r11109355;能饮一杯无o\r19674171;云青青兮欲雨?]\r10335259;猫又*\r10070705;年轮说\r11080851;AntiMagic\r11083254;你到底吻不吻我o\r9927906;GD欢\r19206593;狂暴小怪兽?]\r10304843;酷狗音乐ā\r11078750;他不会等你了\r9892783;????自然萌ご??9915450;微风♀\r11078294;花市灯如昼っ\r10021786;?鸗heShy??19173099;????星光漫漫????10773699;温茶清风丶\r19687266;晓芳\r11079108;航·次元守望者\r19681648;小野夕子\r10595177;栀子生椰\r10029863;??????白开水??11087458;_____满满\r11089496;山有木兮??卿有意\r9704292;草木皆兵\r10098693;ｖ天上白玉京＂\r19697254;什方",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
@@ -1087,70 +1087,10 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"模拟↑键",
-			"x":	"89",
-			"y":	"1119",
-			"pos1":	"左跑",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"右跳",
-			"x":	"927",
-			"y":	"1119",
-			"pos1":	"右跑",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"2463",
-			"y":	"863",
-			"pos1":	"右跑",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"2591",
-			"y":	"1375",
-			"pos1":	"右跑",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"1408",
-			"y":	"1375",
-			"pos1":	"左跑",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"上二段跳",
-			"x":	"1852",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"x":	"3556",
+			"y":	"895",
+			"pos1":	"随机",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
@@ -2925,7 +2865,7 @@
 				"更改自动副本模式":	""
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -2934,7 +2874,7 @@
 				"使用物品":	"艾丽娅斯传送石"
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -2943,7 +2883,7 @@
 				"挂机控制":	"0"
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"指定时间":	"00:06"
 			},
@@ -2952,7 +2892,7 @@
 				"退出到角色":	""
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},
@@ -2961,7 +2901,7 @@
 				"更改自动副本模式":	""
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},
@@ -2970,7 +2910,7 @@
 				"更改自动脚本":	"连体经验普赛打一把"
 			}
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},

@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
@@ -726,12 +726,7 @@
 		}],
 	"protec_recover_data":	{
 	},
-	"item_buff_data":	[{
-			"sw":	true,
-			"type":	"外交",
-			"name":	"尘世城-索尔",
-			"hard":	false
-		}],
+	"item_buff_data":	[],
 	"skill_attack_data":	[{
 			"sw":	true,
 			"id":	3606015,
@@ -1184,46 +1179,22 @@
 		}],
 	"team_list_data":	[],
 	"script_point_data":	[{
+			"type":	"转身&执行额外",
+			"x":	"1124",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
 			"type":	"模拟↑键",
-			"x":	"89",
-			"y":	"1119",
-			"pos1":	"左跑",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"右跳",
-			"x":	"927",
-			"y":	"1119",
-			"pos1":	"右跑",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"2463",
-			"y":	"863",
-			"pos1":	"右跑",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"2591",
+			"x":	"65",
 			"y":	"1375",
-			"pos1":	"右跑",
+			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
@@ -1233,10 +1204,10 @@
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"1408",
+			"x":	"3691",
 			"y":	"1375",
-			"pos1":	"左跑",
-			"pos2":	"右跑",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
@@ -1244,8 +1215,8 @@
 				"":	""
 			}
 		}, {
-			"type":	"上二段跳",
-			"x":	"1852",
+			"type":	"模拟↑键",
+			"x":	"2786",
 			"y":	"1375",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
@@ -5683,10 +5654,58 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"圣十字军·超越符文",
+			"name":	"神之使者·超越符文",
 			"type1":	true,
-			"type2":	false,
-			"type3":	false,
+			"type2":	true,
+			"type3":	true,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"巨星·超越符文",
+			"type1":	true,
+			"type2":	true,
+			"type3":	true,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"元素之灵·超越符文",
+			"type1":	true,
+			"type2":	true,
+			"type3":	true,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"通灵领主·超越符文",
+			"type1":	true,
+			"type2":	true,
+			"type3":	true,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"暗影行者·超越符文",
+			"type1":	true,
+			"type2":	true,
+			"type3":	true,
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
@@ -5697,6 +5716,30 @@
 			"vague":	false,
 			"name":	"天穹卡牌师·超越符文",
 			"type1":	true,
+			"type2":	true,
+			"type3":	true,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"守护天使·超越符文",
+			"type1":	true,
+			"type2":	true,
+			"type3":	true,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	false,
+			"vague":	false,
+			"name":	"史诗卡牌师·超越符文",
+			"type1":	true,
 			"type2":	false,
 			"type3":	false,
 			"filter1":	false,
@@ -5707,7 +5750,79 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"巨星·超越符文",
+			"name":	"演奏大师·超越符文",
+			"type1":	true,
+			"type2":	true,
+			"type3":	true,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"唤雨之灵·超越符文",
+			"type1":	true,
+			"type2":	true,
+			"type3":	true,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"宝石星·超越符文",
+			"type1":	true,
+			"type2":	true,
+			"type3":	true,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	false,
+			"vague":	false,
+			"name":	"幻灵师·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"阿格尼·超越符文",
+			"type1":	true,
+			"type2":	true,
+			"type3":	true,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"黑影·超越符文",
+			"type1":	true,
+			"type2":	true,
+			"type3":	true,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	false,
+			"vague":	false,
+			"name":	"英雄·超越符文",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -5731,31 +5846,7 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"剑刃舞者·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"恐怖骑士·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"审判官·超越符文",
+			"name":	"次元守望者·超越符文",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -5779,31 +5870,7 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"英雄·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"次元守望者·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"暗影行者·超越符文",
+			"name":	"辉耀剑神·超越符文",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -5816,102 +5883,6 @@
 			"sw":	true,
 			"vague":	false,
 			"name":	"武道宗师·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"通灵领主·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"唤雨之灵·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"疾风舞者·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"逐暗者·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"梦魇恶魔·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"宝石星·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"元素之灵·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"演奏大师·超越符文",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -5947,19 +5918,7 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"史诗卡牌师·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"刺杀者·超越符文",
+			"name":	"逐暗者·超越符文",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -5983,7 +5942,7 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"幻灵师·超越符文",
+			"name":	"傀儡宗师·超越符文",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -5993,9 +5952,9 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
-			"name":	"阿格尼·超越符文",
+			"name":	"剑刃舞者·超越符文",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -6005,9 +5964,69 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
-			"name":	"黑影·超越符文",
+			"name":	"圣十字军·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"恐怖骑士·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"审判官·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"疾风舞者·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"梦魇恶魔·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"刺杀者·超越符文",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -6032,30 +6051,6 @@
 			"sw":	true,
 			"vague":	false,
 			"name":	"修行武者·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	false,
-			"vague":	false,
-			"name":	"守护天使·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"傀儡宗师·超越符文",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,
@@ -6919,18 +6914,6 @@
 		}, {
 			"sw":	true,
 			"vague":	false,
-			"name":	"神之使者·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
-		}, {
-			"sw":	true,
-			"vague":	false,
 			"name":	"苏尔特超越符文",
 			"type1":	true,
 			"type2":	false,
@@ -6964,18 +6947,6 @@
 			"filter3":	true,
 			"filter4":	true,
 			"filter5":	true
-		}, {
-			"sw":	true,
-			"vague":	false,
-			"name":	"辉耀剑神·超越符文",
-			"type1":	true,
-			"type2":	false,
-			"type3":	false,
-			"filter1":	false,
-			"filter2":	false,
-			"filter3":	false,
-			"filter4":	false,
-			"filter5":	false
 		}],
 	"chaosbranch":	[4003, 4001, 4016, 4002, 1026, 4011, 2025, 1028, 2028, 3028, 4028, 3001, 2001, 1001, 4012, 3012, 2012, 1012, 3003, 2003, 1003, 3002, 2002, 1002, 3011, 2011, 1011, 4004, 4015, 3004, 2004, 1004, 4005, 3005, 2005, 1005, 4017, 3017, 2017, 1017, 4018, 3018, 2018, 1018, 4019, 3019, 2019, 1019, 4020, 3020, 2020, 1020, 4006, 3006, 2006, 1006, 4007, 3007, 2007, 1007, 4008, 3008, 2008, 1008, 4009, 3009, 2009, 1009, 4014, 3014, 2014, 1014, 4010, 3010, 2010, 1010, 11025, 21025, 31025, 41025, 51025, 4023, 3023, 2023, 1023, 4024, 3024, 2024, 1024, 4013, 3013, 2013, 1013, 53025, 43025, 33025, 23025, 13025, 4021, 52026, 43026, 4022, 42026, 53026, 33026, 23026, 32026, 22026, 13026, 12026, 1021, 2021, 3021, 1022, 2022, 3022, 1033, 2033, 3033, 4033, 1029, 2029, 3029, 4029, 1030, 2030, 3030, 4030, 1031, 2031, 3031, 4031, 1032, 2032, 3032, 4032, 63025, 73025, 61025, 71025, 1034, 2034, 3034, 4034, 62026, 63026, 72026, 73026, 4027],
 	"autosystemscript":	[1, 2, 5, 6, 7, 8, 10, 13, 14, 16],

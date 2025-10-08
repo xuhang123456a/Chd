@@ -21,52 +21,12 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"经验套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	29477,
-		"script":	"泡泡战舰",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	9517,
-		"script":	"克洛诺斯的时间",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	14925,
-		"script":	"心脏的记忆",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20025,
-		"script":	"龙猫妹妹庭院",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	28751,
-		"script":	"怪物树山山谷",
+		"diyother":	"经验本召唤兽",
+		"diyawaken":	"5经验石",
+		"tag":	10108,
+		"script":	"珊瑚之歌",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -85,26 +45,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	1851,
-		"script":	"阿尔福那酒店(超越)",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	6341,
-		"script":	"瀑布丛林",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
 		"tag":	9150,
 		"script":	"巧克力花园(超越)",
 		"task":	0
@@ -115,8 +55,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	12007,
-		"script":	"拉之城墙",
+		"tag":	11597,
+		"script":	"宝石丛林",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -125,8 +65,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	2353,
-		"script":	"夕阳森林",
+		"tag":	23905,
+		"script":	"玫瑰庭院",
 		"task":	0
 	}, {
 		"setcount":	0,

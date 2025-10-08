@@ -1,14 +1,33 @@
 [{
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	7298,
-		"script":	"进队长组",
-		"task":	0,
-		"scriptend":	5
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	16053,
+		"script":	"诺尼尔之泪",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	32092,
+		"script":	"丽西泰亚之门",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	31011,
+		"script":	"蘑菇树沼泽",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -16,10 +35,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	7199,
-		"script":	"自动转换星座点数",
+		"tag":	11329,
+		"script":	"退出组队",
 		"task":	0,
-		"scriptend":	5
+		"scriptend":	8
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -27,7 +46,18 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	7712,
-		"script":	"星能之战（家族本）",
+		"tag":	22281,
+		"script":	"【存】材料",
+		"task":	0,
+		"scriptend":	8
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"存仓",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	21361,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]
