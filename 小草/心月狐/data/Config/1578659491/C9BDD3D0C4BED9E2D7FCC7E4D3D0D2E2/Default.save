@@ -5,7 +5,7 @@
 	"auto_end_lua":	false,
 	"auto_end_plan":	true,
 	"auto_load_change":	false,
-	"auto_load_task":	false,
+	"auto_load_task":	true,
 	"auto_load_team":	true,
 	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
@@ -1185,39 +1185,51 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"3456",
-			"y":	"1391",
+			"x":	"1124",
+			"y":	"1375",
 			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
+			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"彩虹副本传送":	"瀑布丛林"
+				"":	""
+			}
+		}, {
+			"type":	"模拟↑键",
+			"x":	"65",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"2993",
-			"y":	"1391",
+			"x":	"3691",
+			"y":	"1375",
 			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
+			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"彩虹副本传送":	"瀑布丛林"
+				"":	""
 			}
 		}, {
-			"type":	"转身&执行额外",
-			"x":	"3855",
-			"y":	"1391",
+			"type":	"模拟↑键",
+			"x":	"2786",
+			"y":	"1375",
 			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
+			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"彩虹副本传送":	"瀑布丛林"
+				"":	""
 			}
 		}],
 	"script_trigger_data":	[],

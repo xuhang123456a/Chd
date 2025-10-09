@@ -1246,7 +1246,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"次元守望者·超越符文",
 			"type1":	true,
@@ -1330,7 +1330,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"风行刺客·超越符文",
 			"type1":	true,

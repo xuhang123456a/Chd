@@ -542,7 +542,7 @@
 				}]
 		}, {
 			"id":	3,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	11,
 					"sw1":	true,

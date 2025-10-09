@@ -5,7 +5,7 @@
 	"auto_end_lua":	false,
 	"auto_end_plan":	true,
 	"auto_load_change":	false,
-	"auto_load_task":	false,
+	"auto_load_task":	true,
 	"auto_load_team":	true,
 	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,

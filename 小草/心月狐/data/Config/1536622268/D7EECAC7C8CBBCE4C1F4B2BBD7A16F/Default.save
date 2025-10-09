@@ -115,7 +115,7 @@
 	"path_auto_script_showval_sw":	true,
 	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
-	"path_hide_effect_sw":	true,
+	"path_hide_effect_sw":	false,
 	"path_line_boss_sw":	false,
 	"path_line_boss_word_sw":	false,
 	"path_line_deliver_sw":	false,
@@ -794,51 +794,39 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"1124",
-			"y":	"1375",
+			"x":	"3456",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"65",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
+				"彩虹副本传送":	"瀑布丛林"
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3691",
-			"y":	"1375",
+			"x":	"2993",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"彩虹副本传送":	"瀑布丛林"
 			}
 		}, {
-			"type":	"模拟↑键",
-			"x":	"2786",
-			"y":	"1375",
+			"type":	"转身&执行额外",
+			"x":	"3855",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"彩虹副本传送":	"瀑布丛林"
 			}
 		}],
 	"script_trigger_data":	[],
@@ -5387,7 +5375,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"次元守望者·超越符文",
 			"type1":	true,
@@ -5471,7 +5459,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"风行刺客·超越符文",
 			"type1":	true,

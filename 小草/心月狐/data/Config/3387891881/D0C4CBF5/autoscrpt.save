@@ -31,14 +31,43 @@
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"ÕÙ»½ÊŞ",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	14612,
+		"script":	"Ä¦¿ËÉ³",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"ÕÙ»½ÊŞ",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	11073,
+		"script":	"°¢ÌØÀ­Ë¹Í¥Ôº",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"¹¥»÷Ì××°",
+		"diyproperty":	"",
+		"diyother":	"ÕÙ»½ÊŞ",
+		"diyawaken":	"5±¬ÉËÊ¯",
+		"tag":	22551,
+		"script":	"°£¼ª¶ûÒÅ¼£",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
 		"tag":	11329,
 		"script":	"ÍË³ö×é¶Ó",
-		"task":	0,
-		"scriptend":	8
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -48,8 +77,7 @@
 		"diyawaken":	"",
 		"tag":	22281,
 		"script":	"¡¾´æ¡¿²ÄÁÏ",
-		"task":	0,
-		"scriptend":	8
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
