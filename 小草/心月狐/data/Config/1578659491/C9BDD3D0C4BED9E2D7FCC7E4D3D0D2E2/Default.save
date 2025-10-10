@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
@@ -172,7 +172,7 @@
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	true,
 	"skill_option_lr_boss":	true,
-	"skill_option_mounts":	false,
+	"skill_option_mounts":	true,
 	"skill_option_platform_skill":	true,
 	"skill_option_puppet":	false,
 	"skill_option_repeat":	false,
@@ -221,7 +221,7 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	5,
+	"auto_load_wait_val":	10,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	5,
 	"auto_set_boss_hp_val":	20,
@@ -1185,51 +1185,39 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"1124",
-			"y":	"1375",
+			"x":	"3456",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"65",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
+				"彩虹副本传送":	"瀑布丛林"
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3691",
-			"y":	"1375",
+			"x":	"2993",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"彩虹副本传送":	"瀑布丛林"
 			}
 		}, {
-			"type":	"模拟↑键",
-			"x":	"2786",
-			"y":	"1375",
+			"type":	"转身&执行额外",
+			"x":	"3855",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"彩虹副本传送":	"瀑布丛林"
 			}
 		}],
 	"script_trigger_data":	[],
