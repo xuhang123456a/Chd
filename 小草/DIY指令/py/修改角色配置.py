@@ -12,8 +12,8 @@ target_files_path = [
     ["醉后不知天在水o", "1536622268\\D7EDBAF3B2BBD6AACCECD4DACBAE6F"],
     # ["→酷我音乐→", "1536622268\\A1FABFE1CED2D2F4C0D6A1FA"],
     # ["酷狗音乐ā", "1536622268\\BFE1B9B7D2F4C0D6A8A1"],
-    # ["℃ベ裸装", "1536622268\\A1E6A5D9A8FDA8FDC2E3D7B0"],
-    # ["终不似o", '1536622268\\D6D5B2BBCBC66F'],
+    ["℃ベ裸装", "1536622268\\A1E6A5D9A8FDA8FDC2E3D7B0"],
+    ["终不似o", '1536622268\\D6D5B2BBCBC66F'],
     ["最是人间留不住o", "1536622268\\D7EECAC7C8CBBCE4C1F4B2BBD7A16F"],
     # ["水澹澹兮生烟", "1536622268\\CBAEE5A3E5A3D9E2C9FAD1CCFE5D"],
     # ["少年游o", "1536622268\\C9D9C4EAD3CE6F"],
@@ -25,8 +25,8 @@ target_files_path = [
     # ["陌辰","3387891881\\C4B0B3BD"],
     # ["我有药", "3387891881\\CED2D3D0D2A9"],
     ["惊觉","3387891881\\BEAABEF5FE5D"],
-    # ["乙骨犹太","3387891881\\D2D2B9C7D3CCCCAB"],
-    # ["心缩","3387891881\\D0C4CBF5"],
+    ["乙骨犹太","3387891881\\D2D2B9C7D3CCCCAB"],
+    ["心缩","3387891881\\D0C4CBF5"],
     # ["鸦九","3387891881\\D1BBBEC5"],
     # ["烟雨情相思","3387891881\\D7FAD1CCD3EAC7E9CFE0CBBCD7FA"],
     ["荼茶","3387891881\\DDB1B2E8"],
@@ -35,24 +35,25 @@ target_files_path = [
 
     # ["自然萌ご", "3476670590\\D7FCD7FCD7D4C8BBC3C8A4B4D7FC"],
     ["十八岁青春男高", "3476670590\\CAAEB0CBCBEAC7E0B4BAC4D0B8DF"],
-    # ["雪绒薄荷ご", "3476670590\\D7FCD7FCD1A9C8DEB1A1BAC9A4B4"],
+    ["雪绒薄荷ご", "3476670590\\D7FCD7FCD1A9C8DEB1A1BAC9A4B4"],
     ["傻海我们走~", "3476670590\\C9B5BAA3CED2C3C7D7DF7E"],
     ["BaLl,", "3476670590\\42614C6C2C"],
     ["蓝莓ご","3476670590\\D7FCD7FCC0B6DDAEA4B4"],
     ["boll","3476670590\\626F6C6C"],
-    # ["芝士羊绒ご","3476670590\\D7FCD7FCD6A5CABFD1F2C8DEA4B4"],
-    # ["雪绒蓝莓ご","3476670590\\D7FCD7FCD1A9C8DEC0B6DDAEA4B4"],
-    # ["萌萌仓库-格挡","3476670590\\C3C8C3C8B2D6BFE22DB8F1B5B2"],
-    # ["萌萌仓库-爆率","3476670590\\C3C8C3C8B2D6BFE22DB1ACC2CA"],
+    ["羊绒芝士ご","3476670590\\D7FCD7FCD1F2C8DED6A5CABFA4B4D7FC"],
+    ["芝士羊绒ご","3476670590\\D7FCD7FCD6A5CABFD1F2C8DEA4B4"],
+    ["雪绒蓝莓ご","3476670590\\D7FCD7FCD1A9C8DEC0B6DDAEA4B4"],
+    ["萌萌仓库-格挡","3476670590\\C3C8C3C8B2D6BFE22DB8F1B5B2"],
+    ["萌萌仓库-爆率","3476670590\\C3C8C3C8B2D6BFE22DB1ACC2CA"],
 
     # ["山有木兮卿有意", "1578659491\\C9BDD3D0C4BED9E2D7FCC7E4D3D0D2E2"],
-    # ["糯米Nomi", "1578659491\\D7FCC5B4C3D7D7FC4E6F6D69D7FC"],
+    ["糯米Nomi", "1578659491\\D7FCC5B4C3D7D7FC4E6F6D69D7FC"],
     ["若惊鸿一梦", "1578659491\\C8F4BEAABAE8D2BBC3CE"],
     ["秋意也泛舟", "1578659491\\C7EFD2E2D2B2B7BAD6DB"],
     ["弥猫深巷離人心", "1578659491\\C3D6C3A8C9EECFEFD7FCEB78C8CBD0C4"],
-    # ["玫瑰花的梦", "1578659491\\C3B5B9E5BBA8B5C4C3CE"],
-    # ["诉萌", "1578659491\\CBDFC3C8"],
-    # ["龙卷风摧毁停車场", "1578659491\\C1FABEEDB7E7B4DDBBD9CDA3DC87B3A1"],
+    ["玫瑰花的梦", "1578659491\\C3B5B9E5BBA8B5C4C3CE"],
+    ["诉萌", "1578659491\\CBDFC3C8"],
+    ["龙卷风摧毁停車场", "1578659491\\C1FABEEDB7E7B4DDBBD9CDA3DC87B3A1"],
 ]
 for target_file_path in target_files_path:
     target_file_path = os.path.join(target_path, target_file_path[1])
@@ -60,7 +61,7 @@ for target_file_path in target_files_path:
     target_json_content = read_json_file(target_file_path)
     # 修改 JSON 数据
     key = "guild_tribute_items"
-    new_value = "初级活力水滴;中级活力水滴;大师活力水滴;初级冒险家情报卷轴;中级冒险家情报卷轴;高级冒险家情报卷轴;达人冒险家情报卷轴;大师冒险家情报卷轴;智之石;智之石碎片;闪闪发光的宝箱;外交印章：朱雀;黄金魔方;座之石;炽之石;治愈的碎片结晶;冲突的碎片结晶;美丽的碎片结晶;活跃的碎片结晶;"
+    new_value = "初级活力水滴;中级冒险家情报卷轴;高级冒险家情报卷轴;智之石;智之石碎片;闪闪发光的宝箱;达人冒险家情报卷轴;初级冒险家情报卷轴;外交印章：朱雀;中级活力水滴;黄金魔方;大师冒险家情报卷轴;治愈的碎片结晶;冲突的碎片结晶;美丽的碎片结晶;活跃的碎片结晶;座之石;大师活力水滴;炽之石;"
     modified_json = modify_json_data(target_json_content, key, new_value)
     if modified_json:
         # 保存修改后的 JSON 文件
