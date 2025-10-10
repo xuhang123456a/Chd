@@ -15,6 +15,26 @@
 		"diyproperty":	"",
 		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
+		"tag":	6830,
+		"script":	"被吞噬的魔法办公楼",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	12085,
+		"script":	"残缺边界",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
 		"tag":	13355,
 		"script":	"丽西泰亚之门",
 		"task":	0
@@ -57,6 +77,36 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	4896,
 		"script":	"埃吉尔遗迹",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	18299,
+		"script":	"薇娅斯梦境",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	10689,
+		"script":	"失魂寺",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	3912,
+		"script":	"未知森林",
 		"task":	0
 	}, {
 		"setcount":	0,

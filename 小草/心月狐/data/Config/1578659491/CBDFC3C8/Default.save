@@ -221,7 +221,7 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	10,
+	"auto_load_wait_val":	5,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	5,
 	"auto_set_boss_hp_val":	20,
@@ -4138,7 +4138,7 @@
 							"地图内有首领":	""
 						}]
 				}, {
-					"sw":	true,
+					"sw":	false,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"青苹果味全糖蜜果"
@@ -4158,13 +4158,6 @@
 					"sleep":	"1",
 					"execute":	{
 						"优先技能":	"[奈落]定点打击"
-					},
-					"judges":	[]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"状态物品":	"拉皮德的铁盾药剂"
 					},
 					"judges":	[]
 				}]

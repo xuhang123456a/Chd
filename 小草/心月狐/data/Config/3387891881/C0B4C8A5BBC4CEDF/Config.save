@@ -731,7 +731,7 @@
 		}],
 	"auto_load_team":	true,
 	"auto_load_team_val":	"",
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_load_wait_val":	5,
 	"auto_load_task":	true,
 	"auto_load_change":	false,
@@ -762,7 +762,7 @@
 	"auto_team_room_leader":	false,
 	"auto_team_world_room_leader":	false,
 	"auto_team_dream_room_name":	"﹎秋水伊人ゞ",
-	"auto_team_dream_room_namelist":	"19674164;醉后不知天在水o\r19674698;羊绒芝士ご\r19702101;龙卷风摧毁停車场\r",
+	"auto_team_dream_room_namelist":	"19674164;醉后不知天在水o\r19674698;????羊绒芝士ご??19702101;龙卷风摧毁停車场\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r19674710;思念化清风\r19674708;微风拂青山っ\r",
 	"auto_team_world_room_name":	"",
@@ -2258,7 +2258,7 @@
 					},
 					"judges":	[]
 				}, {
-					"sw":	true,
+					"sw":	false,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"蓝草莓味全糖蜜果"
