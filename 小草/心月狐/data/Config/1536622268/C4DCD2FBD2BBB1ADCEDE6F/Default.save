@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
@@ -197,7 +197,7 @@
 	"auto_end_lua_val":	"",
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
-	"auto_team_dream_room_name":	"逾白⺌",
+	"auto_team_dream_room_name":	"荼茶",
 	"auto_team_dream_room_namelist":	"4775863;呆小ˇ宝\r10367444;剑行天下cuyk\r19206593;于适\r11056762;不要碰我肩膀\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"9939464;洞庭湖2015\r10583706;1打打\r3936125;洞庭湖-蓉\r9220371;变形金刚吕布赤兔\r16017392;在度归来?]\r18982752;__________坏??い\r19233774;云梦泽ヾ\r11056762;不要碰我肩膀\r11080238;还我漂漂拳丶\r",
@@ -857,51 +857,39 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"1124",
-			"y":	"1375",
+			"x":	"3456",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"65",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
+				"彩虹副本传送":	"瀑布丛林"
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3691",
-			"y":	"1375",
+			"x":	"2993",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"彩虹副本传送":	"瀑布丛林"
 			}
 		}, {
-			"type":	"模拟↑键",
-			"x":	"2786",
-			"y":	"1375",
+			"type":	"转身&执行额外",
+			"x":	"3855",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"彩虹副本传送":	"瀑布丛林"
 			}
 		}],
 	"script_trigger_data":	[],
@@ -3588,7 +3576,7 @@
 			"judges":	[{
 					"sw":	true,
 					"judge":	{
-						"在副本":	"珊瑚之歌;魔发城堡;普塞乌达里亚;"
+						"在副本":	"魔发城堡;普塞乌达里亚;"
 					}
 				}],
 			"executes":	[{

@@ -5,7 +5,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	947,
+		"tag":	4650,
 		"script":	"艾乌加蒙剧场",
 		"task":	0
 	}, {
@@ -15,7 +15,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	18653,
+		"tag":	16945,
 		"script":	"深渊之镜",
 		"task":	0
 	}, {

@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
@@ -55,7 +55,7 @@
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
-	"item_pick_filter_5":	true,
+	"item_pick_filter_5":	false,
 	"item_pick_filter_6":	true,
 	"item_pick_filter_7":	true,
 	"item_pick_filter_8":	false,
@@ -198,7 +198,7 @@
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
 	"auto_team_dream_room_name":	"﹎秋水伊人ゞ",
-	"auto_team_dream_room_namelist":	"19674164;醉后不知天在水o\r19674698;????羊绒芝士ご??19702101;龙卷风摧毁停車场\r",
+	"auto_team_dream_room_namelist":	"11107060;诉萌\r19674615;最是人间留不住o\r11114746;boll\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r19674710;思念化清风\r19674708;微风拂青山っ\r",
 	"auto_team_world_room_name":	"",
@@ -3723,7 +3723,7 @@
 			"judges":	[{
 					"sw":	true,
 					"judge":	{
-						"在副本":	"珊瑚之歌;魔发城堡;普塞乌达里亚;"
+						"在副本":	"魔发城堡;普塞乌达里亚;"
 					}
 				}],
 			"executes":	[{

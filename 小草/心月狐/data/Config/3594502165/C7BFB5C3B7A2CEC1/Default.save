@@ -55,11 +55,11 @@
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
-	"item_pick_filter_5":	false,
+	"item_pick_filter_5":	true,
 	"item_pick_filter_6":	true,
 	"item_pick_filter_7":	true,
 	"item_pick_filter_8":	false,
-	"item_pick_filter_9":	false,
+	"item_pick_filter_9":	true,
 	"item_pick_sw":	true,
 	"item_throw_1_sw":	true,
 	"item_throw_2":	true,
@@ -118,7 +118,7 @@
 	"path_hide_effect_sw":	false,
 	"path_line_boss_sw":	false,
 	"path_line_boss_word_sw":	false,
-	"path_line_deliver_sw":	false,
+	"path_line_deliver_sw":	true,
 	"path_line_exchange_back_sw":	false,
 	"path_line_exchange_sw":	false,
 	"path_line_itemtime_sw":	false,
@@ -145,7 +145,7 @@
 	"revive_print":	false,
 	"revive_situ_buff":	false,
 	"revive_sw1":	true,
-	"revive_sw2":	false,
+	"revive_sw2":	true,
 	"run_log_file":	false,
 	"run_log_sw1":	true,
 	"run_log_sw2":	true,
@@ -288,17 +288,17 @@
 	"summon_automatic_zhs_refresh6":	1,
 	"summon_automatic_zhs_refresh7":	0,
 	"team_accept_allot":	2,
-	"btn_color_1":	8388863,
+	"btn_color_1":	255,
 	"btn_color_10":	16711680,
 	"btn_color_12":	1447971,
 	"btn_color_2":	16384000,
 	"btn_color_5":	1447971,
 	"btn_color_7":	11251422,
 	"btn_color_8":	0,
-	"server":	112,
+	"server":	111,
 	"item_filter_1":	[],
-	"item_filter_2":	[300111401, 300111801, 190160101, 190160201, 190160301, 190160401, 190160501, 190190313, 190197501, 430710201, 430710102, 430710121],
-	"item_filter_3":	[300111401, 300111801, 190160501, 190160401, 190160301, 190160201, 190160101, 190190313, 190197501, 430710201, 430710102, 430710121],
+	"item_filter_2":	[300111401, 300111801, 190160101, 190160201, 190160301, 190160401, 190160501, 190190313, 190197501, 430710201, 430710102, 430710121, 430437027],
+	"item_filter_3":	[300111401, 300111801, 190160501, 190160401, 190160301, 190160201, 190160101, 190190313, 190197501, 430710201, 430710102, 430710121, 430437027],
 	"item_filter_4":	[],
 	"item_use_data":	[{
 			"sw":	true,
@@ -705,6 +705,15 @@
 				"[无]":	""
 			},
 			"item":	"自动吃普通红"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"50"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 中型葡萄药丸"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
@@ -884,19 +893,6 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1804050,
-			"name":	"落花斩",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
 			"id":	1804000,
 			"name":	"露水刺击",
 			"dmin":	0,
@@ -994,155 +990,47 @@
 		}],
 	"team_list_data":	[],
 	"script_point_data":	[{
-			"type":	"右二段跳",
-			"x":	"624",
-			"y":	"603",
-			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
 			"type":	"转身&执行额外",
-			"x":	"1410",
-			"y":	"700",
+			"x":	"1124",
+			"y":	"1375",
 			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"使用技能":	"滞空翻滚"
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"1410",
-			"y":	"650",
-			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"使用技能":	"滞空翻滚"
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"1234",
-			"y":	"740",
-			"pos1":	"左&右[无]",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"使用技能":	"滞空翻滚"
-			}
-		}, {
-			"type":	"左跳",
-			"x":	"2154",
-			"y":	"1042",
-			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
+			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
 				"":	""
-			}
-		}, {
-			"type":	"下爬梯子",
-			"x":	"1424",
-			"y":	"751",
-			"pos1":	"右跑",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"左跳",
-			"x":	"2016",
-			"y":	"1823",
-			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"1623",
-			"y":	"1450",
-			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"使用技能":	"滞空翻滚"
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"1623",
-			"y":	"1350",
-			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"使用技能":	"滞空翻滚"
-			}
-		}, {
-			"type":	"上二段跳",
-			"x":	"73",
-			"y":	"1823",
-			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"上二段跳",
-			"x":	"73",
-			"y":	"1167",
-			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"73",
-			"y":	"623",
-			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"使用技能":	"滞空翻滚"
 			}
 		}, {
 			"type":	"模拟↑键",
-			"x":	"3042",
-			"y":	"1039",
+			"x":	"65",
+			"y":	"1375",
 			"pos1":	"左&右[无]",
-			"pos2":	"右跑",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"3691",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"模拟↑键",
+			"x":	"2786",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
@@ -1252,7 +1140,7 @@
 				}]
 		}, {
 			"id":	4,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	16,
 					"sw1":	false,
@@ -2163,7 +2051,7 @@
 				"超越加点2P":	""
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -2172,7 +2060,7 @@
 				"使用物品":	"艾丽娅斯传送石"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -2181,7 +2069,7 @@
 				"挂机控制":	"0"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -2190,7 +2078,7 @@
 				"退出到角色":	""
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:06"
 			},
@@ -2199,7 +2087,7 @@
 				"切换脚本":	"传送瀑布丛林"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},
@@ -2281,7 +2169,7 @@
 		}, {
 			"sw":	true,
 			"tigger":	{
-				"无金钱变化":	"60"
+				"无金钱变化":	"300"
 			},
 			"judge":	[{
 					"在地图":	"艾丽娅斯城市_600;"
@@ -2347,11 +2235,39 @@
 			"sw":	true,
 			"type":	0,
 			"map":	"瀑布丛林5_37106"
+		}, {
+			"sw":	false,
+			"type":	0,
+			"map":	"电梯间-开启_69705"
 		}],
 	"item_filter_disassemble":	[{
 			"sw":	true,
 			"vague":	true,
 			"name":	"索拉",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"空虚耳环",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"空虚戒指",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,

@@ -409,6 +409,15 @@
 				"[无]":	""
 			},
 			"item":	"自动吃普通红"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"50"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 中型葡萄药丸"
 		}],
 	"item_buff_sw":	true,
 	"item_buff_indun":	true,
@@ -576,7 +585,7 @@
 				}]
 		}, {
 			"id":	4,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	16,
 					"sw1":	false,
@@ -964,11 +973,11 @@
 	"item_pick_filter_2":	false,
 	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
-	"item_pick_filter_5":	false,
+	"item_pick_filter_5":	true,
 	"item_pick_filter_6":	true,
 	"item_pick_filter_7":	true,
 	"item_pick_filter_8":	false,
-	"item_pick_filter_9":	false,
+	"item_pick_filter_9":	true,
 	"item_pick_filter_10":	true,
 	"item_pick_filter_12":	true,
 	"item_pick_filter_13":	true,
@@ -987,10 +996,34 @@
 			"filter3":	false,
 			"filter4":	false,
 			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"空虚耳环",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"空虚戒指",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
 		}],
 	"item_filter_1":	[],
-	"item_filter_2":	[300111401, 300111801, 190160101, 190160201, 190160301, 190160401, 190160501, 190190313, 190197501, 430710201, 430710102, 430710121],
-	"item_filter_3":	[300111401, 300111801, 190160501, 190160401, 190160301, 190160201, 190160101, 190190313, 190197501, 430710201, 430710102, 430710121],
+	"item_filter_2":	[300111401, 300111801, 190160101, 190160201, 190160301, 190160401, 190160501, 190190313, 190197501, 430710201, 430710102, 430710121, 430437027],
+	"item_filter_3":	[300111401, 300111801, 190160501, 190160401, 190160301, 190160201, 190160101, 190190313, 190197501, 430710201, 430710102, 430710121, 430437027],
 	"item_filter_4":	[],
 	"diytrigger":	[],
 	"trigger":	[{
@@ -1081,7 +1114,7 @@
 				"超越加点2P":	""
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -1090,7 +1123,7 @@
 				"使用物品":	"艾丽娅斯传送石"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -1099,7 +1132,7 @@
 				"挂机控制":	"0"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:05"
 			},
@@ -1108,7 +1141,7 @@
 				"退出到角色":	""
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:06"
 			},
@@ -1117,7 +1150,7 @@
 				"切换脚本":	"传送瀑布丛林"
 			}
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"tigger":	{
 				"指定时间":	"00:07"
 			},
@@ -1199,7 +1232,7 @@
 		}, {
 			"sw":	true,
 			"tigger":	{
-				"无金钱变化":	"60"
+				"无金钱变化":	"300"
 			},
 			"judge":	[{
 					"在地图":	"艾丽娅斯城市_600;"

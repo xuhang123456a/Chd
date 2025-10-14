@@ -880,9 +880,9 @@
 		}],
 	"auto_load_team":	true,
 	"auto_load_team_val":	"",
-	"auto_load_wait":	true,
-	"auto_load_wait_val":	5,
-	"auto_load_task":	true,
+	"auto_load_wait":	false,
+	"auto_load_wait_val":	10,
+	"auto_load_task":	false,
 	"auto_load_change":	false,
 	"auto_end_item":	false,
 	"auto_end_item_val":	"",
@@ -910,7 +910,7 @@
 	"auto_team_dream_room_leader":	false,
 	"auto_team_room_leader":	false,
 	"auto_team_world_room_leader":	false,
-	"auto_team_dream_room_name":	"逾白⺌",
+	"auto_team_dream_room_name":	"荼茶",
 	"auto_team_dream_room_namelist":	"4309682;baodebaoqi4\r19673002;青春属于表白\r9902523;♀微风\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"9915450;微风♀\r11078750;他不会等你了\r11078294;花市灯如昼っ\r",
@@ -3433,7 +3433,7 @@
 			"judges":	[{
 					"sw":	true,
 					"judge":	{
-						"在副本":	"珊瑚之歌;魔发城堡;普塞乌达里亚;"
+						"在副本":	"魔发城堡;普塞乌达里亚;"
 					}
 				}],
 			"executes":	[{

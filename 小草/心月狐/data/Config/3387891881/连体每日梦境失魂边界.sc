@@ -3,6 +3,26 @@
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	27104,
+		"script":	"残缺边界",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	14405,
+		"script":	"被吞噬的魔法办公楼",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
 		"tag":	15424,
@@ -25,7 +45,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"5爆伤石",
-		"tag":	8890,
+		"tag":	8167,
 		"script":	"未知森林",
 		"task":	0
 	}, {

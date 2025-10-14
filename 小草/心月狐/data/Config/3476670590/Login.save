@@ -71,7 +71,7 @@
 	}, {
 		"index":	160679390,
 		"name":	"羊绒芝士ご",
-		"autoscript":	"连体强力本打庭院",
+		"autoscript":	"连体强力本",
 		"item":	"存仓",
 		"item2":	"",
 		"item_other":	""
@@ -274,6 +274,13 @@
 	}, {
 		"index":	378626093,
 		"name":	"boll",
+		"autoscript":	"连体每日周杂本",
+		"item":	"存仓",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	162998031,
+		"name":	"羊绒芝士ご",
 		"autoscript":	"连体每日周杂本",
 		"item":	"存仓",
 		"item2":	"",

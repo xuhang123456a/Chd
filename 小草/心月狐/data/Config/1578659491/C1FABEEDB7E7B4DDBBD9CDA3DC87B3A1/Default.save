@@ -5,9 +5,9 @@
 	"auto_end_lua":	false,
 	"auto_end_plan":	true,
 	"auto_load_change":	false,
-	"auto_load_task":	true,
+	"auto_load_task":	false,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
@@ -197,7 +197,7 @@
 	"auto_end_lua_val":	"停止挂机操作.lua",
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
-	"auto_team_dream_room_name":	"逾白⺌",
+	"auto_team_dream_room_name":	"荼茶",
 	"auto_team_dream_room_namelist":	"4309682;baodebaoqi4\r19673002;青春属于表白\r9902523;♀微风\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"9915450;微风♀\r11078750;他不会等你了\r11078294;花市灯如昼っ\r",
@@ -221,7 +221,7 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	5,
+	"auto_load_wait_val":	10,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	5,
 	"auto_set_boss_hp_val":	20,
@@ -3720,7 +3720,7 @@
 			"judges":	[{
 					"sw":	true,
 					"judge":	{
-						"在副本":	"珊瑚之歌;魔发城堡;普塞乌达里亚;"
+						"在副本":	"魔发城堡;普塞乌达里亚;"
 					}
 				}],
 			"executes":	[{

@@ -71,7 +71,7 @@
 	}, {
 		"index":	159275062,
 		"name":	"→酷我音乐→",
-		"autoscript":	"连体强力本打庭院",
+		"autoscript":	"连体强力本",
 		"item":	"存仓",
 		"item2":	"",
 		"item_other":	""
@@ -216,9 +216,30 @@
 		"item2":	"",
 		"item_other":	""
 	}, {
-		"index":	184959531,
-		"name":	"→酷我音乐→",
-		"autoscript":	"连体每日周本",
+		"index":	120858531,
+		"name":	"酷狗音乐ā",
+		"autoscript":	"连体每日梦境失魂边界",
+		"item":	"存仓",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	120861093,
+		"name":	"℃ベ裸装",
+		"autoscript":	"连体每日梦境失魂边界",
+		"item":	"存仓",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	120864859,
+		"name":	"终不似o",
+		"autoscript":	"连体每日梦境失魂边界",
+		"item":	"存仓",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	120869171,
+		"name":	"最是人间留不住o",
+		"autoscript":	"连体每日梦境失魂边界",
 		"item":	"存仓",
 		"item2":	"",
 		"item_other":	""
@@ -251,51 +272,16 @@
 		"item2":	"",
 		"item_other":	""
 	}, {
-		"index":	184931765,
-		"name":	"﹎秋水伊人ゞ",
-		"autoscript":	"连体每日周本",
+		"index":	120876187,
+		"name":	"水澹澹兮生烟⺌",
+		"autoscript":	"连体每日梦境失魂边界",
 		"item":	"存仓",
 		"item2":	"",
 		"item_other":	""
 	}, {
-		"index":	184937531,
-		"name":	"晚来天欲雪o",
-		"autoscript":	"连体每日周本",
-		"item":	"存仓",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	184940234,
-		"name":	"小姐姐",
-		"autoscript":	"连体每日周本",
-		"item":	"存仓",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	184942953,
-		"name":	"云青青兮欲雨⺌",
-		"autoscript":	"连体每日周本",
-		"item":	"存仓",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	184948281,
-		"name":	"满船清梦压星河Q",
-		"autoscript":	"连体每日周本",
-		"item":	"存仓",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	184951109,
-		"name":	"能饮一杯无o",
-		"autoscript":	"连体每日周本",
-		"item":	"存仓",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	184955093,
-		"name":	"醉后不知天在水o",
-		"autoscript":	"连体每日周本",
+		"index":	120885734,
+		"name":	"少年游o",
+		"autoscript":	"连体每日梦境失魂边界",
 		"item":	"存仓",
 		"item2":	"",
 		"item_other":	""
