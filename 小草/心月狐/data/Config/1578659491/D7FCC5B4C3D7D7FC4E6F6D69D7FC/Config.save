@@ -880,8 +880,8 @@
 		}],
 	"auto_load_team":	true,
 	"auto_load_team_val":	"",
-	"auto_load_wait":	false,
-	"auto_load_wait_val":	10,
+	"auto_load_wait":	true,
+	"auto_load_wait_val":	5,
 	"auto_load_task":	false,
 	"auto_load_change":	false,
 	"auto_end_item":	false,
@@ -2842,7 +2842,7 @@
 				}, {
 					"sw":	true,
 					"judge":	{
-						"不在副本":	"普累罗麻;残缺边界;魔发城堡;珊瑚之歌;奈落·神树拉菲尔;奈落·蛇龙之巢;奈落·珊瑚之歌;奈落·冰淇淋庭院;奈落·破坏之城;奈落·冰封雪域;奈落·魔法学院主楼;"
+						"不在副本":	"普累罗麻;残缺边界;魔发城堡;珊瑚之歌;奈落·神树拉菲尔;奈落·蛇龙之巢;奈落·珊瑚之歌;奈落·冰淇淋庭院;奈落·破坏之城;奈落·冰封雪域;奈落·魔法学院主楼;普塞乌达里亚;泡泡战舰;"
 					}
 				}],
 			"executes":	[{

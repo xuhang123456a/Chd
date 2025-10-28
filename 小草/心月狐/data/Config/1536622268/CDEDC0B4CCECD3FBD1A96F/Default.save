@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
@@ -497,6 +497,15 @@
 			"Judge2":	{
 				"[无]":	""
 			},
+			"item":	"史诗级探险家经验药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
 			"item":	"高级血脉药水"
 		}, {
 			"sw":	true,
@@ -614,7 +623,16 @@
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"史诗级探险家经验药水"
+			"item":	"特级血脉水晶(绑定)"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"RP值<=":	"20"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级人品能量剂"
 		}, {
 			"sw":	true,
 			"Judge1":	{
@@ -641,16 +659,16 @@
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"特级血脉水晶(绑定)"
+			"item":	"中级HP潜力药水"
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"RP值<=":	"20"
+				"HP<=%":	"111"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"中级人品能量剂"
+			"item":	"初级HP潜力药水"
 		}],
 	"protec_data":	[{
 			"sw":	true,
@@ -666,7 +684,13 @@
 		}],
 	"protec_recover_data":	{
 	},
-	"item_buff_data":	[],
+	"item_buff_data":	[{
+			"sw":	true,
+			"type":	"外交",
+			"name":	"艾利娅斯-小四",
+			"induns":	["魔发城堡", "普塞乌达里亚"],
+			"hard":	false
+		}],
 	"skill_attack_data":	[{
 			"sw":	true,
 			"id":	3820001,
@@ -3910,7 +3934,7 @@
 							"在副本":	"珊瑚之歌;阿特拉斯庭院;埃吉尔遗迹;穿梭之都;时空之泉;无尽繁星大厅;大地的考验;黑月的考验;黄昏教堂;消失的星之歌;泡泡战舰;克洛诺斯的时间;心脏的记忆;龙猫妹妹庭院;魔法学院主楼;精灵树桩;生命之恩泰莱凯;流水回廊;艾乌加蒙剧场;深渊之镜;普洛菲司台;霍普占卜室;未知森林;卡伊洛斯的时间;炼狱阿兹雷尔;巴尼塔斯;哈姆克公爵府;阿科洛之棺;圣字教堂;玫瑰庭院;卡夫卡剧场;水下培养皿·失魂寺;穆斯菲尔斯隧道;尼夫海姆站;群星宫殿;"
 						}]
 				}, {
-					"sw":	true,
+					"sw":	false,
 					"sleep":	"1",
 					"execute":	{
 						"状态物品":	"青苹果味全糖蜜果"

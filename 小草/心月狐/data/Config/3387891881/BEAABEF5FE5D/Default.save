@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
@@ -171,7 +171,7 @@
 	"skill_option_jump_off1":	true,
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	true,
-	"skill_option_lr_boss":	true,
+	"skill_option_lr_boss":	false,
 	"skill_option_mounts":	false,
 	"skill_option_platform_skill":	false,
 	"skill_option_puppet":	false,
@@ -198,7 +198,7 @@
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
 	"auto_team_dream_room_name":	"﹎秋水伊人ゞ",
-	"auto_team_dream_room_namelist":	"11107060;诉萌\r19674615;最是人间留不住o\r11114746;boll\r",
+	"auto_team_dream_room_namelist":	"19674615;最是人间留不住o\r11107060;诉萌\r11114746;boll\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r19674710;思念化清风\r19674708;微风拂青山っ\r",
 	"auto_team_world_room_name":	"",
@@ -651,6 +651,15 @@
 				"[无]":	""
 			},
 			"item":	"中级人品能量剂"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"111"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"中级HP潜力药水"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
@@ -858,87 +867,39 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"6140",
-			"y":	"1495",
+			"x":	"3456",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"彩虹副本传送":	"阿尔福那酒店"
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"5804",
-			"y":	"1495",
+			"x":	"2993",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"右跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"彩虹副本传送":	"阿尔福那酒店"
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"1269",
-			"y":	"1456",
+			"x":	"3855",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"右跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"上跳",
-			"x":	"5980",
-			"y":	"1495",
-			"pos1":	"左&右[无]",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"跳跃控制":	"200"
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"5922",
-			"y":	"1295",
-			"pos1":	"左&右[无]",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"转身&执行额外",
-			"x":	"6031",
-			"y":	"1295",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"5986",
-			"y":	"1295",
-			"pos1":	"左&右[无]",
-			"pos2":	"右跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
+				"彩虹副本传送":	"阿尔福那酒店"
 			}
 		}],
 	"script_trigger_data":	[],

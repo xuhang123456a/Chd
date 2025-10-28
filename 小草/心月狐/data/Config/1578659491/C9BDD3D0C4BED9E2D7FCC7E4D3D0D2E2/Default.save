@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	false,
 	"auto_load_team":	true,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
@@ -18,8 +18,8 @@
 	"auto_set_fly":	false,
 	"auto_set_revive":	true,
 	"auto_set_reviveall":	true,
-	"auto_task_book_refresh":	true,
-	"auto_task_sw1":	true,
+	"auto_task_book_refresh":	false,
+	"auto_task_sw1":	false,
 	"auto_team_dream_room_leader":	false,
 	"auto_team_room_leader":	false,
 	"auto_team_world_room_leader":	false,
@@ -221,7 +221,7 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	10,
+	"auto_load_wait_val":	5,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	5,
 	"auto_set_boss_hp_val":	20,
@@ -1184,22 +1184,34 @@
 		}],
 	"team_list_data":	[],
 	"script_point_data":	[{
-			"type":	"转身&执行额外",
-			"x":	"1124",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
-			}
-		}, {
 			"type":	"模拟↑键",
-			"x":	"65",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
+			"x":	"89",
+			"y":	"1119",
+			"pos1":	"左跑",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"右跳",
+			"x":	"927",
+			"y":	"1119",
+			"pos1":	"右跑",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"2463",
+			"y":	"863",
+			"pos1":	"右跑",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
@@ -1209,9 +1221,9 @@
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3691",
+			"x":	"2591",
 			"y":	"1375",
-			"pos1":	"左&右[无]",
+			"pos1":	"右跑",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
@@ -1220,8 +1232,20 @@
 				"":	""
 			}
 		}, {
-			"type":	"模拟↑键",
-			"x":	"2786",
+			"type":	"转身&执行额外",
+			"x":	"1408",
+			"y":	"1375",
+			"pos1":	"左跑",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"上二段跳",
+			"x":	"1852",
 			"y":	"1375",
 			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
@@ -2743,14 +2767,14 @@
 			"diyawaken":	""
 		}, {
 			"id":	100011,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100012,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
@@ -3488,7 +3512,7 @@
 				}, {
 					"sw":	true,
 					"judge":	{
-						"不在副本":	"普累罗麻;残缺边界;魔发城堡;珊瑚之歌;奈落·神树拉菲尔;奈落·蛇龙之巢;奈落·珊瑚之歌;奈落·冰淇淋庭院;奈落·破坏之城;奈落·冰封雪域;奈落·魔法学院主楼;"
+						"不在副本":	"普累罗麻;残缺边界;魔发城堡;珊瑚之歌;奈落·神树拉菲尔;奈落·蛇龙之巢;奈落·珊瑚之歌;奈落·冰淇淋庭院;奈落·破坏之城;奈落·冰封雪域;奈落·魔法学院主楼;普塞乌达里亚;泡泡战舰;"
 					}
 				}],
 			"executes":	[{
