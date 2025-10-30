@@ -172,7 +172,7 @@
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	true,
 	"skill_option_lr_boss":	true,
-	"skill_option_mounts":	false,
+	"skill_option_mounts":	true,
 	"skill_option_platform_skill":	false,
 	"skill_option_puppet":	false,
 	"skill_option_repeat":	true,

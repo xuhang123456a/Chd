@@ -1,69 +1,14 @@
 [{
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	16368,
-		"script":	"【彩虹向导】每日任务",
-		"task":	0,
-		"scriptend":	27
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24218,
-		"script":	"领取家族工资",
-		"task":	0,
-		"scriptend":	27
-	}, {
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
-		"diyother":	"",
+		"diyother":	"召唤兽",
 		"diyawaken":	"5爆伤石",
-		"tag":	1805,
-		"script":	"探险家神殿(史诗)",
+		"tag":	27104,
+		"script":	"残缺边界",
 		"task":	0,
-		"scriptend":	27
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	2307,
-		"script":	"探险家神殿(英雄)",
-		"task":	0,
-		"scriptend":	27
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	16381,
-		"script":	"探险家神殿(高级)",
-		"task":	0,
-		"scriptend":	27
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	19594,
-		"script":	"探险家神殿(普通)",
-		"task":	0,
-		"scriptend":	27
+		"scriptend":	30
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -71,40 +16,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3615,
-		"script":	"藏宝洞",
+		"tag":	11329,
+		"script":	"退出组队",
 		"task":	0,
-		"scriptend":	27
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	6306,
-		"script":	"自动强化经验值觉醒石+3",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	8298,
-		"script":	"自动强化贯穿力觉醒石+3",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	10134,
-		"script":	"自动强化暴击伤害觉醒石+3",
-		"task":	0
+		"scriptend":	30
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -115,7 +30,7 @@
 		"tag":	22281,
 		"script":	"【存】材料",
 		"task":	0,
-		"scriptend":	27
+		"scriptend":	30
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
