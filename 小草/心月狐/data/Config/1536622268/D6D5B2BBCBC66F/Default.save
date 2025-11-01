@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
@@ -1080,9 +1080,9 @@
 					"item":	""
 				}, {
 					"npc":	3,
-					"sw1":	true,
+					"sw1":	false,
 					"sw2":	false,
-					"num":	2,
+					"num":	1,
 					"item":	""
 				}, {
 					"npc":	4,
@@ -1354,7 +1354,7 @@
 			"sw":	false,
 			"npcdata":	[{
 					"npc":	51,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"num":	0,
 					"item":	""
@@ -1394,9 +1394,9 @@
 					"item":	""
 				}, {
 					"npc":	58,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
-					"num":	0,
+					"num":	2,
 					"item":	""
 				}, {
 					"npc":	59,

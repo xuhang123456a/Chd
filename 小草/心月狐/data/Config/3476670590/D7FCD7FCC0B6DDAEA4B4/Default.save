@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	false,
 	"auto_load_team":	true,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
@@ -121,6 +121,7 @@
 	"path_line_deliver_sw":	true,
 	"path_line_exchange_back_sw":	false,
 	"path_line_exchange_sw":	true,
+	"path_line_indunopen_sw":	false,
 	"path_line_itemtime_sw":	true,
 	"path_line_name_sw":	false,
 	"path_line_settings_sw":	false,
@@ -291,6 +292,7 @@
 	"btn_color_1":	8388863,
 	"btn_color_10":	9673911,
 	"btn_color_12":	1447971,
+	"btn_color_13":	11141120,
 	"btn_color_2":	16384000,
 	"btn_color_5":	1447971,
 	"btn_color_7":	11251422,
@@ -859,39 +861,51 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"3456",
-			"y":	"1391",
+			"x":	"1124",
+			"y":	"1375",
 			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
+			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"彩虹副本传送":	"阿尔福那酒店"
+				"":	""
+			}
+		}, {
+			"type":	"模拟↑键",
+			"x":	"65",
+			"y":	"1375",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"2993",
-			"y":	"1391",
+			"x":	"3691",
+			"y":	"1375",
 			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
+			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"彩虹副本传送":	"阿尔福那酒店"
+				"":	""
 			}
 		}, {
-			"type":	"转身&执行额外",
-			"x":	"3855",
-			"y":	"1391",
+			"type":	"模拟↑键",
+			"x":	"2786",
+			"y":	"1375",
 			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
+			"pos2":	"左跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"彩虹副本传送":	"阿尔福那酒店"
+				"":	""
 			}
 		}],
 	"script_trigger_data":	[],

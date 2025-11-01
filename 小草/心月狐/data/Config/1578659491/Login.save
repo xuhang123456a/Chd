@@ -1,295 +1,57 @@
 [{
-		"index":	730843,
-		"name":	"山有木兮卿有意",
-		"autoscript":	"连体经验普赛打一把",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	733640,
-		"name":	"糯米Nomi",
-		"autoscript":	"连体经验普赛打一把",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	737171,
-		"name":	"若惊鸿一梦",
-		"autoscript":	"连体经验普赛打一把",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	129514437,
-		"name":	"山有木兮卿有意",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	129516375,
-		"name":	"糯米Nomi",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	129518500,
-		"name":	"若惊鸿一梦",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	129525906,
-		"name":	"秋意也泛舟",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	17125531,
-		"name":	"弥猫深巷離人心",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	17127765,
-		"name":	"玫瑰花的梦",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	17130265,
-		"name":	"诉萌",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	160675953,
-		"name":	"龙卷风摧毁停車场",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
 		"index":	1124826453,
 		"name":	"山有木兮卿有意",
-		"autoscript":	"连体跑火山",
+		"autoscript":	"周家族本",
 		"item":	"连体存取",
 		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	706500,
-		"name":	"糯米Nomi",
-		"autoscript":	"连体跑火山",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	709484,
-		"name":	"若惊鸿一梦",
-		"autoscript":	"连体跑火山",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	80179906,
-		"name":	"山有木兮卿有意",
-		"autoscript":	"连体经验魔发打一把",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	663531,
-		"name":	"糯米Nomi",
-		"autoscript":	"连体经验魔发打一把",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	666171,
-		"name":	"若惊鸿一梦",
-		"autoscript":	"连体经验魔发打一把",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	340695109,
-		"name":	"山有木兮卿有意",
-		"autoscript":	"连体每日必打试炼石",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
+		"item_other":	"摩羯座的黄金守护+8;魔·冥界之翼;空灵披风·SPA队长;"
 	}, {
 		"index":	566998203,
 		"name":	"糯米Nomi",
-		"autoscript":	"连体每日必打家族本",
+		"autoscript":	"周家族本",
 		"item":	"连体存取",
 		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
+		"item_other":	""
 	}, {
 		"index":	46779312,
 		"name":	"若惊鸿一梦",
-		"autoscript":	"连体每日必打家族本",
+		"autoscript":	"周家族本",
 		"item":	"连体存取",
 		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
+		"item_other":	""
 	}, {
 		"index":	480632156,
 		"name":	"秋意也泛舟",
-		"autoscript":	"连体每日必打家族本",
+		"autoscript":	"周家族本",
 		"item":	"连体存取",
 		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	38125578,
 		"name":	"弥猫深巷離人心",
-		"autoscript":	"连体每日必打家族本",
+		"autoscript":	"周家族本",
 		"item":	"连体存取",
 		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	40632375,
 		"name":	"玫瑰花的梦",
-		"autoscript":	"连体每日必打家族本",
+		"autoscript":	"周家族本",
 		"item":	"连体存取",
 		"item2":	"",
 		"item_other":	""
 	}, {
 		"index":	24013437,
 		"name":	"诉萌",
-		"autoscript":	"连体每日必打家族本",
+		"autoscript":	"周家族本",
 		"item":	"连体存取",
 		"item2":	"",
 		"item_other":	""
 	}, {
-		"index":	144948453,
+		"index":	466382390,
 		"name":	"龙卷风摧毁停車场",
-		"autoscript":	"连体每日必打升战魂",
+		"autoscript":	"周家族本",
 		"item":	"连体存取",
 		"item2":	"",
 		"item_other":	""
-	}, {
-		"index":	279579000,
-		"name":	"山有木兮卿有意",
-		"autoscript":	"连体普通每日",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	279583687,
-		"name":	"糯米Nomi",
-		"autoscript":	"连体普通每日家族",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	279586484,
-		"name":	"若惊鸿一梦",
-		"autoscript":	"连体普通每日家族",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	279592281,
-		"name":	"秋意也泛舟",
-		"autoscript":	"连体普通每日家族",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	379417406,
-		"name":	"弥猫深巷離人心",
-		"autoscript":	"连体普通每日家族",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	279594515,
-		"name":	"玫瑰花的梦",
-		"autoscript":	"连体普通每日家族",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	279596140,
-		"name":	"诉萌",
-		"autoscript":	"连体普通每日家族",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	144951734,
-		"name":	"龙卷风摧毁停車场",
-		"autoscript":	"连体普通每日家族",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	132537375,
-		"name":	"山有木兮卿有意",
-		"autoscript":	"连体每日周杂本",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	181787312,
-		"name":	"糯米Nomi",
-		"autoscript":	"连体每日周杂本",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	181789921,
-		"name":	"若惊鸿一梦",
-		"autoscript":	"连体每日周杂本",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
-	}, {
-		"index":	181793125,
-		"name":	"秋意也泛舟",
-		"autoscript":	"连体每日周杂本",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	181796890,
-		"name":	"弥猫深巷離人心",
-		"autoscript":	"连体每日周杂本",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	181799640,
-		"name":	"玫瑰花的梦",
-		"autoscript":	"连体每日周杂本",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	181802125,
-		"name":	"诉萌",
-		"autoscript":	"连体每日周杂本",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	144954156,
-		"name":	"龙卷风摧毁停車场",
-		"autoscript":	"连体每日周杂本",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	181845937,
-		"name":	"山有木兮卿有意",
-		"autoscript":	"打黑工挖矿去喽",
-		"item":	"连体存取",
-		"item2":	"",
-		"item_other":	"魔·冥界之翼;法老王的闪耀耳环;愤怒的阿拉斯托 戒指;神·圣灵之拥+1;"
 	}]

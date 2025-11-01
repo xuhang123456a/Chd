@@ -1,5 +1,5 @@
 [{
-		"setcount":	1,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"攻击套装",
 		"diyproperty":	"",
@@ -7,8 +7,47 @@
 		"diyawaken":	"5爆伤石",
 		"tag":	27104,
 		"script":	"残缺边界",
-		"task":	0,
-		"scriptend":	30
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"召唤兽",
+		"diyawaken":	"5爆伤石",
+		"tag":	14405,
+		"script":	"被吞噬的魔法办公楼",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	15424,
+		"script":	"薇娅斯梦境",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	10383,
+		"script":	"失魂寺",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"攻击套装",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"5爆伤石",
+		"tag":	8167,
+		"script":	"未知森林",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -19,7 +58,7 @@
 		"tag":	11329,
 		"script":	"退出组队",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	31
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -30,7 +69,7 @@
 		"tag":	22281,
 		"script":	"【存】材料",
 		"task":	0,
-		"scriptend":	30
+		"scriptend":	31
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

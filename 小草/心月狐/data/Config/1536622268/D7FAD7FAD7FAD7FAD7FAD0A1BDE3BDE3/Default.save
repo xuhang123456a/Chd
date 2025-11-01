@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	false,
 	"auto_reward_pay_sw":	false,
@@ -121,6 +121,7 @@
 	"path_line_deliver_sw":	true,
 	"path_line_exchange_back_sw":	false,
 	"path_line_exchange_sw":	true,
+	"path_line_indunopen_sw":	false,
 	"path_line_itemtime_sw":	true,
 	"path_line_name_sw":	false,
 	"path_line_settings_sw":	false,
@@ -291,6 +292,7 @@
 	"btn_color_1":	255,
 	"btn_color_10":	16384000,
 	"btn_color_12":	16711680,
+	"btn_color_13":	11141120,
 	"btn_color_2":	16384000,
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
@@ -1246,9 +1248,9 @@
 					"item":	""
 				}, {
 					"npc":	3,
-					"sw1":	true,
+					"sw1":	false,
 					"sw2":	false,
-					"num":	2,
+					"num":	1,
 					"item":	""
 				}, {
 					"npc":	4,
@@ -1520,7 +1522,7 @@
 			"sw":	false,
 			"npcdata":	[{
 					"npc":	51,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"num":	0,
 					"item":	""
@@ -1560,9 +1562,9 @@
 					"item":	""
 				}, {
 					"npc":	58,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
-					"num":	0,
+					"num":	2,
 					"item":	""
 				}, {
 					"npc":	59,

@@ -1,122 +1,34 @@
 [{
-		"setcount":	1,
+		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	9285,
-		"script":	"诺尼尔之泪",
-		"task":	0,
-		"scriptend":	30
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	6830,
-		"script":	"被吞噬的魔法办公楼",
-		"task":	0,
-		"scriptend":	30
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	12085,
-		"script":	"残缺边界",
-		"task":	0,
-		"scriptend":	30
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	13355,
-		"script":	"丽西泰亚之门",
-		"task":	0,
-		"scriptend":	30
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	30652,
-		"script":	"蘑菇树沼泽",
-		"task":	0,
-		"scriptend":	30
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	12682,
-		"script":	"摩克沙",
-		"task":	0,
-		"scriptend":	30
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	31193,
-		"script":	"阿特拉斯庭院",
-		"task":	0,
-		"scriptend":	30
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"召唤兽",
-		"diyawaken":	"5爆伤石",
-		"tag":	4896,
-		"script":	"埃吉尔遗迹",
-		"task":	0,
-		"scriptend":	30
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	18299,
-		"script":	"薇娅斯梦境",
+		"diyawaken":	"",
+		"tag":	7298,
+		"script":	"进队长组",
 		"task":	0,
-		"scriptend":	30
-	}, {
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"攻击套装",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	10689,
-		"script":	"失魂寺",
-		"task":	0,
-		"scriptend":	30
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
-		"diyitem":	"攻击套装",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"5爆伤石",
-		"tag":	3912,
-		"script":	"未知森林",
+		"diyawaken":	"",
+		"tag":	7199,
+		"script":	"自动转换星座点数",
+		"task":	0,
+		"scriptend":	1
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	7712,
+		"script":	"星能之战（家族本）",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -125,21 +37,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16437,
+		"tag":	6182,
 		"script":	"退出组队",
-		"task":	0,
-		"scriptend":	30
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	19534,
-		"script":	"【存】材料",
-		"task":	0,
-		"scriptend":	30
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -147,7 +47,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9162,
+		"tag":	21492,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]
