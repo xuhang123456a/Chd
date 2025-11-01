@@ -57,8 +57,7 @@
 		"diyawaken":	"",
 		"tag":	11329,
 		"script":	"退出组队",
-		"task":	0,
-		"scriptend":	31
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -69,7 +68,7 @@
 		"tag":	22281,
 		"script":	"【存】材料",
 		"task":	0,
-		"scriptend":	31
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
