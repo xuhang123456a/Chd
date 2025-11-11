@@ -15,26 +15,6 @@
 		"diyproperty":	"",
 		"diyother":	"ÕÙ»½ÊŞ",
 		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	32092,
-		"script":	"ÀöÎ÷Ì©ÑÇÖ®ÃÅ",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"5±¬ÉËÊ¯",
-		"tag":	31011,
-		"script":	"Ä¢¹½Ê÷ÕÓÔó",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"¹¥»÷Ì××°",
-		"diyproperty":	"",
-		"diyother":	"ÕÙ»½ÊŞ",
-		"diyawaken":	"5±¬ÉËÊ¯",
 		"tag":	14612,
 		"script":	"Ä¦¿ËÉ³",
 		"task":	0

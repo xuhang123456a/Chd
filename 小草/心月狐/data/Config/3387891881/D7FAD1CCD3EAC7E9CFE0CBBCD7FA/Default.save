@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	true,
 	"auto_load_team":	true,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
@@ -121,6 +121,7 @@
 	"path_line_deliver_sw":	true,
 	"path_line_exchange_back_sw":	false,
 	"path_line_exchange_sw":	true,
+	"path_line_indunopen_sw":	false,
 	"path_line_itemtime_sw":	true,
 	"path_line_name_sw":	false,
 	"path_line_settings_sw":	false,
@@ -171,7 +172,7 @@
 	"skill_option_jump_off1":	true,
 	"skill_option_jump_off2":	false,
 	"skill_option_lr":	true,
-	"skill_option_lr_boss":	true,
+	"skill_option_lr_boss":	false,
 	"skill_option_mounts":	true,
 	"skill_option_platform_skill":	true,
 	"skill_option_puppet":	false,
@@ -198,7 +199,7 @@
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
 	"auto_team_dream_room_name":	"﹎秋水伊人ゞ",
-	"auto_team_dream_room_namelist":	"19674615;最是人间留不住o\r11107060;诉萌\r11114746;boll\r",
+	"auto_team_dream_room_namelist":	"9061602;℃ベ裸装\r11089873;弥猫深巷離人心\r10311181;BaLl,\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r19674710;思念化清风\r19674708;微风拂青山っ\r",
 	"auto_team_world_room_name":	"",
@@ -291,6 +292,7 @@
 	"btn_color_1":	16384000,
 	"btn_color_10":	16384000,
 	"btn_color_12":	16711680,
+	"btn_color_13":	11141120,
 	"btn_color_2":	16384000,
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
@@ -1022,7 +1024,7 @@
 					"item":	""
 				}, {
 					"npc":	19,
-					"sw1":	true,
+					"sw1":	false,
 					"sw2":	false,
 					"num":	0,
 					"item":	""
@@ -4893,6 +4895,40 @@
 					},
 					"judges":	[]
 				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"周挑战技能",
+			"judges":	[],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用技能":	"皮皮打气"
+					},
+					"judges":	[{
+							"HP<=%":	"60"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用技能":	"自动恢复"
+					},
+					"judges":	[{
+							"HP<=%":	"20"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用技能":	"朝气蓬勃"
+					},
+					"judges":	[{
+							"HP<=%":	"50"
+						}]
+				}]
 		}],
 	"pet_build":	[{
 			"sw":	true,
@@ -5128,12 +5164,12 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"魔射手·超越符文",
 			"type1":	true,
-			"type2":	false,
-			"type3":	false,
+			"type2":	true,
+			"type3":	true,
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
@@ -5176,12 +5212,12 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"武道宗师·超越符文",
 			"type1":	true,
-			"type2":	false,
-			"type3":	false,
+			"type2":	true,
+			"type3":	true,
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
@@ -5224,12 +5260,12 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"逐暗者·超越符文",
 			"type1":	true,
-			"type2":	false,
-			"type3":	false,
+			"type2":	true,
+			"type3":	true,
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
@@ -5284,7 +5320,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"星芒骑士·超越符文",
 			"type1":	true,
@@ -5296,12 +5332,12 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"远古机甲师·超越符文",
 			"type1":	true,
-			"type2":	false,
-			"type3":	false,
+			"type2":	true,
+			"type3":	true,
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
@@ -5332,12 +5368,12 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"风行刺客·超越符文",
 			"type1":	true,
-			"type2":	false,
-			"type3":	false,
+			"type2":	true,
+			"type3":	true,
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,

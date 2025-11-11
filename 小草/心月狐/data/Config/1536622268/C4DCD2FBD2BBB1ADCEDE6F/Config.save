@@ -916,7 +916,7 @@
 	"auto_team_dream_room_leader":	false,
 	"auto_team_room_leader":	false,
 	"auto_team_world_room_leader":	false,
-	"auto_team_dream_room_name":	"荼茶",
+	"auto_team_dream_room_name":	"鸦九",
 	"auto_team_dream_room_namelist":	"4775863;呆小ˇ宝\r10367444;剑行天下cuyk\r19206593;于适\r11056762;不要碰我肩膀\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"9939464;洞庭湖2015\r10583706;1打打\r3936125;洞庭湖-蓉\r9220371;变形金刚吕布赤兔\r16017392;在度归来?]\r18982752;__________坏??い\r19233774;云梦泽ヾ\r11056762;不要碰我肩膀\r11080238;还我漂漂拳丶\r",
@@ -4762,6 +4762,63 @@
 						"使用物品":	"努特的招魂盒"
 					},
 					"judges":	[]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"周挑战技能",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"在地图":	"飞跃万圣夜1_99000;飞跃万圣夜2_99001;"
+					}
+				}],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"皮皮打气"
+					},
+					"judges":	[{
+							"HP<=%":	"60"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"自动恢复"
+					},
+					"judges":	[{
+							"HP<=%":	"20"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"朝气蓬勃"
+					},
+					"judges":	[{
+							"HP<=%":	"50"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"稳固"
+					},
+					"judges":	[{
+							"HP<=%":	"30"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"佛"
+					},
+					"judges":	[{
+							"HP<=%":	"60"
+						}]
 				}]
 		}],
 	"dress_text":	[],

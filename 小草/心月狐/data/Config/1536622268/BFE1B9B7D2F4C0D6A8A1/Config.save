@@ -919,7 +919,7 @@
 	"auto_team_dream_room_leader":	false,
 	"auto_team_room_leader":	false,
 	"auto_team_world_room_leader":	false,
-	"auto_team_dream_room_name":	"荼茶",
+	"auto_team_dream_room_name":	"鸦九",
 	"auto_team_dream_room_namelist":	"4775863;呆小ˇ宝\r10367444;剑行天下cuyk\r19206593;于适\r11056762;不要碰我肩膀\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"9939464;洞庭湖2015\r10583706;1打打\r3936125;洞庭湖-蓉\r9220371;变形金刚吕布赤兔\r16017392;在度归来?]\r18982752;__________坏??い\r19233774;云梦泽ヾ\r11056762;不要碰我肩膀\r11080238;还我漂漂拳丶\r",
@@ -4766,352 +4766,63 @@
 					},
 					"judges":	[]
 				}]
-		}],
-	"dress_text":	[],
-	"guild_tribute_sw":	true,
-	"guild_diplomacy_min":	300,
-	"guild_diplomacy_only":	true,
-	"guild_diplomacy":	[{
-			"id":	1,
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
 			"sw":	true,
-			"npcdata":	[{
-					"npc":	1,
-					"sw1":	true,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
+			"name":	"周挑战技能",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"在地图":	"飞跃万圣夜1_99000;飞跃万圣夜2_99001;"
+					}
+				}],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"皮皮打气"
+					},
+					"judges":	[{
+							"HP<=%":	"60"
+						}]
 				}, {
-					"npc":	2,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"自动恢复"
+					},
+					"judges":	[{
+							"HP<=%":	"20"
+						}]
 				}, {
-					"npc":	3,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	1,
-					"item":	""
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"朝气蓬勃"
+					},
+					"judges":	[{
+							"HP<=%":	"50"
+						}]
 				}, {
-					"npc":	4,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"稳固"
+					},
+					"judges":	[{
+							"HP<=%":	"30"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"佛"
+					},
+					"judges":	[{
+							"HP<=%":	"60"
+						}]
 				}]
-		}, {
-			"id":	2,
-			"sw":	false,
-			"npcdata":	[{
-					"npc":	6,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	7,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	8,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	9,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}]
-		}, {
-			"id":	3,
-			"sw":	false,
-			"npcdata":	[{
-					"npc":	11,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	12,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	13,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	14,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	40,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}]
-		}, {
-			"id":	4,
-			"sw":	false,
-			"npcdata":	[{
-					"npc":	16,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	17,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	18,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	19,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}]
-		}, {
-			"id":	5,
-			"sw":	false,
-			"npcdata":	[{
-					"npc":	21,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	22,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	23,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	24,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}]
-		}, {
-			"id":	6,
-			"sw":	false,
-			"npcdata":	[{
-					"npc":	26,
-					"sw1":	true,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	27,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	28,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	29,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}]
-		}, {
-			"id":	7,
-			"sw":	false,
-			"npcdata":	[{
-					"npc":	31,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	32,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	33,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	34,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}]
-		}, {
-			"id":	8,
-			"sw":	false,
-			"npcdata":	[{
-					"npc":	36,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	37,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	38,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	39,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}]
-		}, {
-			"id":	9,
-			"sw":	false,
-			"npcdata":	[{
-					"npc":	41,
-					"sw1":	true,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	42,
-					"sw1":	true,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	43,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	44,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}]
-		}, {
-			"id":	10,
-			"sw":	false,
-			"npcdata":	[{
-					"npc":	46,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	47,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	48,
-					"sw1":	true,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	49,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}]
-		}, {
-			"id":	11,
-			"sw":	false,
-			"npcdata":	[{
-					"npc":	51,
-					"sw1":	true,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	52,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	53,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	54,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}]
-		}, {
-			"id":	12,
-			"sw":	false,
-			"npcdata":	[{
-					"npc":	56,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	57,
-					"sw1":	true,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}, {
-					"npc":	58,
-					"sw1":	true,
-					"sw2":	false,
-					"num":	2,
-					"item":	""
-				}, {
-					"npc":	59,
-					"sw1":	false,
-					"sw2":	false,
-					"num":	0,
-					"item":	""
-				}]
-		}]
+		}],
+	"dress_text":	[]
 }

@@ -910,7 +910,7 @@
 	"auto_team_dream_room_leader":	false,
 	"auto_team_room_leader":	false,
 	"auto_team_world_room_leader":	false,
-	"auto_team_dream_room_name":	"荼茶",
+	"auto_team_dream_room_name":	"鸦九",
 	"auto_team_dream_room_namelist":	"4309682;baodebaoqi4\r19673002;青春属于表白\r9902523;♀微风\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"9915450;微风♀\r11078750;他不会等你了\r11078294;花市灯如昼っ\r",
@@ -1062,9 +1062,6 @@
 			"type":	"其他",
 			"name":	"灼烧皮肤"
 		}, {
-			"type":	"任务",
-			"name":	"第二军团长"
-		}, {
 			"type":	"全部",
 			"name":	"布拉斯的"
 		}, {
@@ -1103,9 +1100,6 @@
 		}, {
 			"type":	"任务",
 			"name":	"斗士徽章"
-		}, {
-			"type":	"其他",
-			"name":	"军团纹章"
 		}, {
 			"type":	"其他",
 			"name":	"通天塔魔王"
@@ -1660,12 +1654,12 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"唤雨之灵·超越符文",
 			"type1":	true,
-			"type2":	false,
-			"type3":	false,
+			"type2":	true,
+			"type3":	true,
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
@@ -1732,12 +1726,12 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"演奏大师·超越符文",
 			"type1":	true,
-			"type2":	false,
-			"type3":	false,
+			"type2":	true,
+			"type3":	true,
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
@@ -5155,6 +5149,63 @@
 					},
 					"judges":	[{
 							"在副本":	""
+						}]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"周挑战技能",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"在地图":	"飞跃万圣夜1_99000;飞跃万圣夜2_99001;"
+					}
+				}],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"皮皮打气"
+					},
+					"judges":	[{
+							"HP<=%":	"60"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"自动恢复"
+					},
+					"judges":	[{
+							"HP<=%":	"20"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"朝气蓬勃"
+					},
+					"judges":	[{
+							"HP<=%":	"50"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"稳固"
+					},
+					"judges":	[{
+							"HP<=%":	"30"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"佛"
+					},
+					"judges":	[{
+							"HP<=%":	"60"
 						}]
 				}]
 		}],

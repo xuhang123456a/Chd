@@ -665,7 +665,7 @@
 				}]
 		}, {
 			"id":	6,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	26,
 					"sw1":	false,

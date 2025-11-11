@@ -67,8 +67,7 @@
 		"diyawaken":	"",
 		"tag":	22281,
 		"script":	"¡¾´æ¡¿²ÄÁÏ",
-		"task":	0,
-		"scriptend":	1
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

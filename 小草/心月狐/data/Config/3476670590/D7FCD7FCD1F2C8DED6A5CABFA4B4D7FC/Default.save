@@ -83,11 +83,11 @@
 	"main_mob_distance_change":	true,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	false,
+	"main_mob_herbs":	true,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	false,
+	"main_mob_mineral":	true,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
@@ -115,7 +115,7 @@
 	"path_auto_script_showval_sw":	true,
 	"path_down_hotkey_sw":	true,
 	"path_hide_background_sw":	false,
-	"path_hide_effect_sw":	false,
+	"path_hide_effect_sw":	true,
 	"path_line_boss_sw":	false,
 	"path_line_boss_word_sw":	false,
 	"path_line_deliver_sw":	false,
@@ -166,7 +166,7 @@
 	"skill_buff_pet_monster_sw":	true,
 	"skill_buff_pet_sw":	true,
 	"skill_buff_server":	true,
-	"skill_option_boss_judge":	true,
+	"skill_option_boss_judge":	false,
 	"skill_option_boss_number":	true,
 	"skill_option_combo_off":	false,
 	"skill_option_jump_off1":	true,
@@ -198,7 +198,7 @@
 	"auto_end_lua_val":	"停止挂机操作.lua",
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
-	"auto_team_dream_room_name":	"荼茶",
+	"auto_team_dream_room_name":	"鸦九",
 	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"1477",
 	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r19206593;于适\r6367215;苍★龙\r9857891;致今生\r9915450;微风♀\r4775863;呆小ˇ宝\r11108979;晚来天欲雪o\r10237665;??????????小姐姐\r11109355;能饮一杯无o\r19674171;云青青兮欲雨?]\r10335259;猫又*\r10070705;年轮说\r11080851;AntiMagic\r11083254;你到底吻不吻我o\r9927906;GD欢\r19206593;狂暴小怪兽?]\r10304843;酷狗音乐ā\r11078750;他不会等你了\r9892783;????自然萌ご??9915450;微风♀\r11078294;花市灯如昼っ\r10021786;?鸗heShy??19173099;????星光漫漫????10773699;温茶清风丶\r19687266;晓芳\r11079108;航·次元守望者\r19681648;小野夕子\r10595177;栀子生椰\r10029863;??????白开水??11087458;_____满满\r11089496;山有木兮??卿有意\r9704292;草木皆兵\r10098693;ｖ天上白玉京＂\r19697254;什方",
@@ -660,6 +660,21 @@
 	"item_buff_data":	[],
 	"skill_attack_data":	[{
 			"sw":	true,
+			"id":	1,
+			"name":	"弱攻击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"在地图":	"挑战！保护天使(HARD)_88100;"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
 			"id":	2402803,
 			"name":	"恶魔镰刀[三连]",
 			"dmin":	0,
@@ -859,9 +874,6 @@
 			"type":	"任务",
 			"name":	"混沌羽翼"
 		}, {
-			"type":	"其他",
-			"name":	"军团纹章"
-		}, {
 			"type":	"任务",
 			"name":	"影子残页"
 		}, {
@@ -882,9 +894,6 @@
 		}, {
 			"type":	"装备",
 			"name":	"暗黑灵魂 "
-		}, {
-			"type":	"装备",
-			"name":	"艾里安之"
 		}, {
 			"type":	"装备",
 			"name":	"暗黑灵魂拳套"
@@ -5132,6 +5141,72 @@
 							"在副本":	""
 						}]
 				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"周挑战技能",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"在地图":	"飞跃万圣夜1_99000;飞跃万圣夜2_99001;"
+					}
+				}],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"皮皮打气"
+					},
+					"judges":	[{
+							"HP<=%":	"60"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"自动恢复"
+					},
+					"judges":	[{
+							"HP<=%":	"20"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"朝气蓬勃"
+					},
+					"judges":	[{
+							"HP<=%":	"50"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"稳固"
+					},
+					"judges":	[{
+							"HP<=%":	"30"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"佛"
+					},
+					"judges":	[{
+							"HP<=%":	"60"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用技能":	"健康顾问"
+					},
+					"judges":	[{
+							"HP<=%":	"50"
+						}]
+				}]
 		}],
 	"pet_build":	[{
 			"sw":	true,
@@ -5291,7 +5366,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"天穹卡牌师·超越符文",
 			"type1":	true,
@@ -5435,7 +5510,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"唤雨之灵·超越符文",
 			"type1":	true,
@@ -5495,12 +5570,12 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"元素之灵·超越符文",
 			"type1":	true,
-			"type2":	false,
-			"type3":	false,
+			"type2":	true,
+			"type3":	true,
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
@@ -5579,7 +5654,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"幻灵师·超越符文",
 			"type1":	true,

@@ -87,7 +87,7 @@
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	false,
+	"main_mob_mineral":	true,
 	"main_mob_move":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
@@ -121,6 +121,7 @@
 	"path_line_deliver_sw":	false,
 	"path_line_exchange_back_sw":	false,
 	"path_line_exchange_sw":	false,
+	"path_line_indunopen_sw":	false,
 	"path_line_itemtime_sw":	true,
 	"path_line_name_sw":	false,
 	"path_line_settings_sw":	false,
@@ -165,7 +166,7 @@
 	"skill_buff_pet_monster_sw":	true,
 	"skill_buff_pet_sw":	true,
 	"skill_buff_server":	true,
-	"skill_option_boss_judge":	true,
+	"skill_option_boss_judge":	false,
 	"skill_option_boss_number":	true,
 	"skill_option_combo_off":	false,
 	"skill_option_jump_off1":	true,
@@ -197,7 +198,7 @@
 	"auto_end_lua_val":	"停止挂机操作.lua",
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
-	"auto_team_dream_room_name":	"荼茶",
+	"auto_team_dream_room_name":	"鸦九",
 	"auto_team_dream_room_namelist":	"4309682;baodebaoqi4\r19673002;青春属于表白\r9902523;♀微风\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"9915450;微风♀\r11078750;他不会等你了\r11078294;花市灯如昼っ\r",
@@ -291,6 +292,7 @@
 	"btn_color_1":	16384000,
 	"btn_color_10":	16384000,
 	"btn_color_12":	0,
+	"btn_color_13":	11141120,
 	"btn_color_2":	16384000,
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
@@ -667,6 +669,21 @@
 	"item_buff_data":	[],
 	"skill_attack_data":	[{
 			"sw":	true,
+			"id":	1,
+			"name":	"弱攻击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"judge":	[{
+					"在地图":	"挑战！保护天使(HARD)_88100;"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
 			"id":	1005028,
 			"name":	"三重奏",
 			"dmin":	0,
@@ -809,51 +826,39 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"1124",
-			"y":	"1375",
+			"x":	"3456",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"65",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
+				"彩虹副本传送":	"阿尔福那酒店"
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3691",
-			"y":	"1375",
+			"x":	"2993",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"彩虹副本传送":	"阿尔福那酒店"
 			}
 		}, {
-			"type":	"模拟↑键",
-			"x":	"2786",
-			"y":	"1375",
+			"type":	"转身&执行额外",
+			"x":	"3855",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"彩虹副本传送":	"阿尔福那酒店"
 			}
 		}],
 	"script_trigger_data":	[],
@@ -1222,9 +1227,6 @@
 			"type":	"其他",
 			"name":	"灼烧皮肤"
 		}, {
-			"type":	"任务",
-			"name":	"第二军团长"
-		}, {
 			"type":	"全部",
 			"name":	"布拉斯的"
 		}, {
@@ -1263,9 +1265,6 @@
 		}, {
 			"type":	"任务",
 			"name":	"斗士徽章"
-		}, {
-			"type":	"其他",
-			"name":	"军团纹章"
 		}, {
 			"type":	"其他",
 			"name":	"通天塔魔王"
@@ -5445,6 +5444,63 @@
 							"在副本":	""
 						}]
 				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"周挑战技能",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"在地图":	"飞跃万圣夜1_99000;飞跃万圣夜2_99001;"
+					}
+				}],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"皮皮打气"
+					},
+					"judges":	[{
+							"HP<=%":	"60"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"自动恢复"
+					},
+					"judges":	[{
+							"HP<=%":	"20"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"朝气蓬勃"
+					},
+					"judges":	[{
+							"HP<=%":	"50"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"稳固"
+					},
+					"judges":	[{
+							"HP<=%":	"30"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"佛"
+					},
+					"judges":	[{
+							"HP<=%":	"60"
+						}]
+				}]
 		}],
 	"pet_build":	[{
 			"sw":	true,
@@ -5752,12 +5808,12 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"唤雨之灵·超越符文",
 			"type1":	true,
-			"type2":	false,
-			"type3":	false,
+			"type2":	true,
+			"type3":	true,
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
@@ -5824,12 +5880,12 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"演奏大师·超越符文",
 			"type1":	true,
-			"type2":	false,
-			"type3":	false,
+			"type2":	true,
+			"type3":	true,
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
