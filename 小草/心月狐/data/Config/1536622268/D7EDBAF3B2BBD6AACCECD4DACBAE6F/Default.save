@@ -490,15 +490,6 @@
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"联盟家族经验点支援包"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
 			"item":	"史诗级探险家经验药水"
 		}, {
 			"sw":	true,
@@ -889,58 +880,130 @@
 	"speak_data":	[],
 	"skill_hotkey_data":	[{
 			"sw":	true,
-			"id":	3001019,
-			"name":	"恶魔之音",
+			"id":	1176031,
+			"name":	"圣光封印",
+			"judge":	[{
+					"搜索内无怪":	""
+				}, {
+					"拥有BUFF":	"结界减伤_11760615"
+				}],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1176032,
+			"name":	"[召唤]天使军团",
+			"judge":	[{
+					"技能冷却中":	"圣光气盾"
+				}],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	3820001,
+			"name":	"魔法球板",
+			"judge":	[{
+					"技能冷却中":	"圣光气盾"
+				}],
+			"hotkey":	"",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1176101,
+			"name":	"强效净化",
+			"judge":	[{
+					"技能冷却中":	"[无限]审判炽刃"
+				}],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1802176,
+			"name":	"[无限]审判炽刃",
+			"judge":	[{
+					"技能冷却中":	"圣光结界"
+				}, {
+					"技能非冷却":	"强效净化"
+				}],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1176061,
+			"name":	"圣光结界",
+			"judge":	[{
+					"技能非冷却":	"圣光气盾"
+				}],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1176021,
+			"name":	"圣光气盾",
 			"judge":	[],
 			"hotkey":	"A",
 			"fast":	false,
 			"complete":	false
 		}, {
 			"sw":	true,
-			"id":	1108001,
-			"name":	"音符地狱",
-			"judge":	[],
+			"id":	1176051,
+			"name":	"天雷爆轰",
+			"judge":	[{
+					"技能冷却中":	"圣光气盾"
+				}],
 			"hotkey":	"A",
 			"fast":	false,
 			"complete":	false
 		}, {
 			"sw":	true,
-			"id":	3201023,
-			"name":	"怪声演奏[战斗]",
-			"judge":	[],
+			"id":	1176011,
+			"name":	"螺旋圣光弹",
+			"judge":	[{
+					"技能冷却中":	"圣光气盾"
+				}],
 			"hotkey":	"A",
 			"fast":	false,
 			"complete":	false
 		}, {
 			"sw":	true,
-			"id":	3201025,
-			"name":	"电鸣屠杀[战斗]",
-			"judge":	[],
-			"hotkey":	"A",
+			"id":	3807607,
+			"name":	"【传奇】",
+			"judge":	[{
+					"技能冷却中":	"圣光结界"
+				}],
+			"hotkey":	"",
 			"fast":	false,
 			"complete":	false
 		}, {
 			"sw":	true,
-			"id":	1008023,
-			"name":	"七音封印",
-			"judge":	[],
-			"hotkey":	"A",
+			"id":	3817604,
+			"name":	"【觉醒II】",
+			"judge":	[{
+					"技能冷却中":	"圣光结界"
+				}],
+			"hotkey":	"",
 			"fast":	false,
 			"complete":	false
 		}, {
 			"sw":	true,
-			"id":	3101013,
-			"name":	"恶魔之歌",
+			"id":	3817607,
+			"name":	"【传奇II】",
 			"judge":	[],
-			"hotkey":	"A",
+			"hotkey":	"",
 			"fast":	false,
 			"complete":	false
 		}, {
 			"sw":	true,
-			"id":	3001014,
-			"name":	"动作停止！",
+			"id":	3807604,
+			"name":	"【觉醒】",
 			"judge":	[],
-			"hotkey":	"A",
+			"hotkey":	"",
 			"fast":	false,
 			"complete":	false
 		}],
@@ -1071,7 +1134,7 @@
 					"npc":	3,
 					"sw1":	true,
 					"sw2":	false,
-					"num":	1,
+					"num":	2,
 					"item":	""
 				}, {
 					"npc":	4,

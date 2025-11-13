@@ -865,55 +865,163 @@
 		}],
 	"skill_buff_data":	[],
 	"speak_data":	[],
-	"skill_hotkey_data":	[],
+	"skill_hotkey_data":	[{
+			"sw":	true,
+			"id":	1104001,
+			"name":	"ºÀÁÒ½Å",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1100111,
+			"name":	"»ÃÓ°½Å",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	3813904,
+			"name":	"¡¾¾õĞÑII¡¿",
+			"judge":	[],
+			"hotkey":	"",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1109201,
+			"name":	"Õæ¿ÕÈ­",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1107012,
+			"name":	"³å»÷²¨",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1802408,
+			"name":	"[ÎŞÏŞ]Ä§¹âÆÆÏ®È­",
+			"judge":	[],
+			"hotkey":	"",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1106001,
+			"name":	"°ëÔÂ½Å",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	3803904,
+			"name":	"¡¾¾õĞÑ¡¿",
+			"judge":	[],
+			"hotkey":	"",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1210002,
+			"name":	"³µÂÖÌß",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1106002,
+			"name":	"ÄÜÁ¿²¨",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	3803907,
+			"name":	"¡¾´«Ææ¡¿",
+			"judge":	[],
+			"hotkey":	"",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1106012,
+			"name":	"ÌúÖâ»÷",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1101101,
+			"name":	"ÉıÁúÈ­",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1212002,
+			"name":	"Ğı·ç½Å",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}, {
+			"sw":	true,
+			"id":	1107001,
+			"name":	"ÌìÁú½Å",
+			"judge":	[],
+			"hotkey":	"A",
+			"fast":	false,
+			"complete":	false
+		}],
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"×ªÉí&Ö´ĞĞ¶îÍâ",
-			"x":	"1124",
-			"y":	"1375",
+			"x":	"3456",
+			"y":	"1391",
 			"pos1":	"×ó&ÓÒ[ÎŞ]",
-			"pos2":	"×óÅÜ",
+			"pos2":	"×ó&ÓÒ[ÎŞ]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"Ä£Äâ¡ü¼ü",
-			"x":	"65",
-			"y":	"1375",
-			"pos1":	"×ó&ÓÒ[ÎŞ]",
-			"pos2":	"×óÅÜ",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
+				"²Êºç¸±±¾´«ËÍ":	"°¢¶û¸£ÄÇ¾Æµê"
 			}
 		}, {
 			"type":	"×ªÉí&Ö´ĞĞ¶îÍâ",
-			"x":	"3691",
-			"y":	"1375",
+			"x":	"2993",
+			"y":	"1391",
 			"pos1":	"×ó&ÓÒ[ÎŞ]",
-			"pos2":	"×óÅÜ",
+			"pos2":	"×ó&ÓÒ[ÎŞ]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"²Êºç¸±±¾´«ËÍ":	"°¢¶û¸£ÄÇ¾Æµê"
 			}
 		}, {
-			"type":	"Ä£Äâ¡ü¼ü",
-			"x":	"2786",
-			"y":	"1375",
+			"type":	"×ªÉí&Ö´ĞĞ¶îÍâ",
+			"x":	"3855",
+			"y":	"1391",
 			"pos1":	"×ó&ÓÒ[ÎŞ]",
-			"pos2":	"×óÅÜ",
+			"pos2":	"×ó&ÓÒ[ÎŞ]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"²Êºç¸±±¾´«ËÍ":	"°¢¶û¸£ÄÇ¾Æµê"
 			}
 		}],
 	"script_trigger_data":	[],
@@ -1155,7 +1263,7 @@
 			"sw":	false,
 			"npcdata":	[{
 					"npc":	26,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"num":	0,
 					"item":	""

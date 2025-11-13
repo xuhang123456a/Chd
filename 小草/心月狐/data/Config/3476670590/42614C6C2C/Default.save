@@ -1324,7 +1324,7 @@
 			"sw":	false,
 			"npcdata":	[{
 					"npc":	26,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"num":	0,
 					"item":	""

@@ -121,6 +121,7 @@
 	"path_line_deliver_sw":	true,
 	"path_line_exchange_back_sw":	false,
 	"path_line_exchange_sw":	true,
+	"path_line_indunopen_sw":	false,
 	"path_line_itemtime_sw":	true,
 	"path_line_name_sw":	false,
 	"path_line_settings_sw":	false,
@@ -291,6 +292,7 @@
 	"btn_color_1":	16384000,
 	"btn_color_10":	16384000,
 	"btn_color_12":	16711680,
+	"btn_color_13":	11141120,
 	"btn_color_2":	16384000,
 	"btn_color_5":	16384000,
 	"btn_color_7":	16384000,
@@ -1092,7 +1094,7 @@
 			"sw":	false,
 			"npcdata":	[{
 					"npc":	26,
-					"sw1":	false,
+					"sw1":	true,
 					"sw2":	false,
 					"num":	0,
 					"item":	""
