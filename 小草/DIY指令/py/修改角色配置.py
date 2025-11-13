@@ -60,8 +60,8 @@ for target_file_path in target_files_path:
     target_file_path = os.path.join(target_file_path, 'Default.save')
     target_json_content = read_json_file(target_file_path)
     # 修改 JSON 数据
-    key = "skill_option_mounts"
-    new_value = True
+    key = "autosystemscript"
+    new_value = [1, 2, 5, 6, 7, 8, 10, 13, 16, 18, 19]
     modified_json = modify_json_data(target_json_content, key, new_value)
     if modified_json:
         # 保存修改后的 JSON 文件
