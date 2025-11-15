@@ -1,4 +1,11 @@
 [{
+		"index":	259368968,
+		"name":	"酷狗音乐ā",
+		"autoscript":	"周梦境",
+		"item":	"存仓",
+		"item2":	"",
+		"item_other":	""
+	}, {
 		"index":	380823515,
 		"name":	"﹎秋水伊人ゞ",
 		"autoscript":	"连体经验普赛打一把",
@@ -43,34 +50,6 @@
 	}, {
 		"index":	872146578,
 		"name":	"云青青兮欲雨⺌",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"存仓",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	872157484,
-		"name":	"满船清梦压星河Q",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"存仓",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	872160109,
-		"name":	"能饮一杯无o",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"存仓",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	872168046,
-		"name":	"醉后不知天在水o",
-		"autoscript":	"连体强力本打庭院",
-		"item":	"存仓",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	159275062,
-		"name":	"→酷我音乐→",
 		"autoscript":	"连体强力本打庭院",
 		"item":	"存仓",
 		"item2":	"",

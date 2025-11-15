@@ -5,20 +5,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11329,
-		"script":	"退出组队",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22281,
-		"script":	"【存】材料",
+		"tag":	11117,
+		"script":	"[梦境]梦二（1法3战）",
 		"task":	0,
-		"scriptend":	13
+		"scriptend":	15
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -26,7 +16,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	21361,
+		"tag":	291,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]

@@ -434,15 +434,6 @@
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"联盟家族经验点支援包"
-		}, {
-			"sw":	true,
-			"Judge1":	{
-				"HP<=%":	"111"
-			},
-			"Judge2":	{
-				"[无]":	""
-			},
 			"item":	"高级血脉药水"
 		}, {
 			"sw":	true,
@@ -740,7 +731,7 @@
 		}],
 	"auto_load_team":	true,
 	"auto_load_team_val":	"",
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_load_wait_val":	5,
 	"auto_load_task":	true,
 	"auto_load_change":	false,
@@ -771,7 +762,7 @@
 	"auto_team_room_leader":	false,
 	"auto_team_world_room_leader":	false,
 	"auto_team_dream_room_name":	"﹎秋水伊人ゞ",
-	"auto_team_dream_room_namelist":	"9061602;℃ベ裸装\r11089873;弥猫深巷離人心\r10311181;BaLl,\r",
+	"auto_team_dream_room_namelist":	"11094487;秋意也泛舟\r9975957;傻海我们走~\r10304843;酷狗音乐ā\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r19674710;思念化清风\r19674708;微风拂青山っ\r",
 	"auto_team_world_room_name":	"",
@@ -3535,40 +3526,6 @@
 			"only_run":	false,
 			"run_sleep":	1,
 			"sw":	true,
-			"name":	"周挑战技能",
-			"judges":	[],
-			"executes":	[{
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用技能":	"皮皮打气"
-					},
-					"judges":	[{
-							"HP<=%":	"60"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用技能":	"自动恢复"
-					},
-					"judges":	[{
-							"HP<=%":	"20"
-						}]
-				}, {
-					"sw":	true,
-					"sleep":	"1",
-					"execute":	{
-						"使用技能":	"朝气蓬勃"
-					},
-					"judges":	[{
-							"HP<=%":	"50"
-						}]
-				}]
-		}, {
-			"only_run":	false,
-			"run_sleep":	1,
-			"sw":	true,
 			"name":	"自动使用杂物",
 			"judges":	[{
 					"sw":	true,
@@ -4550,6 +4507,72 @@
 					},
 					"judges":	[{
 							"在地图":	"藏宝洞1_36100;藏宝洞2_36101;藏宝洞3_36102;藏宝洞4_36103;藏宝洞5_36104;藏宝洞6_36105;藏宝洞7_36106;藏宝洞8_36107;"
+						}]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"周挑战技能",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"在地图":	"飞跃万圣夜1_99000;飞跃万圣夜2_99001;"
+					}
+				}],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"皮皮打气"
+					},
+					"judges":	[{
+							"HP<=%":	"60"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"自动恢复"
+					},
+					"judges":	[{
+							"HP<=%":	"20"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"朝气蓬勃"
+					},
+					"judges":	[{
+							"HP<=%":	"50"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"稳固"
+					},
+					"judges":	[{
+							"HP<=%":	"30"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"0",
+					"execute":	{
+						"使用技能":	"佛"
+					},
+					"judges":	[{
+							"HP<=%":	"60"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用技能":	"健康顾问"
+					},
+					"judges":	[{
+							"HP<=%":	"50"
 						}]
 				}]
 		}],
