@@ -910,7 +910,7 @@
 	"auto_team_dream_room_leader":	false,
 	"auto_team_room_leader":	false,
 	"auto_team_world_room_leader":	false,
-	"auto_team_dream_room_name":	"心缩",
+	"auto_team_dream_room_name":	"惊觉⺌",
 	"auto_team_dream_room_namelist":	"4775863;呆小ˇ宝\r10367444;剑行天下cuyk\r19206593;于适\r11056762;不要碰我肩膀\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"9939464;洞庭湖2015\r10583706;1打打\r3936125;洞庭湖-蓉\r9220371;变形金刚吕布赤兔\r16017392;在度归来?]\r18982752;__________坏??い\r19233774;云梦泽ヾ\r11056762;不要碰我肩膀\r11080238;还我漂漂拳丶\r",
@@ -1144,7 +1144,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"史诗卡牌师·超越符文",
 			"type1":	true,
@@ -1192,7 +1192,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"幻灵师·超越符文",
 			"type1":	true,
@@ -1228,7 +1228,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"英雄·超越符文",
 			"type1":	true,
@@ -1252,7 +1252,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"次元守望者·超越符文",
 			"type1":	true,
@@ -1336,12 +1336,12 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"vague":	false,
 			"name":	"风行刺客·超越符文",
 			"type1":	true,
-			"type2":	false,
-			"type3":	false,
+			"type2":	true,
+			"type3":	true,
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,

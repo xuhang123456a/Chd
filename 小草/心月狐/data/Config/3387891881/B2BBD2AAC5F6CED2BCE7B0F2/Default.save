@@ -199,7 +199,7 @@
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
 	"auto_team_dream_room_name":	"﹎秋水伊人ゞ",
-	"auto_team_dream_room_namelist":	"11094487;秋意也泛舟\r9975957;傻海我们走~\r10304843;酷狗音乐ā\r",
+	"auto_team_dream_room_namelist":	"11107060;诉萌\r11114746;boll\r19674164;醉后不知天在水o\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r19674710;思念化清风\r19674708;微风拂青山っ\r",
 	"auto_team_world_room_name":	"",
@@ -5281,7 +5281,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"圣十字军·超越符文",
 			"type1":	true,
@@ -5329,7 +5329,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"剑刃舞者·超越符文",
 			"type1":	true,
@@ -5341,7 +5341,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"恐怖骑士·超越符文",
 			"type1":	true,
@@ -5353,7 +5353,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"审判官·超越符文",
 			"type1":	true,
@@ -5449,7 +5449,7 @@
 			"filter4":	false,
 			"filter5":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"vague":	false,
 			"name":	"疾风舞者·超越符文",
 			"type1":	true,
