@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	false,
 	"auto_load_team":	true,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	true,
 	"auto_reward_pay_sw":	false,
@@ -198,9 +198,9 @@
 	"auto_end_lua_val":	"停止挂机操作.lua",
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
-	"auto_team_dream_room_name":	"惊觉⺌",
+	"auto_team_dream_room_name":	"我有药",
 	"auto_team_dream_room_namelist":	"",
-	"auto_team_room_name":	"1477",
+	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"10181788;﹎秋水伊人ゞ\r19206593;于适\r6367215;苍★龙\r9857891;致今生\r9915450;微风♀\r4775863;呆小ˇ宝\r11108979;晚来天欲雪o\r10237665;??????????小姐姐\r11109355;能饮一杯无o\r19674171;云青青兮欲雨?]\r10335259;猫又*\r10070705;年轮说\r11080851;AntiMagic\r11083254;你到底吻不吻我o\r9927906;GD欢\r19206593;狂暴小怪兽?]\r10304843;酷狗音乐ā\r11078750;他不会等你了\r9892783;????自然萌ご??9915450;微风♀\r11078294;花市灯如昼っ\r10021786;?鸗heShy??19173099;????星光漫漫????10773699;温茶清风丶\r19687266;晓芳\r11079108;航·次元守望者\r19681648;小野夕子\r10595177;栀子生椰\r10029863;??????白开水??11087458;_____满满\r11089496;山有木兮??卿有意\r9704292;草木皆兵\r10098693;ｖ天上白玉京＂\r19697254;什方",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
@@ -222,7 +222,7 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"航·次元守望者;",
-	"auto_load_wait_val":	10,
+	"auto_load_wait_val":	5,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	5,
 	"auto_set_boss_hp_val":	33,
@@ -908,51 +908,39 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"1124",
-			"y":	"1375",
+			"x":	"3456",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
-			}
-		}, {
-			"type":	"模拟↑键",
-			"x":	"65",
-			"y":	"1375",
-			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
-			"judge":	{
-				"":	""
-			},
-			"execute":	{
-				"":	""
+				"彩虹副本传送":	"扭曲的世界树"
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"3691",
-			"y":	"1375",
+			"x":	"2993",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"彩虹副本传送":	"扭曲的世界树"
 			}
 		}, {
-			"type":	"模拟↑键",
-			"x":	"2786",
-			"y":	"1375",
+			"type":	"转身&执行额外",
+			"x":	"3855",
+			"y":	"1391",
 			"pos1":	"左&右[无]",
-			"pos2":	"左跑",
+			"pos2":	"左&右[无]",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"":	""
+				"彩虹副本传送":	"扭曲的世界树"
 			}
 		}],
 	"script_trigger_data":	[],
@@ -1095,7 +1083,7 @@
 			"sw":	false,
 			"npcdata":	[{
 					"npc":	11,
-					"sw1":	true,
+					"sw1":	false,
 					"sw2":	false,
 					"num":	0,
 					"item":	""

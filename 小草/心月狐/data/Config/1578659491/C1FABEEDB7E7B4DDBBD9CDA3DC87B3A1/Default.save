@@ -198,7 +198,7 @@
 	"auto_end_lua_val":	"停止挂机操作.lua",
 	"auto_load_team_val":	"",
 	"auto_set_diyitem":	"[无]",
-	"auto_team_dream_room_name":	"惊觉⺌",
+	"auto_team_dream_room_name":	"我有药",
 	"auto_team_dream_room_namelist":	"4309682;baodebaoqi4\r19673002;青春属于表白\r9902523;♀微风\r",
 	"auto_team_room_name":	"7751",
 	"auto_team_room_namelist":	"9915450;微风♀\r11078750;他不会等你了\r11078294;花市灯如昼っ\r",
@@ -222,7 +222,7 @@
 	"team_accept_cmd":	"123",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	10,
+	"auto_load_wait_val":	5,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	5,
 	"auto_set_boss_hp_val":	20,
@@ -828,9 +828,9 @@
 	"team_list_data":	[],
 	"script_point_data":	[{
 			"type":	"转身&执行额外",
-			"x":	"1183",
-			"y":	"2928",
-			"pos1":	"右跑",
+			"x":	"6140",
+			"y":	"1495",
+			"pos1":	"左&右[无]",
 			"pos2":	"左跑",
 			"judge":	{
 				"":	""
@@ -840,9 +840,9 @@
 			}
 		}, {
 			"type":	"转身&执行额外",
-			"x":	"352",
-			"y":	"2895",
-			"pos1":	"左跑",
+			"x":	"5804",
+			"y":	"1495",
+			"pos1":	"左&右[无]",
 			"pos2":	"右跑",
 			"judge":	{
 				"":	""
@@ -851,16 +851,64 @@
 				"":	""
 			}
 		}, {
-			"type":	"停止移动",
-			"x":	"527",
-			"y":	"2887",
+			"type":	"转身&执行额外",
+			"x":	"1269",
+			"y":	"1456",
 			"pos1":	"左&右[无]",
-			"pos2":	"左&右[无]",
+			"pos2":	"右跑",
 			"judge":	{
 				"":	""
 			},
 			"execute":	{
-				"彩虹副本传送":	"普累罗麻"
+				"":	""
+			}
+		}, {
+			"type":	"上跳",
+			"x":	"5980",
+			"y":	"1495",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"跳跃控制":	"200"
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"5922",
+			"y":	"1295",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"转身&执行额外",
+			"x":	"6031",
+			"y":	"1295",
+			"pos1":	"左&右[无]",
+			"pos2":	"左跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
+			}
+		}, {
+			"type":	"模拟↑键",
+			"x":	"5986",
+			"y":	"1295",
+			"pos1":	"左&右[无]",
+			"pos2":	"右跑",
+			"judge":	{
+				"":	""
+			},
+			"execute":	{
+				"":	""
 			}
 		}],
 	"script_trigger_data":	[],
